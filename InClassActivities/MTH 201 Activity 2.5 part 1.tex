@@ -1,0 +1,128 @@
+\documentclass[11pt]{article}
+
+% \pagestyle{empty}                       %no page numbers
+% \thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+\newcommand{\cuthere}{%
+\noindent
+\raisebox{-2.8pt}[0pt][0.75\baselineskip]{\small\ding{34}}
+\unskip{\tiny\dotfill}
+}
+
+\def\ra{\rightarrow}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{October 2/3, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+		\begin{center}
+			\begin{large}
+			\textbf{Class Activities: The Chain Rule, Part 1} \\
+			\end{large}
+		\end{center}
+	
+Get into groups of 2--4 and work through all of the following activities. These are not to be turned in, and they will not be graded. Instead, record your group's work on your copy and keep it for notes. I will be coming to each group one by one as you work to observe what you're doing, answer questions, and catch any misconceptions that are happening. We will stop with about 10 minutes remaining to debrief the main ideas. \\
+
+\section{Focus question}
+
+If $g$ is differentiable at $x$ and $f$ is differentiable at $g(x)$, then the composite function $C$ defined by $C(x) = f(g(x))$ is differentiable at $x$ and 
+\[ C'(x) = \hspace{3in} \]
+
+
+\section{Identifying composite functions and their parts}
+Here are several functions. First, circle the functions whose \emph{fundamental structure} is composite -- that is, the entire function is a composite. (Some functions may \emph{contain} composites but are not \emph{fundamentally} composite.) Then, of the functions that are composite, identify the inner and outer functions. 
+
+\begin{equation*}
+	y = (x^2 + 1)^5 \qquad y = x \cos x \qquad y = e^{11-3x} \qquad y = \cos(x^2) \qquad y = \cos^2 x \qquad y = \frac{e^{3x}}{x^2 + 1}
+\end{equation*}
+	
+	
+\section{Basic Chain Rule practice}
+
+Here are some composite functions. For each, identify the inner and outer functions. Then differentiate using the Chain Rule. Do not perform any algebraic simplification for now. Work on these in groups for 6 minutes, and then four students will be called on randomly to put work on the board for 4 minutes. 
+
+\begin{enumerate}
+	\item $y = \cos(x^4)$
+	\item $y = \sqrt{\tan x}$
+	\item $y = 2^{\sin x}$
+	\item $y = (\sec x + e^x)^9$
+\end{enumerate}	
+
+\pageturn
+
+\section{The Chain Rule using tables}
+	
+Suppose that $f$ and $g$ are differentiable functions and that the following data about them is known: 
+\begin{center}
+	\begin{tabular}{c||c|c|c|c}
+	$x$ & $f(x)$ & $f'(x)$ & $g(x)$ & $g'(x)$ \\ \hline
+	$-1$ & $2$ & $-5$ & $-3$ & $4$ \\ \hline
+	$2$ & $-3$ & $4$ & $-1$ & $2$ 
+	\end{tabular}
+\end{center}
+
+\begin{enumerate}
+	\item Define the function $C$ by $C(x) = f(g(x))$. Determine $C'(2)$. 
+	
+	\vspace{1in}
+	
+	\item Define the function $D$ by $D(x) = f(f(x))$. Determine $D'(-1)$. 
+	
+	\vspace{1in}
+	
+\end{enumerate}
+
+\section{Additional practice}
+On separate paper, go back to Section 2 and differentiate all the functions you circled as being composites. 	
+	
+\vfill
+	
+\begin{small}
+	Answers to Section 4: $5$, $-20$. \\
+	Answers to Section 5: $y' = 5(x^2 + 1) \cdot (2x)$; $y' = e^{11-3x} \cdot (-3)$; $y' = 2x \cos(x^2)$; $y' = 2 \cos x \cdot (- \sin x)$. 
+\end{small}
+
+
+\cuthere
+
+\noindent
+\textbf{A question I have after today's class work is:}
+
+\vspace{1in}
+
+\end{document}

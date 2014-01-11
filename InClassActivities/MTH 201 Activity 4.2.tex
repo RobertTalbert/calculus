@@ -1,0 +1,132 @@
+\documentclass[11pt]{article}
+
+% \pagestyle{empty}                       %no page numbers
+% \thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+\newcommand{\cuthere}{%
+\noindent
+\raisebox{-2.8pt}[0pt][0.75\baselineskip]{\small\ding{34}}
+\unskip{\tiny\dotfill}
+}
+
+\def\ra{\rightarrow}
+\def\blank{\underline{\hspace{1in}}}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{November 13/14, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+		\begin{center}
+			\begin{large}
+			\textbf{Class Activities: Riemann Sums} \\
+			\end{large}
+		\end{center}
+	
+Get into groups of 2--4 and work through all of the following activity. These are not to be turned in, and they will not be graded. Instead, record your group's work on your copy and keep it for notes. I will be coming to each group one by one as you work to observe what you're doing, answer questions, and catch any misconceptions that are happening. We will stop with about 10 minutes remaining to debrief the main ideas.\\
+
+\bigskip
+
+Suppose that an object moving along a straight-line path has its velocity in feet per second at time $t$ (in seconds) given by $v(t) = \frac{2}{9}(t-3)^2 + 2$. Here is a sketch of the graph of $v(t)$;  the area under the curve, above the $t$-axis, and between $t=2$ and $t=5$ shaded in. 
+
+\begin{center}
+	\includegraphics[width=4in]{activity42-plot}
+\end{center}
+
+\begin{enumerate}
+	\item What quantity does the shaded area represent? (What would the value of that area tell you in terms of the object?) 
+	
+	\vspace{0.7in}
+	
+	\item Let's estimate the distance traveled on the interval $[2,5]$ using four subdivisions. If we were to use four rectangles, what would be the value of $\Delta t$ in a Riemann sum? 
+	
+	\vspace{0.7in}
+	
+	
+	\item Suppose we wanted to estimate the distance using $L_4$. What are the four left-hand endpoints you would use? 
+	
+\pageturn	
+	
+	\item Now suppose you wanted to estimate the distance using $R_4$. What are the four endpoints you would use this	 time? 
+	
+	\vspace{0.7in}
+	\item Finally suppose you wanted to estimate the distance using $M_4$. What are the four endpoints you would use this time?
+	
+	
+	\vspace{0.7in}
+		
+	\item List all twelve of the points you wrote down above along with the values we get when applying the function $v$ at those points. Give your answers correct to four decimal places (which means, you shouldn't use the graph to estimate these $v$-values). 
+	\begin{center}
+		\begin{tabular}{c|c||c|c||c|c}
+		Left endpoints & $v(t)$ & Right endpoints & $v(t)$ & Midpoints & $v(t)$ \\ \hline \hline
+		\hspace{0.3in} & \hspace{1in} &  \hspace{0.3in} &  \hspace{1in} &  \hspace{0.3in} &  \hspace{1in}  \\ \hline
+			\hspace{0.3in} & \hspace{0.3in} &  \hspace{0.3in} &  \hspace{0.3in} &  \hspace{0.3in} &  \hspace{0.3in}   \\ \hline
+				\hspace{0.3in} & \hspace{0.3in} &  \hspace{0.3in} &  \hspace{0.3in} &  \hspace{0.3in} &  \hspace{0.3in}   \\ \hline
+					\hspace{0.3in} & \hspace{0.3in} &  \hspace{0.3in} &  \hspace{0.3in} &  \hspace{0.3in} &  \hspace{0.3in} 
+		\end{tabular}
+	\end{center}
+	
+	
+	\item Using the information above, compute $L_4$, $R_4$, and $M_4$. 
+	
+	\vspace{2in}
+	
+	
+	\item Find the average of $L_4$ and $R_4$. Does it equal $M_4$? 
+	
+	\vspace{0.5in}
+	
+	\item Look back at the graph and reality-check your answers for $L_4$, $R_4$, and $M_4$ by answering the following questions: 
+	\begin{itemize}
+		\item The area that is shaded in MUST be larger than \blank. 
+		\item The area that is shaded in MUST be smaller than \blank. 
+	\end{itemize}
+Do your estimates fall within these absolute boundaries? If not, go back and debug your work. 
+	
+\end{enumerate}
+
+
+% \vfill 
+% 
+% \cuthere
+% 
+% \noindent
+% \textbf{A question I have after today's class work is:}
+% 
+% \vspace{1in}
+
+\end{document}

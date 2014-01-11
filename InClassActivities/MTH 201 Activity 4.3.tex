@@ -1,0 +1,136 @@
+\documentclass[11pt]{article}
+
+% \pagestyle{empty}                       %no page numbers
+% \thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+\newcommand{\cuthere}{%
+\noindent
+\raisebox{-2.8pt}[0pt][0.75\baselineskip]{\small\ding{34}}
+\unskip{\tiny\dotfill}
+}
+
+\def\ra{\rightarrow}
+\def\blank{\underline{\hspace{1in}}}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{November 18/19, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+		\begin{center}
+			\begin{large}
+			\textbf{Class Activities: The Definite Integral} \\
+			\end{large}
+		\end{center}
+	
+Get into groups of 2--4 and work through all of the following activity. These are not to be turned in, and they will not be graded. Instead, record your group's work on your copy and keep it for notes. I will be coming to each group one by one as you work to observe what you're doing, answer questions, and catch any misconceptions that are happening. We will stop with about 10 minutes remaining to debrief the main ideas.\\
+
+\section{Warm-up}
+
+\begin{itemize}
+	\item What does the value of the definite integral $\int_a^b f(x) \, dx$ tells you from a graphical standpoint?
+	\vspace{0.75in}
+	
+	\item How do you find the average value of a function $f$ over an interval $[a,b]$? 
+	\vspace{0.75in}
+	
+\end{itemize}
+
+\section{Evaluating definite integrals with geometry}
+
+Use geometry formulas and the ``net signed area'' interpretation of the definite integral to evaluate each of the definite integrals below. Do not approximate these values but rather give exact values of the integrals. These can all be done visually, so if you need to graph one of the integrands, please do so. 
+
+\begin{enumerate}
+	\item $\displaystyle{\int_0^1 3x \, dx}$ 
+	\vspace{1in} 
+	
+	\item $\displaystyle{\int_{-1}^4 (2-2x) \, dx}$
+	\pageturn
+	
+	\item $\displaystyle{\int_{-1}^1 \sqrt{1-x^2} \, dx}$ ($\leftarrow$ If you graph this, make sure the scaling on the $x$-axis is the same as the scaling on the $y$-axis so that there is no distortion of scale. Also, as a reminder: $\sqrt{1-x^2}$ is not equal to $1-x$. ) 
+	\vspace{1in}
+
+	\item $\displaystyle{\int_{-3}^4 g(x) \, dx}$ where $g$ is the function pictured below. Assume that each portion of $g$ is either part of a line or part of a circle. 
+	\begin{center}
+		\includegraphics[width=3in]{sc431-5}
+	\end{center}
+	
+	\vspace{1in}
+	
+\end{enumerate}
+
+
+
+
+\section{Integrals and velocity} % (fold)
+\label{sec:integrals_and_velocity}
+
+Suppose that a moving object has velocity $v(t) = \sqrt{4 - (t-2)^2}$ on the interval $0 \leq t \leq 4$. Here, $t$ is measured in minutes and $v$ is measured in meters per minute. Here is a graph of $v$ on this interval: 
+\begin{center}
+	\includegraphics[width=3in]{act43-plot}
+\end{center}
+
+\pageturn
+
+\begin{enumerate}
+	\item Evaluate $\int_0^4 v(t) \, dt$ exactly. 
+	\vspace{1in}
+	
+	\item In terms of the physical problem of the moving object with velocity $v(t)$, what is the meaning of $\int_0^4 v(t) \, dt$? Include units on your answer. 
+	\vspace{1in}
+
+	\item Determine the exact average value of $v(t)$ on $[0,4]$ and include units on your answer. 
+	\vspace{1in}
+	
+	
+	
+\end{enumerate}
+
+
+% section integrals_and_velocity (end)
+
+
+ \vfill 
+ 
+ \cuthere
+ 
+ \noindent
+ \textbf{A question I have after today's class work is:}
+ 
+ \vspace{1in}
+
+\end{document}

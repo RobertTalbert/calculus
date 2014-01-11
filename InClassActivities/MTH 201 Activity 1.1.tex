@@ -1,0 +1,121 @@
+\documentclass[11pt]{article}
+
+\pagestyle{empty}                       %no page numbers
+\thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{palatino}
+\usepackage{hyperref}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+\newcommand{\cuthere}{%
+\noindent
+\raisebox{-2.8pt}[0pt][0.75\baselineskip]{\small\ding{34}}
+\unskip{\tiny\dotfill}
+}
+
+\def\ra{\rightarrow}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{August 29/30, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+		\begin{center}
+			\begin{large}
+			\textbf{Class Activities: Velocity} \\
+			\end{large}
+		\end{center}
+	
+	
+
+Today we'll start by working through parts of Activity 1.1 in Section 1.1, followed by a quick debrief. Then we'll do the following, which is a remixed version of Activity 1.3. 
+
+\bigskip
+
+Consider the function $s(t) = 64 - 16(t-1)^2$, which gives the position of an object at time $t$. 
+
+
+\begin{enumerate}
+			\item Calculate the value of $s(2)$. 
+			
+			\vspace{0.5in}
+			
+			\item Calculate the expression $s(2+h)$ and simplify completely. 
+			
+			\vspace{1.3in}
+			
+			
+			\item Calculate the value of $s(2+h) - s(2)$ and simplify completely, including factoring out any common factors. 
+			
+			\vspace{1.3in}
+			
+			\item Set up and simplify the expression for the average velocity of an object with position $s(t)$ on the interval $[2, 2+h]$. The result should be an expression whose only variable is $h$, and there should be no fractions in the result. 
+			
+\vfill 
+\cuthere
+\vspace*{1in}
+			
+\newpage
+			
+			\item Use the result of (d) to find the average velocity of an object with position $s(t)$ on the interval $[2, 2.5]$ and then on the interval $[1.9, 2]$. (Hint: What is the value of $h$ each time?)
+			
+			\vspace{1.5in}
+			
+			\item In your own words, what is happening as $h$ approaches $0$? 
+			 
+			
+			\vspace{1in}
+			
+			\item Use the result of (4) to find the \emph{instantaneous} velocity of an object with position $s(t)$ at $t = 2$. What does the sign (positive/negative) of the answer indicate? And what are the units of the answer? 
+	
+	
+		\vspace{1.5in}
+		
+		\item How would you adjust the above processes if you were using the same position function for $s$ but wanted to find the instantaneous velocity at $t = 1$? And by just looking at the graph, what do you think is the value of the instantaneous velocity at $t=1$? 
+	
+	
+	
+\end{enumerate}
+
+\vfill
+
+\cuthere
+
+\noindent
+\textbf{What was the muddiest point from today's class?}
+
+\vspace{1in}
+
+\end{document}

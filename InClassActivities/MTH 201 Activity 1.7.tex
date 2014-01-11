@@ -1,0 +1,97 @@
+\documentclass[11pt]{article}
+
+% \pagestyle{empty}                       %no page numbers
+% \thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+\newcommand{\cuthere}{%
+\noindent
+\raisebox{-2.8pt}[0pt][0.75\baselineskip]{\small\ding{34}}
+\unskip{\tiny\dotfill}
+}
+
+\def\ra{\rightarrow}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{September 16/17, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+		\begin{center}
+			\begin{large}
+			\textbf{Class Activities: Limits, continuity, and differentiability} \\
+			\end{large}
+		\end{center}
+	
+Get into groups of 2--4 and work through all of the following activities. These are not to be turned in, and they will not be graded. Instead, record your group's work on your copy and keep it for notes. I will be coming to each group one by one as you work to observe what you're doing, answer questions, and catch any misconceptions that are happening. We will stop with about 10 minutes remaining to debrief the main ideas. \\
+
+
+Below you are asked to sketch examples of functions that satisfy the properties given. Do so on the blank grids provided. 
+
+\begin{enumerate}
+	\item A function $y= A(x)$ such that: 
+	\[ \lim_{x \to 2^-} A(x) = 1 \qquad \lim_{x \to 2^+} A(x) = 4 \qquad A(2) = 3 \]
+	
+	\begin{center}
+		\includegraphics[width=2in]{grid7by7}
+	\end{center}
+	
+	\item A function $B$ such that $\lim_{x \to 2} B(x) = 4$ but $B$ is not continuous at $x=4$ 
+	
+	\begin{center}
+		\includegraphics[width=2in]{grid7by7}
+	\end{center}
+	
+	\item A function $C$ such that $C$ is continuous at every point, but there are three points where $C$ fails to be differentiable. 
+	
+	\begin{center}
+		\includegraphics[width=2in]{grid7by7}
+	\end{center}
+\end{enumerate}
+
+
+
+
+% \vfill
+% 
+% \cuthere
+% 
+% \noindent
+% \textbf{What was the least clear point from today's class?}
+% 
+% \vspace{1in}
+
+\end{document}

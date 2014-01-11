@@ -1,0 +1,154 @@
+\documentclass[11pt]{article}
+
+% \pagestyle{empty}                       %no page numbers
+% \thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+\newcommand{\cuthere}{%
+\noindent
+\raisebox{-2.8pt}[0pt][0.75\baselineskip]{\small\ding{34}}
+\unskip{\tiny\dotfill}
+}
+
+\def\ra{\rightarrow}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{September 30/October 1, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+		\begin{center}
+			\begin{large}
+			\textbf{Class Activities: Derivatives of other trigonometric functions} \\
+			\end{large}
+		\end{center}
+	
+Get into groups of 2--4 and work through all of the following activities. These are not to be turned in, and they will not be graded. Instead, record your group's work on your copy and keep it for notes. I will be coming to each group one by one as you work to observe what you're doing, answer questions, and catch any misconceptions that are happening. We will stop with about 10 minutes remaining to debrief the main ideas. \\
+
+\section{Focus questions}
+
+\begin{itemize}
+	\item If $f$ and $g$ are differentiable functions, then 
+	\[ \frac{d}{dx}\left[ f(x) \cdot g(x) \right] = \hspace{3in} \]
+	and 
+	\[ \frac{d}{dx}\left[ \frac{f(x)}{g(x)} \right] = \hspace{3in} \]
+	\item $\frac{d}{dx}[\sin(x)] = \underline{\hspace{1in}}$
+	\item $\frac{d}{dx}[\cos(x)] = \underline{\hspace{1in}}$
+	\item State the definitions of the following four trigonometric functions in terms of the sine and cosine functions: 
+	\[ \tan \theta = \hspace{0.5in} \qquad  \cot \theta = \hspace{0.5in} \qquad  \sec \theta = \hspace{0.5in} \qquad  \csc \theta = \hspace{0.5in} \qquad \]
+	\item For any value $u$, $\sin^2 u + \cos^2 u = \underline{\hspace{1in}}$. 
+\end{itemize}	
+	
+\section{Trigonometry review}
+
+Here is a right triangle with two of its sides and one of its non-right angles labelled: 
+\begin{center}
+	\includegraphics{2-4righttriangle}
+\end{center}
+State the values of the following trigonometric quantities: 
+\[ \sin \theta = \hspace{0.5in} \qquad \cos \theta = \hspace{0.5in} \qquad \tan \theta = \hspace{0.5in}  \]
+
+\[ \cot \theta = \hspace{0.5in} \qquad \sec \theta = \hspace{0.5in} \qquad \csc \theta = \hspace{0.5in} \]
+\pageturn
+
+\section{Derivative of the secant function}
+
+Let $h(x) = \sec x$ and remember that $\sec x = \frac{1}{\cos x}$. 
+\begin{enumerate}
+	\item What is the domain of $h$? (Hint: Where does $\cos x$ attain a value of $0$?)
+	
+	\vspace{0.5in}
+	
+	\item Use the Quotient Rule to develop a formula for $h'(x)$ that is expressed completely in terms of $\sin x$ and $\cos x$ only. 
+	\vspace{1.5in}
+	
+	\item Use other relationships among trigonometric functions to simplify the formula you found for $h'(x)$ so that only the functions $\tan x$ and $\sec x$ are used. 
+	\vspace{1.5in}
+	
+	\item What is the domain of $h'(x)$? 
+	
+	\vspace{.5in}
+\end{enumerate}
+
+
+\section{Derivative of the cosecant function}
+
+Let $p(x) = \csc x$ and remember that $\csc x = \frac{1}{\sin x}$. 
+\begin{enumerate}
+	\item What is the domain of $p$? (Hint: Where does $\sin x$ attain a value of $0$?)
+	
+	\vspace{0.5in}
+	\item Use the Quotient Rule to develop a formula for $p'(x)$ that is expressed completely in terms of $\sin x$ and $\cos x$ only. 
+	\pageturn
+	\item Use other relationships among trigonometric functions to simplify the formula you found for $p'(x)$ so that only the functions $\cot x$ and $\csc x$ are used. 
+	
+	
+	\vspace{1.5in}
+	
+	\item What is the domain of $p'(x)$? 
+	
+	\vspace{0.5in}
+\end{enumerate}
+
+\section{Computation/application of the new rules}
+
+\begin{enumerate}
+	\item Find the slope of the tangent line to the graph of $f(x) = 5 \sec x - 2 \csc x$ at $x = \pi/3$. 
+	
+\pageturn
+	
+	\item Let $h(t) = \dfrac{\tan(t)}{t^2 + 1} - 2e^t \cos t$. Find $h'(t)$. 
+	
+	\vspace{3in}
+	
+	\item Let $g(r) = \dfrac{r \sec(r)}{5^r}$. Find the equation of the tangent line to the graph of $g$ when $r = 0$. 
+\end{enumerate}
+
+\vfill
+
+\begin{small}
+	Answers to Section 5: $\frac{4}{3} + 10 \sqrt{3}$; $-\frac{2 t \tan (t)}{\left(t^2+1\right)^2}+\frac{\sec ^2(t)}{t^2+1}+2 e^t \sin (t)-2 e^t \cos (t)$; $y = x$. 
+\end{small}
+
+
+\cuthere
+
+\noindent
+\textbf{What was the least clear point from today's class?}
+
+\vspace{1in}
+
+\end{document}

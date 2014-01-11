@@ -1,0 +1,225 @@
+\documentclass[11pt]{article}
+
+% \pagestyle{empty}                       %no page numbers
+% \thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+\newcommand{\cuthere}{%
+\noindent
+\raisebox{-2.8pt}[0pt][0.75\baselineskip]{\small\ding{34}}
+\unskip{\tiny\dotfill}
+}
+
+\def\ra{\rightarrow}
+\def\blank{\underline{\hspace{1in}}}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{October 22, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+		\begin{center}
+			\begin{large}
+			\textbf{Class Activities: Using derivatives to identify extreme values of functions} \\
+			\end{large}
+		\end{center}
+	
+Get into groups of 2--4 and work through all of the following activities. These are not to be turned in, and they will not be graded. Instead, record your group's work on your copy and keep it for notes. I will be coming to each group one by one as you work to observe what you're doing, answer questions, and catch any misconceptions that are happening. We will stop with about 10 minutes remaining to debrief the main ideas. \\
+
+\section{Focus questions}
+
+\begin{itemize}
+	\item If $f'(a) > 0$, then $f$ is \blank at $x=a$. 
+	\item If $f'(a) < 0$, then $f$ is \blank at $x=a$. 
+	\item If $f''(a) > 0$, then $f$ is \blank at $x=a$.
+	\item If $f''(a) <  0$, then $f$ is \blank at $x=a$.
+	\item \emph{Definition of critical value}: A critical value for a function $f$ is any point $c$ such that \blank or \blank. 
+	\item \emph{FIRST DERIVATIVE TEST}: If $p$ is a critical value of a continuous function $f$ that is differentiable near $p$ (except possibly at $p$) then $f$ has a relative maximum at $p$ if and only if $f'$ changes sign from \blank to \blank at $p$, and $f$ has a relative minimum at $p$ if and only if $f'$ changes sign from \blank to \blank at $p$. 
+	\item \emph{SECOND DERIVATIVE TEST}: If $p$ is a critical value of a continuous function $f$ such that $f'(p) = 0$ and $f''(p) \neq 0$, then $f$ has a relative \blank at $p$ if and only if $f''(p) < 0$, and $f$ has a relative \blank at $p$ if and only if $f''(p) > 0$. 
+\end{itemize}
+
+\section{Review of the relationship between $f$, $f'$, and $f''$}
+
+Below are the graphs of $f'$ and $f''$, the first and second derivatives of a function $f$. Note that $f$ is not shown. The graph of $f'$ is on the left, and the graph of $f''$ is on the right. 
+\begin{center}
+	\includegraphics[width=3in]{act31-reviseda}
+	\quad
+	\includegraphics[width=3in]{act31-revisedb}
+\end{center}
+
+Using only these two graphs, answer the following questions about $f$, the original function: 
+
+\pageturn
+
+\begin{enumerate}
+	\item How many critical values does $f$ have, and what are their $x$-coordinates?
+	\vspace{0.5in}
+	
+	\item On which interval or intervals is $f$ increasing? Decreasing? 
+	\vspace{0.5in}
+	
+	\item On which interval or intervals is $f$ concave up? Concave down? 
+	\vspace{0.5in}
+	
+	\item For each of the critical values you found in question (1), is that critical value a local minimum, local maximum, or neither? 
+	\vspace{0.5in}
+	
+	\item What are the $x$-coordinates of the inflection points of $f$? 
+	\vspace{0.3in}
+	
+	\item Does $f$ have a \emph{global} minimum or maximum? (Hint: Look at the left and right ends of the graph of $f'$ and think about what this implies for the slopes of $f$.) 
+	\vspace{0.5in}
+	
+\end{enumerate}
+
+\section{Using the First Derivative Test}
+
+Suppose that $g(x)$ is a function whose first derivative is: 
+\[ g'(x) = \frac{(x+4)(x-1)^2}{x-2} = \frac{x^3+2 x^2-7 x+4}{x-2}\]
+Also assume that $g$ is continuous for every value of $x \neq 2$, and assume that $g$ has a vertical asymptote at $x = 2$. 
+
+\begin{enumerate}
+	\item List all the critical values of $g$. (Hint: There are three of them.) 
+	\vspace{0.5in}
+	
+	
+	\item Below is the setup for a sign chart for the first derivative of $g$. The dots on the sign chart are for the critical values you found above. Using the First Derivative Test, label the sign chart to decide whether $g$ has a local maximum, local minimum, or neither at each critical value. 
+	
+	\bigskip
+	
+		\includegraphics[width=4in]{act31a}
+
+% 	\item Using the tables below, determine the value of $\displaystyle{\lim_{x \to 2} g'(x)}$. What does this tell you about the behavior of $g$ (the original function) near $x = 2$? 
+% 	
+% 	\begin{center}
+% 		\begin{tabular}{c||c|c|c}
+% 			$x$ & $1.9$ & $1.99$ & $1.999$ \\ \hline
+% 			$g'(x)$ & \hspace{0.3in} & \hspace{0.3in} & \hspace{0.3in} 
+%  		\end{tabular}
+% \qquad 
+% 		\begin{tabular}{c||c|c|c}
+% 			$x$ & $2.1$ & $2.01$ & $2.001$ \\ \hline
+% 			$g'(x)$ & \hspace{0.3in} & \hspace{0.3in} & \hspace{0.3in} 
+%  		\end{tabular}
+% 	\end{center}
+\pageturn
+
+	\item It can be shown using L'Hopital's Rule that 
+	\[ \lim_{x \to \infty} g'(x) = +\infty \quad \text{and} \quad \lim_{x \to -\infty} g'(x) = +\infty\]
+Given this information, does $g$ have a \emph{global} maximum? global minimum? Why?
+	
+	\vspace{0.5in}
+	
+	\item Each group will be provided with a notecard. On the blank side of the notecard, sketch a possible graph of  $y = g(x)$ using only the information you determined in the previous questions. Do not attempt to use any form of algebra to obtain a formula for $g(x)$ -- you won't need it and it's too difficult to obtain in the time we have. Make sure your graphs are neatly composed, have axis labels, and show scaling on at least the $x$-axis. These will be randomly selected and displayed at the document camera. 
+	
+	
+\end{enumerate}
+
+
+\section{The complete package}
+
+Consider the function $f(x) = 2x^3 - 27x^2 + 108x + 6$. 
+
+\begin{enumerate}
+	\item Calculate $f'(x)$ and $f''(x)$. 
+		\begin{itemize}
+			\item $f'(x) = $
+			\item $f''(x) = $ 
+		\end{itemize}
+	\item Find all the critical values of $f$. (There should be two of them.) 
+	\vspace{0.4in}
+	
+	\item Construct a sign chart for $f'$ and determine the intervals on which $f$ is increasing, and the intervals on which $f$ is decreasing. 
+	
+	\bigskip
+	
+	\includegraphics[width=4in]{act31b}
+	
+	\pageturn
+	
+	
+	\item Construct a sign chart for $f''$ and determine the intervals on which $f$ is concave up and the intervals on which $f$ is concave down. HINT: The critical values you found in question 1 don't go on this number line, because this is a sign chart for the \emph{second} derivative. So, what should go on this number line? 
+	
+	\bigskip
+	
+	\includegraphics[width=4in]{act31c}
+	
+	
+	
+	\item Using the \emph{First} Derivative Test and the table below, classify each of the critical values of $f$ as a local minimum, local maximum, or neither. 
+	
+\begin{center}
+	\begin{tabular}{c|c|c|c}
+	Critical value & Sign of $f'$ just before & Sign of $f'$ just after & Classification: \\ \hline
+	\hspace{0.5in} & \hspace{0.5in} & \hspace{0.5in} & \hspace{0.5in} \\ \hline
+	\hspace{0.5in} & \hspace{0.5in} & \hspace{0.5in} & \hspace{0.5in} 
+	\end{tabular}
+\end{center}
+
+	\item Using the \emph{Second} Derivative Test and the table below, classify each of the critical values of $f$ as a local minimum, local maximum, or neither. The classifications should agree with your results from the previous question. 
+	
+	\begin{center}
+		\begin{tabular}{c|c|c}
+			Critical value of $f$ & Sign of $f''$ evaluated at this point & Classification: \\ \hline
+		\hspace{0.5in} & \hspace{0.5in} & \hspace{0.5in} \\ \hline
+		\hspace{0.5in} & \hspace{0.5in} & \hspace{0.5in} 
+		\end{tabular}
+	\end{center}
+	
+	
+	\item Which is simpler to use in this case to classify the critical numbers? Circle one: 
+	\begin{itemize}
+		\item The First Derivative Test 
+		\item The Second Derivative Test
+	\end{itemize}
+
+	\item State the coordinates of all inflection points of $f$. 
+	\vspace{0.5in}
+	
+	
+	\item Make a rough but accurate sketch of $f$ using only the information you found above. 
+\end{enumerate}
+
+\vfill 
+
+\cuthere
+
+\noindent
+\textbf{A question I have after today's class work is:}
+
+\vspace{1in}
+
+\end{document}

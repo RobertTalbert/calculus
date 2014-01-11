@@ -1,0 +1,103 @@
+\documentclass[11pt]{article}
+
+% \pagestyle{empty}                       %no page numbers
+% \thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+\newcommand{\cuthere}{%
+\noindent
+\raisebox{-2.8pt}[0pt][0.75\baselineskip]{\small\ding{34}}
+\unskip{\tiny\dotfill}
+}
+
+\def\ra{\rightarrow}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{September 23, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+\begin{center}
+	\textbf{Solutions to Application problems from Activity 2.1}
+\end{center}
+
+\begin{enumerate}
+	\item Find the slope of the tangent line to the graph of $h(z) = \sqrt{z} + \frac{1}{z}$ at the point where $z = 4$. 
+	
+\noindent
+\emph{Solution}: The slope of the tangent line is the derivative of $h$ at the point $z=4$. First, rewrite $h$ to make the root and fraction into exponents: 
+\[ h(z) = z^{1/2} + z^{-1} \]
+Now take the derivative using the rule for power functions: 
+\[ h'(z) = \frac{1}{2}z^{-1/2} - z^{-2} \]
+Now evaluate at $z=4$: 
+\begin{align*}
+	h'(4) &= \frac{1}{2}(4)^{-1/2} - 4^{-2} \\ 
+	&= \frac{1}{2}\cdot \frac{1}{2} - \frac{1}{16} \\
+	&= \frac{3}{16}.
+\end{align*}
+	
+		
+	\item A population of cells is growing in such a way that its total number (in millions) is given by the function $P(t) = 2(1.37)^t + 32$, where $t$ is measured in days. Find the instantaneous rate at which the population is growing on day 4, and include correct units on your answer. 
+
+	\noindent
+	\emph{Solution}: The rate of change is the derivative at $t=4$. So first take the derivative with respect to $t$: 
+	\begin{align*}
+		P'(t) &= \frac{d}{dt}[2(1.37)^t + 32] \\
+		&= \frac{d}{dt}[2 (1.37)^t] + \frac{d}{dt}[32] \quad \text{(Sum rule)} \\
+		&= 2 \frac{d}{dt}[(1.37)^t] + \frac{d}{dt}[32] \quad \text{(Constant multiple rule)}\\
+		&= 2 \frac{d}{dt}[(1.37)^t] + 0 \quad \text{(Derivative of a constant)}\\
+		&= 2 ((1.37)^t \ln 1.37) \quad \text{(Derivative of an exponential function)}
+	\end{align*}
+And now evaluate at $t=4$: 
+\[ P'(4) = 	2 ((1.37)^4 \ln 1.37) \approx 2.281 \ \text{million cells per day}\]
+	
+	\item Find an equation for the tangent line to the curve $p(a) = 3a^4 - 2a^3 + 7a^2 - a + 12$ at the point where $a = -1$. 
+	
+\noindent
+\emph{Solution}: To find the equation for the tangent line at $a = -1$, we need the derivative of $p$ at $a=-1$ for the slope, along with the point where the tangent line touches the graph of $p$ at $a = -1$. First let's get the derivative: 
+\[ p'(a) = 12a^3 - 6a^2 + 14a - 1 \]
+Therefore 
+\[ p'(-1) = 12(-1)^3 - 6(-1)^2 + 14(-1) - (-1) = -12 - 6 - 14 - 1 = -33 \]
+This is the slope of the tangent line at $a = -1$. The point where the tangent line touches the graph of $p$ is $(-1, p(-1))$, and
+\[ p(-1) = 3(-1)^4 - 2(-1)^3 + 7(-1)^2 + 12 = 25 \]
+Therefore the tangent line equation is: 
+\[ y = -33(x - (-1)) + 25 = -33x + -33 + 25 = -33x - 8. \]
+
+
+\end{enumerate}
+
+
+\end{document}

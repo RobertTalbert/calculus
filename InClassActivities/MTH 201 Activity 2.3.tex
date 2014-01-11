@@ -1,0 +1,138 @@
+\documentclass[11pt]{article}
+
+% \pagestyle{empty}                       %no page numbers
+% \thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+\newcommand{\cuthere}{%
+\noindent
+\raisebox{-2.8pt}[0pt][0.75\baselineskip]{\small\ding{34}}
+\unskip{\tiny\dotfill}
+}
+
+\def\ra{\rightarrow}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{September 26/27, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+		\begin{center}
+			\begin{large}
+			\textbf{Class Activities: The Product and Quotient Rules} \\
+			\end{large}
+		\end{center}
+	
+Get into groups of 2--4 and work through all of the following activities. These are not to be turned in, and they will not be graded. Instead, record your group's work on your copy and keep it for notes. I will be coming to each group one by one as you work to observe what you're doing, answer questions, and catch any misconceptions that are happening. We will stop with about 10 minutes remaining to debrief the main ideas. \\
+
+\section{Focus questions}
+
+\begin{itemize}
+	\item If $f$ and $g$ are differentiable functions, then 
+	\[ \frac{d}{dx}\left[ f(x) \cdot g(x) \right] = \hspace{3in} \]
+	and 
+	\[ \frac{d}{dx}\left[ \frac{f(x)}{g(x)} \right] = \hspace{3in} \]
+	\item For any real number $c$, if $f(x) = c$ for all $x$ then $f'(x) = \underline{\hspace{1in}}$. 
+	\item For any nonzero real number $n$, if $f(x) = x^n$, then $f'(x) = \underline{\hspace{1in}}$. 
+	\item For any positive real number $a$, if $f(x) = a^x$, then $f'(x) = \underline{\hspace{1in}}$.
+	\item For any real number $k$, if $f(x)$ is a differentiable function with derivative $f'(x)$, then $\frac{d}{dx}[k \cdot f(x) ] = \underline{\hspace{1in}}$. 
+	\item If $f(x)$ and $g(x)$ are differentiable functions with derivatives $f'(x)$ and $g'(x)$ respectively, then $\frac{d}{dx}[f(x) + g(x)] = \underline{\hspace{1in}}$. 
+	\item $\frac{d}{dx}[\sin(x)] = \underline{\hspace{1in}}$
+	\item $\frac{d}{dx}[\cos(x)] = \underline{\hspace{1in}}$
+\end{itemize}
+
+
+\section{Computation practice}
+
+Use the rules we learned in this section to determine the derivative of each of the following functions. For
+each, state your answer using full and proper notation, labeling the derivative with its name. For example, if you are given a function $h(z)$, you should write ``$h'(z) =$'' or ``$\frac{dh}{dz}=$'' as part of your response. \textbf{Do not simplify your results algebraically for now. }
+
+\begin{itemize}
+	\item Let $m(w) = 3w^{17}4^w$. Find $m'(w)$. 
+	
+	\pageturn
+	
+	\item Let $h(t) = (\sin(t) + \cos(t))t^4$. Find $h'(t)$. 
+	
+	\vspace{1.2in}
+	
+	\item Let $r(z) = \dfrac{3^z}{z^4 + 1}$. Find $r'(z)$. 
+	
+	\vspace{1.2in}
+	
+	\item Let $v(t) = \dfrac{\sin(t)}{\cos(t) + t^2}$. Find $v'(t)$.
+	
+	\vspace{1.2in} 
+\end{itemize}
+
+\section{Computation without complete information}
+
+Suppose that $f(x)$ and $g(x)$ are differentiable functions and that we know the following data about $f$ and $g$: 
+\[ f(3) = -2 \qquad f'(3) = 7 \qquad g(3) = 4 \qquad g'(3) = -1 \] 
+\begin{itemize}
+	\item Let $p(x) = f(x) \cdot g(x)$. Find the value of $p'(3)$. (\emph{Guidance}: What would be a formula for $p'(x)$, for any $x$ value?) 
+	
+	
+	
+	\vspace{1.5in}
+	
+	\item Let $q(x) = \dfrac{f(x)}{g(x)}$. Find the value of $q'(3)$. 
+\end{itemize}
+
+\pageturn
+
+\section{Applications}
+
+\begin{enumerate}
+	\item Determine the equation of the tangent line to the graph of $f(x) = e^x \sin x$ at $x = 1$. 
+	
+	\vspace{3in}
+	
+	\item When a camera flashes, the intensity $I$ of light seen by the eye is given by the function 
+	\[ I(t) = \frac{100t}{e^t} \]
+where $I$ is measured in ``candles'' and $t$ is measured in milliseconds. Compute $I'(0.5)$, $I'(2)$, and $I'(5)$. State the units of these quantities and explain the meaning of each. 
+\end{enumerate}
+
+\vfill
+
+\cuthere
+
+\noindent
+\textbf{What was the least clear point from today's class?}
+
+\vspace{1in}
+
+\end{document}

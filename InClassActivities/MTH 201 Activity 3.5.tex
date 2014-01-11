@@ -1,0 +1,124 @@
+\documentclass[11pt]{article}
+
+% \pagestyle{empty}                       %no page numbers
+% \thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+\newcommand{\cuthere}{%
+\noindent
+\raisebox{-2.8pt}[0pt][0.75\baselineskip]{\small\ding{34}}
+\unskip{\tiny\dotfill}
+}
+
+\def\ra{\rightarrow}
+\def\blank{\underline{\hspace{1in}}}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{November 4/5, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+		\begin{center}
+			\begin{large}
+			\textbf{Class Activities: Related rates} \\
+			\end{large}
+		\end{center}
+	
+Get into groups of 2--4 and work through all of the following activity. These are not to be turned in, and they will not be graded. Instead, record your group's work on your copy and keep it for notes. I will be coming to each group one by one as you work to observe what you're doing, answer questions, and catch any misconceptions that are happening. We will stop with about 10 minutes remaining to debrief the main ideas.\\
+
+
+A water tank has the shape of an upside-down circular cone:
+\begin{center}
+	\includegraphics[width=0.3\textwidth]{cone}
+\end{center}
+ The base radius of the tank is 6 feet, and the depth of the tank is 8 feet. Suppose that water is being pumped into the tank at a constant rate of 4 cubic feet per minute. \textbf{Question:} At what instantaneous rate is the water level rising at the exact moment that the water level in the tank is 3 feet deep? 
+	
+	
+\begin{enumerate}
+	\item What rate of change is this problem asking you to find? What rate or rates of change do the problem data give you, and what are their values? 
+	
+	\vspace{0.7in}
+	
+	\item Here is a side view of the tank: 
+\begin{center}
+	\includegraphics[width=0.2\textwidth]{cone-cutaway}
+\end{center}	
+	
+	
+On this side-view diagram, do the following: 
+	\begin{itemize}
+		\item Label the radius and depth of the tank (the tank itself, that is -- not the water in the tank). 
+		\item Sketch a the water level at a point in time when the tank is not yet full, and introduce variables that measure the radius of the water's surface and the water's depth in the tank. Label those variables on your picture. 
+	\end{itemize}
+	
+	\pageturn
+
+	
+	\item Find a formula for the volume of the water in the tank at any time. Your formula should have three variables in it, one of which is $V$ for volume. For which of these variables do we know a rate of change? And which variable has the rate of change we were being asked to find? 
+	
+	\vspace{1in}
+	
+	\item Let $r$ be the radius and $h$ the depth of the water at a given time $t$. Looking at the cutaway diagram -- with the water level drawn and labelled -- and use elementary geometry to come up with an equation that relates $r$ and $h$. This will not be the volume formula you found earlier -- the only variables involved in this equation should be $r$ and $h$. (Hint: You may notice there are several triangles in this diagram that are not congruent, but all their angle measures are equal.) 
+	
+	\vspace{1in}
+	
+	\item Using the result from the previous question to eliminate one of the variables in the volume formula. 
+	
+	\vspace{0.5in}
+	
+	\item Through differentiation, find an equation that relates the rate of change in the volume with the rate of change in the water depth. This will be an equation with one instantaneous rate on one side and another instantaneous rate on the other side. 
+	
+	\vspace{1in}
+	
+	\item Answer the question: At what instantaneous rate is the water level rising at the exact moment that the water level in the tank is 3 feet deep? 
+	
+	\vspace{1in}
+	
+	\item When is the water rising most rapidly: when $h=3$, when $h = 4$, or when $h=5$? 
+
+\end{enumerate}
+
+
+% \vfill 
+% 
+% \cuthere
+% 
+% \noindent
+% \textbf{A question I have after today's class work is:}
+% 
+% \vspace{1in}
+
+\end{document}

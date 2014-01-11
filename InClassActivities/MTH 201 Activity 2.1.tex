@@ -1,0 +1,139 @@
+\documentclass[11pt]{article}
+
+% \pagestyle{empty}                       %no page numbers
+% \thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+\newcommand{\cuthere}{%
+\noindent
+\raisebox{-2.8pt}[0pt][0.75\baselineskip]{\small\ding{34}}
+\unskip{\tiny\dotfill}
+}
+
+\def\ra{\rightarrow}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{September 23, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+		\begin{center}
+			\begin{large}
+			\textbf{Class Activities: Elementary Derivative Rules} \\
+			\end{large}
+		\end{center}
+	
+Get into groups of 2--4 and work through all of the following activities. These are not to be turned in, and they will not be graded. Instead, record your group's work on your copy and keep it for notes. I will be coming to each group one by one as you work to observe what you're doing, answer questions, and catch any misconceptions that are happening. We will stop with about 10 minutes remaining to debrief the main ideas. \\
+
+\section{Focus questions}
+
+\begin{itemize}
+	\item For any real number $c$, if $f(x) = c$ for all $x$ then $f'(x) = \underline{\hspace{1in}}$. 
+	\item For any nonzero real number $n$, if $f(x) = x^n$, then $f'(x) = \underline{\hspace{1in}}$. 
+	\item For any positive real number $a$, if $f(x) = a^x$, then $f'(x) = \underline{\hspace{1in}}$.
+	\item For any real number $k$, if $f(x)$ is a differentiable function with derivative $f'(x)$, then $\frac{d}{dx}[k \cdot f(x) ] = \underline{\hspace{1in}}$. 
+	\item If $f(x)$ and $g(x)$ are differentiable functions with derivatives $f'(x)$ and $g'(x)$ respectively, then $\frac{d}{dx}[f(x) + g(x)] = \underline{\hspace{1in}}$. 
+\end{itemize}
+
+
+\section{Computation practice}
+
+Use the rules we learned in this section to determine the derivative of each of the following functions. For
+each, state your answer using full and proper notation, labeling the derivative with its name. For example, if you are given a function $h(z)$, you should write ``$h'(z) =$'' or ``$\frac{dh}{dz}=$'' as part of your response. 
+
+\begin{itemize}
+	\item $f(t) = \pi$
+	\vspace{0.5in}
+	
+	\item $g(z) = 7^z$ 
+	\vspace{0.5in}
+	
+	\item $h(w) = w^{3/4}$
+	\vspace{0.5in}
+	
+	\item $p(x) = 3^{1/2}$
+	\vspace{0.5in}
+	
+	\item $r(t) = (\sqrt{2})^t$
+	
+	\pageturn
+	
+	\item $f(q) = q^{-1}$
+	\vspace{0.5in}
+	
+	\item $m(t) = \frac{1}{t^3}$
+	\vspace{0.5in}
+	
+	\item $a(x) = x^{5/3} - x^4 + 2^x$
+	\vspace{0.5in}
+	
+	\item $b(x) = 14e^x + 3x^5 - x$ 
+	\vspace{0.5in}
+	
+	\item $c(x) = \sqrt{53}x^7 + \pi e^x + e^4$
+	\vspace{0.5in}
+	
+	\item $d(x) = (x^2+1)(x^2 - 1)$
+	\vspace{0.5in}
+	
+	\item $f(x) = \frac{x^3 - x + 2}{x}$
+	\vspace{0.5in}
+	
+\end{itemize}
+
+\section{Applications}
+
+\begin{enumerate}
+	\item Find the slope of the tangent line to the graph of $h(z) = \sqrt{z} + \frac{1}{z}$ at the point where $z = 4$. 
+	
+	\pageturn
+	
+	\item A population of cells is growing in such a way that its total number (in millions) is given by the function $P(t) = 2(1.37)^t + 32$, where $t$ is measured in days. Find the instantaneous rate at which the population is growing on day 4, and include correct units on your answer. 
+	\vspace{4in}
+	
+	\item Find an equation for the tangent line to the curve $p(a) = 3a^4 - 2a^3 + 7a^2 - a + 12$ at the point where $a = -1$. 
+\end{enumerate}
+
+\vfill
+
+\cuthere
+
+\noindent
+\textbf{What was the least clear point from today's class?}
+
+\vspace{1in}
+
+\end{document}

@@ -1,0 +1,144 @@
+\documentclass[11pt]{article}
+
+% \pagestyle{empty}                       %no page numbers
+% \thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+\newcommand{\cuthere}{%
+\noindent
+\raisebox{-2.8pt}[0pt][0.75\baselineskip]{\small\ding{34}}
+\unskip{\tiny\dotfill}
+}
+
+\def\ra{\rightarrow}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{September 4/5, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+		\begin{center}
+			\begin{large}
+			\textbf{Class Activities: The notion of limit} \\
+			\end{large}
+		\end{center}
+	
+Get into groups of 2--4 and work through all of the following activities. These are not to be turned in, and they will not be graded. Instead, record your group's work on your copy and keep it for notes. I will be coming to each group one by one as you work to observe what you're doing, answer questions, and catch any misconceptions that are happening. We will stop with about 10 minutes remaining to debrief the main ideas. 
+
+
+\section{Taking limits numerically and algebraically}
+
+\begin{enumerate}
+	\item Consider the function $f(x) = \dfrac{x^2 - 1}{x - 1}$. Does the value of $f(1)$ exist? Why/why not?
+	
+	
+	\item Using the same function $f(x)$ as above, use a calculator or spreadsheet to fill in the blanks of the following table. Some of these have already been done for you; your calculations should not be drastically different from the ones already here. For example a calculation equal to 22.5 is very likely incorrect. 
+	\begin{center}
+		\begin{tabular}{c|c||c|c}
+		$x$ & $f(x)$ & $x$ & $f(x)$ \\ \hline
+		$0.5$ & 1.5 & $1.5$ & \hspace{1in} \\
+		$0.9$ & \hspace{1in} & $1.1$ & 2.1 \\
+		$0.99$ & 1.99 & $1.01$ & \hspace{1in} \\
+		$0.999$ & \hspace{1in} & $1.001$ & 2.001 \\
+		\end{tabular}
+	\end{center}
+Based on the table, estimate the value of $\displaystyle{\lim_{x \to 1} \frac{x^2 - 1}{x-1}}$. 
+
+	\item Use algebra to simplify the fraction $\dfrac{x^2 - 1}{x - 1}$. Use the result to find the \emph{exact} value of $\displaystyle{\lim_{x \to 1} \frac{x^2 - 1}{x-1}}$.  
+	
+\end{enumerate}
+
+
+\section{Instantaneous velocity and limits}
+
+Consider a moving object whose position function is given by $s(t) = t^2$ where $s$ is measured in meters and $t$ is measured in minutes. 
+
+\begin{enumerate}
+	\item Find an expression for the average velocity of the object on the interval $[4, 4+h]$. Simplify the expression algebraically as much as possible. (There should be no fractions present once the expression is fully simplified, just a simple expression that involves the variable $h$.)
+
+\pageturn
+	
+	\item Determine the average velocity of the object on the interval $[4, 4.2]$. Include units on your answer. (Hint: What's the value of $h$ in this case?) 
+	
+\vspace{0.5in}
+	
+	\item Determine the instantaneous velocity of the object when $t=4$ by taking a limit of the average velocity formula you found in question (1). Include units on your answer. Important question: When you take a limit, what's your variable and what should it be approaching? 
+	
+\vspace{2in}	
+	
+	\item How would you go about finding the object's instantaneous velocity at $t = 10$ seconds? What would do differently in the above process? 
+	
+	\vspace{0.5in}
+	
+\end{enumerate}
+
+
+\section{Average velocity, instantaneous velocity, and slopes}
+
+A moving object has position $s$ at time $t$ given by the graph below: 
+\begin{center}
+	\includegraphics[width=0.5\textwidth]{act1-2}
+\end{center}
+
+Assume $s$ is measured in feet and $t$ is in seconds. 
+
+\pageturn
+
+\begin{enumerate}
+	\item Use the graph to estimate the average velocity of the object on the intervals $[2,3]$, $[2,2.5]$, and $[2, 2.25]$. For each interval, draw a line on the graph whose slope is the average velocity on that interval. For example, the average velocity on the interval $[1,2]$ is $\frac{s(2)-s(1)}{2-1}$, which is also the slope of the line connecting $(1, s(1))$ and $(2, s(2))$ 
+		
+	\vspace{2in}
+	
+	\item Use the graph to estimate the instantaneous velocity of the object when $t=2$. 
+	
+	\vspace{1.5in}
+	
+	\item Is the instantaneous velocity of the object at $t=2$ greater than, less than, or equal to the average velocity on the interval $[2,3]$? Explain. 
+\end{enumerate}
+
+
+
+
+\vfill
+
+\cuthere
+
+\noindent
+\textbf{What was the least clear point from today's class?}
+
+\vspace{1in}
+
+\end{document}

@@ -1,0 +1,139 @@
+\documentclass[11pt]{article}
+
+% \pagestyle{empty}                       %no page numbers
+% \thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+\newcommand{\cuthere}{%
+\noindent
+\raisebox{-2.8pt}[0pt][0.75\baselineskip]{\small\ding{34}}
+\unskip{\tiny\dotfill}
+}
+
+\def\ra{\rightarrow}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{September 9/10, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+		\begin{center}
+			\begin{large}
+			\textbf{Class Activities: The derivative function} \\
+			\end{large}
+		\end{center}
+	
+Get into groups of 2--4 and work through all of the following activities. These are not to be turned in, and they will not be graded. Instead, record your group's work on your copy and keep it for notes. I will be coming to each group one by one as you work to observe what you're doing, answer questions, and catch any misconceptions that are happening. We will stop with about 10 minutes remaining to debrief the main ideas. 
+
+\section{Focus questions}
+
+Before you do anything else, complete the following: 
+
+\begin{enumerate}
+	
+	\item The \textbf{derivative} of a function $f$ at the point $x=a$ is calculated by the following formula that involves a limit: 
+	\[ f'(a) = \hspace{3in} \]
+	
+	\item Let $f$ be a function and $x$ a value in the domain of $f$. We define the \textbf{derivative of $f$ with respect to the value $x$}, denoted $f'(x)$, by the formula 
+	\[ f'(x)= \hspace{3in}   \] 
+provided the limit exists. 
+
+	\item What's the difference between the two concepts defined above? 
+	
+	\item The value of $f'(a)$ can be found graphically by finding  the s\underline{\hspace{1in}} of the t\underline{\hspace{1in}} l\underline{\hspace{1in}} to the graph of $f$ at the point $x = a$. 
+	
+	\item The value of $f'(a)$ also measures the i\underline{\hspace{1in}} r\underline{\hspace{1in}} of c\underline{\hspace{1in}} in $f$ when $x=a$. If $f$ represents the position of a moving object, then this is the object's i\underline{\hspace{1in}} v\underline{\hspace{1in}} at time $t=a$.
+		
+\end{enumerate}
+
+\section{Derivative at a point}
+
+Consider the function $g(x) = -2x^2 + 5x + 9$. 
+
+\begin{enumerate}
+	\item The value of $g'(2)$ is [circle one]: \textbf{A NUMBER} \quad \textbf{A FUNCTION} 
+	\item Set up the expression that will calculate $g'(2)$ \textbf{without using the symbol} $x$. (Use the first formula you wrote in the focus questions.) You'll evaluate this expression on the next page.
+	
+	\pageturn
+	
+	
+	\item Now evaluate the expression you set up. SHOW ALL WORK this time because Prof. Talbert will be roaming to see if everybody has this correct, not just the answer but also the process. The answer should come out to $-3$.  
+\end{enumerate}
+
+\vspace{3in}
+
+
+
+\section{Derivative function}
+Keep considering the function $g(x) = -2x^2 + 5x + 9$. 
+
+\begin{enumerate}
+	\item The value of $g'(x)$ is [circle one]: \textbf{A NUMBER} \quad \textbf{A FUNCTION} 
+	\item Set up the expression that will calculate $g'(x)$. 
+	
+	\vspace{1in}
+	
+	\item Now evaluate the expression you set up. SHOW ALL WORK this time because Prof. Talbert will be roaming to see if everybody has this correct, not just the answer but also the process. The answer should come out to $g'(x) = -4x +5$. 
+	
+	\pageturn
+	
+	\item Take the result of question (3) and evaluate it at $x = 2$. Does your answer match what you got in the first section? (Hint: It should.) 
+	
+	\vspace{0.5in}
+	
+	\item What's the advantage of calculating the derivative function, versus just calculating the derivative at a point? 
+	\vspace{0.5in}
+	
+	\item What's harder about calculating  the derivative function, versus just calculating the derivative at a point? 
+	
+	\vspace{0.5in}
+	
+\end{enumerate}
+
+\section{Graphing $f'$ given a graph of $f$} 
+This part of the activity takes place on another sheet. Please await further instructions. 
+
+
+\vfill
+
+\cuthere
+
+\noindent
+\textbf{What was the least clear point from today's class?}
+
+\vspace{1in}
+
+\end{document}

@@ -1,0 +1,153 @@
+\documentclass[11pt]{article}
+
+% \pagestyle{empty}                       %no page numbers
+% \thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+\newcommand{\cuthere}{%
+\noindent
+\raisebox{-2.8pt}[0pt][0.75\baselineskip]{\small\ding{34}}
+\unskip{\tiny\dotfill}
+}
+
+\def\ra{\rightarrow}
+\def\blank{\underline{\hspace{1in}}}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{December 2/3, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+		\begin{center}
+			\begin{large}
+			\textbf{Class Activity: The Total Change Theorem} \\
+			\end{large}
+		\end{center}
+	
+\section{Description and guidelines} % (fold)
+\label{sec:description_and_guidelines}
+
+	
+This activity involves applying the Fundamental Theorem of Calculus and the Total Change Theorem to a realistic problem about rates and accumulated amounts. This activity replaces Lab 9, and as such it is to be done in groups, it will be collected, and it will be graded on a scale of 0 to 10 using the same rubric as labs. However, the problem is less technology-dependent since not everyone will have access to a computer during your work time. \\
+
+Additionally, in order to make sure that everyone has attained a basic level of mastery of the basic concepts underlying this activity, each student will be responsible for completing a brief assessment before leaving the class meeting today. This assessment, called an \textbf{Exit Ticket}, will ask a few simple questions about the activity and the concepts underlying it. This will be assessed shortly after class. It will not count toward your grade on the activity, but students who do not answer the Exit Ticket questions correctly will be assigned an additional WeBWorK set that must be completed by the end of this week (5:00pm, Friday December 7) with a 100\% grade, or else there will be a $-3$ penalty assessed on the Activity grade. The day after your class meeting, simply check your WeBWorK to see if you have been assigned this WebWork set; if it does not appear in your list of Homework sets, you completed the Exit Ticket correctly. 
+
+% section description_and_guidelines (end)
+
+\section{Focus Questions} % (fold)
+\label{sec:focus_questions}
+
+Answer these questions in your groups before proceeding on to the main activity. These will not be graded, so you do not have to write them up and turn them in, but they provide a necessary review of the basic concepts of the activity. 
+
+\begin{itemize}
+	\item \textbf{Average value of a function}: If $f$ is a continuous function on $[a,b]$, then its average value on $[a,b]$ is given by the formula
+	
+	\vspace{0.75in}
+	
+	\item \textbf{The Fundamental Theorem of Calculus}: If $f$ is a continuous function on $[a,b]$, and $F$ is any \blank of $f$, then 
+	
+	\[ \int_a^b f(x) \, dx = \hspace{2in} \]
+	
+	\item \textbf{The Net or Total Change Theorem}: If $f$ is a continuously differentiable function on $[a,b]$ with derivative $f'$, then 
+	
+	\[ f(b) - f(a) = \hspace{2in} \]
+	
+	
+\end{itemize}
+
+\pageturn
+
+% section focus_questions (end)
+
+
+\section{Activity} % (fold)
+\label{sec:activity}
+
+Write up your solutions for the following problems in an electronic document and submit them by email (talbertr@gvsu.edu) \textbf{no later than 10:00pm on Thursday, December 6}. Before you leave today, set aside five minutes to complete the Exit Ticket that will be available at the front of the class. \\
+
+\bigskip
+
+During a 30-minute workout, a person riding an exercise machine burns calories at a rate of $c$ calories per minute, where the function $y = c(t)$ is given in the figure below: 
+
+\begin{center}
+	\includegraphics[width=3in]{activity44-plot}
+\end{center}
+
+On the interval $0 \leq t \leq 10$, the formula for $c$ is $c(t) = -0.05t^2 + t + 10$. On the interval $20 \leq t \leq 30$, its formula is $c(t) = -0.05t^2 + 2t - 5$. On the interval $10 \leq t \leq 20$, the function $c$ is constant. 
+
+\begin{enumerate}
+	\item Set up, but do not evaluate, a definite integral that will give the exact total number of calories the person burns during the first 10 minutes of the workout. Explain your reasoning. 
+	
+	\item Evaluate the definite integral you set up in the previous question using the Riemann sum $M_4$. (Note that you do not need to estimate function values from the graph, since you have a formula for $c$.) Show all your work and give a sentence of text at the beginning that sets up your solution. 
+	
+	\item Calculate the \emph{exact} total number of calories the person burns over the entire 30 minutes of the workout, and put correct units on the answer. Show all work and explain your reasoning. 
+	
+	\item Determine the exact average rate at which the person burned calories during the 30-minute workout. Show all work and explain your reasoning. 
+	
+	\item At what time(s), if any, is the instantaneous rate at which the person is burning calories equal to the average rate at which she burns calories, on the time interval $0 \leq t \leq 30$? Show all work and explain your reasoning. 
+\end{enumerate}
+
+\bigskip
+
+\begin{center}
+Remember, once you are done, or in the last 5-10 minutes of today's meeting, you need to complete an Exit Ticket available at the front of the room. 
+\end{center}
+
+
+
+
+% When an aircraft attempts to climb as rapidly as possible, its climb rate (in feet per minute) decreases as altitude increases, because the air is less dense at higher altitudes. Given below is a table showing performance data for a certain single engine aircraft, giving its climb rate at various altitudes, where $c(h)$ denotes the climb rate of the airplane at an altitude $h$.
+% \begin{center}
+% 	\begin{tabular}{c||c|c|c|c|c|c|c|c|c|c|c}
+% 	$h$ (feet) & 0 & 1000 & 2000 & 3000 & 4000 & 5000 & 6000 & 7000 & 8000 & 9000 & 10000 \\ \hline 
+% 	$c(h)$ (ft/min) & 925 & 875 & 830 & 780 & 730 & 685 & 635 & 585 & 535 & 490 & 440 
+% 	\end{tabular}
+% \end{center}
+% Let a new function called $m(h)$ measure the number of minutes required for a plane at altitude $h$ to climb to the next foot of altitude. 
+% 
+% \begin{enumerate}
+% 	\item Determine a table of values for $m(h)$ and explain how it is related to the table above. Be sure to explain the units. 
+% 	\item Give a careful interpretation of a function whose derivative is $m(h)$. Describe what the input is and what the output is. Also, explain in plain English what the function tells us. 
+% 	\item Determine a definite integral whose value tells us exactly the number of minutes required for the airplane to ascend to 10,000 feet of altitude. Clearly explain why the value of this integral has the required meaning. 
+% 	\item Use the Riemann sum $M_5$ to estimate the value of the integral you found in (c). Include units on your result. 
+% \end{enumerate}
+
+
+% section activity (end)
+
+
+
+\end{document}

@@ -1,0 +1,165 @@
+\documentclass[11pt]{article}
+
+% \pagestyle{empty}                       %no page numbers
+% \thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+\newcommand{\cuthere}{%
+\noindent
+\raisebox{-2.8pt}[0pt][0.75\baselineskip]{\small\ding{34}}
+\unskip{\tiny\dotfill}
+}
+
+\def\ra{\rightarrow}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{September 5/6, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+		\begin{center}
+			\begin{large}
+			\textbf{Class Activities: The derivative of a function at a point} \\
+			\end{large}
+		\end{center}
+	
+Get into groups of 2--4 and work through all of the following activities. These are not to be turned in, and they will not be graded. Instead, record your group's work on your copy and keep it for notes. I will be coming to each group one by one as you work to observe what you're doing, answer questions, and catch any misconceptions that are happening. We will stop with about 10 minutes remaining to debrief the main ideas. 
+
+\section{Focus questions}
+
+Before you do anything else, complete the following: 
+
+\begin{enumerate}
+	\item The \textbf{average rate of change} of a function $f$ on the interval $[a,b]$ is calculated by the formula: 
+	\[ AV_{[a,b] = \hspace{3in}} \]
+	
+	
+	\item The \textbf{derivative} of a function $f$ at the point $x=a$ is calculated by the following formula that involves a limit: 
+	\[ f'(a) = \hspace{3in} \]
+	
+	\item The value of $f'(a)$ can be found graphically by finding  the s\underline{\hspace{1in}} of the t\underline{\hspace{1in}} l\underline{\hspace{1in}} to the graph of $f$ at the point $x = a$. 
+	
+	\item The value of $f'(a)$ also measures the i\underline{\hspace{1in}} r\underline{\hspace{1in}} of c\underline{\hspace{1in}} in $f$ when $x=a$. If $f$ represents the position of a moving object, then this is the object's i\underline{\hspace{1in}} v\underline{\hspace{1in}} at time $t=a$. 
+		
+\end{enumerate}
+
+\section{Derivatives of linear functions}
+
+Consider the function $f$ whose formula is $f(x) = 3 - 2x$. 
+
+\begin{enumerate}
+	\item What kind of function is $f$? What can you say about the slope of $f$ at every value of $x$? 
+	
+	\vspace{0.5in}
+	
+	\item Compute the average rate of change of $f$ on the intervals $[1,4]$ and $[3,7]$. What do you notice about these two quantities? 
+	
+	\vspace{1in}
+	
+	\item Compute the value of $f'(1)$ using the limit definition of the derivative. This involves: (1) setting up and simplifying the fraction in the definition and then (2) evaluating the limit as $h \to 0$. Your result should be a single number. Explain why your answer makes sense. 
+	
+	\pageturn
+	
+	\item Without doing any additional computation, what are the values of $f'(2)$, $f'(\pi)$, and $f'(-\sqrt{2})$? 
+\end{enumerate}
+
+
+\section{Instantaneous rate of change}
+
+A rapidly growing city in Arizona has its population $P$ at time $t$, where $t$ is the number of decades after the year 2010, modeled by the formula $P(t) = 25000e^{t/5}$. Use this function to answer the following. 
+
+\begin{enumerate}
+	\item Compute the average rate of change of $P$ between 2030 and 2050. (\textbf{CAREFUL}: What values of $t$ do these two years represent?) Include units on your answer and keep all calculations to four decimal places. 
+	
+	\vspace{1in}
+	
+	\item Use the limit definition to set up, \textbf{but do not compute}, the instantaneous rate of change in $P$ with respect to time $t$ at the instant $a = 2$. Is this limit easy or hard to evaluate exactly? 
+	
+	\vspace{2in}
+	
+	\item Estimate the limit you found in question (2) by using several small values of $h$. Put your answers in the table below. Some of these have already been done for you, to help you double-check your work.  The values you calculate should not be drastically different from these. A spreadsheet would be handy if you have one and know how to use it. 
+	
+	\begin{center}
+		\begin{tabular}{c|c||c|c}
+		$h$ & Average ROC & $h$ & Average ROC \\ \hline
+		0.1 & 7534.21449   & -0.1 & 7385.02705   \\
+		0.01 &    & -0.01 & 7451.66933   \\
+		0.001 & 7459.86945   & -0.001 &    \\
+		0.0001 &    & -0.0001 &  7459.0489  \\
+		\end{tabular}
+	\end{center}
+	Once you have determined an accurate estimate of $P'(2)$, include the units on your answer and explain what it means.
+	
+	\pageturn
+	
+	\item Here is a graph of $P$: 
+	\begin{center}
+		\includegraphics[width=0.8\textwidth]{act1-3}
+	\end{center}
+	
+	On this graph, sketch two lines: One whose slope represents the average rate of change of $P$ on $[2,4]$, and the other whose slope represents the instantaneous rate of change of $P$ at the instant $a = 2$. 
+	
+	\item As $a$ increases in value, do the values of $P'(a)$ increase, decrease, or stay the same? Explain how you know. 
+	
+	
+	
+\end{enumerate}
+
+\pageturn
+
+\section{Bonus round: More computation of derivatives using the limit definition}
+
+Find the following derivatives using only algebra and the limit definition: 
+
+\begin{enumerate}
+	\item $f(x) = 10 + x + x^2$; compute $f'(0)$. 
+	\item $f(t) = 64 - 16(t-1)^2$; compute $f'(2)$.
+	\item $g(t) = 10 - \sqrt{t}$; compute $g'(4)$. (\emph{Hint}: Rationalize the numerator.)
+\end{enumerate}
+
+The answers are $1$, $-32$, and $-1/4$ respectively. 
+
+
+\vfill
+
+\cuthere
+
+\noindent
+\textbf{What was the least clear point from today's class?}
+
+\vspace{1in}
+
+\end{document}

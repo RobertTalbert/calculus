@@ -1,0 +1,89 @@
+\documentclass[11pt]{article}
+
+\pagestyle{empty}                       %no page numbers
+\thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{palatino}
+\usepackage{hyperref}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+
+\def\ra{\rightarrow}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{June 10, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+		\begin{center}
+			\begin{large}
+			\textbf{Class Activity: Riemann Sums} \\
+			\end{large}
+		\end{center}
+		
+This is a brief activity for you to do in groups to pull together some of the main ideas of your reading for Section 4.2 (Riemann Sums). This is not going to be collected, but we will discuss your results as a large group when done. 
+
+
+\begin{enumerate}
+	\item Calculate the sum 
+	\[ \sum_{i = 0}^{5} 2^i \]
+	
+	\item Write the following sum in sigma notation. There is more than one way to do it. 
+	\[ 1 + 4 + 9 + 16 + \dots + 225 \]
+	
+	\item Fill in the blanks in your (group's) own words: 
+	\begin{itemize}
+		\item A Riemann sum is \underline{\hspace{2in}}. 
+		\item The purpose of a Riemann sum is to \underline{\hspace{2in}}. 
+	\end{itemize}
+	
+	\item Consider the function $f(x) = 0.5 e^{0.5x}$, which is pictured below on the interval $[0,4]$. 
+\begin{center}
+	\includegraphics[width=0.5\textwidth]{Sec4-2-plot}
+\end{center}	
+	
+	
+	Let's set up a Riemann sum to estimate the area under the curve on this interval. 
+	\begin{enumerate}
+		\item Divide the interval $[0,4]$ into four equal pieces. How wide is each one? 
+		\item Find the LEFT endpoints of each of the four pieces. List the $x$-coordinates of those endpoints. 
+		\item Find the value of $f$ at each of the endpoints; do not estimate these from the graph but rather use the formula for $f$ to get exact values. List those $f$-values. 
+		\item On the graph, draw four rectangles formed from the four pieces, each having a height equal to the height of the left endpoint. 
+		\item Find the total area of the four rectangles you created. Do not estimate any values from the graph. 
+		\item The above sum is an approximation to the area under the curve. Is the real area under the curve smaller than, larger than, or equal to this approximation? How would you change the above process if you wanted greater accuracy? 
+	\end{enumerate}
+\end{enumerate}
+
+
+
+\end{document}

@@ -1,0 +1,140 @@
+\documentclass[11pt]{article}
+
+% \pagestyle{empty}                       %no page numbers
+% \thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+\newcommand{\cuthere}{%
+\noindent
+\raisebox{-2.8pt}[0pt][0.75\baselineskip]{\small\ding{34}}
+\unskip{\tiny\dotfill}
+}
+
+\def\ra{\rightarrow}
+\def\blank{\underline{\hspace{1in}}}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{October 24/25, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+		\begin{center}
+			\begin{large}
+			\textbf{Class Activities: Using derivatives to describe families of functions} \\
+			\end{large}
+		\end{center}
+	
+Get into groups of 2--4 and work through all of the following activities. These are not to be turned in, and they will not be graded. Instead, record your group's work on your copy and keep it for notes. I will be coming to each group one by one as you work to observe what you're doing, answer questions, and catch any misconceptions that are happening. We will stop with about 10 minutes remaining to debrief the main ideas.
+
+\section{Focus questions}
+
+\begin{itemize}
+	\item EXTREME VALUE THEOREM: Suppose that $f$ is a continuous function on the closed interval $[a,b]$. Then $f$ must have an \blank \blank and an \blank \blank on $[a,b]$. 
+	\item PROCESS FOR FINDING ABSOLUTE EXTREMA ON A CLOSED INTERVAL: Given a continuous function $f$ on $[a,b]$: 
+	\begin{description}
+		\item[Step 1:] Find the c\blank \ v\blank s of $f$ inside $[a,b]$. 
+		\item[Step 2:] Evaluate $f$ at the c\blank \ v\blank s of $f$ and at the points $x=$ \blank 
+	and $x=$ \blank. 
+		\item[Step 3:] The \blank est  of these values is the global minimum of $f$ on $[a,b]$. The  \blank est  of these values is the global maximum of $f$ on $[a,b]$.
+	\end{description}
+\end{itemize}
+
+
+\section{Global optimization practice part 1} 
+
+Consider the function $h(x) = xe^{-x}$ on the closed interval $[0,3]$. You may assume that this function is continuous\footnote{The function $y = xe^{-x}$ is continuous because $y = x$ and $y = e^x$ are both continuous; because $y = e^{-x}$ is continuous; and because the product of two continuous functions is also continuous.}
+
+\begin{enumerate}
+	\item Calculate $h'(x)$. 
+	
+	\vspace{0.7in}
+	
+	\item Find the critical value of $h$ inside the interval $[0,3]$. (There will be just one of these.) 
+	
+	\vspace{0.7in}
+	
+	
+	\item Fill in the table below: 
+	\begin{center}
+		\begin{tabular}{c||c}
+		$x$ & $h(x)$ \\ \hline
+		Critical value: \hspace{0.3in} & \hspace{0.5in} \\ \hline
+		Left endpoint: \hspace{0.3in} & \hspace{0.5in} \\ \hline
+		Right endpoint: \hspace{0.3in} & \hspace{0.5in} 
+		\end{tabular}
+	\end{center}
+	
+	\pageturn
+	
+	\item What is the global minimum value of $h$ on $[0,3]$, and at what value of $x$ does it occur? 
+	
+	
+	\vspace{0.4in}
+	
+	\item What is the global maximum value of $h$ on $[0,3]$, and at what value of $x$ does it occur? 
+	
+	
+	\vspace{0.4in}
+	
+	\item Questions for you on this process:
+	\begin{itemize}
+		\item In the table above, why did we evaluate the critical numbers and endpoints into $f$, and not $f'$? 
+		\item Why didn't we make any sign charts here, or use the First or Second Derivative Tests? 
+	\end{itemize}
+	
+\end{enumerate}
+
+\section{Global optimization practice part 2}
+
+Pick one of the following functions and find the global minimum and global maximum of that function on the interval stated. Follow the process that you worked out in the previous section of this activity. If you get done before time is called, choose another function. In all cases, check your work by graphing the function you selected over the interval stated. 
+
+\begin{itemize}
+	\item $p(t) = \sin(t) + \cos(t)$, $\left[-\frac{\pi}{2}, \frac{\pi}{2}\right]$
+	\item $q(x) = \frac{x^2}{x-2}$, $[3,7]$
+	\item $f(x) = 3\sin\left(2 \left(t - \frac{\pi}{6}\right)\right)$, $[0, 2\pi]$
+\end{itemize}
+
+
+\vfill 
+
+\cuthere
+
+\noindent
+\textbf{A question I have after today's class work is:}
+
+\vspace{1in}
+
+\end{document}

@@ -1,0 +1,188 @@
+\documentclass[11pt]{article}
+
+% \pagestyle{empty}                       %no page numbers
+% \thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+\newcommand{\cuthere}{%
+\noindent
+\raisebox{-2.8pt}[0pt][0.75\baselineskip]{\small\ding{34}}
+\unskip{\tiny\dotfill}
+}
+
+\def\ra{\rightarrow}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{August 30, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+		\begin{center}
+			\begin{large}
+			\textbf{Class Activities: Measuring Velocity} \\
+			\end{large}
+		\end{center}
+	
+Get into groups of 2--4 and work through all of the following activities. These are not to be turned in, and they will not be graded. Instead, record your group's work on your copy and keep it for notes. I will be coming to each group one by one as you work to observe what you're doing, answer questions, and catch any misconceptions that are happening. We will stop with about 10 minutes remaining to debrief the main ideas. 
+
+
+\section{Average velocity and geometry}
+
+Consider the position function of a flying ball given by $s(t) = 64 - 16(t-1)^2$, where $t$ is measured in seconds and $s$ is measured in feet. This is the same position function you worked with in the Preview Activity. Below, you're given a graph of this position function with two points shown on the graph. Point $A$ is at the point $(0.4, s(0.4))$ and point $B$ is at $(0.8, s(0.8))$. 
+
+\begin{center}
+	\includegraphics{act11-plot}
+\end{center}
+
+\begin{enumerate}
+	\item Compute the average velocity of the ball on the interval $[0.4, 0.8]$. Show enough work that you can review this later for study purposes. Include correct units of measurement on your answers. Your average velocity should be an exact value, not estimated off the graph.
+	
+	\vspace{1in}
+	
+	\item On the graph, draw the line connecting points $A$ and $B$. Then calculate that line's slope. 
+	
+	\item What is the relationship between the results of the previous two questions? 
+	
+	\pageturn
+	
+	\item Fill in the blanks: 
+	\begin{quote}
+		The average velocity of the ball on the interval $[a,b]$ is the s\underline{\hspace{1in}} of the l\underline{\hspace{1in}} connecting the points 
+		(\underline{\hspace{0.25in}}, \underline{\hspace{0.25in}}) and (\underline{\hspace{0.25in}}, \underline{\hspace{0.25in}}). 
+ 	\end{quote} 
+\end{enumerate}
+
+\section{Average velocity and instantaneous velocity}	
+		
+Once again consider the ball from the Preview Activity having position $s(t) = 64 - 16(t-1)^2$. 
+
+\begin{enumerate}
+	\item What is the difference between \textbf{average} velocity and \textbf{instantaneous} velocity? 
+	
+	\vspace{1in}
+	
+	\item Compute the average velocity of the ball over the following intervals. Show enough work that you can review this later for study purposes. Include correct units of measurement on your answers. 
+	\begin{enumerate}
+		\item $[0.79, 0.8]$
+		\vspace{0.5in}
+		
+		\item $[0.8, 0.81]$
+		\vspace{0.5in}
+		
+	\end{enumerate}
+	
+	\item Here is a table of average velocities of the ball over a number of intervals (which include the ones you used above, so you can check your work). The units are left off to save space. 
+	
+	\begin{center}
+		\begin{tabular}{c|c||c|c}
+		Interval  & A.V. on that interval & Interval & A.V. on that interval \\ \hline
+		$[0.4, 0.8]$ & 12.8 & $[0.8, 1.2]$ & 0 \\ 
+		$[0.7, 0.8]$ & 8.0 & $[0.8, 0.9]$ & 4.8 \\
+		$[0.79, 0.8]$ & 6.56 & $[0.8, 0.81]$ & 6.24 \\
+		$[0.799, 0.8]$ & 6.416 & $[0.8, 0.801]$ & 6.384 \\
+		$[0.7999, 0.8]$ & 6.4016 & $[0.8, 0.8001]$ & 6.3984\\
+ 		\end{tabular}
+	\end{center}
+	
+	Notice all of these intervals either start or end at $t = 0.8$. Based on the table data, what do you think is the ball's \emph{instantaneous} velocity at $t = 0.8$? And what's your reasoning? 
+	
+	\vspace{1in}
+	
+	\item Suppose you wanted to find the ball's instantaneous velocity at $t = 0.6$ instead. How would you change the above process to do that? 
+	
+	
+
+\end{enumerate}
+
+\pageturn	
+	
+\section{Finding velocity using the second formula}	
+
+Once again consider the function $s(t) = 64 - 16(t-1)^2$, which gives the position of ball at time $t$. 
+
+
+\begin{enumerate}
+	\item Calculate the value of $s(2)$. 
+			
+	\vspace{0.5in}
+			
+			\item Calculate the expression $s(2+h)$ and simplify completely. The result should be: $48 - 32h - 16h^2$. Debug your algebra if you do not come up with this.
+			
+			\vspace{1.3in}
+			
+			
+			\item Calculate the value of $s(2+h) - s(2)$ and simplify completely, including factoring out any common factors. 
+			
+			\vspace{1.3in}
+			
+			\item Set up and simplify the expression for the average velocity of an object with position $s(t)$ on the interval $[2, 2+h]$. The result should be an expression whose only variable is $h$, and there should be no fractions in the result. 
+
+			\vfill
+
+			\cuthere
+			
+			\begin{small}
+				(No work below this line please)
+			\end{small}
+			
+
+\pageturn
+
+			
+			\item Use the result of the previous question to find the average velocity of an object with position $s(t)$ on the interval $[2, 2.001]$. (Hint: What is the value of $h$ in this case?)
+			
+		\vspace{1.2in}
+			
+			\item Use the result of question 4 to find the \emph{instantaneous} velocity of an object with position $s(t)$ at $t = 2$. (Hint: Earlier, we saw that as the length of the time interval shrinks, the average velocity becomes the instantaneous velocity. If the length of the time interval shrinks, what are the values of $h$ approaching?)
+	
+		\vspace{2in}
+		
+		\item How would you adjust the above processes if you were using the same position function for $s$ but wanted to find the instantaneous velocity at $t = 1$? 
+	
+	
+	
+\end{enumerate}
+
+\vfill
+
+\cuthere
+
+\noindent
+\textbf{What was the least clear point from today's class?}
+
+\vspace{1in}
+
+\end{document}

@@ -1,0 +1,160 @@
+\documentclass[11pt]{article}
+
+% \pagestyle{empty}                       %no page numbers
+% \thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+\newcommand{\cuthere}{%
+\noindent
+\raisebox{-2.8pt}[0pt][0.75\baselineskip]{\small\ding{34}}
+\unskip{\tiny\dotfill}
+}
+
+\def\ra{\rightarrow}
+% \def\arcsin{\text{arcsin}}
+\def\blank{\underline{\hspace{1in}}}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{October 7/8, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+		\begin{center}
+			\begin{large}
+			\textbf{Class Activities: Derivatives of inverse functions} \\
+			\end{large}
+		\end{center}
+	
+Get into groups of 2--4 and work through all of the following activities. These are not to be turned in, and they will not be graded. Instead, record your group's work on your copy and keep it for notes. I will be coming to each group one by one as you work to observe what you're doing, answer questions, and catch any misconceptions that are happening. We will stop with about 10 minutes remaining to debrief the main ideas. \\
+
+\section{Focus questions}
+
+\begin{itemize}
+	\item If $y = \ln x$, then $x = \blank$. 
+	% \item In general, if $y = \log_b x$ where $b > 0$, then $x = \blank$. 
+	\item If $y = \arcsin x$, then $x = \blank$. 
+	\item If $y = \arctan x$, then $x = \blank$. 
+	\item The derivative of $y = \ln x$ is $y' = \blank.$ 
+	\item The derivative of $y = \arcsin x$ is $y' = \blank$. 
+	\item The derivative of $y = \arctan x$ is $y' = \blank$. 
+\end{itemize}
+
+\section{Basic practice with new derivative rules}
+
+Find the derivative of each of the functions below. Begin each derivative by identifying the function's fundamental structure. (Is it a sum? Product? Quotient? Composite? Or what?) Then proceed using the appropriate rules. 
+
+\begin{enumerate}
+	\item $h(x) = x^2 \ln x$
+	
+	\vspace{1in}
+	
+	\item $p(t) = \dfrac{\ln(t)}{e^t + 1}$
+	
+	\vspace{1in}
+	\item $s(y) = \ln(\cos(y) + 2)$
+	
+\pageturn
+	
+	\item $z(x) = \tan(\ln(x))$
+	\vspace{1in}
+	
+	\item $m(z) = \ln(\ln(z))$
+	\vspace{1in}
+\end{enumerate}
+
+
+\section{Deriving the differentiation formula for $y = \arctan x$}
+
+Recall that the arctangent function $y = \arctan x$ is defined by the rule: 
+\begin{center}
+	$y = \arctan x$ \hspace{0.25in} means \hspace{0.25in} $x = \tan y$
+\end{center}
+That is, \textbf{$\arctan x$ is the angle whose tangent value is $x$.} For example, $\arctan(1) = \pi/4$. Note that angles are the \emph{outputs} of inverse trigonometric functions. Unlike the arcsine function, there are no restrictions on the domain of the arctangent function; its domain is the entire set of real numbers. 
+
+Follow these steps to derive a formula for the derivative of $y = \arctan x$. 
+
+\begin{enumerate}
+	\item Let $r(x) = \arctan x$. Use the definition of the arctangent function to rewrite this equation using only the tangent function. 
+	\vspace{0.5in}
+	
+	\item Differentiate both sides of the equation from (1). NOTE WELL: One side of this equation will have $\tan(r(x))$ in it, and you will need the Chain Rule to differentiate this. 
+	\vspace{1in}
+	
+	\item Solve the resulting equation from (2) for $r'(x)$, writing $r'(x)$ as simply as possible in terms of a trigonometric function evaluated at $x$. 
+	
+	\pageturn
+	
+	\item Consider the following right triangle: 
+	
+		\includegraphics[width=1in]{arctangent-derivative}
+	
+	What is the value of $\tan(\theta)$? Therefore, what is the value of $\arctan x$? 
+	\item In terms of only the variable $x$ and the number $1$, what is the value of $\cos(\arctan(x))$? 
+	\vspace{1in}
+	
+	\item Put your results together to simplify the formula for $r'(x)$ so that it only involves the number $1$ and the variable $x$. Done! 
+	\vspace{1in}
+\end{enumerate}
+
+\section{Further applications} 
+
+\begin{enumerate}
+	\item Find the \emph{second} derivative of $y = \arctan x$ and state where $y = \arctan x$ is concave up and where it is concave down. Confirm your answer using a graph of $y = \arctan x$. 
+	
+	\pageturn
+	
+	\item Find a local linearization of $y = \ln(x^2 + 1)$ at the point $x = 1$ and use it to estimate the value of $\ln(2.21)$. (You will not just plug in $x = 2.21$. What value of $x$ would make the argument on the logarithm equal to $2.21$?) Confirm your answer by computing $\ln(2.21)$ on a calculator and comparing; the two will not be equal but should be reasonably close. (Good question: How does your calculator actually compute $\ln(2.21)$?) 
+	
+	
+	\vspace{3in}
+
+	\item Find the derivative of $y = 2^{t \arcsin t}$. 
+
+	% \item Find the derivative of $y = \arctan\left( \dfrac{\ln w}{1+ w^2} \right)$. 
+\end{enumerate}
+
+\vfill
+
+\textbf{Answers to Further Applications:} $y'' = -\frac{2 x}{\left(x^2+1\right)^2}$, concave up on $(-\infty, 0)$ and concave down on $(0, \infty)$; local linearization is $y = x + (\ln 2 - 1)$, so $\ln(2.21) \approx 1.01 + \ln 2 - 1 \approx 0.703147$; $\ln (2) \cdot 2^{t \arcsin(t)} \left(\frac{t}{\sqrt{1-t^2}}+\arcsin(t)\right)$. 
+
+\cuthere
+
+\noindent
+\textbf{A question I have after today's class work is:}
+
+\vspace{1in}
+
+\end{document}

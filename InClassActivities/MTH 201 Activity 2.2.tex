@@ -1,0 +1,166 @@
+\documentclass[11pt]{article}
+
+% \pagestyle{empty}                       %no page numbers
+% \thispagestyle{empty}                   %removes first page number
+\setlength{\parindent}{0in}               %no paragraph indents
+
+\usepackage{fullpage}
+\usepackage[tmargin = 0.5in, bmargin = 1in, hmargin = 1in]{geometry}     %1-inch margins
+\geometry{letterpaper}                  
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+% Default packages
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+\newcommand{\cuthere}{%
+\noindent
+\raisebox{-2.8pt}[0pt][0.75\baselineskip]{\small\ding{34}}
+\unskip{\tiny\dotfill}
+}
+
+\def\ra{\rightarrow}
+
+\def\pageturn{\vfill 
+\begin{flushright}
+	\begin{small}
+		Continued $\ra$
+	\end{small}
+\end{flushright} \newpage}
+
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\thispagestyle{fancy}
+	\lhead{Prof. Talbert}
+	\chead{MTH 201: Calculus 1}
+	\rhead{September 25/26, 2013}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}	
+	
+	\vspace*{0in}
+
+		\begin{center}
+			\begin{large}
+			\textbf{Class Activities: The sine and cosine functions} \\
+			\end{large}
+		\end{center}
+	
+Get into groups of 2--4 and work through all of the following activities. These are not to be turned in, and they will not be graded. Instead, record your group's work on your copy and keep it for notes. I will be coming to each group one by one as you work to observe what you're doing, answer questions, and catch any misconceptions that are happening. We will stop with about 10 minutes remaining to debrief the main ideas. \\
+
+\section{Focus questions}
+
+Fill in the following tables of values WITHOUT USING A CALCULATOR\footnote{You are allowed to use a calculator if you absolutely must, but you will be publicly ridiculed and made to ride the GV Wrecking Ball once it is reinstalled if you do.}: 
+
+\begin{center}
+	\begin{tabular}{c||c||c}
+	$x$ & $\sin(x)$ & $\cos(x)$ \\ \hline
+	$-2\pi$ & \hspace{1in} & \hspace{1in} \\
+	$-3\pi/2$ & & \\ \hline
+	$-\pi$ & & \\  
+	$-\pi/2$ & & \\ \hline
+	$0$ & & \\ 
+	$\pi/2$ & & \\ \hline
+	$\pi$ & & \\ 
+	$3 \pi/2$ & & \\ \hline
+	$2 \pi$ & & 
+	\end{tabular}
+\end{center}
+
+\section{The derivative of the sine function}
+
+Consider the graph of the function $f(x) = \sin(x)$ shown on a separate handout. Note well the scaling used in this plot; the grid boxes are not 1:1. 
+
+\begin{enumerate}
+	\item At each of $x = -2\pi, -3 \pi/2, -\pi, -\pi/2, 0, \pi/2, \pi, 3\pi/2, 2\pi$, use a straightedge to sketch an accurate tangent line to $y = f(x)$. (I recommend using a pencil this time in case things get messy.)
+	\item Use the grid on the plot to estimate the slopes of the tangent lines you drew. Again, pay attention to the scaling on the grid. 
+	\item Based on your results, make an accurate sketch of the derivative of $f(x) = \sin(x)$ on the same set of axes as $f(x)$, on the interval $[-2\pi, 2\pi]$. 
+	\item The sine function is periodic, meaning that it repeats itself regularly. In particular, remember that the period of $\sin(x)$ is $2 \pi$. Based on this, what do you think the graph of the derivative of $f(x) = \sin(x)$ looks like outside the interval $[-2\pi, 2\pi]$? 
+
+	\item What familiar function do you think is the derivative of $f(x) = \sin(x)$? Make a guess and then fill in the blank: 
+	\begin{center}
+		If $f(x) = \sin(x)$, then $f'(x) = \underline{\hspace{1in}}$. 
+	\end{center}
+\end{enumerate}
+
+\pageturn
+
+\section{The derivative of the cosine function}
+
+Consider the graph of the function $f(x) = \cos(x)$ shown on a separate handout. Note well the scaling used in this plot; the grid boxes are not 1:1. 
+
+\begin{enumerate}
+	\item At each of $x = -2\pi, -3 \pi/2, -\pi, -\pi/2, 0, \pi/2, \pi, 3\pi/2, 2\pi$, use a straightedge to sketch an accurate tangent line to $y = f(x)$. 
+	\item Use the grid on the plot to estimate the slopes of the tangent lines you drew. Again, pay attention to the scaling on the grid. 
+	\item Based on your results, make an accurate sketch of the derivative of $f(x) = \cos(x)$ on the same set of axes as $f(x)$, on the interval $[-2\pi, 2\pi]$. 
+	\item The cosine function is also periodic with period $2 \pi$. Based on this, what do you think the graph of the derivative of $f(x) = \cos(x)$ looks like outside the interval $[-2\pi, 2\pi]$? 
+	
+	\vspace{0.5in}
+	
+	\item What familiar function do you think is the derivative of $f(x) = \cos(x)$? Make a guess and then fill in the blank: 
+	\begin{center}
+		If $f(x) = \cos(x)$, then $f'(x) = \underline{\hspace{1in}}$. 
+	\end{center}
+	
+\end{enumerate}
+
+
+
+\section{Computation with the derivatives of sine and cosine}
+
+Here are several computational questions to answer.
+
+\begin{enumerate}
+	\item Determine the derivative of the function $h(t) = 3 \cos(t) - 4 \sin(t)$. 
+	
+	\vspace{1in}
+	
+	\item Find the derivative of $g(x) = x^4 + 4^x + 4 \cos(x) - \sin(\pi/2)$. 
+	
+	\vspace{1in}
+	
+	\item Find the EXACT value of the slope of the tangent line to the graph of $y= f(x) = 2x + \frac{1}{2} \sin(x)$ at the point $x = \pi/6$. 
+	
+\pageturn
+	
+	\item The temperature of a room in a house is given by $f(t) = 72 + 4 \sin(t)$ where $f$ is measured in degrees Fahrenheit and $t$ is measured in hours since midnight. Find the instantaneous rate of change in the temperature at 8:00am. Give your answer accurate to four decimal places. 
+	
+	\vspace{1in}
+	
+\end{enumerate}
+
+
+\section{Playing by the rules}
+
+Here are ten functions whose derivatives we might wish to take. We have enough tools to differentiate some of these --- but not all of them! Some of these functions are beyond the scope of the differentiation rules we have learned in Sections 2.1 and 2.2. Determine which functions have derivatives that we can compute using only the rules from Sections 2.1 and 2.2, and put a circle around each one. (Do not actually take the derivative of any of those functions.) Put a big ``X'' through any function whose derivative we cannot currently take using our derivative-taking rules. \\
+
+
+\emph{Note}: We will eventually develop enough rules to take the derivatives of \emph{all} of these, but it's important to know the limitations of the computational rules you have. 
+
+\[ y = \cos(x) + x^2 \qquad y = 2 \cos(x) + x^2 \qquad y = \cos(2x) + x^2 \qquad y = x^2 \cos(x) \qquad y = \cos^2(x) \] 
+
+\vspace{1in}
+
+\[ y = 5 \sin(x) \qquad y = \sin(5x) \qquad y = \frac{\sin(x)}{5} \qquad y = \sin(\frac{x}{5}) \qquad y = \sin^2(5x) + \cos^2(5x) \] 
+
+
+\vfill
+
+\cuthere
+
+\noindent
+\textbf{What was the least clear point from today's class?}
+
+\vspace{1in}
+
+\end{document}
