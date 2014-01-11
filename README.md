@@ -10,4 +10,6 @@ The materials in this repo correspond to the chapters and sections in the textbo
 - In-class activities. 
 - Problems for a Portfolio assignment, which was used in our calculus class as a semester-long project.  
 
+Other materials can be found on [the web site for my Fall 2013 instance of this course](http://teaching.proftalbert.com/mth201f13). 
+
 All materials are licensed under a [Creative Commons Attribution-ShareAlike 3.0 license](http://creativecommons.org/licenses/by-sa/3.0/us/). 
