@@ -1,0 +1,63 @@
+# Guided Practice for 1.6: The second derivative
+
+## Overview 
+In this section we study the **second derivative** of a function, which is just the derivative of the first derivative. That is -- "taking a derivative" is something we do to a function, and since the derivative f' is a function, we can take its derivative too. The second derivative is an important ingredient for understanding the subtle behaviors of a function, and in particular the concept of **concavity** will distinguish between a function that is increasing at an increasing pace and a function that is increasing at a decreasing pace. Our main highlight for this section is to have a clear understanding of the relationships between the sign of f', the sign of f'' (the second derivative), the increasing/decreasing behavior of f, and the concavity of f. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+- (*Review*) Given a graph of a function, sketch the graph of its derivative or identify its derivative from a list of options. 
+- Define what it means for a function to be *increasing* or *decreasing* on an interval, and identify intervals on which a function is increasing or decreasing given a graph of the function. 
+- Define what is meant by the *second derivative* of a function. 
+- Define what it means for a function to be *concave up* or *concave down* on an interval, and identify intervals on which a function is concave up or concave down, given a graph of the function. 
+ 
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+- Given the graph of a function, sketch the graph of its second derivative. 
+- Explain what the six different combinations of increasing/decreasing and concave up/concave down/linear mean in real-life terms (such as "increasing at a decreasing rate"). 
+- Tell whether a function is increasing or decreasing given information about the sign of f' (the first derivative). 
+- Tell whether a function is concave up, concave down, or linear given information about the sign of f'' (the second derivative). 
+- Given a table of values for a function, construct a table of approximate values for its second derivative. 
+ 
+## Resources
+*Reading*: **Read Section 1.6, pages 48--58 in Active Calculus**. We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist. These have a total running time of 20 minutes, 39 seconds:  
+
+- [Quick Review: The second derivative](http://www.youtube.com/watch?v=UtzyPEk2zxA&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=17) (3:07)
+- [Limit definition of the second derivative](http://www.youtube.com/watch?v=SIp6g-u-rkc&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=18) (9:49)
+- [Determining concavity from a graph](http://www.youtube.com/watch?v=o1_o4E-LGsA&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=19) (7:43)
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+1. Consider the graph of the following function, which shows the population of deer in a national forest as a function of time: 
+
+a) What is the sign (positive, negative, zero) of the first derivative of this function for any value of t? Explain in one sentence how you know. 
+
+b) The function is increasing, but the way in which it is increasing is qualitatively different on the interval [0,5] than it is on [5,10]. Explain in your own words the difference in the behavior of the function on those two intervals. 
+
+c) On a printed or hand-copied version of this graph, draw tangent lines to the graph at t = 0, t = 1, t = 2, ... all the way up to t = 10. From t = 0 to t = 5, are the *slopes* of these lines increasing or decreasing? What about from t = 5 to t = 10? 
+
+d) In the language of the section, where is the graph concave up, and where is it concave down? Give your answers in terms of intervals. 
+
+2. Now consider this graph, which shows the temperature of a pot of soup as a function of time: 
+
+a) What is the sign (positive, negative, zero) of the first derivative of this function for any value of t? Explain in one sentence how you know. 
+
+b) Explain in your own words the difference in the behavior of the function on the interval [0, 30] compared to the behavior on the interval [30,60]. 
+
+c) On a printed or hand-copied version of this graph, draw tangent lines to the graph at t = 0, t = 5, t = 10, ... all the way up to t = 60. From t = 0 to t = 30, are the *slopes* of these lines increasing or decreasing? What about from t = 30 to t = 60? (NOTE: When a quantity changes from a negative number to a larger negative number, such as changing from -10 to -15, then the quantity is *decreasing* not increasing.) 
+
+d) In the language of the section, where is the graph concave up, and where is it concave down? Give your answers in terms of intervals. 
+
+3. What specific mathematical questions do you have about the reading and viewing that you would like to discuss in class? 
+
+## Turn-in instructions
+
+Go to the web form located at the following link and type in your answers: [http://bit.ly/17Bh4QW](http://bit.ly/17Bh4QW)
+
+Responses are due **one hour before your section's class time**. If you do not have access to the internet where you live, please let me know in advance and we will make alternative arrangements.  

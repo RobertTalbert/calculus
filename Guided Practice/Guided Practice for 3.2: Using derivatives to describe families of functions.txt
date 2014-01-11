@@ -1,0 +1,47 @@
+# Guided Practice for 3.2: Using derivatives to describe families of functions
+
+## Overview 
+In this section, we look at *families of functions* that consists of functions all having the same basic structure but which differ by a *parameter*. Our goal is to use calculus tools to describe the behavior of all members of the family -- their increasing/decreasing behavior, local extrema, concavity, inflection points, and more -- all at once in terms of the parameters they have. This allows us to make global descriptions of an entire collection of functions rather than having to deal one function at a time. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+- Define what is meant by a “parameter” and describe how a parameter is different than a variable. 
+- Take the derivative of a function whose formula contains one or more parameters. 
+- Construct a sign chart for a function with one or more parameters. 
+
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+- Work with one-, two-, and three-parameter families of functions to find their derivatives and use the derivative information to describe patterns in their behavior. Includes both graphical work with Geogebra and computational work. 
+ 
+
+## Resources
+*Reading*: **Read all of Section 3.2, pp. 164-170 in Active Calculus**. We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist, which have a combined running time of 22 minutes, 21 seconds: 
+
+- [Quick Review: Families of functions](http://www.youtube.com/watch?v=NYM4k8TUoII&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=63) (2:36)
+- [Working with families of functions, part 1](Screencast 3.2.2: Working with families of functions part 1) (9:37)
+- [Working with families of functions, part 2](http://www.youtube.com/watch?v=O2sVd_P5bWo&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=65) (10:08)
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+The exercises for this Guided Practice come from Preview Activity 3.2. For convenience, the various parts of that Preview Activity will be done in groups: 
+
+1. Work Preview Activity 3.2(a). 
+2. Work Preview Activity 3.2(b).
+3. Work Preview Activity 3.2(c).
+4. Work Preview Activity 3.2(d). 
+5. Work Preview Activity 3.2(e) and give a brief explanation for your answers.    
+6. What specific mathematical questions do you have after the reading, viewing, and exercises? 
+
+
+## Turn-in instructions
+
+Go to the web form located at the following link and type in your answers: [http://bit.ly/H17blJ](http://bit.ly/H17blJ)
+
+Responses are due **one hour before your section's class time**. If you do not have access to the internet where you live, please let me know in advance and we will make alternative arrangements.  

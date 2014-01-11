@@ -1,0 +1,46 @@
+# Guided Practice for 3.3: Global optimization
+
+## Overview 
+One of the most important applications of calculus to authentic real-world problems is optimization, or finding the "best" value of a function. We've already touched on this idea in Section 3.1 by describing how to use derivatives to find maximum and minimum values of a function. But we also saw that it's possible for a function *not* to have an absolute (or "global") maximum or minimum value. In this section, we will be discussing situations in which functions *do* have global extreme values -- namely, when the function is continuous and defined only on a closed interval -- and describe a simple method for how to find these extrema. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+- (Review) Explain the difference between a *global* maximum or minimum and a *local* maximum or minimum. 
+- Explain what the **Extreme Value Theorem** says and enumerate the three-stage process outlined in that theorem for finding the global extreme values of a function on a closed interval. 
+
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+- Given a continuous function on a closed interval, find the global extreme values of the function. 
+- Apply the process of global optimization to an applied setting. 
+ 
+
+## Resources
+*Reading*: **Read all of Section 3.3, pp. 172-178 in Active Calculus**. We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist, which have a combined running time of 17 minutes, 48 seconds: 
+
+- [Quick Review: Global optimization](http://www.youtube.com/watch?v=ldJfxeGHv3Y&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=66) (2:31)
+- [Finding absolute extreme values](http://www.youtube.com/watch?v=YE57SJzL8r8&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=67) (8:08)
+- [Optimizing population](http://www.youtube.com/watch?v=kz9JFNlQVVI&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=68) (7:09) 
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+The exercises for this Guided Practice come from **Activity 3.7** (*not* the Preview Activity for this section). If you wish also to work the Preview Activity, please feel free, but do not submit work on the Preview Activity online. I'll look at it with you individually if you want. 
+
+1. Work Activity 3.7(a). The phrase "on the interval $$-2 \leq x \leq 3$$" is very important. 
+2. Construct the graph of the function $$g$$ in Activity 3.7 but do not try to submit it. Then answer Activity 3.7(c).
+3. Work Preview Activity 3.2(d).
+4. Work Preview Activity 3.2(e). 
+5. What specific mathematical questions do you have after the reading, viewing, and exercises? 
+
+
+## Turn-in instructions
+
+Go to the web form located at the following link and type in your answers: [http://bit.ly/1bzkhAU](http://bit.ly/1bzkhAU)
+
+Responses are due **one hour before your section's class time**. If you do not have access to the internet where you live, please let me know in advance and we will make alternative arrangements.  

@@ -1,0 +1,46 @@
+# Guided Practice for 2.4: Derivatives of other trigonometric functions
+
+## Overview 
+In this section, we will use the Product and Quotient Rules along with our rules for differentiating \sin(x) and \cos(x) to derive formulas for the derivatives of the remaining four trigonometric functions: \tan(x), \cot(x), \sec(x), and \csc(x). We will then use these trigonometric derivatives in problems involving angles and cyclical behavior. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+- (*Review*) Apply all the derivative rules from Sections 2.1--2.3 with fluency. 
+- (*Review*) State the definitions of the tangent, secant, cosecant, and cotangent functions. 
+- (*Review*) State where the sine and cosine functions attain a value of 0. 
+- (*Review*) State the “Fundamental Trigonometric Identity”. (Hint: Look on page 105.)
+
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+- Derive the rules for differentiating \tan(x), \cot(x), \sec(x), and \csc(x) "from scratch" using only basic derivative rules and trigonometric identities. 
+- State the derivatives of \tan(x), \cot(x), \sec(x), and \csc(x). 
+- Use the above rules in the context of a real-world problem to find the slope of a tangent line, the instantaneous rate of change in a function, or the instantaneous velocity of an object. 
+ 
+## Resources
+*Reading*: **Read Section 2.4, pages 105--109 in Active Calculus**. We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist. These have a total running time of 11 minutes, 43 seconds:  
+
+- [Quick Review: Derivatives of other trigonometric functions](http://www.youtube.com/watch?v=wARt0oF46wg&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=37) (1:56)
+- [Examples of other trig derivatives](http://www.youtube.com/watch?v=43UXLvQgmwY&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=38) (9:47)
+
+Also, if you need a refresher on basic trigonometry, please browse the [MTH 123 YouTube playlist](http://www.youtube.com/watch?v=HgFCuFdGF-I&feature=share&list=PL9bIjQJDwfGuHRy4zxWDSpFUGw93Nxw6B). 
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+1. Work Preview Activity 2.4(a).
+2. Work Preview Activity 2.4(b) and 2.4(c). 
+3. Work Preview Activity 2.4(d).
+4. Work Preview Activity 2.4(e). 
+5. What specific mathematical questions do you have about the reading and viewing that you would like to discuss in class? 
+
+## Turn-in instructions
+
+Go to the web form located at the following link and type in your answers: [http://bit.ly/16hSBvw](http://bit.ly/16hSBvw)
+
+Responses are due **one hour before your section's class time**. If you do not have access to the internet where you live, please let me know in advance and we will make alternative arrangements.  

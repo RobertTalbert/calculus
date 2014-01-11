@@ -1,0 +1,51 @@
+# Guided Practice for 2.7: Derivatives of functions given implicitly
+
+## Overview 
+In this section we take up two problems: (1) finding tangent lines to curves that are not graphs of functions, for example circles or curves that double back on themselves, and (2) finding derivatives of functions for which complete information (such as a formula) is not given. Both of these problems are connect by the same concept, that of an implicit function. The process we develop here, sometimes called *implicit differentiation*, is a powerful application of the Chain Rule that has some similarities to problems you've worked before where the functions involved are given only as data or as graphs. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+- (*Review*) Differentiate a composite function using the Chain Rule. 
+- Explain what it means for a curve to be an *implicit function*, as opposed to an explicit function, of x. 
+- Take the derivative of a function that is, or that involves, an implicit function. (This is done in the Preview Activity). 
+
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+- Given an equation in x and y, where y is an implicit function of x, calculate the derivative \frac{dy}{dx}.
+- Find the slope and equation of a tangent line to a curve that is specified by an equation that is not the graph of a function. 
+- Find the points on a curve where the tangent line is horizontal and where the tangent line is vertical. 
+
+
+## Resources
+*Reading*: **Read all of Read all of Section 2.7, pp. 131–138 in Active Calculus**. We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist, which have a combined running time of 15 minutes, 30 seconds: 
+
+- [Quick Review: Derivatives of functions given implicitly](http://www.youtube.com/watch?v=YI7uxdvcq4E&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=49) (2:23) 
+- [Derivatives of implicit functions](http://www.youtube.com/watch?v=wEiiLU2jFng&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=50) (5:06) 
+- [Finding slope with implicit differentiation](http://www.youtube.com/watch?v=_2aCDXYMz1U&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=51) (8:21)
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+In Preview Activity 2.7 you are asked to differentiate a function that combines an implicitly defined function f (whose formula is not known) with an explicit function (whose formula is known). Here is part (a) of that Preview Activity so you will have a sense of what you are supposed to do: 
+
+\frac{d}{dx}[x^2 + f(x)] = \frac{d}{dx}[x^2] + \frac{d}{dx}[f(x)] = 2x + f'(x) \]
+
+Now you do the following. You do not need to show your work on these unless you want to -- just the answer is necessary. 
+
+1. Work Preview Activity 2.7(b).  (Hint: Product Rule.)
+2. Work Preview Activity 2.7(c).  (Hint: You'll need the Chain Rule for the third term.)
+3. Work Preview Activity 2.7(d). (Hint: Chain Rule again.) 
+4. Work Preview Activity 2.5(e). (Hint: You'll need the Product Rule and Chain Rule.)
+5. What specific mathematical questions do you have about the reading and viewing that you would like to discuss in class? 
+
+## Turn-in instructions
+
+Go to the web form located at the following link and type in your answers: [http://bit.ly/1c5S3Bg](http://bit.ly/1c5S3Bg)
+
+Responses are due **one hour before your section's class time**. If you do not have access to the internet where you live, please let me know in advance and we will make alternative arrangements.  

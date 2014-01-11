@@ -1,0 +1,49 @@
+# Guided Practice for 1.4: The derivative function
+
+## Overview 
+In this section we generalize the idea of the derivative at a point from previous work to find a *formula* for the derivative of a function at *any* point. In other words, given a function f, we will learn how to find a function f' for its derivative. This will involve generalizing the limit-based definition of the derivative we learned earlier. We will learn how to calculate f' from f if f is given as a (simple!) formula and if f is given as a graph. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+* State the definition of the derivative of a function f with respect to x at the value x. 
+* Use the limit definition of the derivative of f to find a formula for f' if f is a constant, linear, or quadratic function. 
+* Given a graph of a function f, identify the graph of its derivative f' from a list, and describe aspects of the behavior of the graph of f'. 
+ 
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+* Given a graph of a function f, sketch the graph of its derivative f'. 
+* Use the limit definition of the derivative of f to find a formula for f' for functions that are not just constant, linear, or quadratic.  
+ 
+## Resources
+*Reading*: **Read Section 1.3, pages 31--37 in Active Calculus**. We will work the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist. These have a total running time of 17 minutes, 18 seconds: 
+
+- [Quick Review: The derivative function](http://www.youtube.com/watch?v=Fzrkq1r-sAI&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=11) (2:40)
+- [Limit definition of derivative](http://www.youtube.com/watch?v=62mySLhhfaQ&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=12) (5:38)
+- [Sketching a derivative graph](http://www.youtube.com/watch?v=TSgyDembmXg&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=13) (6:14)
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+**Guided Practice exercises are graded on the basis of completeness and effort only.** So you should give a good-faith effort to answer each exercise and be right in your answer, but if you make a mathematical or conceptual mistake it will not count against you. However, if you leave an item blank, put "I don't know", or similarly do not put forth an effort to answer each question, you will lose credit. 
+
+1. Work through Preview Activity 1.4 in the section. You'll enter your responses on a web form given below. You do not need to show work, but doing the work is essential for understanding the concepts we will build upon on class. Some of these responses involve using mathematical notation; enter that notation as you would into WeBWorK (for example x^2 for x^2).
+2. Use the limit definition of the derivative to find a formula for f' if f(x) = 3x^2 -1. **It is very important to do the work on this problem using only the limit definition**. You will be assessed on your ability to use the limit definition, not shortcuts that appear later in the course. 
+3. Here is a graph of a function g: 
+
+And here are three other graphs, one of which is the graph of g': 
+
+Which one is g', and why?  
+	
+4. What specific mathematical questions remain after doing this assignment? Also, do you have any questions about the course so far? 
+ 
+## Turn-in instructions
+
+Go to the web form located at the following link and type in your answers: [http://bit.ly/18nrb91](http://bit.ly/18nrb91)
+
+Responses are due **one hour before your section's class time**. If you do not have access to the internet where you live, please let me know in advance and we will make alternative arrangements.  

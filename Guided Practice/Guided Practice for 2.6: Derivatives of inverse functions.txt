@@ -1,0 +1,64 @@
+# Guided Practice for 2.6: Derivatives of inverse functions
+
+## Overview 
+The goal of this section is to develop derivative rules for the functions \( y = \ln(x)\), \( y = \arcsin(x)\), and \(y = \arctan(x)\). These are very important functions in their own rights, and they are all defined as **inverses** of existing functions. The fact that they are inverse functions provides a one-size-fits-all method for determining their derivatives. We will briefly review the basic precalculus concepts about inverse functions and then see how the definition of an inverse function -- in addition to the Chain Rule -- leads to these three derivative rules as well as a general rule for differentiating *any* inverse function. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+- (*Review*) State the basic facts about inverse functions given on page 121. 
+- (*Review*) State the definition of the natural logarithm, arcsine and arctangent functions. 
+- (*Review*) Calculate basic values of the natural logarithm, arcsine, and arctangent functions without a calculator. (For example, \( \ln(e^5)\) and \(\arcsin (1/2) \).) 
+- State the derivative of the natural logarithm function. 
+- State the derivative of the arcsine function. 
+- State the derivative of the arctangent function. 
+
+
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+- Mimic the derivative of the arcsine function derivative to build a differentiation rule for the arctangent function.
+- Differentiate functions involving the natural logarithm, arcsine and arctangent functions. 
+- Solve problems in context that involve the natural logarithm, arcsine and arctangent functions. 
+- If g is the inverse of a differentiable function f,  give a general formula for the derivative of g in terms of the derivative of f. 
+
+
+## Resources
+*Reading*: **Read all of Section 2.6, pp. 120–129 in Active Calculus**. We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist, which have a combined running time of 14 minutes, 24 seconds: 
+
+- [Quick Review: Derivatives of inverse functions](http://www.youtube.com/watch?v=chdkxtt8XQo&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=46) (3:25)
+- [Examples of derivatives with the natural logarithm](http://www.youtube.com/watch?v=jhBhSerqbyU&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=47) (6:30)
+- [Derivatives involving \(\arcsin(x)\)](http://www.youtube.com/watch?v=pEEQNdttZsw&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=48) (5:27) 
+
+The following videos are optional but **strongly recommended** if you need a refresher on inverse functions or logarithms. In class we will assume fluency in working with these concepts. 
+
+- [Inverse functions, part 1](http://www.youtube.com/watch?v=tf-R8T2oyr4&list=PL476C3C1676343E03&index=18) (5:02)
+- [Inverse functions, part 2](http://www.youtube.com/watch?v=KUmWVQc999g&list=PL476C3C1676343E03&index=17) (8:45) 
+- [Introduction to logarithms](http://www.youtube.com/watch?v=hWw_YQ21xU8&list=PL476C3C1676343E03&index=16) (9:41) 
+- [Using logarithms to solve exponentials](http://www.youtube.com/watch?v=YbSOUE2Xdpw&list=PL476C3C1676343E03&index=14) (12:07) 
+
+More such videos can be found at the [MTH 110 (Intermediate Algebra) playlist](http://www.youtube.com/playlist?list=PL476C3C1676343E03). 
+
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+In Preview Activity 2.5 you are asked to tell whether the "fundamental algebraic structure" of a function is a sum, product, quotient, or composition of functions; and if the function is a composition, give a formula for the inner function and a formula for the outer function. Here is a solution for part (a), given the function \( h(x) = \tan(2^x)\). The fundamental structure here is a composition, with the inner function being \(g(x) = 2^x \) and the outer function being \( f(x) = \tan(x) \).
+
+Now you do the following: 
+
+1. Work Preview Activity 2.6(a).
+2. Work Preview Activity 2.5(b).
+3. Work Preview Activity 2.5(c) and (d). These are related exercises, so do them in the same blank. 
+4. Work Preview Activity 2.5(e).
+5. What specific mathematical questions do you have about the reading and viewing that you would like to discuss in class? 
+
+## Turn-in instructions
+
+Go to the web form located at the following link and type in your answers: [http://bit.ly/14XiN2c](http://bit.ly/14XiN2c).
+
+Responses are due **one hour before your section's class time**. If you do not have access to the internet where you live, please let me know in advance and we will make alternative arrangements.  

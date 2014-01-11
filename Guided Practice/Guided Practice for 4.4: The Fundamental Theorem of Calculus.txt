@@ -1,0 +1,45 @@
+# Guided Practice for 4.4: The Fundamental Theorem of Calculus
+
+## Overview 
+In our final section of the semester, we examine the central mathematical concept of the course: **The Fundamental Theorem of Calculus** ("FTC"). The FTC unifies the concept of the definite integral with the concept of the derivative by giving a way to calculate a definite integral in terms of an antiderivative, instead of using geometry or a Riemann sum. In addition to learning to use the FTC and antiderivatives to calculate definite integrals, we will look at the **Total Change Theorem** (sometimes referred to as the "Net" Change Theorem) that gives a platform for applying definite integrals to a wide variety of real-world problems. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+- State the Fundamental Theorem of Calculus and explain in basic terms what it tells you. 
+- Explain how the FTC allows one to evaluate definite integrals by first calculating antiderivatives. 
+- Calculate a definite integral using the FTC and antiderivatives, for an integral in which the integrand is simple to antidifferentiate. 
+- State the Total Change Theorem. 
+
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+- Use the Total Change Theorem to find the amount of change in a quantity, given the rate at which that quantity changes. 
+ 
+## Resources
+*Reading*: **Read all of Section 4.4, pp. 235–246.**  We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist, which have a combined running time of 25 minutes, 26 seconds: 
+
+- [Quick review: The Fundamental Theorem of Calculus](http://www.youtube.com/watch?v=bwjUioJyWe8&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=88) (3:15)
+- [Fundamental Theorem of Calculus with power functions](http://www.youtube.com/watch?v=1uxPq8Gtm18&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=89) (7:33)
+- [Fundamental Theorem of Calculus with exponential functions](http://www.youtube.com/watch?v=SafcRvQKe4g&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=90) (7:57)
+- [Application of the Total Change Theorem](http://www.youtube.com/watch?v=Q8ZKTA4w9q0&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=91) (6:41)
+
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+A student with a third floor dormitory window 32 feet off the ground tosses a water balloon straight up in the air with an initial velocity of 16 feet per second. It turns out that the instantaneous velocity of the water balloon is given by the velocity function  where v is measured in feet per second and t is measured in seconds. (Note the negative sign in front of the 32.)
+
+1. Find an antiderivative for v(t). 
+2. Use the Fundamental Theorem of Calculus (and therefore your answer to question 1) to calculate the exact value of the definite integral \int_0^2 v(t) \, dt. 
+3. Below is a graph of v(t) from t = 0 to t = 2, with the area between the graph of v and the t axis shaded in. Note that some of the area is positive and some is negative. Look back now at the value of the definite integral from question 2 and think about the total vertical distance travelled by the balloon. Is the value of the definite integral \int_0^2 v(t) \, dt equal to this total distance traveled, less than the total distance traveled, or greater than the total distance traveled? Give a brief explanation. 
+4. What specific mathematical questions do you have about the reading, viewing, or exercises? 
+
+
+## Turn-in instructions
+
+Please submit your responses on this webform: [http://bit.ly/1gYesTg](http://bit.ly/1gYesTg) Submit your responses **at least one hour before class time**. 

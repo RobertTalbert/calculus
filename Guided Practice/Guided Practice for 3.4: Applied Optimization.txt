@@ -1,0 +1,46 @@
+# Guided Practice for 3.4: Applied Optimization
+
+## Overview 
+In this section we come to one of the most significant applications of the derivative. Given a function that models something in real life -- the temperature of a control rod, the size of a population, the value of a stock portfolio, etc. -- we want to find the "best" values of that function: the lowest temperature, the highest population size, the most lucrative portfolio value. We do this by finding the absolute extreme values of a function using the tools we developed in Sections 3.1 and 3.3. So there is not much new math in this section but a lot of applying what we know to new problems that matter to important groups of people. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+- Read a quantitative problem carefully and identify the independent and dependent variables in the problem as well as the constraints on the variables. 
+- In the context of an optimization problem, identify the quantity to be optimized. 
+- Set up an equation to relate the quantity to be optimized to the independent variables. 
+- Use a constraint in the problem to reduce the equation from above down to one variable. 
+- Use calculus to solve a properly set up optimization problem. 
+
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+- Set up and solve an optimization problem that involves calculus. 
+ 
+
+## Resources
+*Reading*: **Read all of Section 3.4, pp. 180–184.**  We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist, which have a combined running time of 22 minutes, 50 seconds: 
+
+- [Quick review: Applied optimization](http://www.youtube.com/watch?v=Ilu2SZa3SYA&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=69) (2:16) 
+- [Fencing optimization](http://www.youtube.com/watch?v=jH6J-n6zt4c&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=70) (7:09) 
+- [Optimization with trigonometry](http://www.youtube.com/watch?v=uJFxdxSBjok&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=71) (13:25) 
+
+Here are some more OPTIONAL screencasts to watch, not made by GVSU faculty but nonetheless potentially valuable extra examples of applied optimization problems: 
+
+- [Optimizing the area of a rectangle inscribed in a parabola](http://www.youtube.com/watch?v=EOJbmMB8uCQ) (7:06) 
+- [Optimizing the surface area of a cylinder](http://www.youtube.com/watch?v=PsWsvFxwT70) (8:08) <-- Audio is terrible but it *does* feature a Led Zeppelin clip, so it has that going for it
+- [Maximizing profit](http://www.youtube.com/watch?v=0aDNqISovvk) (7:07) 
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+This time you will not use a webform, but rather **work out parts (a) through (f) of Preview Activity 3.4 by hand on paper**. Bring your work to class and we will finish the problem by working part (g) of the Preview Activity together. 
+
+
+## Turn-in instructions
+
+There is nothing to turn in ahead of time for this Guided Practice. If you have questions, please post them on Piazza and we can all help each other answer them. 

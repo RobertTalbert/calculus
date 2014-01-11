@@ -1,0 +1,55 @@
+# Guided Practice for 3.1: Using derivatives to identify extreme values of a function
+
+## Overview 
+This section starts a chapter focusing on applications of the derivative. This section in particular sets the stage with a number of important terms and conceptual tools for working with derivatives in an applied setting. We introduce the notion of **relative** and **absolute maximum and minimum values** of a function as well as **critical numbers** of a function and the **First Derivative Test** and **Second Derivative Test** for finding relative extreme values of a function. A method involving **sign charts** is introduced for tracking both the increasing/decreasing behavior of a function and the concavity of a function. Finally, the important notion of an **inflection point** is introduced. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+- Define the concepts of *local maximum*, *local minimum*, *global maximum*, and *global minimum*. 
+- State the *First Derivative Test* and explain both its purpose and how it is used. 
+- State the *Second Derivative Test* and explain both its purpose and how it is used. 
+- Explain how to make a sign chart for either the first or second derivative and then use it to determine the location of extreme values of a function. 
+- Define the concept of a *point of inflection*. 
+- Explain how a sign chart might be used to determine the intervals on which a function is concave up or concave down and to find inflection points. 
+
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+- Construct sign charts for functions to find where they are increasing and decreasing, and concave up or concave down, and consequently to find extreme values and inflection points. 
+
+
+## Resources
+*Reading*: **Read all of Section 3.1, pp. 151–161 in Active Calculus**. We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist, which have a combined running time of 50 minutes, 28 seconds: 
+
+* [Quick review: Extreme values of functions](http://www.youtube.com/watch?v=Bzj_oXB6yIU&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=55) (4:11)
+* [Finding local and global extrema](http://www.youtube.com/watch?v=tvF3Rq0urvI&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=56) (5:06) 
+* [Identifying critical values graphically](http://www.youtube.com/watch?v=7RcLQZdB0LM&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=57) (4:21)
+* [Finding critical values](http://www.youtube.com/watch?v=x-efl3Br11E&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=58) (3:12) 
+* [Using the First Derivative Test](http://www.youtube.com/watch?v=9rg5jpFVSFY&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=59) (11:02)
+* [Second Derivative Test](http://www.youtube.com/watch?v=4Z_lhNVXEV4&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=60) (8:02)
+* [Identifying inflection points graphically](http://www.youtube.com/watch?v=Tyyo8kILvE0&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=61) (7:03)
+* [Finding inflection points](http://www.youtube.com/watch?v=w_O9IKmDZMI&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=62) (7:31)
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+The exercises for this Guided Practice come from Preview Activity 3.1. For convenience, the various parts of that Preview Activity will be done in groups: 
+
+1. Work Preview Activity 3.1(a,b). 
+2. Work Preview Activity 3.1(c,d).
+3. Work Preview Activity 3.1(e,f).
+4. Work Preview Activity 3.1(g). 
+5. Work Preview Activity 3.1(h).    
+6. What specific mathematical questions do you have after the reading, viewing, and exercises? 
+
+
+## Turn-in instructions
+
+Go to the web form located at the following link and type in your answers: [http://bit.ly/19aQAEK](http://bit.ly/19aQAEK)
+
+Responses are due **one hour before your section's class time**. If you do not have access to the internet where you live, please let me know in advance and we will make alternative arrangements.  

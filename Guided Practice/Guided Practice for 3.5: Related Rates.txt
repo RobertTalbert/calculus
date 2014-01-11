@@ -1,0 +1,51 @@
+# Guided Practice for 3.5: Related Rates
+
+## Overview 
+This section introduces a new kind of derivative problem called a related rates problem. In a related rates problem, we are given a relationship between two or more quantities and the rates of change of all but one of those quantities, and then we find the rate of change in the remaining quantity. For example, in an electrical circuit, voltage, current, and resistance are related by the formula V = IR. If we know the rate at which voltage and resistance are changing with respect to time, we might want to find the rate at which current is changing with respect to time. Therefore this is an application in particular of implicit differentiation to real-world scientific problems and problems in other areas. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+- Read a quantitative problem carefully and identify the independent and dependent variables in the problem as well as the constraints on the variables. 
+- Explain what a “related rates” problem is. (Hint: See the **Overview** above.) 
+- Identify when more than one variable in a problem depends on a common third variable, such as when multiple variables depend on time.
+- In the context of a related rates problem, identify the rate of change you wish to find and use implicit differentiation/Chain Rule to take the derivative. 
+
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+- Set up and solve related rates problems using calculus. 
+ 
+
+## Resources
+*Reading*: **Read all of Section 3.5, pp.  pp. 186–193.**  We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist, which have a combined running time of 22 minutes, 50 seconds: 
+
+- [Quick review: Related Rates](http://www.youtube.com/watch?v=Wh6UF4e55tg&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=72) (2:15) 
+- [Basic related rates example](http://www.youtube.com/watch?v=2nnfWMI-wKM&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=73) (6:38)
+- [Related rates example with trigonometry](http://www.youtube.com/watch?v=44yHoaBCQ4Q&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=74) (8:11)
+
+Here are some more OPTIONAL screencasts to watch, not made by GVSU faculty but nonetheless potentially valuable extra examples: 
+
+- [Related rates using implicit differentiation](http://www.youtube.com/watch?v=jv4gTxWqeBE) (9:57) 
+- [Related rates using cones](http://www.youtube.com/watch?v=wTYvMpVITg8) (2:47) 
+- [Related rates with triangles](http://www.youtube.com/watch?v=B60h_TihSo0) (14:03) 
+
+A YouTube search under "related rates problems" will reveal many, many more worked-out examples. 
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+1. Work through Preview Activity 3.5(b). 
+2. Work through Preview Activity 3.5(c).
+3. Work through Preview Activity 3.5(d).
+4. Work through Preview Activity 3.5(e).
+5. What specific mathematical questions remain after doing the reading, viewing, and exercises?    
+
+
+## Turn-in instructions
+
+Please submit your responses on this webform: http://bit.ly/1byv0uV  Submit your responses **at least one hour before class time**. 

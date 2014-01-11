@@ -1,0 +1,47 @@
+# Guided Practice for 2.3: The Product and Quotient Rules
+
+## Overview 
+This section introduces two new derivative-taking rules: the Product Rule for differentiating functions of the form f(x) \cdot g(x), and the Quotient Rule for differentiating functions of the form \dfrac{f(x)}{g(x)}. We'll learn these rules and a little bit about why they work, and then put them to work for us in doing computations. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+- (Review) Apply all the derivative rules from Sections 2.1 and 2.2 with fluency. 
+- Explain why the derivative of a product of two functions, f(x) \cdot g(x), is *not* just the product of the derivatives, f’(x) \cdot g’(x). 
+- Explain why the derivative of a quotient of two functions, f(x)/g(x), is *not* just the quotient of the derivatives, f’(x)/g’(x). 
+- State the Product Rule and use it in a simple situation. 
+- State the Quotient Rule and use it in a simple situation. 
+
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+- Differentiate a function for which the derivative involves a combination of the Product Rule, Quotient Rule, and other rules we've learned. 
+- Use the Product and Quotient rules in the context of a real-world problem to find the slope of a tangent line, the instantaneous rate of change in a function, or the instantaneous velocity of an object. 
+ 
+## Resources
+*Reading*: **Read Section 2.2, pages 94--102 in Active Calculus**. We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist. These have a total running time of 28 minutes, 27 seconds:  
+
+- [Quick Review: The Product and Quotient Rules](http://www.youtube.com/watch?v=bAGEnF0uFog&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=33) (2:00) 
+- [Product Rule examples](http://www.youtube.com/watch?v=mkrnp3ew0WA&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=34) (6:48)
+- [Quotient Rule examples](http://www.youtube.com/watch?v=HxFjkYjabwQ&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=35) (10:38)
+- [Combining the Product and Quotient Rules](http://www.youtube.com/watch?v=9lZNcY3VbdE&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=36) (9:01)
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+1. Work through Preview Activity 2.3(a). 
+2. Work through Preview Activity 2.3(b).
+3. Work through Preview Activity 2.3(c), and explain how you got your answer. 
+4. Work through Preview Activity 2.3(d).
+5. Work through Preview Activity 2.3(e) and explain how you got your answer. 
+6. What specific mathematical questions do you have about the reading and viewing that you would like to discuss in class? 
+
+## Turn-in instructions
+
+Go to the web form located at the following link and type in your answers: [http://bit.ly/1bt0ZAf](http://bit.ly/1bt0ZAf)
+
+Responses are due **one hour before your section's class time**. If you do not have access to the internet where you live, please let me know in advance and we will make alternative arrangements.  

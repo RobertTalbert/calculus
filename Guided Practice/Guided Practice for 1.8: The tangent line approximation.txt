@@ -1,0 +1,44 @@
+# Guided Practice for 1.8: The tangent line approximation
+
+## Overview 
+This section is a little different because we will be doing most of the work in your lab session with a computer. But this is appropriate since it's a very computationally-oriented section. We will be looking at a common application of the derivative to making accurate predictions about a function, when we don't have complete information about the function. This is the basic idea behind such applications as weather forecasts, financial forecasting, laboratory estimates, and more. We know by now that the derivative f'(a) at a point x=a gives the slope of the tangent line to the graph of f at x = a. This tangent line is also called the **local linearization** of f at x = a, and we will learn how to compute local linearizations and use them to estimate values of a function. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+- (*Algebra review*) Given the slope of a line and a point (not necessarily the y-intercept) on that line, state an equation for that line in *point-slope form* and in *slope-intercept form*. 
+- Given the value of the derivative of f at a point x = a (that is, given f'(a)), write the *equation of the tangent line* to the graph of f at x = a. 
+- Explain what is meant by the *local linearization* of a function f at the point x = a. 
+- Use a local linearization of a function at x = a to approximate values of f near x = a. 
+ 
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+- Given a function f, find its local linearization at x = a. 
+- If L(x) is the local linearization of a function f(x) at x = a, and if b is some point near a, determine whether L(b) is greater than, less than, or equal to f(b) and explain. 
+ 
+## Resources
+*Reading*: **Read Section 1.8, pages 71--77 in Active Calculus**. We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist. These have a total running time of 18 minutes, 34 seconds:  
+
+- [Quick Review: The tangent line approximation](http://www.youtube.com/watch?v=COzBFFGoyTo&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=24) (2:18)
+- [Calculating a tangent line](http://www.youtube.com/watch?v=BgPRV9Hxk1k&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=25) (5:42)
+- [Using a tangent line](http://www.youtube.com/watch?v=E6P67pjf8Jc&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=26) (3:27)
+- [Using the local linearization](http://www.youtube.com/watch?v=2KpwQewcKbQ&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=27) (7:07)
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+1. A line has slope equal to -3 and goes through the point (4, 6). State the equation of this line in point-slope form and then in slope-intercept form. 
+2. The function f has the following features: We know that f(2) = 10 and f'(2) = -3. State the equation of the tangent line to the graph of f at x= 2 in point-slope form and then in slope-intercept form. 
+3. The tangent line to the graph of f at x = 2 that you calculated in question 2 is called the local linearization of f at x = 2. Use the local linearization to predict the value of f(2.1) and explain briefly what you did. 
+4. What specific mathematical questions do you have about the reading and viewing that you would like to discuss in class? 
+
+## Turn-in instructions
+
+Go to the web form located at the following link and type in your answers: [http://bit.ly/14FjsHH](http://bit.ly/14FjsHH)
+
+Responses are due **one hour before your section's class time**. If you do not have access to the internet where you live, please let me know in advance and we will make alternative arrangements.  

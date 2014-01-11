@@ -1,0 +1,48 @@
+# Guided Practice for 1.3: The derivative of a function at a point
+
+## Overview 
+In this section we make first contact with the most central concept in the course: The notion of the derivative of a function. The derivative of a function at a point is essentially the same thing as the instantaneous velocity of an object at a single point in time, but the derivative is more general and encompasses a much wider range of applications than just motion. In the section, we define the derivative of a function at a point in terms of average rates of change and limits; introduce the "prime" notation for the derivative; discuss the units of measurement for the derivative; and connect the derivative to the geometric concept of a tangent line and especially its slope. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+* Calculate the average rate of change in a function on an interval. 
+* State the definition of the derivative of a function at a point. 
+* Use correct notation to indicate the derivative of a function at a point and explain the difference between the quantities f(a) and f'(a). 
+* Given the units of a function f and the units of an input a, state the units of the derivative f'(a). 
+* Describe the derivative in terms of the slope of a tangent line. 
+ 
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+* Calculate a derivative of a polynomial function f at a point x = a using the definition (see Example 1.3). 
+* Use the definition of the derivative to find the instantaneous rate of change in a function at a particular point. 
+* Interpret the results of a derivative calculation in everyday terms, using correct units and clear explanations. 
+ 
+## Resources
+*Reading*: **Read Section 1.3, pages 20--27 in Active Calculus**. We will work the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist. These have a total running time of 17 minutes, 18 seconds: 
+
+- [Quick Review: The derivative of a function at a point](http://www.youtube.com/watch?v=0zpQnwVaU28&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=8) (2:22)
+- [The derivative of a function at a point](http://www.youtube.com/watch?v=fQ5yelPpFk0&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=9) (9:12)
+- [Derivative of a function at a point using graphs](http://www.youtube.com/watch?v=0DJPSYeLFpc&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=10) (5:44)
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+**Guided Practice exercises are graded on the basis of completeness and effort only.** So you should give a good-faith effort to answer each exercise and be right in your answer, but if you make a mathematical or conceptual mistake it will not count against you. However, if you leave an item blank, put "I don't know", or similarly do not put forth an effort to answer each question, you will lose credit. 
+
+1. Work through Preview Activity 1.3 in the section. You'll enter your responses on a web form given below. Some of these responses involve using mathematical notation; enter that notation as you would into WeBWorK. 
+2. Go to the interactive Geogebra applet at [http://www.geogebratube.org/student/m47258](http://www.geogebratube.org/student/m47258). You do NOT need to have Geogebra installed to work with this applet; it just runs in your web browser. You should be able to work with this applet on any internet device, including desktop computers, laptops, tablets, and smartphones. If you encounter a Java error while loading the applet, look for the link that says "View as HTML5 applet" and click it. Once you have the applet loaded: The applet shows the graph of a function g(x), two points P and Q on the graph, and the line connecting P and Q. The point P is at x = 4, but you can move the point Q around. As you do, the line through P and Q will change and so will its slope, which should be visible. Click and drag the point Q closer and closer to P, approaching both from the left of P and from the right of P, and observe the slope. Based on your observations, estimate the value of g'(4) and explain your reasoning in one sentence. 
+3. A daycare center with 100 kids falls victim to an outbreak of a stomach virus. The number N of kids infected with the virus on day t is given by the function \displaystyle{N(t) = \frac{100}{1 + e^{-t}}}. Below is a picture of the graph of this function with the tangent line to the graph drawn at t = 1, and the slope of the tangent line is also displayed. Using the graph, state the instantaneous rate at which kids are becoming infected; explain how you got your answer and give the correct units of measurement.  
+	
+4. What specific mathematical questions remain after doing this assignment? Also, do you have any questions about the course so far? 
+ 
+## Turn-in instructions
+
+Go to the web form located at the following link and type in your answers: [http://bit.ly/14ZaEa8](http://bit.ly/14ZaEa8)
+
+Responses are due **one hour before your section's class time**. If you do not have access to the internet where you live, please let me know in advance and we will make alternative arrangements.  

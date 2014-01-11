@@ -1,0 +1,39 @@
+# Guided Practice for 2.2: The sine and cosine functions
+
+## Overview 
+Now that we have general computational rules for power functions, exponential functions, constant multiples, and sums/differences of functions, we will add another family of functions to the toolbox: The trigonometric functions. In this section you will develop rules for the derivatives of the functions \( y = \sin(x) \) and \(y = \cos(x) \) as part of the activities in the class. Then we will use those rules in applied problems that involve angles and cyclic behavior. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+- (*Trigonometry review*) State the values of \( \sin x\) and \( \cos x \) at the angle values \(0, \pi/6, \pi/4, \pi/3, \pi/2\) and other related points on the unit circle without a calculator. ([Here](http://tutorial.math.lamar.edu/Extras/AlgebraTrigReview/TrigFunctions.aspx) is a good resource for trigonometry review, as well as a [nice unit circle cheat sheet](http://etc.usf.edu/clipart/43200/43216/unit-circle8_43216.htm) you can print off and carry around.)
+- (*Review*) Estimate the slope of a tangent line to the graph of a function by drawing the tangent line on the graph of the function. Also, be able to do this with Geogebra as well as with a pencil and straightedge. 
+
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+- State the derivatives of the functions \(y = \sin(x) \) and \(y = \cos(x) \).
+- Use the derivatives of \(y = \sin(x) \) and \(y = \cos(x) \) in the context of a real-world problem to find the slope of a tangent line, the instantaneous rate of change in a function, or the instantaneous velocity of an object. 
+ 
+## Resources
+*Reading*: **Read Section 2.2, pages 88--92 in Active Calculus**. We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist. These have a total running time of 23 minutes, 6 seconds:  
+
+There are no videos to watch for this Guided Practice. 
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+1. Work through Preview Activity 2.2, part (a) on paper or using Geogebra (but do not submit any graphs). Then work part (b) of this Preview Activity and submit your results on the web form. 
+2. Set up an expression using the limit definition of the derivative that would calculate \(g'(0)\), the derivative of the function \(g(x) = 2^x \) from Preview Activity 2.2 at the point \( x = 0\). Then use a table to evaluate this limit. Compare your result to the visual estimate of the tangent line slope you found in the previous exercise. (They should be close in value.)
+3. By hand or using a spreadsheet or Geogebra, use your results from exercises 1 and 2 to sketch an accurate graph of \( g'(x)\). Do not submit the graph, but explain why it is reasonable to think that \( g'(x) \) is equal to \( c g(x) \) for some constant \( c\).
+4. What specific mathematical questions do you have about the reading and viewing that you would like to discuss in class? 
+
+## Turn-in instructions
+
+Go to the web form located at the following link and type in your answers: [http://bit.ly/1dj4Iyz](http://bit.ly/1dj4Iyz)
+
+Responses are due **one hour before your section's class time**. If you do not have access to the internet where you live, please let me know in advance and we will make alternative arrangements.  

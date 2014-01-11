@@ -1,0 +1,53 @@
+# Guided Practice for 2.1: Elementary derivative rules
+
+## Overview 
+With this section we take a different turn in our study of calculus and focus for quite some time on *rules for efficient computation* of derivatives. Over the next several class meetings, we will be learning and using computational rules, most of them heavy on algebra, that will replace the limit definition of the derivative for functions given as formulas. (Although remember, not all functions are formulas, so these rules are not universally useful.) In this section we encounter the basic building blocks of these rules: a rule for taking the derivative of **power functions** like y = x^5 and y = x^{-1/2}, rules for computing **constant multiples and sums of functions**, and a rule for taking the derivative of **exponential functions** like y = 2^x. We also introduce some alternative notation for derivatives. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+- (*Algebra review*) Be able to tell the difference between a power function and an exponential function. 
+- (Algebra review) Use exponent rules to write fractions and roots as exponents. (For example, \frac{1}{(\sqrt{x})^5} = x^{-5/2}.) 
+- Explain what the notation \frac{dy}{dx} means as well as the notation \frac{d}{dx}. 
+- Use the Constant Functions rule (page 81) to differentiate (which means "take the derivative of") a constant function like f(x) = 17. 
+- Use the Power Functions rule to differentiate a power function. 
+- Use the Exponential Functions rule to differentiate an exponential function. 
+- Use the Constant Multiple Rule to differentiate a constant multiple of a function (for example, f(x) = 17x^4.) 
+- Use the Sum Rule to differentiate a sum (or difference) of functions (for example, f(x) = x^4 + x^2 - 3). 
+
+**Note**: A useful technological tool when practicing these computations is Wolfram|Alpha ([http://www.wolframalpha.com](http://www.wolframalpha.com)). This is a (free) website that can carry out many different mathematical operations including symbolic differentiation. For example, type in "derivative of x^4 + x^2 - 3" in the blank at the website and hit Enter. With this tool, your ability to practice computation using this rules is essentially unlimited -- just make up your own examples, work them out by hand, and then check your work using the website. Wolfram|Alpha will eventually become one of the tools we use quite frequently in lab assignments. Note also that the existence of software like Wolfram|Alpha means that computation of derivatives by hand is not really the main focus of courses like MTH 201! 
+ 
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+- Given a function f given as a formula, find the equation of the tangent line to the graph of f at a point using the new computational rules introduced in this section. 
+- Given a function f given as a formula that represents some real-world quantity, find the instantaneous rate of change in that quantity at a point using the new computational rules introduced in this section. 
+- Given a function f given as a formula, calculate both its first and second derivatives and use it to analyze whether f is increasing or decreasing at a point and whether f is concave up or concave down at a point. 
+- Use the rules introduced in this section to differentiate functions that are *not* given as a formula. 
+ 
+## Resources
+*Reading*: **Read Section 2.1, pages 79--85 in Active Calculus**. We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist. These have a total running time of 23 minutes, 6 seconds:  
+
+- [Quick Review: Elementary derivative rules](http://www.youtube.com/watch?v=wFOgWzI0SuQ&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=28) (3:33)
+- [Derivatives of constant and power functions](http://www.youtube.com/watch?v=ciBNzth33Fw&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=29) (5:19)
+- [Derivatives of exponential functions](http://www.youtube.com/watch?v=kcQieXhoAqs&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=30) (2:54)
+- [Derivatives of constant multiples](http://www.youtube.com/watch?v=gya8IngB1BI&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=31) (4:06)
+- [Derivatives of sums](http://www.youtube.com/watch?v=BaAj1IZvt-w&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=32) (7:14) 
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+1. On scratch paper, set up and fully simplify the fraction \frac{f(x+h) - f(x)}{h} for the functions f(x) = x^2 and f(x) = x^3. This fraction, called a "difference quotient", is part of the definition of the derivative f'(x). State the fully simplified expressions you get for both of these difference quotients. (As usual, there should be no fractions in the fully simplified answers. Also, do not take any limits yet.) 
+2. In the previous question, to get the derivative you would take the fully simplified difference quotient and then take the limit as h \to 0. What terms drop out when this limit is taken, and (in one short sentence) why does this suggest that the rule for Power Functions (page 81) is true? 
+3. In this section we introduce two new notational items for derivatives: the symbol \frac{dy}{dx} and the symbol \frac{d}{dx}. What do each of these symbols mean, and what's the difference between the two of them? 
+4. What specific mathematical questions do you have about the reading and viewing that you would like to discuss in class? 
+
+## Turn-in instructions
+
+Go to the web form located at the following link and type in your answers: [http://bit.ly/1902ilg](http://bit.ly/1902ilg)
+
+Responses are due **one hour before your section's class time**. If you do not have access to the internet where you live, please let me know in advance and we will make alternative arrangements.  

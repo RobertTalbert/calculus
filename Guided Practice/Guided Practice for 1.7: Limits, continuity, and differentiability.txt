@@ -1,0 +1,43 @@
+# Guided Practice for 1.7: Limits, continuity, and differentiability
+
+## Overview 
+This section introduces and in some cases refines some important conceptual notions related to the derivative. We first introduce the concept of a **one-sided limit**, which is just a limit where we only approach the target point from the left or the right (not both). With that concept, we define what it means for a function to be **continuous** -- a property of functions that is essential for calculus. Finally, we return to the idea of what it means for a function to be **differentiable** and connect this to the idea of continuity. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+- (*Review*) Evaluate a limit of a function (or tell that the limit does not exist) given a graphical model of the function. 
+- Evaluate a *limit from the left* and a *limit from the right* and use one-sided limits to tell if a (two-sided) limit exists. 
+- Define what it means for a function to be *continuous* at a point. 
+- Define what it means for a function to be *differentiable* at a point. 
+- Determine whether a function is continuous at a point by examining the graph of that function. 
+- Determine whether a function is differentiable at a point by examining the graph of that function. 
+ 
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+- Explain the relationship between continuity and differentiability. 
+ 
+## Resources
+*Reading*: **Read Section 1.7, pages 60--68 in Active Calculus**. We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist. These have a total running time of 22 minutes, 3 seconds:  
+
+- [Quick Review: Limits, continuity, and differentiability](http://www.youtube.com/watch?v=7-S0qHpnddk&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=20) (4:02) 
+- [More limits](http://www.youtube.com/watch?v=OmgIej6fHrc&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=21) (5:58)
+- [Determining continuity](http://www.youtube.com/watch?v=71PGm02zFjw&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=22) (7:22)
+- [Determining differentiability graphically](http://www.youtube.com/watch?v=_vimObBaJxI&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=23) (4:41)
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+1. Work Preview Activity 1.7 in the textbook. This is sort of lengthy, so on the web form, there will be one area in which to put your responses for part (a), a second area for part (b), and a third area for part (c). 
+2. What specific mathematical questions do you have about the reading and viewing that you would like to discuss in class? 
+
+## Turn-in instructions
+
+Go to the web form located at the following link and type in your answers: [http://bit.ly/14tLzEj](http://bit.ly/14tLzEj)
+
+Responses are due **one hour before your section's class time**. If you do not have access to the internet where you live, please let me know in advance and we will make alternative arrangements.  

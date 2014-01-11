@@ -1,0 +1,47 @@
+# Guided Practice for 4.1: Determining distance traveled from velocity
+
+## Overview 
+We begin our final chapter in MTH 201 by looking at a new question in calculus: Given a moving object and its velocity function, can we tell how far it's traveled over a time interval? This is easy if the velocity is constant; just use the old formula distance equals rate times time. But what if the velocity is constantly changing? In answering this question, we'll invent a method for approximating the distance traveled and discover a backwards connection between this question and derivatives, via the concept of the antiderivative.  
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+- Explain the overall approach described in this section for determining the distance traveled by an object, given its velocity at time t. 
+- Use a rectangle sum to approximate the distance traveled by an object, given its velocity at time t. 
+- Explain what is meant by an *antiderivative* for a function. 
+- Given functions g(x) and f(x), determine if f(x) is an antiderivative for g(x). 
+- Interpret the real-world meaning of a negative velocity value.
+
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+- Find the *exact* value of the total distance travelled by an object, given its velocity function, if the velocity function is piecewise linear. 
+- Given a function g(x) that is a simple linear or polynomial function, find an antiderivative for g(x). 
+ 
+
+## Resources
+*Reading*: **Read all of Section 4.1, pp. 195–207.**  We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist, which have a combined running time of 25 minutes, 43 seconds: 
+
+- [Quick review: Determining distance traveled from velocity](http://www.youtube.com/watch?v=bTJuR2f-FSs&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=75) (3:37)
+- [Estimating distance traveled using a velocity graph](http://www.youtube.com/watch?v=xwS-v8MLli4&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=76) (5:54)
+- [Estimating distance traveled with data](http://www.youtube.com/watch?v=TNhHUm2oPi0&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=77) (7:50)
+- [Finding distance traveled with antiderivatives](http://www.youtube.com/watch?v=mAul5vTAJSA&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=78) (8:22) 
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+Prof. Talbert goes for a run over a 1 hour, 45 minute period. His velocity (miles per hour) is given by the graph below. To reiterate: this is a *velocity* graph. 
+
+1. What is the exact distance Prof. Talbert traveled over the first hour? Explain. 
+2. Using three rectangles, estimate the distance Prof. Talbert traveled from t = 1 hour to t = 1.75 hours. Show your work. 
+3. The formula for the line segment that makes up the graph from t = 1 to t = 1.75 is v(t) = -8t + 14. Explain why s(t) = -4t^2 + 14t is an antiderivative for v(t), and then use this antiderivative to find the exact value of the distance traveled by Prof. Talbert from t = 1 to t = 1.75. Show work. 
+4. What specific mathematical questions remain after doing the reading, viewing, and exercises?    
+
+
+## Turn-in instructions
+
+Please submit your responses on this webform:  [http://bit.ly/1dZn9LH](http://bit.ly/1dZn9LH) Submit your responses **at least one hour before class time**. 

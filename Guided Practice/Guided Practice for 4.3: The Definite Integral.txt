@@ -1,0 +1,48 @@
+# Guided Practice for 4.3: The Definite Integral
+
+## Overview 
+In the last two sections, we have been addressing the question, *How do we find the distance that an object has traveled, if we're only given its velocity, which could be changing continuously over time?* To answer this question, we developed a method of approximating the distance traveled by using a sum of rectangles attached to the velocity graph, which we eventually called a *Riemann sum*. We've noted that as we increase the number of rectangles used in the Riemann sum, the approximation to the area under the curve -- and therefore the distance traveled -- improves. In this section, we formalize this process by defining the last main idea in this course: the **definite integral** of a function.  We introduce the definite integral, discuss methods for evaluating definite integrals, and introduce some helpful computational properties of definite integrals. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+- State the definition of the *definite integral* of a function y = f(x) on an interval [a,b]. 
+- Given an integral, identify the *limits of integration* and the *integrand*. 
+- Explain in plain English what the definite integral of a function tells you. 
+- Evaluate the definite integral of a function if the function is defined as a graph with nice geometric properties. (See Activity 4.7.)
+- State the properties of a definite integral given before Activity 4.8 and use them to evaluate a definite integral in terms of a previously-known definite integral. 
+- Find the average value of a function on an interval. 
+
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+- Find the *exact* value of the total distance travelled by an object, given its velocity function, if the velocity function is piecewise linear. 
+- Given a function g(x) that is a simple linear or polynomial function, find an antiderivative for g(x) and use the antiderivative to evaluate a definite integral.
+ 
+## Resources
+*Reading*: **Read all of Section 4.3, pp. 220–232.**  We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist, which have a combined running time of 25 minutes, 43 seconds: 
+
+- [Quick review: The definite integral](http://www.youtube.com/watch?v=Lp5KsXN4UOQ&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=84) (3:01) 
+- [Calculating a definite integral using geometry](http://www.youtube.com/watch?v=oHIH69Ou4DE&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=85) (6:47)
+- [Evaluating a definite integral using integral properties](http://www.youtube.com/watch?v=1SqpYAAyBCk&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=86) (8:15)
+- [Average value of a function](http://www.youtube.com/watch?v=MQG9Nur4fdM&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=87) (7:35)
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+Consider the function f(x) given below. Its graph is made up of two straight line segments and two quarter-circles. 
+
+1. Evaluate the definite integral \(\int_0^7 f(x) \, dx\). Find the EXACT value, not a decimal approximation. 
+2. Using your result from the previous question, evaluate the definite integral \(\int_0^7 -4f(x) \, dx \).
+3. Is it possible, using what we've learned so far, to evaluate the integral \( \int_0^7 x^2 f(x) \, dx\)? If so, compute it. If not, explain in one sentence why not. 
+4. Calculate the average value of \(f(x)\) on the interval [0,7]. 
+5. What specific mathematical questions remain after doing the reading, viewing, and exercises?    
+
+
+## Turn-in instructions
+
+Please submit your responses on this webform:  [http://bit.ly/1aA1IK0](http://bit.ly/1aA1IK0) Submit your responses **at least one hour before class time**. 

@@ -1,0 +1,43 @@
+# Guided Practice for 4.2: Riemann sums
+
+## Overview 
+In this section we introduce a formalization of the idea developed in Section 4.1, where we estimated the distance traveled by a moving object by using a rectangle sum to estimate the area under the velocity curve. This concept is known as a Riemann sum, which is a geometric quantity that estimates the area between the graph of a function, the horizontal axis, and left and right bounds.
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+- Calculate a rectangle sum approximation to the area under a curve (as in Preview Activity 4.2). 
+- Interpret *sigma notation* and use it to add up a sequence of numbers. 
+- Set up a left, right, or midpoint Riemann sum for a function on a given interval and then calculate that Riemann sum. 
+
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+- Set up and calcualte Riemann sums for functions, by hand with technological assistance on the calculations.
+- Use Riemann sums to answer questions about distance travelled, given information about velocity  
+
+## Resources
+*Reading*: **Read all of Section 4.2, pp. 208--217.**  We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist, which have a combined running time of 39 minutes, 46 seconds: 
+
+- [Quick review: Riemann sums](http://www.youtube.com/watch?v=oUZdflwDse0&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=79) (3:29)
+- [Sigma notation](http://www.youtube.com/watch?v=Eq-DCz52Ozs&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=80) (7:15)
+- [Computing a left-hand Riemann sum](http://www.youtube.com/watch?v=yVZX0YRRTvA&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=81) (8:55)
+- [Another Riemann sum example](http://www.youtube.com/watch?v=FvhD3BblfvI&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=82) (10:34)
+- [Calculating right and midpoint Riemann sums](http://www.youtube.com/watch?v=zl02nRV4Ui4&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=83) (9:33) 
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+1. Work Preview Activity 4.2(a). 
+2. Work Preview Activity 4.2(b).
+3. Work Preview Activity 4.2(c).
+4. Work Preview Activity 4.2(d).
+5. What specific mathematical questions remain after doing the reading, viewing, and exercises?    
+
+## Turn-in instructions
+
+Please submit your responses on this webform: [http://bit.ly/1bbkoAx](http://bit.ly/1bbkoAx) Submit your responses **at least one hour before class time**. 

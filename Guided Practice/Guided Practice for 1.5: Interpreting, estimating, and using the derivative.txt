@@ -1,0 +1,44 @@
+# Guided Practice for 1.5: Interpreting, estimating, and using the derivative 
+
+## Overview 
+In this section we use the concepts we've developed about the derivative to expand its use and scope. We'll first learn how to find the **units** of any derivative, which will give insight into how the derivative can be used apart from "velocity" problems. Then we will learn the computational techniques of **forward**, **backward**, and **central differences** that will allow us to estimate derivatives numerically in case the original function is not a formula but just a table of data. Finally, the section delves into what the derivative means in terms of real-world contexts. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+* Given a function y = f(x) and the units of measure of both x and y, state the units of f'(x). 
+* Estimate the derivative of a function at a point using a forward, backward, and central difference approximation. (See Example 1.4.)
+ 
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+* Given a function y = f(x) that is given as a table of data, construct a table of approximate values of f'(x) both by hand and using a spreadsheet. 
+* Interpret the meaning of a derivative value in clear English that makes sense in context. 
+* Given the values of f(a) and f'(a), estimate the value of f(b) for some point b near a. 
+ 
+## Resources
+*Reading*: **Read Section 1.5, pages 40--46 in Active Calculus**. We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist. These have a total running time of 14 minutes, 7 seconds: 
+
+- [Quick review: Interpreting, estimating, and using the derivative](http://www.youtube.com/watch?v=XZa0uNu6Uyk&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=14) (3:27)
+- [Estimating the derivative](http://www.youtube.com/watch?v=wWdijnTdkTk&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=15) (5:15)
+- [Estimating derivatives using spreadsheets](http://www.youtube.com/watch?v=CJ_OZ-Uxs3o&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=16) (5:25)
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+**Guided Practice exercises are graded on the basis of completeness and effort only.** So you should give a good-faith effort to answer each exercise and be right in your answer, but if you make a mathematical or conceptual mistake it will not count against you. However, if you leave an item blank, put "I don't know", or similarly do not put forth an effort to answer each question, you will lose credit. 
+
+1. Work through Preview Activity 1.5. 
+2. Suppose the amount of snow on the ground at time t hours is given by S which is measured in inches. Suppose also that S(1) = 5, S(3) = 8.2, and S(5) = 9.1. Estimate the value of S'(3) using a central difference. 
+3. State the units of the quantity (S'(3)) you calculated in the previous exercise and give a one-sentence explanation of what this quantity tells you -- without using the words "derivative" or "function". 
+4. What specific mathematical questions do you have about the reading and viewing that you would like to discuss in class? 
+
+## Turn-in instructions
+
+Go to the web form located at the following link and type in your answers: [http://bit.ly/12UDfzL](http://bit.ly/12UDfzL)
+
+Responses are due **one hour before your section's class time**. If you do not have access to the internet where you live, please let me know in advance and we will make alternative arrangements.  

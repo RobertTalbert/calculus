@@ -1,0 +1,52 @@
+# Guided Practice for 2.8: Using derivatives to evaluate limits
+
+## Overview 
+We begin to transition into applications of the derivative in this section, where we learn how derivatives can be used to evaluate seemingly-intractable limit problems such as 
+\[ \lim_{x \to 0} \frac{\ln(1+x)}{x}\]
+The key to this application is a mathematical result called l'Hopital's Rule, which allows us to replace the expression whose limit we are taking with a simpler expression involving derivatives. Also in this section, we will take up the concept of the infinite limit which examines the behavior of a function as the inputs get very large in both the positive and negative directions. 
+
+## Learning objectives 
+
+### BASIC learning objectives
+Each student will be responsible for learning and demonstrating proficiency in the following objectives PRIOR to the class meeting. **The entrance quiz for the class meeting will cover these objectives**. 
+
+- (*Review from Chapter 1*) Explain what the expression \lim_{x \to a} f(x) = L means in plain English. 
+- Explain what is meant by a limit that is an “indeterminate form”. 
+- State L’Hopital’s Rule. Also be able to pronounce the word “L’Hopital” correctly. 
+- Explain how L’Hopital’s rule is used to calculate limits having an indeterminate form. 
+- Explain what the expression \lim_{x \to \infty} f(x) = L means in plain English.  
+- State the \infty version of L’Hopital’s Rule. 
+
+### ADVANCED learning objectives 
+The following objectives should be mastered by each student DURING and FOLLOWING the class session through active work and practice: 
+
+- Use L’Hopital’s Rule to calculate limits that have an indeterminate form 0/0.
+- Use L’Hopital’s Rule to calculate limits that have an indeterminate form \infty/\infty. 
+
+
+## Resources
+*Reading*: **Read all of Read all of Section 2.8, pp. 139--147 in Active Calculus**. We will work some of the Activities in class, but you may also work on them outside of class for further understanding. 
+
+*Viewing*: Watch the following videos at the MTH 201 YouTube Playlist, which have a combined running time of 15 minutes, 30 seconds: 
+
+- [Quick Review: L'Hopital's Rule](http://www.youtube.com/watch?v=KXGhzie3b8s&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=52) (3:28)
+- [Using L'Hopital's Rule with zero](http://www.youtube.com/watch?v=flM7qVLdezY&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=53) (7:27)
+- [Using L'Hopital's Rule with infinity](http://www.youtube.com/watch?v=wXXej6AmEKQ&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=54) (8:46) 
+
+## Exercises 
+These exercises can be done during or after your reading and video watching. They are intended to help you make examples of the concepts you are reading and viewing. Work these out on scratch paper, and then you will be asked to submit the results on a web form at the end. 
+
+For the following exercises, consider the function 
+\[ f(x) = \frac{x^5 + x - 2}{x^2 - 1}\]
+
+1. In Geogebra or a graphing calculator, plot the graph of f(x) near x = 1. Do not submit your graph. But based on the graph, does \lim_{x \to 1}  \frac{x^5 + x - 2}{x^2 - 1} exist? If so, what does this limit appear to equal, and how do you know? If not, why not? 
+2. In the language of the section, explain why the limit \lim_{x \to 1}  \frac{x^5 + x - 2}{x^2 - 1} is an *indeterminate form*. (Hint: Try to evaluate the limit by directly substituting x = 1, and see what you get.)
+3. Decide whether the following statement is true or whether it's false: *"If a limit comes out to 0/0 through direct substitution, then the limit fails to exist."* Explain your reasoning. 
+4. Now use L'Hopital's Rule to evaluate the limit above. Do your work on a separate page, and on the webform, explain the steps you took and then state the answer you get. (Hint: The limit should equal the number you guessed in exercise 1.) 
+5. What specific mathematical questions do you have about the reading and viewing that you would like to discuss in class? 
+
+## Turn-in instructions
+
+Go to the web form located at the following link and type in your answers: [http://bit.ly/GAYGOF](http://bit.ly/GAYGOF)
+
+Responses are due **one hour before your section's class time**. If you do not have access to the internet where you live, please let me know in advance and we will make alternative arrangements.  
