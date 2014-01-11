@@ -13,6 +13,6 @@ The materials in this repo correspond to the chapters and sections in the textbo
 
 Other materials can be found on [the web site for my Fall 2013 instance of this course](http://teaching.proftalbert.com/mth201f13). 
 
-Over 9 hours of video screencasts were created for this course and are housed [at the GVSU Mathematics Department YouTube channel](http://bit.ly/GVSUcalculus). 
+Over 9 hours of video screencasts were created for this course and are housed [at the GVSU Mathematics Department YouTube channel](http://bit.ly/GVSUCalculus). 
 
 All materials are licensed under a [Creative Commons Attribution-ShareAlike 3.0 license](http://creativecommons.org/licenses/by-sa/3.0/us/). 
