@@ -1,0 +1,1 @@
+This repo contains materials for an inverted or "flipped" calculus course. 
