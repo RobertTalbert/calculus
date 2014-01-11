@@ -1,4 +1,4 @@
-Welcome. This repository contains materials made by me, Robert Talbert, for a university-level calculus course taught using an inverted or flipped class design. Under this design: 
+Welcome. This repository contains materials made by me, [Robert Talbert](http://proftalbert.com), for a university-level calculus course taught using an inverted or flipped class design. Under this design: 
 
 + Students work prior to class, through structured preparatory activities called Guided Practice, to attain fluency on a set of basic Learning Objectives. 
 + During class, students work actively with the instructor's direct assistance on challenging problems on deeper, more advanced learning objectives. 
