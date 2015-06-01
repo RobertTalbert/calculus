@@ -1,0 +1,53 @@
+# Guided Practice 1.4: The derivative function
+
+## Overview
+
+In this section we generalize the idea of the derivative at a point from previous work to find a *formula* for the derivative of a function at *any* point. In other words, given a function \\(f\\), we will learn how to find a function \\(f'\\) for its derivative. This will involve generalizing the limit-based definition of the derivative we learned earlier. We will learn how to calculate \\(f'\\) from \\(f\\) if \\(f\\) is given as a (simple!) formula and if \\(f\\) is given as a graph. 
+
+
+## Learning objectives
+
+__Basic objectives__: Each student is responsible for gaining proficiency with each of these tasks _prior_ to engaging in class discussions, through the use of the learning resources (below) and through the working of exercises (also below). 
+
+* State the definition of the derivative of a function \\(f\\) with respect to \\(x\\) at the value \\(x\\). 
+* Use the limit definition of the derivative of \\(f\\) to find a formula for \\(f'\\) if \\(f\\) is a constant, linear, or quadratic function. 
+* Given a graph of a function \\(f\\), identify the graph of its derivative \\(f'\\) from a list, and describe aspects of the behavior of the graph of \\(f'\\) .
+
+__Advanced objectives__: The following objectives are the subject of class discussion and further work; they should be mastered by each student _during_ and _following_ class discussions. 
+
+* Give an example of a function \\(f\\) for which \\(f'\\) is not defined at one or more points. 
+* Given a graph of a function \\(f\\), sketch the graph of its derivative \\(f'\\). 
+* Given *any* function \\(f\\) (not just a simple one), set up a limit expression that would compute a formula for \\(f'\\). 
+* Use the limit definition of the derivative of \\(f\\) to find a formula for \\(f'\\) for functions that are not just constant, linear, or quadratic.  
+
+## Learning resources 
+
+To gain proficiency in the learning objectives, use the following resources. You may include other resources if you wish, in addition to or in replacement of the following. 
+
+__Textbook__: In _Active Calculus_, read Section 1.4. Make sure to read actively, working through examples and activities as you go. 
+
+__Video__: Watch the following videos at the MTH 201 YouTube playlist (http://bit.ly/GVSUCalculus). 
+
+- [Quick Review: The derivative function](http://www.youtube.com/watch?v=Fzrkq1r-sAI) (2:40)
+- [Limit definition of derivative](http://www.youtube.com/watch?v=62mySLhhfaQ) (5:38)
+- [Sketching a derivative graph](http://www.youtube.com/watch?v=TSgyDembmXg) (6:14)
+
+## Exercises
+
+The following exercises are to be done _during_ and _following_ your reading and viewing of the resources. Work these out on paper and then enter the responses into the appropriate submission form (see Submission Instructions) by the deadline. You will receive a mark of __Pass__ if each item response shows a good-faith effort to be right and is submitted prior to the deadline. 
+
+1. Consider the function \\(f(x) = 4x - x^2\\). As you learned in the last section, the derivative of this function at \\(x = 3\\) is the slope of the tangent line to the graph of \\(f\\) when \\(x = 3\\) and is calculated precisely by the formula 
+$$f'(3) = \lim_{h \to 0} \frac{f(3+h) - f(3)}{h}$$
+As a review, calculate the exact value of this limit using algebra and state your answer. The point of this exercise is not merely to get a right answer, though, but to use the algebraic limit process we learned in 1.3, so make sure to work through the algebra. 
+2. Now go back and modify the limit definition of the derivative in the first exercise to calculate \\(f'(0), f'(1)\\), and \\f'(2)\\). Submit your answers in the submission form, but again remember that the point is to use the limit definition, so do not skip steps. 
+3. Based on the results from the first two exercises, what would you conjecture are the values of \\(f'(4)\\) and \\(f'(5)\\)? Don't use the limit definition this time, but make an educated guess. On the submission form, state your guesses and your reasons for guessing what you did. 
+4. Now conjecture a formula for \\(f'(a)\\) that depends only on the value \\(a\\). That is, in the same way that we have a formula for \\(f(x)\\), see if you can use your work above to guess a formula for \\(f'(a)\\) in terms of \\(a\\). 
+5. In the Geogebra applet below, the graph of a function \\(f\\) is shown. (This isn't the same \\(f\\) as in the previous exercises.) Also shown are five colored graphs of other functions. 
+<iframe scrolling="no" src="https://www.geogebratube.org/material/iframe/id/143298/width/773/height/483/border/888888/rc/false/ai/false/sdz/true/smb/false/stb/false/stbh/true/ld/false/sri/true/at/preferhtml5" width="773px" height="483px" style="border:0px;"> </iframe>
+One of those colored functions is the derivative function of \\(f\\). Which one? You can check/uncheck the boxes to show/hide the colored functions. Reason your way to an answer based on how the derivative function must behave given the graph of the original. On the submission form, state your answer as Function A, Function B, etc. and give a brief explanation. 
+6. What specific mathematical questions do you have over this Guided Practice? 
+
+
+## Submission instructions
+
+Submit your responses using the form at this link: link

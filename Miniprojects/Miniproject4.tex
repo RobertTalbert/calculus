@@ -1,0 +1,86 @@
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage{fancyhdr}
+\usepackage[latin1]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[hmargin=2cm,vmargin=2.5cm]{geometry}
+\usepackage[normalem]{ulem}
+\usepackage{enumerate}
+\usepackage{hyperref}
+
+
+
+\pagestyle{fancy}
+\setlength\parindent{0in}
+\setlength\parskip{0.1in}
+\setlength\headheight{15pt}
+
+
+\begin{document}
+
+\begin{flushright}
+	\begin{Large}
+		Miniproject 4: Analysis of a deer population
+	\end{Large}
+\end{flushright}
+
+\noindent
+\textbf{Overview:} This miniproject will apply what you've learned about derivatives so far, especially the Chain Rule, to analyze the change in a population model. 
+
+\medskip
+
+\noindent
+\textbf{Prerequisites:} The computational methods of Sections 2.1--2.5 of \emph{Active Calculus}, especially Section 2.5 (The Chain Rule). 
+
+\medskip
+
+\noindent
+This miniproject is \textbf{not} one of the CORE miniprojects. This miniproject is an elective for those targeting a course grade of A or B. 
+	
+\hrulefill
+
+With $t$ measuring time in years, the population of a herd of deer is represented by the function 
+
+\[ P(t) = 4000 + 500 \sin \left(2 \pi t - \frac{\pi}{2}   \right)  \]
+
+\begin{enumerate}
+	\item Use Geogebra to produce a graph of this function over a one-year time period. Insert the graph as a graphics file into your electronic writeup. Make sure that the graph is formatted according to the \emph{Specifications for Student Work} document, particularly the section on specifications for graphs. (In particular, make sure that the graph does not have excessive dead space.) You will need to think carefully about where the graph is situated in the $xy$-plane and then set your viewing window to appropriate values. 
+
+	If your $y$-axis is so far up that the $x$-axis no longer appears, you can superimpose the $x$-axis by right-clicking in the Graphics view, then selecting \verb.Graphics., then select the \verb=xAxis= tab, then click on the box for ``Stick to edge''. 
+
+	To label your axes in Geogebra, click on the \verb.Text. button (third one from the right), then click where you want the text to appear, and then start typing. 
+
+	For your writeup, you are to export the graphics view in Geogebra and embed it into your file. To export your graphics view as a graphics file, create the graph in Geogebra and then go to \verb=File > Export > Graphics View as Picture...= and then select the graphics format you want (\verb=.png= and \verb=.jpg= should work). Then insert the graphics file into your writeup. (If you are unsure how to insert pictures into a word processing file, try Googling it and then ask for help in the discussion boards if you still need help.)
+
+	\item The function $500 \sin \left(2 \pi t - \frac{\pi}{2}   \right)$ is a composite function. State what the ``inner'' and ``outer'' functions are, and then calculate $P'(t)$, being careful to show all work. Simplify your answer as much as possible (and be sure to use technology to check your work). 
+
+	% This will require you to typeset some mathematical work. Microsoft Word has a built-in Equation Editor that can handle this, as does Google Docs. You will receive some basic instruction on how to find and use Word's equation editor during the lab session. You might also try this online equation editor: \url{http://www.homeschoolmath.net/worksheets/equation_editor.php}
+
+	\item Looking at your graph from problem 1, you can see that the population reaches a maximum at a certain point in time. Use your formula for $P'(t)$ along with algebra and trigonometry to find the \emph{exact} time when this maximum occurs; be sure to show all work. Also, find what the maximum value of the population is (in terms of the number of deer). 
+
+	\item Calculate the second derivative, $P''(t)$. Show all work. 
+
+	\item Looking again at the graph of $P$, we can see that there is a point in time somewhere in the interval $0.2 \leq t \leq 0.4$ where the population is growing at its fastest rate. Find the \emph{exact} value of that time (by using computations you have already made along with algebra and trigonometry). Then, find the rate at which the population is changing at that time and put correct units on your answer. (\emph{Questions to ask:} Looking at the graph, what is the concavity of $P$ right up until this point? What is the concavity of $P$ after that point? If the concavity of $P$ changes at this point, what happens to $P''$ at this point?)
+
+\end{enumerate}
+
+
+
+\hrulefill
+
+\noindent
+\textbf{Submission instructions:} Please prepare a writeup that includes all your work for the problem above. 
+
+The resulting writeup can be done in whatever fashion you wish but it must be saved as a PDF file and submitted using Blackboard. (You may use any program you want to write the writeup but the submission \emph{must} be a PDF, or your work will be marked at Novice level and returned without comment.) 
+
+\noindent
+\textbf{File name:} Please give your PDF file for this miniproject the title: 
+\begin{verbatim}
+	LastName Miniproject4.pdf
+\end{verbatim}
+where \texttt{LastName} is your last name. 
+
+\end{document}

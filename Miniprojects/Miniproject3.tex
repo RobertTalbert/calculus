@@ -1,0 +1,90 @@
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage{fancyhdr}
+\usepackage[latin1]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[hmargin=2cm,vmargin=2.5cm]{geometry}
+\usepackage[normalem]{ulem}
+\usepackage{enumerate}
+\usepackage{hyperref}
+
+
+
+\pagestyle{fancy}
+\setlength\parindent{0in}
+\setlength\parskip{0.1in}
+\setlength\headheight{15pt}
+
+
+\begin{document}
+
+\begin{flushright}
+	\begin{Large}
+		Miniproject 3: Tangent line approximations
+	\end{Large}
+\end{flushright}
+
+\noindent
+\textbf{Overview:} In this miniproject you will put the idea of the \emph{local linearization} of a function to work on data sets and data-generated functions of best fit, to build linear approximations to complex functions and then make \emph{interpolations} and \emph{extrapolations} using them. 
+
+\medskip
+
+\noindent
+\textbf{Prerequisites:} Sections 1.8 in \emph{Active Calculus}, which focuses on this topic. You'll also need to be comfortable with spreadsheets and using Geogebra to construct models for data (see Miniproject 2 for instructions). \textbf{Completion of Miniprojects 1 adn 2 is recommended before doing this miniproject}. 
+
+\medskip
+
+\noindent
+This miniproject is \textbf{not} one of the CORE miniprojects. This miniproject is an elective for those targeting a course grade of A or B. 
+	
+
+\hrulefill
+
+\begin{enumerate}
+	\item A potato is placed in an oven, and the potato's temperature $F$ (in degrees Fahrenheit) at various points in time is taken and recorded in the following table. The time $t$ is measured in minutes. 
+	\begin{center}
+		\begin{tabular}{c||c|c|c|c|c|c|c}
+		$t$ & 0 & 15 & 30 & 45 & 60 & 75 & 90 \\ \hline
+		$F$ & 70 & 180.5 & 251 & 296 & 324.5 & 342.8 & 354.5 
+		\end{tabular}
+	\end{center}
+	\begin{enumerate}
+		\item Use a central difference to estimate $F'(60)$. Use this estimate as needed in subsequent questions in this problem. 
+		\item Find the local linearization $y = L(t)$ to the function $y = F(t)$ at the point where $a = 60$. 
+		\item Determine an estimate for $F(63)$ by employing the local linearization. Terminology: This estimate is called an \emph{interpolation} because we are estimating a value that lies within a data set, between two known data points. 
+		\item Do you think your estimate in (c) is too large, too small, or exactly right? Why? 
+	\end{enumerate}
+
+
+	\item Now go out to the web and find another set of two-variable data. For example, if you have completed Miniprojects 1 or 2, you can use the set of data that you used for the second parts of those miniprojects. Using the instructions given in Miniproject 2\footnote{These were contained in this video: \url{https://www.youtube.com/watch?v=aeV1gjd2o-U}}, model the data with one of the following types of functions: \textbf{fourth degree polynomial}, \textbf{power}, or \textbf{logarithmic} (your choice; depending on your data, some models may not be available). Then do the following: 
+	\begin{enumerate}
+		\item Take a screenshot of the Geogebra data analysis window where it shows the data, the formula for your model, and the graph of the model and the data together. 
+		\item Choose the final data point in your data set. Using Wolfram\textbar Alpha to take derivatives, find the value of the derivative of your model's formula at this point. Use the formula that Geogebra gave you. When you've computed the derivative, copy the URL to the web page that shows the result. Paste this link into your writeup so the work can be checked. 
+		\item Using the value of the derivative you calculated on Wolfram\textbar Alpha, find the local linearization $L$ to your model at the final data point. Do this work by hand in your writeup. 
+		\item Use your local linearization to predict a value that is beyond the final point of the data set. For example, if your data set was the potato temperatures in the first problem, you could predict the temperature of the potato at 100 minutes. Show all work. Terminology: This kind of estimate is called an \emph{extrapolation} because it predicts a value that lies outside the known data set. 
+	\end{enumerate}
+
+\end{enumerate}
+
+
+\hrulefill
+
+\noindent
+\textbf{Submission instructions:} Please prepare a writeup that includes the following: 
+	\begin{itemize}
+		\item All your work done by hand in task 1.  
+		\item Your work in task 2, which should include: a screenshot from Geogebra indicated in part (a); a link to your Wolfram\textbar Alpha calculation in part (b); and work by hand in parts (c) and (d). 
+	\end{itemize}
+The resulting writeup can be done in whatever fashion you wish but it must be saved as a PDF file and submitted using Blackboard. (You may use any program you want to write the writeup but the submission \emph{must} be a PDF, or your work will be marked at Novice level and returned without comment.) 
+
+\noindent
+\textbf{File name:} Please give your PDF file for this miniproject the title: 
+\begin{verbatim}
+	LastName Miniproject3.pdf
+\end{verbatim}
+where \texttt{LastName} is your last name. 
+
+\end{document}

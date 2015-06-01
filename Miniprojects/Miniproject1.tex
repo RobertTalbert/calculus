@@ -1,0 +1,100 @@
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage{fancyhdr}
+\usepackage[latin1]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[hmargin=2cm,vmargin=2.5cm]{geometry}
+\usepackage[normalem]{ulem}
+\usepackage{enumerate}
+\usepackage{hyperref}
+
+
+
+\pagestyle{fancy}
+\setlength\parindent{0in}
+\setlength\parskip{0.1in}
+\setlength\headheight{15pt}
+
+
+\begin{document}
+
+\begin{flushright}
+	\begin{Large}
+		Miniproject 1: Data-driven modeling and calculus
+	\end{Large}
+\end{flushright}
+
+\noindent
+\textbf{Overview:} In this miniproject you will use technological tools to work with sets of data and build models of real-world quantitative phenomena, then apply the principles of the derivative to them to extract information about how the quantitative relationship changes. 
+
+\medskip
+
+\noindent
+\textbf{Prerequisites:} Sections 1.1--1.5 in \emph{Active Calculus}, specifically the concept of the derivative and how to construct estimates of the derivative using forward, backward and central differences. Also basic knowledge of how to use spreadsheets. 
+
+\medskip
+
+\noindent
+\textbf{This miniproject is one of the four designated CORE miniprojects.} Successful completion of this miniproject with a \textbf{Mastery} rating is required to earn a C or above in the course. 
+	
+
+\hrulefill
+
+\begin{enumerate}
+	\item Choose a major city in the United States and go to its Wikipedia entry. Somewhere in the entry for your city should be a table that shows the US Census Bureau data for the ``Historical population'' of your city measured at 10-year intervals. For example, here is a screenshot showing the historical population data for Prof. Talbert's hometown of Nashville, TN: \url{http://www.screencast.com/t/UjDvhPRsb}. If you cannot find that table for your city, contact the professor or choose a different city. In a Google Spreadsheet, do the following: 
+		\begin{enumerate}
+			\item Input your city's historical population data in two columns: In Column A, put the years shown on Wikipedia. In Column B, put the population in that year. If there is an estimated 2013 population in your table, leave it out of your spreadsheet. 
+			\item In Column C, use the spreadsheet capabilities to construct a column for the \emph{derivative} of population. You \emph{must} use the spreadsheet to make calculations, by way of a formula that you create. Calculations that are done using a calculator and then merely typed or copied into the spreadsheet cells will result in a \emph{Progressing} rating at best on this miniproject.
+			\item In the spreadhseet, write a brief (2--4 sentence) explanation of your work, focusing especially on how you calculated the two population derivative values at the beginning and end of the table and clearly stating what the units of measurement are. 
+		\end{enumerate}
+	Here is a picture of a partial result for Nashville: \url{http://www.screencast.com/t/XbbvWaWNB5D}. 
+
+	When you have finished your spreadsheet, click on the \texttt{Share} button, then click \texttt{Get shareable link}, then change ``Anyone with the link \textbf{can view}'' to ``Anyone with the link \textbf{can comment}''. Then click \texttt{Copy link} and paste the link in your writeup (see Task 3 below). (This will allow me to access your work directly and leave comments if necessary.)
+
+
+	\item The kind of data set you modeled in the first task in this miniproject is a \emph{two-variable data set} because there are two variables involved (derp!) and there is an implied relationship between one variable and the other. For example, in the population data, there is an implied relationship between time and population -- as time passes, population changes. Time is like the input variable to a function, and population is like the output; we call time the \textbf{independent variable} and population the \textbf{dependent variable} because population depends on time. 
+
+	For the second task in this project, you are to go out and find another two-variable data set and analyze it. You can use any kind of data you wish, as long as: 
+	\begin{itemize}
+		\item It doesn't have to do with population and time, because we just did that. 
+		\item The set has at least five pairs of data in it. 
+		\item The data set is real (not made up) and you can provide a link to a reference for it. 
+		\item Importantly: The data must have a positive derivative at some point and a negative derivative at some point. You will need to think about what this means from a practical standpoint. 
+	\end{itemize}
+
+	Here is what you are to do with your data set: 
+		\begin{enumerate}
+			\item In the spreadsheet you used in the first task, create a new tab by clicking on the plus button in the lower left corner. Also rename the tabs by double clicking on each tab and giving the tab an appropriate name (``Task 1'' or ``Population data'' for example). 
+			\item In the new tab, enter your data set similarly to how you entered the data in the first task -- put the independent variable data in column A and label it with a header, and the dependent variable data in column B and label it with a header.
+			\item In column C, construct a table of derivative values.  
+		\end{enumerate}
+
+		The sharing settings that you set in Task 1 apply to the entire spreadsheet, so the one link you saved above will give me access to both tabs. 
+
+	\item Prepare a writeup in a separate document that includes the following:
+		\begin{enumerate}
+			\item The link to your spreadsheet and a link to the data you used in Task 2. Note that these links \emph{must} work in order to attain Mastery level on this miniproject, so double-check this before submitting it.
+			\item A brief answer to the question: Why did you pick the data set in Task 2? 
+			\item Look at the derivative values for Task 2, in particular the \emph{sign} (positive or negative) of those derivatives and the \emph{magnitude} (absolute size) of those values. What are some insights you gained about the original data by examining the derivative of the data? 
+			\item What's something that was particularly interesting and/or particularly challenging as you were completing this miniproject? 
+		\end{enumerate}
+
+\end{enumerate}
+
+\hrulefill
+
+\noindent
+\textbf{Submission instructions:} The writeup that you prepare in Task 3 is to be saved as a PDF file and submitted using Blackboard. (You may use any program you want to write the writeup but the submission \emph{must} be a PDF, or your work will be marked at Novice level and returned without comment.)
+
+\noindent
+\textbf{File name:} Please give your PDF file for this miniproject the title: 
+\begin{verbatim}
+	LastName Miniproject1.pdf
+\end{verbatim}
+where \texttt{LastName} is your last name. 
+
+
+\end{document}

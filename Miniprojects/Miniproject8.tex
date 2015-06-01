@@ -1,0 +1,75 @@
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage{fancyhdr}
+\usepackage[latin1]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[hmargin=2cm,vmargin=2.5cm]{geometry}
+\usepackage[normalem]{ulem}
+\usepackage{enumerate}
+\usepackage{hyperref}
+
+
+
+\pagestyle{fancy}
+\setlength\parindent{0in}
+\setlength\parskip{0.1in}
+\setlength\headheight{15pt}
+
+
+\begin{document}
+
+\begin{flushright}
+	\begin{Large}
+		Miniproject 8: Finding total change 
+	\end{Large}
+\end{flushright}
+
+\noindent
+\textbf{Overview:} This miniproject focuses on a key application  of the Fundamental Theorem of Calculus, specifically finding the total change accumulated by a changing quantity over a period of time.  
+
+\medskip
+
+\noindent
+\textbf{Prerequisites:} Section 4.4 of \emph{Active Calculus}, especially the Total Change Theorem described in that section. 
+
+\medskip
+
+\noindent
+\textbf{This miniproject is one of the four designated CORE miniprojects.} Successful completion of this miniproject with a \textbf{Mastery} rating is required to earn a C or above in the course. 	
+
+\hrulefill
+
+When an aircraft attempts to climb as rapidly as possible, its climb rate (in feet per minute) decreases as altitude increases, because the air is less dense at higher altitudes. Given below is a table showing performance data for a certain single engine aircraft, giving its climb rate at various altitudes, where $c(h)$ denotes the climb rate of the airplane at an altitude $h$.
+
+\begin{center}
+	\begin{tabular}{c||c|c|c|c|c|c|c|c|c|c|c}
+	$h$ (feet) & 0 & 1000 & 2000 & 3000 & 4000 & 5000 & 6000 & 7000 & 8000 & 9000 & 10000 \\ \hline
+	$c(h)$ (ft/min) & 925 & 875 & 830 & 780 & 730 & 685 & 635 & 585 & 535 & 490 & 440 
+	\end{tabular}
+\end{center}
+Define a new function $m(h)$ that measures the number of minutes required for a plane at altitude $h$ to climb to the next foot of altitude. 
+	\begin{enumerate}
+		\item Construct a table similar to the one above for the values of $m(h)$ and explain how it is related to the table above. Be sure to explain the units. 
+		\item Give a careful interpretation of a function whose derivative is $m(h)$. Describe what the input is and what the output is. Also, explain in plain English what the function tells us.
+		\item Determine a definite integral whose value tells us exactly the number of minutes required for the airplane to ascend to 10,000 feet of altitude. Clearly explain why the value of this integral has the required meaning.
+		\item Use the Riemann sum $M_5$ to estimate the value of the integral you found in (c). Include units on your result. 
+	\end{enumerate}
+
+\hrulefill
+
+\noindent
+\textbf{Submission instructions:} Please prepare a writeup that includes all your work for the problem above. 
+
+The resulting writeup can be done in whatever fashion you wish but it must be saved as a PDF file and submitted using Blackboard. (You may use any program you want to write the writeup but the submission \emph{must} be a PDF, or your work will be marked at Novice level and returned without comment.) 
+
+\noindent
+\textbf{File name:} Please give your PDF file for this miniproject the title: 
+\begin{verbatim}
+	LastName Miniproject8.pdf
+\end{verbatim}
+where \texttt{LastName} is your last name. 
+
+\end{document}

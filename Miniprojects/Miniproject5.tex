@@ -1,0 +1,88 @@
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage{fancyhdr}
+\usepackage[latin1]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[hmargin=2cm,vmargin=2.5cm]{geometry}
+\usepackage[normalem]{ulem}
+\usepackage{enumerate}
+\usepackage{hyperref}
+
+
+
+\pagestyle{fancy}
+\setlength\parindent{0in}
+\setlength\parskip{0.1in}
+\setlength\headheight{15pt}
+
+
+\begin{document}
+
+\begin{flushright}
+	\begin{Large}
+		Miniproject 5: Families of functions
+	\end{Large}
+\end{flushright}
+
+\noindent
+\textbf{Overview:} This miniproject focuses on working with \emph{families of functions} that are described by one or two \emph{parameters}. In it, you'll work with a couple of families and analyze these fully using the analytic derivative techniques you learned in Chapter 2. 
+
+\medskip
+
+\noindent
+\textbf{Prerequisites:} All the techniques used in Chapter 2 of \emph{Active Calculus} for differentiation, and some familiarity with Section 3.2 such as would be gained by reading and working the Guided Practice on that section. Also: Using Geogebra to graph a family of functions using a slider. There are many tutorials avaialble on plotting functions using sliders. Here is one: \url{https://www.youtube.com/watch?v=p1xeRhgEB2U}
+
+\medskip
+
+\noindent
+This miniproject is \textbf{not} one of the CORE miniprojects. This miniproject is an elective for those targeting a course grade of A or B. 
+	
+
+\hrulefill
+
+\begin{enumerate}
+	\item Consider the family defined by $p(x) = x^3 - ax^2$ where $a \neq 0$ is an arbitrary constant.
+	\begin{enumerate}
+		\item Use Geogebra to create an interactive plot of this family using a slider. Move the slider back and forth and observe how the family changes. Remember $a$ should be greater and or equal to $0$. Take a screenshot of a typical member of the family. Based on your interactive plot, how many critical values does a member of this family have, and how many inflection points does it have? Also, determine whether the critical value(s) and inflection point(s) appear to depend on the value of the parameter $a$, and explain your reasoning.
+		\item Calculate the derivative $p'(x)$ by hand and determine the critical values of $p$. Show all work. To double-check your work, make sure that your results on this part agree with your answers from (a).
+		\item Construct a first derivative sign chart for $p$ and use it to classify the critical numbers from (b) as local maxima, local minima, or neither.  
+		\item Calculate $p''(x)$ and construct a second derivative sign chart for $p$. What does this tell you about the concavity of $p$? What role does $a$ play in determining the concavity of $p$? 
+	\end{enumerate}
+
+	\item Consider the two-parameter family of functions 
+	$$E(x) = e^{- \frac{(x-m)^2}{2s^2}}$$
+	where $m$ is any real number and $s$ is a positive real number. 
+
+	\begin{enumerate}
+		\item Compute $E'(x)$ by hand and find all the critical values of $E$. (Question as you work: Can $e^Q$ ever equal $0$, for any value of $Q$?)
+		\item Construct a first derivative sign chart for $E$ and classify each critical value as a local minimum, local maximum, or neither. 
+		\item It can be shown that $E''(x)$ is given by the formula
+		$$E''(x) = e^{- \frac{(x-m)^2}{2s^2}} \left( \frac{(x-m)^2 - s^2}{s^4} \right)$$
+		Find all values for which $E''(x) = 0$. 
+		\item In Geogebra, make an interactive graph of this family of functions using two sliders. Remember that $s$ must be positive when making the slider. Take a screenshot of a typical member of the family. 
+	\end{enumerate}
+
+\end{enumerate}
+
+
+\hrulefill
+
+\noindent
+\textbf{Submission instructions:} Please prepare a writeup that includes the following: 
+	\begin{itemize}
+		\item All your work done by hand in task 1 and the Geogebra screenshot.  
+		\item All your work done by hand in task 2 and the Geogebra screenshot.
+	\end{itemize}
+The resulting writeup can be done in whatever fashion you wish but it must be saved as a PDF file and submitted using Blackboard. (You may use any program you want to write the writeup but the submission \emph{must} be a PDF, or your work will be marked at Novice level and returned without comment.) 
+
+\noindent
+\textbf{File name:} Please give your PDF file for this miniproject the title: 
+\begin{verbatim}
+	LastName Miniproject5.pdf
+\end{verbatim}
+where \texttt{LastName} is your last name. 
+
+\end{document}

@@ -1,0 +1,55 @@
+# Guided Practice 1.6: The second derivative
+
+## Overview
+
+In this section we study the **second derivative** of a function, which is just the derivative of the first derivative. That is -- "taking a derivative" is something we do to a function, and since the derivative $f'$ is a function, we can take its derivative too. The second derivative is an important ingredient for understanding the subtle behaviors of a function, and in particular the concept of **concavity** will distinguish between a function that is increasing at an increasing pace and a function that is increasing at a decreasing pace. Our main highlight for this section is to have a clear understanding of the relationships between the sign of $f'$, the sign of $f''$ (the second derivative), the increasing/decreasing behavior of $f$, and the concavity of $f$. 
+
+## Learning objectives
+
+__Basic objectives__: Each student is responsible for gaining proficiency with each of these tasks _prior_ to engaging in class discussions, through the use of the learning resources (below) and through the working of exercises (also below). 
+
+- Define what it means for a function to be *increasing* or *decreasing* on an interval, and identify intervals on which a function is increasing or decreasing given a graph of the function. 
+- Define what is meant by the *second derivative* of a function and correctly use the double-prime notation to denote a second derivative. 
+- Define what it means for a function to be *concave up* or *concave down* on an interval. 
+- Visually identify intervals on which a function is concave up or concave down, given a graph of the function. 
+- Given the sign (positive, negative, zero) of $f'$ at a point, tell whether the original function $f$ is increasing or decreasing at that point. 
+- Given the sign (positive, negative, zero) of $f''$ at a point, tell whether the original function $f$ is concave up or concave down at that point. 
+
+__Advanced objectives__: The following objectives are the subject of class discussion and further work; they should be mastered by each student _during_ and _following_ class discussions. 
+
+- Given the graph of a function, sketch the graph of its second derivative. 
+- Explain what the six different combinations of increasing/decreasing and concave up/concave down/linear mean in real-life terms (such as "increasing at a decreasing rate"). 
+- Given a table of values for a function, construct a table of approximate values for its second derivative. 
+
+## Learning resources 
+
+To gain proficiency in the learning objectives, use the following resources. You may include other resources if you wish, in addition to or in replacement of the following. 
+
+__Textbook__: In _Active Calculus_, read Section 1.6. Make sure to read actively, working through examples and activities as you go. 
+
+__Video__: Watch the following videos at the MTH 201 YouTube playlist (http://bit.ly/GVSUCalculus). 
+
+- [Quick Review: The second derivative](http://www.youtube.com/watch?v=UtzyPEk2zxA) (3:07)
+- [Limit definition of the second derivative](http://www.youtube.com/watch?v=SIp6g-u-rkc) (9:49)
+- [Determining concavity from a graph](http://www.youtube.com/watch?v=o1_o4E-LGsA) (7:43)
+
+## Exercises
+
+The following exercises are to be done _during_ and _following_ your reading and viewing of the resources. Work these out on paper and then enter the responses into the appropriate submission form (see Submission Instructions) by the deadline. You will receive a mark of __Pass__ if each item response shows a good-faith effort to be right and is submitted prior to the deadline. 
+
+Exercises 1--3 for this Guided Practice use the applet below. Here is a description: In a certain GVSU course (not in the Math Department), not all of the students purchased their textbooks early on. As the semester progressed, more and more students bought their books. The graph below shows the percent of students in the class who have bought the book, as a function of time (in days since the start of the semester). **Note**: The horizontal axis label is cut off in the applet; it's labelled "Days since the start of the semester". 
+
+<iframe scrolling="no" src="https://www.geogebratube.org/material/iframe/id/147320/width/800/height/438/border/888888/rc/false/ai/false/sdz/true/smb/false/stb/false/stbh/true/ld/false/sri/true/at/preferhtml5" width="800px" height="438px" style="border:0px;"> </iframe>
+
+A draggable point is shown on this graph with a tangent line to the graph attached to it. Also shown are the coordinates of the point (the day is in the first coordinate, and the percent of students owning their textbooks is the second coordinate) as well as the slope of the tangent line. Drag the point to watch the point, tangent line, coordinates, and slope change. 
+
+1. Is the slope of the tangent line ever negative? What does this say, in plain English, about whether the percentage of students with textbooks was increasing or decreasing? 
+2. On what day does the slope of the tangent line hit its largest value? (Guesstimate this by dragging the point back and forth and observing the slope change.) What's different about the rate at which students are purchasing textbooks before this day, versus after this day? 
+3. On what interval is the function (whose graph is given) concave up? On what interval is it concave down? And how do you know? Notice we do not have access to the formula for this function, so your explanation needs to be visual in nature. 
+4. _(This exercise is unrelated to the applet above.)_ Suppose we have a function, $G$, and we know three things about it: $G(2) = 1$, $G'(2) = -1$, and $G''(2) = 3$. What can we say about the behavior of $G$ at $x=2$ based on this information? On the submission form is a multiple choice item with selections from which to choose; select the one answer that is most correct. 
+5. What specific mathematical questions do you have after doing this Guided Practice? 
+
+
+## Submission instructions
+
+Submit your responses using the form at this link: [http://bit.ly/1bA0uH0](http://bit.ly/1bA0uH0)
