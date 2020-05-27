@@ -85,7 +85,8 @@
 + Find the slope or equation of a tangent line to a curve given implicitly by an expression. 
 + State whether a given limit is an indeterminate form, and if so, the state the type of indeterminate form. 
 + State L'Hôpital's Rule. 
-+ Use L'Hôpital's Rule to evaluate limits of an indeterminate form. 
++ Use L'Hôpital's Rule to evaluate limits of an indeterminate form.
++ Compute the limit of a function as the input increases or decreases without bound. 
 
 ### Module 9: How can derivatives tell us important information about functions? (3.1, 3.2) -- 10/28-11/3 (begins to wrap around weekends)
 
@@ -97,12 +98,32 @@
 + Use the Second Derivative Test to determine whether a critical number of a function is a relative minimum or relative maximum.
 + Identify the inflection points of a function, given the function's graph. 
 + Use the second derivative to find all inflection points of a function algebraically. 
-+ Given a one- or two-parameter family of functions, find the critical numbers, relative minima and maxima, and inflection points in terms of the parameters. 
++ Given a one- or two-parameter family of functions, find the critical numbers, relative minima and maxima, and inflection points in terms of the parameters.
 
 ### Module 10: How can we use derivatives to find the best value of a function? (3.3, 3.4) -- 11/4-11/10
 
++ Use the Extreme Value Theorem to find the absolute maximum and minimum values of a continuous function on a closed interval. 
++ Set up and solve applied optimization problems. 
+
 ### Module 11: How can we use one rate of change to find another? (3.5, review) -- 11/11-11/17 (possible reassessment times)
+
++ Set up and solve related rates problems. 
+
 
 ### Module 12: How to we tell how far something has traveled if all we know is its speed? (4.1, 4.2) -- 11 18-11/24
 
++ Use area to estimate or compute the distance traveled by an object, given a graph of its velocity.
++ Determine whether one function is an antiderivative of another.
++ Use an antiderivative to compute the distance traveled by an object, given a formula for its velocity.
++ Estimate the area between a curve and the horizontal axis on an interval using a left, right, and middle Riemann sum.
+
 ### Module 13: What is a definite integral, and how is it related to a derivative? (4.3, 4.4) -- 11/30-12/3 (back to MTWR)
+
++ State the formal definition of the definite integral of a function on an interval and explain the meaning of each part of the notation.
++ Find the exact value of a definite integral using known geometric formulas (if possible).
++ Use the Properties of the Definite Integral to compute, manipulate, and simplify definite integrals.
++ Calculate the average value of a function on an interval.
++ State the Fundamental Theorem of Calculus.
++ Find the most general antiderivative of a function.
++ Use the Fundamental Theorem of Calculus to find the exact value of a definite integral using an antiderivative.
++ Find the total amount of change in a function on an interval, using a definite integral.
