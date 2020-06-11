@@ -42,6 +42,24 @@ Or some other way of doing it worked out among the groups, as long as each group
   - Working out problems at "the board" using Jamboard
 
 
+### Model 2B: Staggered hybrid hyflex-esque
+
+- At beginning of the semester: 
+  - Students are put into two groups (Red and Blue) 
+  - Each student also gets two partners, one from their color and one from the other. 
+  - This creates a group of four with half in one color half in the other -- a semester-long accountability/study group.
+- Sundays and Tuesdays: Guided Practice due for A and B parts of each module.  
+- F2F meetings MTWR. These are for: 
+  - Q&A over Guided Practice 
+  - Active work over "middle third" stuff (application/analysis) 
+  - Debriefing of active work
+  - **All F2F meetings are streamed and recorded.**
+  - **All active learning tasks are made available for the week and posted by Sunday and can be done asynchronously if needed.**  
+- MW: Red group attends F2F. 
+- TR: Blue group attends F2F. 
+- Additional, asynchronous activities are given to both groups to complete after T and R. -- Active learning tasks done to reach further learning objectives. Posted online and discussed. 
+
+
 
 ## If it's 100% online 
 
