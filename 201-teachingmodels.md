@@ -47,6 +47,8 @@ Or some other way of doing it worked out among the groups, as long as each group
 - At beginning of the semester: 
   - Students are put into two groups (Red and Blue) 
   - Each student also gets two partners, one from their color and one from the other. 
+    - Purpose of the same-color partner is to pair off during class meetings 
+    - Purpose of the other-color partner is to be a designated person to ask for questions or clarification -- could also attend synchronously and interact in real time 
   - This creates a group of four with half in one color half in the other -- a semester-long accountability/study group.
 - Sundays and Tuesdays: Guided Practice due for A and B parts of each module.  
 - F2F meetings MTWR. These are for: 
