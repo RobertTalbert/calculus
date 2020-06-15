@@ -18,22 +18,22 @@
 
 ## Initial grade scheme 
 
-| Item | D | C | B | A | 
-|:--: | :--: | :--: |:--: |:--: |
-| Engagement (100) | 50 | 60 | 70 | 80 | 
-| GP  (24) | 12 | 16 | 18 | 20 |
-| WeBWorK (180) | 90 | 120 | 140 | 160 |
-| AEP (8) | 2 "M" | 5 "M" |  4 "M", 2 "E" |  3 "M", 4 "E" | 
-| LT (24) | 12 | 18 including all Core | 20 including all Core | 22 including all Core | 
-
-Learning Targets revised (assume 24):
-
-- C: Mastery on all 10 Core + Proficient on 8 more 
-- B: Mastery on all 10 Core + Mastery on 4 more + Proficient on 6 more (20 total)
-- A: Mastery on all 10 Core + Mastery on 8 more + Proficient on 4 more (22 total) 
+| Item | D    |  C   | B   | A   | 
+|:--:  | :--: | :--: |:--: |:--: |
+| Learning Targets | Proficient on 12 | Mastery on all 10 Core + Proficient on 8 more | Mastery on all 10 Core and 5 others + Proficient on 6 more | Mastery on all 10 Core and 8 others + Proficient on 6 more |
+| Application/Extension Problem Sets | "M" on 2 | "M" on 5 | "M" on 4, "E" on 2 | "M" on 3, "E" on 4| 
+Guided Practice (24) | Satisfactory on 12 | Satisfactory on 16 | Satisfactory on 18 | Satisfactory on 20 |
+WeBWorK (180 points) | 90 | 120 | 140 | 160 |
+Engagement Credits (100 points) | 50 | 60 | 70 | 80 | 
 
 
-- Also: Mastery of all three Group F targets required for C or higher. 
+- Also: Passing the Functions Bootcamp  is required for a grade of C or higher. (Special exam + special WeBWorK)  
+- Base grade is the highest grade for which *all* requirements have been met. 
+- 
+
+
+
+
 
 For AEP: Maybe require optimization and one other for C or above. 
 
