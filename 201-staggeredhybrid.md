@@ -1,29 +1,54 @@
 # Workflow for staggered hybrid MTH 201
 
-Meetings are MTWR 50 minutes each.
+## Parameters 
 
-+ **First:** Divide students into two groups, *Blue Team* and *Red Team*. Blue meets in person MW, Red meets in person TR.
-+ Course content is divided into modules, and each module subdivided into "A" and "B" parts. Think of each subdivision as a single section of _Active Calculus_ although it's not always exactly that.
-+ Each module is given four days of class meetings (not necessatily MTWR; depends on recess and assessment schedules)
-+ **Student workflow:**
-  + Prior to day 1: Both teams complete pre-class assignment on module part A, which covers Remember and Understand levels of Bloom's taxonomy.
-  + Day 1: Blue Team meets in person:
-    + 10 minutes of Q&A on pre-class work
-    + 30 minutes of active learning tasks on Evaluate, Apply, and Analyze levels of Bloom's Taxonomy
-    + 10 minutes of wrap-up
-  + Day 2: Red Team meets in person and repeats the structure of Blue Team on Day 1.
-  + Prior to Day 3: Both teams complete pre-class assignment on module part B, which covers Remember and Understand levels of Bloom's taxonomy.
-  + Day 3: Blue Team meets to work with part B, same basic structure.
-  + Day 4: Red Team meets to work with part B, same basic structure.
-  + Also each week:
-    + By Sunday night: WeBWorK assignment over entire module
-    + Other WeBWorK: 5-question WW set on Part A due by end of day 3; 5-question WW set on Part B due by end of day 5 (always include review)
-    + Each meeting day: Record and upload work on active learning tasks to Blackboard for engagement credit (this can be done even if not physically present)
-+ Other assessments:
-  + Application problems/problem sets due with incentive deadlines, float outside class timeline
-  + Mastery Grading setup: ??? TBD
+- Two sections, MTWR @ 50 minutes each. 
+- Course is broken into 12 modules, with A and B parts. Four class days per module/two days per part. 
+- No synchronous exams or quizzes -- 100% of meeting times spent on active work or review. 
 
-# Original Staggered Hybrid concept for MTH 201
+## Workflow 
+
+- First split class into two: Red and Blue. 
+- Each day spent on active learning tasks that are submitted for engagement credit 
+
+
+| Day | Activity -- Red  | Activity -- Blue | 
+| :--:| :---------------:| :---------------: | 
+| Prior to day 1 | Guided Practice A | Guided Practice A | 
+| Day 1 | F2F active work | Remote active work | 
+| Day 2 | Remote active work | F2F active work | 
+| Prior to day 3 | Guided Practice B | Guided Practice B | 
+| Day 3 | F2F active work | Remote active work | 
+| Day 4 | Remote active work | F2F active work | 
+| After day 4 | WeBWorK | WeBWorK | 
+
+- Remote version of active work: Basically identical to F2F active work with extra metacognition, requirement to collaborate on CampusWire
+- Remote group can either tune into the live stream, or work asynchronously
+- F2F students can opt out of F2F and work online if they want or need to 
+- But not vice versa, because we need to maintain social distancing; students allowed to request switch to different color if days don't work for them; survey students before week 2 
+- If we have to pivot online, just switch all F2F work to synchronous online and retain asynchronous option 
+- Week 1: Random sorting of students and redo starting week 2
+
+
+## Sample workflow for Module 7 
+
+*Module 7: How do we compute derivatives of composites? (2.5, 2.6) -- 10/12-10/15*
+
+- Part A: Section 2.5 (Chain Rule part 1)
+  - Guided Practice: Breaking down fundamental structure, recognizing that composite is not multiplication; doing Chain Rule of very basic composites
+  - Part A active work: Polling questions about fundamental structure; practice with computing with the chain rule on Jamboard -- submit something to get EC for the work 
+  - Part B active work: More of part A but with more difficulty; graphs and tables -- submit something to get EC for the work 
+- Part B: Section 2.6 (Chain Rule recap + logs and inverse trig)
+  - GP: Recap of definition of log and inverse trig; preview activities 
+  - Part A: Logarithms 
+  - Part B: Inverse trig functions 
+
+
+
+
+
+
+## Original Staggered Hybrid concept for MTH 201
 
 - Class would ordinarily met MTWR.
 - Instead we use cohorts and staggered F2F meetings:
