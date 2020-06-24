@@ -50,3 +50,28 @@ Module 8: How do we compute derivatives of implicit functions? (2.7, 2.8) -- 10/
 Thanksgiving break = 11/25--11/29 -- Course content is complete at this point, can move the rest online maybe? 
 
 Last two weeks of class are for review, catch-up, reassessment. 
+
+
+Second Revision of Module Structure
+-----------------------------------
+
+* Consolidates computational sections (2.1-2.4) and extends application sections 
+* Relocates 1.8 to an AEP set 
+
+
+Module 1: How do we measure velocity? (1.1, 1.2) 
+Module 2: What is a derivative? (1.3, 1.4) 
+Module 3: What information does the derivative give us? (1.5, 1.6, 1.7) 
+Module 4: How do we compute derivatives of basic functions? (2.1--2.4)
+Module 5: How do we compute derivatives of composites? (2.5, 2.6) 
+Module 6: How do we compute derivatives of implicit functions? (2.7, 2.8) 
+Module 7: What can derivatives tell us about functions? (3.1, 3.3)
+Module 8: How can derivatives be used to find the best way to do something? (3.4)
+Module 9: How can we find information about a rate of change using other rates of change? (3.5 + review) 
+Module 10: How to we tell how far something has traveled if all we know is its speed? (4.1, 4.2) 
+Module 11: What is a definite integral? (4.3)
+Module 12: What is the Fundamental Theorem of Calculus and who cares? (4.4) 
+
+
+Last week of class is for review, catch-up, reassessment. 
+Assessment: Checkpoint every 2 weeks 
