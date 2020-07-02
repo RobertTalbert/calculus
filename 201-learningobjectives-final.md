@@ -80,12 +80,12 @@ instantaneous rate of change of a function.
 
 ## Core Learning Targets 
 
-      - L.1*: I can evaluate the limit (including one-sided and infinite limits) of a function at a point using graphical, numerical, or algebraic methoDC or explain why a limit `fails` to exist.
+- L.1*: I can evaluate the limit (including one-sided and infinite limits) of a function at a point using graphical, numerical, or algebraic methoDC or explain why a limit fails to exist.
 - DM.2*: I can calculate derivatives using the definition and estimate derivatives using difference quotients (including average and instantaneous velocities). 
 - DM.4*: I can correctly interpret the meaning of a derivative in context and state its units. 
 - DC.1*: I can compute derivatives correctly for power, polynomial, exponential, trigonometric, logarithmic, and inverse trigonometric functions and simple combinations of these (constant multiples, sums, differences). 
 - DC.2*: I can compute derivatives correctly for products, quotients, and composites of functions. 
-- - DA.1*: Given information about $f$, $f'$, or $f''$, I can draw conclusions about $f$, $f'$, or $f''$. 
+- DA.1*: Given information about $f$, $f'$, or $f''$, I can draw conclusions about $f$, $f'$, or $f''$. 
 - DA.2*: I can find the critical values of a function, determine where the function is increasing and decreasing, and apply the First and Second Derivative Tests to classify the critical points as local extrema. 
 - DA.5*: I can set up and use derivatives to solve applied optimization problems. 
 - FTC.3*: I can evaluate a definite integral using the Fundamental Theorem of Calculus and the Properties of the Definite Integral. 
