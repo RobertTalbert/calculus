@@ -19,12 +19,13 @@ If an object is moving but at a continuously changing speed, how do you tell how
 
 **BEFORE** your class meeting, use the Resources for Learning (below) to learn how to do the following: 
 
-- Compute the average velocity of a function on an interval using either of the average velocity formulas.
-- Explain the differences between average velocity and instantaneous velocity.
+- Compute the average velocity of a moving object on an interval using either of the average velocity formulas.
+- Interpret the average velocity of a moving object as the slope of a line. 
 
 
 **DURING AND AFTER** your class meeting, you will learn how to do the following: 
 
+- Explain the differences between average velocity and instantaneous velocity.
 - Find the instantanous velocity of a moving object through a sequence of average velocities.
 
 ## Resources for Learning
