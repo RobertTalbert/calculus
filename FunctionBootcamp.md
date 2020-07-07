@@ -62,7 +62,7 @@ Objectives:
   + If you know the elevation, you can't know my distance traveled 
   + But if you know the distance traveled, you can find out my elevation 
 + Functions: 
-  + A function is a process that may be applied to a collection of input values to produce a corresponding collection of output values in such a way that the process produces one and only one output value for any single input value.
+  + **A function is a process that may be applied to a collection of input values to produce a corresponding collection of output values in such a way that the process produces one and only one output value for any single input value**.
   + Example: Heart rate is a function of time 
   + Example: Elevation is a function of distance traveled 
   + Nonexample: Distance is not a function of elevation; pace is not a function of heart rate 
@@ -86,21 +86,14 @@ Objectives:
   + As data
   + As a graph
   + As a formula
-+ Example: Earnings and hourly work 
-  + As words: "You earn $11 per hour" so working 3 hours -> $33. 
-  + As data: Put it into a table 
-  + As a graph: Think of the points in the table as points on an xy-axis. The independent variable goes on the horizontal axis and the dependent goes on the vertical. Then plot the points -- *scatter plot*. Connect the dots -- *regression*. 
-  + As a formula: Represent the variables with letters. Hours = h, Earnings = E. Could say E = 11h. 
-    + FUNCTION NOTATION: Often we write E(h) = 11h, "E of h" -- not multiplying but symbolizing that E depends on h
-+ Three rules about representations
-  + No one representation is always better than the others, and not all are equally useful. 
-  + Changing representations gives information about the underlying idea. 
-  + Be able to change any one representation of a function into any other. 
-+ Tools for changing representations
-  + Formula or Data to graph: Desmos 
-  + Formula to data: Spreadsheet 
-  + Data to formula: Also spreadsheet 
-
++ Example: Covid-19 cases in Michigan 
+  + As words: Can describe the behavior and state certain values 
+  + As data: In a table 
+  + As graph: Think of the points in the table as points on an xy-axis. The independent variable goes on the horizontal axis and the dependent goes on the vertical. Then plot the points -- *scatter plot*. Connect the dots -- *regression*. 
+  + As formula: An algebraic expression that tells exactly how to produce output from input. Hard to get sometimes -- most functions are data or graphs. But here's an approximation...
++ Two rules about representations
+  + All models are wrong, but some are useful
+  + Changing representations gives you information 
 
 ### Video 3: Evaluating functions with formulas 
 
@@ -115,6 +108,7 @@ Objectives:
   + Evaluate f at t = 2: f(2) = 64 - 16(2-1)^2 
 + Bonus feature for formulas: We can evaluate not only at numbers but also at expressions. 
   + f(2a) 
-  + f(1+h)
+  + f(3+h)
 + Quiz time: g(r) = r^2 + 2r. Evaluate g(3) and g(a+b). 
-+ 
+
+

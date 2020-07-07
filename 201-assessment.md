@@ -1,5 +1,30 @@
 # Assessment plan
 
+## 3D approach
+
+General areas that will be asssessed, and how: 
+
+1. **Basic skill mastery**
+  - *Learning Target assessments*: Given as take-home assessments ala McNulty at regular intervals; students can also schedule live oral tests (with restrictions to keep scheduling sane)
+  - *WeBWorK*: Three sets per week of 5, 5, and 10 questions each. End-of-week set contains review from previous weeks. Maybe reduce this down to two sets of 8 problems each? (If I did this, then 16 points x 12 modules = 192 points. Scale from 180 in that case.)
+2. **Fluency with applying basic skills** 
+  - *Application/Extension Problem sets (AEP)*: Mini-projects calling for students to do authentic application or extension of basic ideas. Formal writeups. Graded EMRN. Post at least one per module, as many as I can dream up. Some can be counted for LT mastery. Single deadline/quota system with incentive dates for turn in.  
+3. **Engagement with the course and learning community** 
+  - *Engagement credits*: Includes anything I deem to be useful for keeping students engaged: 
+    - Pre-class work (24 points)
+    - Post-class work (48 points)
+    - Good addition to Campuswire
+    - Surveys (esp. informal feedback) 
+  - Set this up so that it's basically impossible to get A level work without turning in most/all of the pre and post class work; or specify what A-level work looks like for each of these 
+
+
+
+
+
+---
+
+**Everything below here is old** 
+
 ## Individual assessments 
 
 + Guided Practice -- due Sunday and Tuesday 11:59pm; preparation for upcoming module parts. Graded Pass/No Pass on basis of completeness, effort, and meeting the deadline. Plan on 24 of these. 
