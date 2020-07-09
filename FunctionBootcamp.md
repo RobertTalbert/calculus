@@ -23,9 +23,8 @@ This will consist of some special videos made just for the bootcamp, WeBWorK pra
 6. Evaluate an expression involving function notation using sums, differences, products, and quotients. 
 7. Evaluate a composite of two functions. 
 8. Identify the fundamental algebraic structure of a function (product, composite, etc.)
-9. Given a function in one representation, change its representation into one or more others. 
-10. Express a portion of the number line in correct interval notation. 
-11. Determine the domain and range of a function and express it in correct interval notation. 
+9.  Express a portion of the number line in correct interval notation. 
+10. Determine the domain and range of a function and express it in correct interval notation. 
 
 
 ## Video content 
@@ -112,3 +111,54 @@ Objectives:
 + Quiz time: g(r) = r^2 + 2r. Evaluate g(3) and g(a+b). 
 
 
+# Video 4: Evaluating functions with graphs
+
++ To **evaluate** a function means to find the output value that results from a given input. ("e + valuate")
++ Graphs: Independent variable is on the horizontal or "x" axis, dependent variable on the vertical or "y" axis. 
++ To evaluate: Find the input on the horizontal axis, look up or down to find the graph, read over to get the output. 
++ Example with a basic function 
++ Example with a piecewise function 
++ Example where the output doesn't exist
++ Example where it's not a function 
+
+
+# Video 5: Evaluating functions with graphs
+
++ To **evaluate** a function means to find the output value that results from a given input. ("e + valuate")
++ Tables: A row or column for the independent variable and one for the dependent
++ To evaluate: Find the value of the input and cross-reference the value of the output
++ Example of basic table
++ Example where the table value isn't given 
+
+# Video 6: Evaluate an expression involving function notation using sums, differences, products, and quotients.
+
++ Sometimes we want to combine functions in basic ways using arithmetic. 
++ Example: Retirement portfolio with funds from two sources. (Give as table) 
++ General rule: Functions defined as sums, differences, products, and quotients -- just evaluate each function in the combination and do the arithmetic on the result
++ Example: Given f, g look at A = f + g, B = g - f, C = 4f*g, D = g/f^2. f is a formula, g is a graph. Find several values. 
+
+# Video 7: Evaluate a composite of two functions.
+
++ Common way to combine functions is not to add, subtract, multiply, or divide but to evaluate them in sequence -- evaluate one function first and then use the output as the input for the second one. 
++ Example: Area of a ripple on a pond where the radius is a function of time 
++ Diagram the process
++ This is called COMPOSITION 
++ Notation using circles or just evaluation f(g(x))
++ THIS IS NOT MULTIPLICATION -- it's composition or "chaining". 
++ Example: Given f, g as formulas -- evaluate at 1-2 points and then get an expression; also reverse order 
++ Example: A is a table, B is a graph
+
+# Video 8: Identify the fundamental algebraic structure of a function (product, composite, etc.)
+
++ Important to be able to describe the fundamental structure of a function -- what is it? 
++ Example: f(x) = x * 2^x Fundamentally it's a product. 
++ Example: g(x) = x + 2^x Fundamentally it's a sum. 
++ Example: h(x) = sqrt(x^2 + x + 1) Fundamentally it's a composite. 
++ Quiz: Choose sum, difference, product, quotient, composite. 
+  + sqrt(x)/x+1
+  + x*sqrt(x+1)
+  + 1 + sqrt(x) 
+
+# Video 9: Interval notation 
+
+# Video 10: Domain and range 

@@ -4,30 +4,18 @@
 
 - Module 0: Onboarding and technology competency
   - No text; just tasks to complete for startup 
-- Module 1: How do we find the speed of a moving object? 
-  - Text: 1.1, 1.2
-- Module 2: What is the derivative of a function? 
-  - Text: 1.3, 1.4
-- Module 3: What does a derivative tell us about a function? 
-  - Text: 1.5, 1.6, 1.7, 1.8 
-- Module 4: How do we efficiently compute derivatives of basic functions? 
-  - Text: 2.1, 2.2
-- Module 5: How do we compute derivatives of products and quotients?
-  - Text: 2.3, 2.4 
-- Module 6: How do we compute derivatives of composites and other functions?
-  - Text: 2.5, 2.6
-- Module 7: How are derivatives used to learn how things behave? 
-  - Text: 3.1, 3.3
-- Module 8: How are derivatives used to find the best way to do something? 
-  - Text: 3.4
-- Module 9: How are derivatives used to find how fast something is changing? 
-  - Text: 2.7, 3.5
-- Module 10: How do we find how far a moving object has traveled? 
-  - Text: 4.1, 4.2
-- Module 11: What is the definite integral of a function? 
-  - Text: 4.3, 4.4
-- Module 12: How are derivatives and integrals related? 
-  - Text: 4.4
+- Module 1: How do we find the speed of a moving object?  (1.1, 1.2)
+- Module 2: What is the derivative of a function?  (1.3, 1.4)
+- Module 3: What does a derivative tell us about a function?  (1.5, 1.6, 1.7, 1.8)
+- Module 4: How do we efficiently compute derivatives of basic functions?  (2.1, 2.2)
+- Module 5: How do we compute derivatives of products and quotients? (2.3, 2.4)
+- Module 6: How do we compute derivatives of composites and other functions? (2.5, 2.6)
+- Module 7: How are derivatives used to learn how things behave?  (3.1, 3.3)
+- Module 8: How are derivatives used to find the best way to do something?  (3.4)
+- Module 9: How are derivatives used to find how fast something is changing?  (2.7, 3.5)
+- Module 10: How do we find how far a moving object has traveled?  (4.1, 4.2)
+- Module 11: What is the definite integral of a function?  (4.3, 4.4)
+- Module 12: How are derivatives and integrals related?  (4.4)
 
 
 ## Learning Targets 
