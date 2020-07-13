@@ -42,6 +42,21 @@ Learning Target levels needed for letter grades:
 | Core targets | 4 Mastered, 4 Progressing | 6 Mastered, 4 Progressing | 8 Mastered, 2 Progressing | 10 Mastered |
 | Other targets | 4 Progressing | 8 Progressing | 4 Mastered, 6 Progressing | 8 Mastered, 4 progressing | 
 
+## Engagement Credits
+
+The following items earn engagement credits: 
+
+- Guided Practice/pre-class (1 each x 24)
+- Post-class active work (1 each x 24) 
+- Weekly reports (1 each x 12) 
+- Startup assignment (12)
+
+Additionally a certain number of GP are required separately for the course grade 
+
+Be sure to offer at least 30-40 more EC's through miscellaneous work (discussion board posting, incentive bonuses, token cash-ins, etc.)
+
+
+
 ## Other items 
 
 | Category | D | C | B | A | 
@@ -51,6 +66,23 @@ Learning Target levels needed for letter grades:
 | WeBWorK (192) | 90 | 120 | 150 | 180 | 
 | Engagement (100) | 25 | 60 | 75 | 90 | 
 
+
+## GRADE TABLE 
+
+| Grade | LT's Mastered | LT's Progressing | AEP | WW | GP | EC | 
+| :---: | :----: | :---: | :--: | :--:| :--: | :---: | 
+A | 16 including all 10 Core | 6 | 4 E, 4 M+ | 180 | 22 | 90 | 
+B | 12 including all 10 Core | 8 | 2 E, 6 M+ | 160 | 18 | 80 | 
+C | 10 including 5 Core | 8 | 6 M+ | 140 | 14 | 70 | 
+D | n/a | 10 | 3 M+ | 90 | 10 | 60 |
+
+
 ## How plus/minus grades work 
 
-TBD 
++ Earn a `+` if
+  + All requirements for base grade completed AND LT or AEP requirement for next level up as well 
+  + Earn a 90% or higher on the final exam 
++ Earn a `-` if
+  + Complete all requirements for base grade except one, and that category is no more than two grade levels below (more than 2 grade levels below will be either - or full grade, depending on my discretion)
+  + Earn lower than 70% on final exam
+
