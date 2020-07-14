@@ -19,6 +19,7 @@ Everything here is free and licensed under a [Creative Commons Attribution-Share
 + `archive`: Materials from past semesters. 
 + `course-documentation`: Syllabus and other course docs. 
 + `design-notes`: Unsorted text files used for building the course in the initial phases.
++ `images`: Contains graphics and other visuals.
 + `presentations`: Outlines and source code for presentations/lectures 
 + `templates`: Markdown and LaTeX templates used for different activities and assignments. 
 
