@@ -9,6 +9,18 @@ The materials in this repo correspond to the chapters and sections in the textbo
 Everything here is free and licensed under a [Creative Commons Attribution-ShareAlike 3.0 license](http://creativecommons.org/licenses/by-sa/3.0/us/). 
 
 
+## Structure of this repo
+
++ `activities`: In-class active learning activities and post-class asynchronous activities. 
++ `assessments`: Contains three subdirectories: 
+  + `aep`: Application/Extension problems
+  + `checkpoints`: Checkpoint exams used for assessing skill on Learning Targets 
+  + `webwork`: Data files for WeBWorK sets 
++ `archive`: Materials from past semesters. 
++ `course-documentation`: Syllabus and other course docs. 
++ `design-notes`: Unsorted text files used for building the course in the initial phases.
++ `presentations`: Outlines and source code for presentations/lectures 
++ `templates`: Markdown and LaTeX templates used for different activities and assignments. 
 
 ## Important notes about Fall 2018 
 
