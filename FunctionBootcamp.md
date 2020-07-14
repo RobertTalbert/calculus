@@ -161,4 +161,25 @@ Objectives:
 
 # Video 9: Interval notation 
 
++ Often want to talk about sections of one of the axes, especially the x-axis 
++ Could do this with inequalities (examples) 
++ Simpler/shorter to use *interval notation*
++ Basic idea
+  + Start point, stop point
+  + A square bracket [ ] if the endpoint is included 
+  + Parentheses ( ) otherwise 
++ Examples
+  + [1,3]
+  + (1,3) 
+  + [1,3)
+  + (1,3]
++ What if there's no endpoint? Use infinity symbol (never with square brackets)
+
 # Video 10: Domain and range 
+
++ Domain = Set of all possible inputs
++ Range = Set of all possible outputs 
++ Example: f(x) = 2x - 1
++ Example: g(x) = x^2 - 1 
++ Example: Random graph 
++ Example: Table 
