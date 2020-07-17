@@ -1,16 +1,16 @@
 # MTH 201: Calculus 
 
-## Guided Practice, Module x: 
+## Daily Preparation, Module x: 
 
 **Due by:** 
 
-**Estimated time requirement:** About 60 minutes for the whole assignment. *If you have worked on this assignment for 60 minutes and you're stuck, please DON'T work any further* --- instead, stop and ask for help on the `#guidedpractice` channel on CampusWire. 
+**Estimated time requirement:** About 45 minutes for the whole assignment. *If you have worked on this assignment for 30 minutes and you're not at least halfway done, DON'T work any further* --- instead, *stop and ask for help* on the `#guidedpractice` channel on CampusWire. 
 
 ## Overview 
 
 
 
-## What you will learn in this module 
+## What you will learn 
 
 **Learning Targets addressed in this module:** 
 
@@ -34,7 +34,7 @@ You are free to search for and use other resources in addition to, or instead of
 
 ## Exercises
 
-The exercises for this Guided Practice are found at the links below. **Be sure to use only the link that corresponds to your course section.** 
+The exercises for this assignment are found at the links below. **Be sure to use only the link that corresponds to your course section.** 
 
 - Students in Section 02 (10:00-10:50am meetings):
 - Students in Section 04 (3:00-3:50pm meetings): 
@@ -45,6 +45,6 @@ The exercises for this Guided Practice are found at the links below. **Be sure t
 
 **Submitting your work:** 
 
-**How this is graded:** Guided Practice assignments are graded either **P** (Pass) or **NP** (Does not Pass). You will receive a **P** if your work: (1) is submitted by the deadline, and (2) each required exercise has a response that reflects a good-faith effort to attain a correct answer. *Mathematical correctness is not required for a grade of P, only completeness, effort, and meeting the deadline.* However, your work will receive an **NP** if your work is late, *or* if a required item is left blank (even accidentally), *or* if a required item does not show a good-faith effort to be right --- including responses of "I don't know", "I didn't understand", and so on. If you are stuck on an item, you're expected to ask questions and give your best effort. 
+**How this is graded:** Daily Prep assignments are graded on the basis of *completeness and effort*: If your submission has **all parts completed** (no blank entries, even if left blank accidentally) and **a good-faith effort to provide a correct solution or explanation is given** (no responses of "I don't know" or "I didn't understand") and **the work is submitted on time**, it gets a "check". Otherwise it gets an "x". If you are stuck on an item, you're expected to ask questions and give your best effort.  
 
 **Getting help on this assignment:** *You may work with others on this assignment, but you may not copy each others' answers.* Evidence of copying will be treated as academic dishonesty. You may also ask questions on the #guidedpractice channel on CampusWire, but you may not ask simply to be given the answers; giving and receiving answers on CampusWire will be treated as academic dishonesty.
