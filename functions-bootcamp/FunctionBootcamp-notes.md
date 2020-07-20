@@ -43,18 +43,24 @@ This will consist of some special videos made just for the bootcamp, WeBWorK pra
 
 ## Detailed outlines
 
+### Video 0: About this bootcamp
+
++ What is this? 
+  + A 10-video series that reviews all the stuff you need to know about functions for Calculus
++ What isn't this? 
+  + A series for beginners
+  + A complete course 
++ How to get the most out of these videos 
+  + Show the recommended sequence 
+  + Don't just watch but pause and practice 
+  + Seek out more practice -- suggestions 
+
 ### Video 1: Relationships and functions 
-
-Objectives: 
-
-1. Determine whether a relationship between two quantities is a function or not. 
-2. Identify the independent and dependent variables in a function. 
-
 
 + Almost every situation in real life involves quantities
 + Many of those quantities are related, and change in tandem with each other 
   + Example: Going for a run
-  + Quantities: Time elapsed, distance, heart rate, pace, elevation 
+  + Quantities: Time elapsed, distance, heart rate, elevation 
 + Special relationship: When a value of one quantity determines exactly one value of the other 
   + If you know the time elapsed, you can find out my heart rate
   + If you know my heart rate, you can't really know my time elapsed -- same heart rate at different times 
