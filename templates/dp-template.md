@@ -1,10 +1,10 @@
 # MTH 201: Calculus 
 
-## Guided Practice, Module x: 
+## Daily Prep, Module x: 
 
 **Due by:** 
 
-**Estimated time requirement:** About 60 minutes for the whole assignment. *If you have worked on this assignment for 60 minutes and you're stuck, please DON'T work any further* --- instead, stop and ask for help on the `#guidedpractice` channel on CampusWire. 
+**Estimated time requirement:** About 45-60 minutes for the whole assignment. *If you have worked on this assignment for 60 minutes and you're stuck, please DON'T work any further* --- instead, stop and ask for help on the `#guidedpractice` channel on CampusWire. 
 
 ## Overview 
 
