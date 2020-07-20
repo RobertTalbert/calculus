@@ -1,10 +1,18 @@
 # MTH 201: Calculus 
 
+<<<<<<< HEAD:templates/dp-template.md
 ## Daily Preparation, Module x: 
 
 **Due by:** 
 
 **Estimated time requirement:** About 45 minutes for the whole assignment. *If you have worked on this assignment for 30 minutes and you're not at least halfway done, DON'T work any further* --- instead, *stop and ask for help* on the `#guidedpractice` channel on CampusWire. 
+=======
+## Daily Prep, Module x: 
+
+**Due by:** 
+
+**Estimated time requirement:** About 45-60 minutes for the whole assignment. *If you have worked on this assignment for 60 minutes and you're stuck, please DON'T work any further* --- instead, stop and ask for help on the `#guidedpractice` channel on CampusWire. 
+>>>>>>> 3a40c973cb208390257780d5732435c5a2c5fbe6:templates/dp-template.md
 
 ## Overview 
 
