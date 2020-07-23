@@ -1,24 +1,20 @@
 # Script for Functions Bootcamp video 3
 
-At this point we've learned what a function is, that functions can be represented in four different ways, and that it's important to be able to work with equal fluency in the data, graph, and formula representations of a function.
+At this point we've learned what a function is, that functions can be represented in three different ways (as data, graphs, or formulas), and that it's important to be able to shift representations in order to reveal information about a function. 
 
-Let's look specifically in this video at functions given to us as formulas --- not because they are the most important or common representation, because they aren't. But because they are pretty common, and understanding formulas helps us to understand the other representations. 
+Let's look specifically in this video at functions given to us as formulas --- not because they are the most important or common representation, because they aren't. Most functions in real life are not naturally formulas but instead are either graphs or data. But formulas are pretty common, and understanding formulas helps us to understand the other representations. 
 
-First, here's a new term: To *evaluate* a function means to find the output value that results from a given input. Literally "e + valuate" means to pull a value out of the function. 
+Recall that *evaluating* a function just means taking a given input and using the function to determine the output that goes with it. We mentioned in an earlier video that when a function is given as a formula, evaluating it at an input value just means replacing all instances of the independent variable with the value you are putting in, then doing the math that results to find the output. 
 
-When the function is given as a formula, this means to use the formula to compute the output, when you're given the input. 
-
-To do so with a formula, just replace all instances of the independent variable with the value you are putting in, then do the math that results to find the output. 
-
-For example, the area of a circle is a function of the length of its radius. Remember this means that if you give me a specific value of the radius, I can give you the exact value of the area, and there's only one such area possible. 
+Let's do a simple example. The area of a circle is a function of the length of its radius. Remember this means that if you give me a specific value of the radius, I can give you the exact value of the area, and there's only one such area possible. 
 
 The relationship between the area of a circle and its radius is well known as a formula: Area = pi times the radius squared. So if I wanted the area of a circle with radius 5, I'd simply find all instances of the radius, replace that with the input, then do the math --- this time by squaring the input and multiplying by pi. The area that comes out is 25 pi which is about 78.54. The 25pi is an *exact* output and the 78.54 is approximate --- note that these are not equal! 
 
-We usually use **function notation** for working with functions in any representation. In the case of circle area, area which uses the variable name A is a function of radius length which uses the variable name r. In function notation, we'd write A(r) = pi r^2 which is pronounced "A of r equals pi r squared". The A(r) on the left isn't multiplication but rather a way of saying that A *depends on r*. When we found the area of a circle with radius 5, we found A(5) --- this means we found the output or area corresponding to an input of 5. 
+Here's an important fact about functions in any representation. No matter whether our function is data, a graph, or a formula, we use what's called  **function notation** for working with it. Notation in mathematics just means the way that we name things. For example pi is the notation we use for this number that arises in the study of circles. The notation is just a handy way of referring to the concept. When we have a function with an independent or input variable as well as a depdendent or output variable, we often notate it by writing the dependent variable and next to it placing the independent variable in parentheses. For example we'd notate our area of a circle function like this, and we'd pronunce that A of r. Please note this is NOT multiplication of A times r. This is function notation that tells us that r is the input variable and A is the output variable. 
 
-If we wanted the area when the radius is 3, that's A(3) and we'd find that by replacing all the r's with a 3: A(3) = pi 3^2 which gives us A(3) = 9pi. 
+If our function is given as a formula, we often state that the function is equal to the formula, for example A(r) = pi r^2 which is pronounced "A of r equals pi r squared". Then, to evaluate the function, let's say at a radius length of 5, we replace all instances of r with 5 on both the left and the right. This is A of 5, and it's equal to 25pi. Likewise A(3) is the area when the radius is 3, and that's pi 3^2 or 9pi. 
 
-Here's another example: B(t) = t^2(t-1). This is a function where the input or independent variable is called t, the output or dependent variable is called B, and the process for computing an output when given an input is given by ths formula. For example if you give me an input of t = 4, the output is B(4) = 4^2(4-1) --- just replace all instances of t with 4 --- then do the math on the right: B(4) = 16(3) which is 48. 
+Here's another example: B(t) = t^2(t-1). This is a function where the input or independent variable is called t, the output or dependent variable is called B, and the process for evaluating the function is given by ths formula. For example if you give me an input of t = 4, the output is B(4) = 4^2(4-1) --- just replace all instances of t with 4 --- then do the math on the right: B(4) = 16(3) which is 48. 
 
 Pause for a second and work these out to make sure you understand: 
 
