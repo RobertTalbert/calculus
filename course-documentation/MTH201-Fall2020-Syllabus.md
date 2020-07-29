@@ -140,7 +140,7 @@ Note: In the table, numerical values indicate the minimum level needed to meet t
 
 
 
-| Activity | D | C | B | A | 
+| Category | D | C | B | A | 
 |:---: |:---: |:---: |:---: |:---: |
 | Core Learning Targets (10) | 5 Proficient | 5 Proficient, 5 Mastered | 10 Mastered | 10 Mastered | 
 | Supplemental Learning Targets (14) |  3 Proficient | 6 Proficient | 6 Proficient, 3 Mastered | 6 Proficient, 6 Mastered | 
@@ -266,7 +266,7 @@ Before coming to campus, **perform a self-evaluation each time** and **if you fe
 
 Please know that **at any time this semester if you feel unable or unwilling to be present for a F2F meeting, you can opt out of the meeting and participate remotely --- no questions asked, no permission needed, no penalty incurred**. Remember that F2F meetings are live-streamed, and you can participate remotely through Campuswire and other means, so you will not fall behind if you have to participate from home. Also note that *there are no graded assessments done in class* so you will never have to make up work that was turned in during class. 
 
-## Keeping our class meetings safe
+### Keeping our class meetings safe
 
 When you are present in a F2F meeting, please observe the following: 
 
