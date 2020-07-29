@@ -229,7 +229,7 @@ You will be responsible for all announcements made in the F2F meetings and for a
 **Tech support:** Please note that **I (Prof. Talbert) am not able to provide support for technological issues**. If you encounter issues with technology, please use the appropriate source of help: 
 
 + *For help with Blackboard*: Email the Blackboard Help Desk at bbadmin@gvsu.edu or call (616) 331-8526. For hours of operation and more information see https://www.gvsu.edu/elearn/help/. 
-+ *For help with the GVSU network, email, or printing*: Email the GVSU IT Help Desk at helpdesk@gvsu; or call (616) 331-2101 or toll free (855) 435-7488. For hours of operation and more information see  https://www.gvsu.edu/it/. 
++ *For help with the GVSU network, email, or printing*: Email the GVSU IT Help Desk at helpdesk@gvsu.edu; or call (616) 331-2101 or toll free (855) 435-7488. For hours of operation and more information see  https://www.gvsu.edu/it/. 
 + *For specific help with your computer*: Try the GVSU IT Help Desk (see previous bullet) or contact your equipment manufacturer or computer store. 
 + *For help with course tools such as Desmos and Campuswire*: Ask a question on the `#tech` channel on Campuswire, seek out the help documentation in the tool, or do a targeted Google search. 
 
@@ -283,7 +283,7 @@ Please note, students who remove their masks during class, wear the mask incorre
 
 We will begin the semester in "staggered hybrid" mode, but several things could happen during the semester that might alter this setup. Here are the initial plans for the most likely of those things. 
 
-**If the entire university goes fully online:** In this case, **all F2F meetings will be replaced by synchronous online meetings**, still split into Red (MW) and Blue (TR) groupings. We will also introduce **an option to participate in the course asynchronously**, so that those with issues with asychronous online participation can still participate in activities. No other changes will be made. 
+**If the entire university goes fully online:** In this case, **all F2F meetings will be replaced by synchronous online meetings**, still split into Red (MW) and Blue (TR) groupings. We will also introduce **an option to participate in the course asynchronously**, so that those with issues with sychronous online participation can still participate in activities. No other changes will be made. 
 
 **If the professor cannot be on campus due to self-quarantine, but not because of illness:** (For example, if my kids or wife get sick or my daily self-assessment directs me to stay at home) In this case, we will follow the plan above for if the university goes fully online: **F2F meetings will be replace by synchronous online meetings, and an asynchronous option will be introduced**.  
 
