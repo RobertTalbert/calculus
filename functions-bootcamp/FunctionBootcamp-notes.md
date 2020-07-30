@@ -128,7 +128,7 @@ This will consist of some special videos made just for the bootcamp, WeBWorK pra
 + Example where it's not a function 
 
 
-# Video 5: Evaluating functions with graphs
+# Video 5: Evaluating functions with tables
 
 + To **evaluate** a function means to find the output value that results from a given input. ("e + valuate")
 + Tables: A row or column for the independent variable and one for the dependent
