@@ -1,0 +1,137 @@
+\documentclass{beamer}
+
+\usepackage[utf8]{inputenc}
+
+
+%Information to be included in the title page:
+\title{MTH 201: Calculus}
+\subtitle{Module 2A: The derivative of a function at a point}
+\author{Prof. Talbert}
+\institute{GVSU}
+\date{\today}
+
+
+\begin{document}
+
+\frame{\titlepage}
+
+\begin{frame}{Agenda for today}
+    \begin{itemize}
+        \item<1-> Review of Daily Prep assignment, and Q+A
+        \item<2-> Short lecture: Computing a derivative with limits  
+        \item<3-> Practice with computing derivatives using limits 
+        \item<4-> Polling activity on the concept of the deriative 
+        \item<5-> For next time: Followup activities and things to do 
+    \end{itemize}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Review and Q+A}
+
+    \begin{center}
+        Go to \url{www.menti.com} and use code \texttt{?}
+    \end{center}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{Computing derivatives}
+
+    \begin{alertblock}{The definition of the derivative}
+        Let $f$ be a function and $x=a$ a value in the function's domain. We define the \textbf{derivative of $f$ with respect to $x$ at evaluated at $x=a$}, denoted $f'(a)$, by the formula
+        $$f'(a) = \lim_{h \to 0} \frac{f(a+h) - f(a)}{h}$$
+        provided the limit exists. 
+    \end{alertblock}
+
+    What the formula means: 
+    \begin{itemize}
+        \item $\frac{f(a+h) - f(a)}{h}$ is the \emph{average rate of change} in $f$ on an interval starting at $x = a$ and ending at $x = a + h$ ($h$ is the length of the interval)
+        \item $\lim_{h \to 0} \frac{f(a+h) - f(a)}{h}$ is what happens to those average rates as the length of the interval shrinks to 0. 
+    \end{itemize}
+
+\end{frame}
+
+
+\begin{frame}
+    \frametitle{Example}
+
+    \begin{exampleblock}{Example}
+        Let $f(x) = x^2 - 2x + 1$. Find the value of $f'(2)$ using the definition. \\
+
+        (See whiteboard for solution)
+    \end{exampleblock}  \pause
+
+    \begin{align*}
+        f'(2) &= \lim_{h \to 0} \frac{f(2+h) - f(2)}{h} \\
+        &= \lim_{h \to 0} \frac{((2+h)^2 - 2(2+h) + 1) - (2^2 - 2(2) + 1)}{h} \\
+        &= \lim_{h \to 0} \frac{(4+4h+h^2 - 4 - 2h + 1)-(1)}{h} \\
+        &= \lim_{h \to 0} \frac{2h+h^2}{h} \\
+        &= \lim_{h \to 0} (2 + h) \\
+        &= 2. 
+    \end{align*}
+
+Desmos: Does the answer make sense? 
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{Bonus: $f'(1)$}
+
+    Replace all the 2's with 1's, basically
+
+    \begin{align*}
+        f'(\textcolor{red}{1}) &= \lim_{h \to 0} \frac{f(\textcolor{red}{1}+h) - f(\textcolor{red}{1})}{h} \\
+        &= \lim_{h \to 0} \frac{((\textcolor{red}{1}+h)^2 - 2(\textcolor{red}{1}+h) + 1) - (\textcolor{red}{1}^2 - 2(\textcolor{red}{1}) + 1)}{h} \\
+        &= \lim_{h \to 0} \frac{(1+2h + h^2 - 2 - 2h + 1)-(0)}{h} \\
+        &= \lim_{h \to 0} \frac{h^2}{h} \\
+        &= \lim_{h \to 0} h \\
+        &= 0.
+    \end{align*}
+    
+    Desmos: Does the answer make sense? 
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{In groups}
+
+    Let $f(x) = 3 - 2x$. \\
+
+    \begin{enumerate}
+        \item Set up the limit that would compute $f'(5)$. 
+        \item Before calculating the limit, go to Desmos and graph $f$. What \emph{should} the value of $f'(5)$ be, and why? 
+        \item Now go through the limit computation step by step with your partner(s). Does your result verify your guess? 
+    \end{enumerate}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{Bonus practice}
+
+    This will appear in your follow-up activity. If you have time, you can get started here. 
+
+    \begin{block}{Velocity}
+        A water balloon is tossed vertically in the air from a window. The balloon's height in feet at time $t$ in seconds after being launched is given by $s(t) = -16t^2 + 16t + 32$. 
+
+        \begin{itemize}
+            \item Set up the limit that will compute the instantaneous velocity of the balloon at time $t=1$. 
+            \item Graph $s(t)$ on Desmos and estimate what the value of the instantaneous velocity should be. 
+            \item Now compute the limit you set up to find the \emph{exact} value of the velocity. 
+        \end{itemize}
+    \end{block}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{Next}
+
+\textbf{All due dates are on the Course Calendar}
+
+
+    \begin{itemize}
+        \item Complete Followup Activities
+    \end{itemize}
+
+\end{frame}
+ 
+\end{document}

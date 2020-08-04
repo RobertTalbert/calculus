@@ -25,7 +25,7 @@
 
 ### Module 2: What is a derivative? (1.3, 1.4)
 
-+ State the formal definition of the derivative of a function on an interval.
++ State the formal definition of the derivative of a function.
 + Interpret the meaning of a derivative in terms of instantaneous velocity and the slopes of tangent and secant lines.
 + Compute the derivative of a function at a point by setting up and evaluating the limit in its definition.
 + State the formal definition of the derivative of a function.
