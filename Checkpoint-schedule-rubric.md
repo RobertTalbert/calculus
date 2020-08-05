@@ -16,12 +16,7 @@
 | 11 (Final exam) | Dec 14 | none |
 
 
-# Material
-
-| Learning Target | Given | To Do | Check if: | 
-| F.1 | 2-3 functions in different representations along with intervals | Compute the average rate of change of each function on the given intervals. | 
-
-
+# Rubrics
 
 - F.1: I can find the average rate of change of a function on an interval.
   - *Given*: 2-3 different functions in different representations along with some intervals. 
