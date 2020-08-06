@@ -158,7 +158,7 @@ A grade of "F" is given if not all the requirements for a "D" are met.
 
 **Plus/minus grades:** Your base grade may be modified with a plus or minus, according to these guidelines: 
 
-+ A "plus" is added to the base grade if all requirements for a base grade are satisfied, *and* the LT (both the Mastered and Progressing) or AEP requirement for the next level up is also satisfied; *and* the big-picture portion of the final exam is passed. 
++ A "plus" is added to the base grade if all requirements for a base grade are satisfied, *and* the LT (both the Core and Supplemental) or AEP requirement for the next level up is also satisfied; *and* the big-picture portion of the final exam is passed. 
 + A "minus" is added to the base grade above in any of the following cases: (1)  All requirements for a base grade are satisfied *except one*, and that one is no more than two levels below the others; **or** (2) You meet the minimum requirements for a base grade (i.e. none of the requirements for higher levels are met) and you do not pass the big-picture portion of the final exam **or** (3) you meet the minimum requirements for a base grade but do not complete the Functions Bootcamp satisfactorily by Monday, September 14. In the first case, if the deficient area is more than two levels below, the penalty will be either a minus or a full letter grade, at my discretion.
 
 ## Revisions and tokens 
