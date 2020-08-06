@@ -1,0 +1,165 @@
+\documentclass{beamer}
+
+\usepackage[utf8]{inputenc}
+
+
+%Information to be included in the title page:
+\title{MTH 201: Calculus}
+\subtitle{Module 2B: The derivative of a function at a point}
+\author{Prof. Talbert}
+\institute{GVSU}
+\date{\today}
+
+
+\begin{document}
+
+\frame{\titlepage}
+
+\begin{frame}{Agenda for today}
+    \begin{itemize}
+        \item<1-> Review of Daily Prep assignment, and Q+A
+        \item<2-> Short lecture: The derivative as a function 
+        \item<3-> Practice with computing derivatives using limits 
+        \item<4-> Polling activity: Identifying derivative graphs 
+        \item<5-> For next time: Followup activities and things to do 
+    \end{itemize}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Review and Q+A}
+
+    \begin{center}
+        Go to \url{www.menti.com} and use code \texttt{?}
+    \end{center}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{The derivative as a function}
+
+    Last time: A formula for finding the derivative of a function at a single point
+
+    \begin{alertblock}{The definition of the derivative}
+        Let $f$ be a function and $x=a$ a value in the function's domain. We define the \textbf{derivative of $f$ with respect to $x$ at evaluated at $x=a$}, denoted $f'(a)$, by the formula
+        $$f'(a) = \lim_{h \to 0} \frac{f(a+h) - f(a)}{h}$$
+        provided the limit exists. 
+    \end{alertblock}
+
+    $f'(a)$ tells us: 
+    \begin{itemize}
+        \item The slope of the tangent line to the graph of $f$ at $x=a$
+        \item The instantaneous rate of change in $f$ at $x=a$
+        \item If $f$ is a position: $f'(a)$ is the instantaneous velocity at time $x=a$
+    \end{itemize}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{The derivative is a function on its own}
+
+    \begin{block}{Key insight}
+        The derivative itself changes as $a$ changes. So \alert{not only is $f$ a function of $x$, so is $f'$.}
+    \end{block}
+    
+    \begin{exampleblock}{Example}
+        Let $f(x) = x-x^2$. Then: 
+
+        \begin{tabular}{c||c|c|c|c|c|c|c}
+            $a$ & $-3$ & $-2$ & $-1$ & $0$ & $1$ & $2$ & $3$ \\ \hline
+            $f(a)$ & $-12$ & $-6$ & $-2$ & $0$ & $0$ & $-2$ & $-6$ \\ \hline
+            $f'(a)$ & $7$ & $5$ & $3$ & $1$ & $-1$ & $-3$ & $-5$ 
+        \end{tabular}
+
+    \end{exampleblock}
+
+    $$f'(3) = \lim_{h \to 0} \frac{f(3+h)-f(3)}{h} = \lim_{h \to 0} \frac{((3+h) - (3+h)^2)-(-6-(-6)^2))}{h}$$
+
+    \alert{Do we have to recalculate $f'(a)$ using a limit \emph{every time}?} Also do you see the pattern in the $f'(a)$ values? 
+
+\end{frame}
+
+
+\begin{frame}
+    \frametitle{Computing derivative FORMULAS}
+
+    It looks like, if $f(x) = x-x^2$ then $\textcolor{red}{f'(x) = 1-2x}$. Does this always work? \pause 
+
+    \begin{align*}
+        f'(x) &= \lim_{h \to 0} \frac{f(\textcolor{red}{x}+h) - f(\textcolor{red}{x})}{h} \\ 
+        &= \lim_{h \to 0} \frac{((x+h) - (x+h)^2)-(x - x^2)}{h} \\
+        &= \lim_{h \to 0} \frac{(x+h - (x^2 + 2xh + h^2)) - (x - x^2)}{h} \\
+        &= \lim_{h \to 0} \frac{x+h - x^2 - 2xh - h^2 -x + x^2}{h} \\
+        &= \lim_{h \to 0} \frac{h-2xh - h^2}{h} \\
+        &= \lim_{h \to 0} (1 - 2x - h) \\
+        &= 1-2x
+    \end{align*}
+
+\end{frame}
+
+\begin{frame}
+
+    \begin{alertblock}{The definition of the derivative (as a formula)}
+        Let $f$ be a function and $x=a$ a value in the function's domain. We define the \textbf{derivative of $f$ with respect to $x$}, denoted $f'(x)$, by the formula
+        $$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
+        provided the limit exists. 
+    \end{alertblock}
+
+The result is a \alert{formula} that accepts $x$ as an input and gives the \alert{rate of change in $f$} at this input, as the output. \\
+
+\textbf{Demo}: https://www.desmos.com/calculator/rwjzrvo9an 
+
+\end{frame}
+
+
+\begin{frame}
+
+    \begin{exampleblock}{Practice}
+        Let $f(x) = x^2 - 2x + 1$. Find a formula for $f'(x)$ using the definition. 
+    \end{exampleblock}  \pause
+
+    \begin{align*}
+        f'(x) &= \lim_{h \to 0} \frac{f(x+h) - f(x)}{h} \\
+        &= \lim_{h \to 0} \frac{((x+h)^2 - 2(x+h) + 1) - (x^2 - 2x + 1)}{h} \\
+        &= \lim_{h \to 0} \frac{(x^2 + 2xh + h^2 - 2(x+h) + 1)- (x^2 - 2x + 1)}{h} \\
+        &= \lim_{h \to 0} \frac{x^2 + 2xh + h^2 - 2x - 2h + 1 - x^2 + 2x - 1}{h} \\
+        &= \lim_{h \to 0} \frac{2xh + h^2 - 2h}{h} \\
+        &= \lim_{h \to 0} (2x + h  - 2) \\
+        &= 2x - 2 
+    \end{align*}
+
+\textbf{Desmos:} Does the answer make sense? 
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{Information about this idea}
+
+    \begin{itemize}
+        \item We will eventually shorten this process considerably with \alert{shortcut methods}. 
+        \item But you still need to know the definition, because \alert{not all functions are formulas}. 
+        \item Being able to do these computations is a Core Learning Target (D.1). 
+    \end{itemize}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{Derivatives of formulas as graphs}
+
+    \textbf{Back to Menti:} Can you identify the graph of the derivative given the graph of the function and vice versa? 
+
+\end{frame}
+
+
+\begin{frame}
+    \frametitle{Next}
+
+\textbf{All due dates are on the Course Calendar}
+
+
+    \begin{itemize}
+        \item Complete Followup Activities
+    \end{itemize}
+
+\end{frame}
+ 
+\end{document}
