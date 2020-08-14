@@ -74,17 +74,21 @@ Your progress toward these course objectives will be tracked using **Learning Ta
 
 ## Structure and flow of the course 
 
-Your MTH 201 course is being offered in a **staggered hybrid** mode. "Staggered" means that while we will have F2F meetings regularly, we will stagger the attendance so that only about half the section is in attendance at any give meeting, for social distancing purposes. "Hybrid" means that the course is a combination of F2F work and asynchronous online work, with about a 50/50 split in our case. 
+Your MTH 201 course is being offered in a **staggered hybrid** mode. "Staggered" means that while we will have F2F meetings regularly, we will stagger the attendance so that only about half the section is in attendance at any give meeting, for social distancing purposes. "Hybrid" means that the course is a combination of F2F work and asynchronous online work, with about a 50/50 split in our case. The content of MTH 201 is divided into 12 **modules**, each of which is subdivided into a "Part A" and a "Part B". A complete list of modules and the content they cover is in the Appendix  at the end of this syllabus. 
 
-The content of MTH 201 is divided into 12 **modules**, each of which is subdivided into a "Part A" and a "Part B". A complete list of modules and the content they cover is in the Appendix  at the end of this syllabus. Your engagement and work on each module follows a standard pattern: 
+Your work in the class will follow a simple, repeating pattern that will involve you **before**, **during**, and **after** our meetings. It works like this: 
 
-+ Before Part A of a module, you'll complete a **Daily Preparation** assignment that leads you through independent learning of the basic ideas of Part A. 
-+ Then you will have a F2F meeting to do active work on applications and analysis of the basic information you learned in the Daily Preparation assignment. The F2F meetings happen over two days, with the "Red" group meeting the first day and the "Blue" group meeting the second day. The two groups' meetings will be identical (except for student questions, etc. that might vary by group). 
-+ Your F2F meeting will only cover about half of the lesson for Part A. The remaining half will be covered by **Followup Activities** that are done asynchronously online. 
-+ Finally, you'll complete a brief online homework set that covers Part A and reviews past material. 
-+ Then this pattern repeats for Part B. 
++ **BEFORE each class**: You'll complete a **Daily Prep** assignment in which you'll get familiar with the **basic concepts** of the upcoming lesson through guided reading, video, or hands-on activity and completion of basic exercises on new concepts. Daily Prep assignments will typically be due by 11:59pm ET the night before the lesson; you'll be able to work ahead if you want. 
++ **DURING each clas**s: Class meetings will typically start with 10 minutes for going over the Daily Prep assignments and fielding your questions. Then we will spend most of the class (around 30 minutes) doing activities together on the harder concepts from the material. There may be some small lectures, but active work will be the main event since you can only learn math by doing it! Then we will typically spend 10 minutes wrapping up, going through some of the main points of the activity, taking short ungraded quizzes to give you feedback on your learning, and then getting your feedback on the lesson. 
++ **AFTER each class**: In the hybrid format, only about half the lesson is covered during the in-class session. The rest of the lesson is learned through **Followup Activities** that you will do asynchronously (outside of class on your own schedule). Followup activities are basically what we **would* do as active group work if we were going to meet for a second hour on the lesson. 
 
-Here is a diagram that shows how it all fits in a typical week:  
+This pattern repeats for each F2F meeting that you have with your group. 
+
+Finally, there is ongoing work that you'll be doing outside the flow of class meetings: Online homework done weekly to practice the ideas from the module, Application/Extension Problems that take your basic skills to the next level and into real-world applications, and Checkpoints given roughly every other week that assess your mastery of basic skills. More on these in the "Learning Activities in MTH 201" section below. 
+
+Visually, the workflow looks like this: 
+
+![201 Workflow](201workflow.png)
 
 **Live streaming of F2F meetings:** All F2F meetings will be live-streamed over either Zoom or Google Meet. If you cannot attend one of your designated F2F meetings, you will have the option of participating remotely through the live stream. 
 
@@ -303,22 +307,6 @@ Although these plans can be scary and demoralizing, I want you to know that **GV
 
 ## Appendix: Course modules and Learning Targets
 
-The numbers at the end of each module refer to sections in Active Calculus. Please see the Course Calendar for the dates corresponding to these modules. 
-
-- **Module 1**: How do we find the speed of a moving object?  (1.1, 1.2)
-- **Module 2**: What is the derivative of a function?  (1.3, 1.4)
-- **Module 3**: What does a derivative tell us about a function?  (1.5, 1.6, 1.7, 1.8)
-- **Module 4**: How do we efficiently compute derivatives of basic functions?  (2.1, 2.2)
-- **Module 5**: How do we compute derivatives of products and quotients? (2.3, 2.4)
-- **Module 6:** How do we compute derivatives of composites and other functions? (2.5, 2.6)
-- **Module 7:** How are derivatives used to learn how things behave?  (3.1, 3.3)
-- **Module 8:** How are derivatives used to find the best way to do something?  (3.4)
-- **Module 9:** How are derivatives used to find how fast something is changing?  (2.7, 3.5)
-- **Module 10:** How do we find how far a moving object has traveled?  (4.1, 4.2)
-- **Module 11:** What is the definite integral of a function?  (4.3, 4.4)
-- **Module 12:** How are derivatives and integrals related?  (4.4)
-
-
 ### Learning Targets 
 
 
@@ -332,10 +320,10 @@ The numbers at the end of each module refer to sections in Active Calculus. Plea
   - D.2 **(CORE)**: I can use derivative notation correctly, state the units of a derivative, estimate the value of a derivative using difference quotients, and correctly interpret the meaning of a derivative in context. 
   - D.3 **(CORE)**: Given information about $f$, $f'$, or $f''$, I can correctly give information about $f$, $f'$, or $f''$ and the increasing/decreasing behavior and concavity of $f$ (and vice versa).
   - D.4: I can determine where a function is continuous or differentiable given a graph or formula of the function and explain my reasoning.
-  - D.5: I can find the equation of the tangent line to a function at a point and use the tangent line to estimate values of the function.  **May be assessed through AEP** 
+  - D.5: I can find the equation of the tangent line to a function at a point and use the tangent line to estimate values of the function.  
 - Group DC: Use shortcuts to calculate derivatives efficiently.
   - DC.1 **(CORE)**: I can compute derivatives correctly for power, polynomial, and exponential functions and the sine and cosine functions, and basic combinations of these (constant multiples, sums, differences). 
-  - DC.2 **(CORE)**: I can compute derivatives correctly for products, quotients, and composites of functions. **Not complete until 2.5** 
+  - DC.2 **(CORE)**: I can compute derivatives correctly for products, quotients, and composites of functions.  
   - DC.3: I can compute derivatives correctly using multiple rules in combination. 
   - DC.4: I can compute the derivatives correctly for logarithmic, trigonometric, and inverse trigonometric functions. 
 - Group DA: Use derivatives to solve authentic real-life application problems.
@@ -352,3 +340,24 @@ The numbers at the end of each module refer to sections in Active Calculus. Plea
   - INT.4 **(CORE)**: I can evaluate a definite integral using the Fundamental Theorem of Calculus.
   - INT.5 **(CORE)**: I can correctly antidifferentiate basic functions and identify antiderivatives. 
   - INT.6 I can find the average value of a function and the net change in a function over an interval using a definite integral.
+
+### Modules, Textbook coverage, and Learning Target focus
+
+The numbers at the end of each module refer to sections in Active Calculus. Please see the Course Calendar for the dates corresponding to these modules. 
+
+## Course Modules 
+
+| Module | Focus | Text | Learning Targets | 
+| :----: | :----: | :----: | :----: |
+| 1 | How do we find the speed of a moving object?  |  1.1, 1.2 | F.1, L.1 | 
+| 2 | What is the derivative of a function? | 1.3, 1.4 | D.1, D.2  |
+| 3 | What does a derivative tell us about a function? | 1.5, 1.6, 1.7 | D.3, D.4, D.5 |
+| 4 | How do we efficiently compute derivatives of basic functions?  |  2.1, 2.2 | DC.1  |
+| 5 | How do we compute derivatives of products and quotients?  | 2.3, 2.4 | DC.2 |
+| 6 | How do we compute derivatives of composites and other functions? | 2.5, 2.6 | DC.2, DC.3, DC.4| 
+| 7 | How are derivatives used to learn how things behave? | 3.1, 3.3 | DA.1, DA.2, DA.3 | 
+| 8 | How are derivatives used to find the best way to do something? | 3.4 | DA.4 |
+| 9 | How are derivatives used to find how fast something is changing? | 2.7, 3.5 | DA.5, DA.6 |
+| 10 | How do we find how far a moving object has traveled? | 4.1, 4.2 | INT.1 | 
+| 11 | What is the definite integral of a function? | 4.3, 4.4 | INT.2, INT.3 | 
+| 12 | How are derivatives and integrals related? | 4.4 | INT.4, INT.5, INT.6 | 
