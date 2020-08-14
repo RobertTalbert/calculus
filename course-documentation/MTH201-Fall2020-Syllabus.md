@@ -1,8 +1,8 @@
-# MTH 201: Calculus 
+![header](Calculus-course-header.png)
 
 ## START HERE 
 
-Welcome to MTH 201: Calculus! I'm Robert Talbert, a professor in the Mathematics Department, and I am grateful that you are signed up for the course and am looking forward to working with you this semester. 
+**Welcome to Calculus**! I'm Robert Talbert, a professor in the Mathematics Department, and I am grateful that you are signed up for the course and am looking forward to working with you this semester. 
 
 Before reading any further, here are some first things to know: 
 
