@@ -1,0 +1,1267 @@
+\documentclass[]{article}
+\usepackage{baskervald}
+\usepackage{fullpage}
+\usepackage{longtable}
+\usepackage{makecell}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{graphicx}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\usepackage[usenames,dvipsnames]{color}
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+
+\date{}
+
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+\setlength{\oddsidemargin}{-.35in}
+%\setlength{\evensidemargin}{-.5in}
+\setlength{\textwidth}{7.0in}
+%\setlength{\topmargin}{-0.95in}
+\setlength{\textheight}{9in}
+
+\begin{document}
+\begin{figure}
+\centering
+\includegraphics[width=4in]{Calculus-course-header.png}
+\end{figure}
+
+\hypertarget{start-here}{%
+\subsection{START HERE}\label{start-here}}
+
+\textbf{Welcome to Calculus}! I'm Robert Talbert, a professor in the
+Mathematics Department, and I am grateful that you are signed up for the
+course and am looking forward to working with you this semester.
+
+Before reading any further, here are some first things to know:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{My highest priority this semester is your success in this
+  course.} I am committed to helping you be successful in MTH 201 this
+  semester. ``Success'' in the course is more than just good grades. It
+  means that you are being \textbf{challenged} to grow as a learner,
+  that you are \textbf{engaging actively} with tasks that feed your
+  growth, and that you are creating \textbf{excellent work} in
+  mathematics by completing challenging Calculus-related tasks with a
+  appropriate level of support. It also means that you are
+  \textbf{building your lifelong learning skills} so that once the
+  course is over, you are better and stronger as a learner and can
+  continue to \textbf{learn new things independently}, and especially go
+  on to \textbf{success in courses that have MTH 201 as a prerequisite}.
+\item
+  \textbf{College level mathematics is more than just computation.} On
+  the pathway to ``success'' as outlined above, you will be asked to do
+  more than just perform computations. You will be working on
+  \textbf{explaining the meaning} of mathematical processes and results
+  in oral and written forms to different audiences; \textbf{working on
+  realistic applications} of basic skills to authentic problems;
+  \textbf{extending basic ideas} to more advanced concepts; and
+  \textbf{seeking true understanding} of underlying concepts. In fact,
+  many of the computations you might do with algebra in high school
+  level mathematics will be automated through computers in MTH 201, and
+  your work will mostly focus on these higher-level tasks.
+\item
+  \textbf{You can expect to be challenged intellectually throughout this
+  course.} None of these elements of ``success'' come easily. They
+  require dedicated devotion of time and energy to wrestling with the
+  concepts and tasks in the course. This will require you to leave your
+  comfort zones on a regular basis. You may find that you need to rewire
+  your entire process for learning things. You will need to stay
+  constantly engaged with the course through participation in class
+  meetings and on the class discussion board --- asking questions,
+  seeking understanding, and giving help.
+\item
+  \textbf{Intellectual struggle is normal and healthy in a challenging
+  course.} Since none of this is easy, you can expect at times to feel
+  like you are really struggling with the material --- even if in your
+  earlier math courses you might never have experienced struggle.
+  \textbf{This is a normal and healthy experience.} When you are
+  building physical muscles, the point at which you are growing the most
+  is the moment you experience the greatest strain and fatigue.
+  Legitimate struggle is actually a sign you are doing things right, and
+  it's a signal you're about to experience explosive growth. \textbf{Our
+  class is a safe place for you to experience those struggles.}
+\item
+  \textbf{You have a lot of help available to you as you work.}
+  Throughout the semester, you will be challenged but also given a lot
+  of support to help you rise to the challenge. I will be readily
+  available to help in several channels; your classmates will be
+  available for help through structured and informal support groups; and
+  the GVSU Math Department provides free help through the Math Center.
+  \textbf{Everyone in the course has your back.}
+\item
+  \textbf{You will find MTH 201 to be very enjoyable if you embrace the
+  challenge.} Although hard work doesn't always feel good in the moment,
+  by embracing the challenge and committing to learning Calculus, I
+  think you will find that \textbf{growth is fun} and \textbf{Calculus
+  is really interesting stuff}.
+\end{enumerate}
+
+\vfill \eject
+
+\hypertarget{course-information}{%
+\subsection{Course information}\label{course-information}}
+
+\textbf{Instructor}: Robert Talbert, Ph.D., Professor of Mathematics.
+Email: talbertr@gvsu.edu. Phone: 616.331.8968.
+
+\textbf{Office:} My office is \textbf{Mackinac Hall C-2-513}. However, all
+student meetings this semester will be conducted online unless you have
+a specific need that requires a physical meeting.
+
+\textbf{Open drop-in hours:} \textbf{Monday through Thursday, 1-1:50pm},
+using the link \url{http://gvsu.edu/s/1qX} and password
+\textbf{growthmind} (without the dash). \textbf{You do not need an appointment.} If you
+cannot attend open drop-in hours, you can contact me by email, through a
+Campuswire direct message, or by scheduling an appointment at
+\url{http://rtalbert.youcanbook.me}.
+
+\textbf{Availability:} I typically only check email and other messages
+between 6am and 6pm on weekdays and once on Saturday mornings. If you
+send a message that needs a response during those times, you can expect
+to get a response within 6 hours. Otherwise you can expect one when I am
+back online.
+
+\textbf{Face-to-face meetings}: Your section is split into two groups
+(``Red'' and ``Blue'') and the different groups take turns meeting
+face-to-face (F2F) and working online. The time and location of your F2F
+meetings depends on your section and group:
+
+\begin{center}
+    \begin{tabular}{c||c|c}
+Section & Red Group & Blue Group \\ \hline
+02 & MW 10-10:50am, MAK D-1-135 & TR 10-10:50am, MAK D-1-135 \\ \hline
+04 & MW 3-3:50pm, MAK A-1-165 & TR 3-3:50pm, MAK A-1-165 
+\end{tabular}
+\end{center}
+
+
+
+\textbf{Textbook:} \emph{Active Calculus} (2018 edition) by Matt
+Boelkins. The textbook is freely available online at
+\url{https://activecalculus.org/ACS.html}. \textbf{This online version is
+preferred.} There is also a PDF version available, and instructions for
+ordering a printed copy, at \url{https://activecalculus.org/}.
+
+\textbf{Course website and discussion board:} All course announcements,
+assignments, and grades will be communicated using the course
+\textbf{Blackboard} site available at http://mybb.gvsu.edu. All other
+course communications will be available through \textbf{Campuswire}, our
+class discussion tool; to join, go to https://campuswire.com/p/GAD2DF67E
+and use the code \texttt{7913}.
+
+\textbf{Course calendar:} A Google Calendar, will all due dates and
+other important time-sensitive information posted on it, is available on
+Blackboard in the left sidebar. \textbf{Be sure to check the calendar
+once daily} for upcoming events. The calendar is kept up-to-date
+constantly and \textbf{in cases of apparent conflicts in times or dates,
+the calendar is considered to be correct always.}
+
+\textbf{Technology:} To use the course tools, you will need to have
+access to the following. Please contact me if access is an issue. 
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{A laptop or tablet device}, preferably one with a
+  \textbf{touchscreen that allows writing on the screen with a stylus}.
+  Please plan on bringing this device with you to all F2F meetings. If you have any issue with accessing any of these, please let me know as soon as possible.
+\item
+  \textbf{A modern web browser}. Chrome is preferred, but browsers such
+  as Firefox and Edge are also fine.
+\item
+  \textbf{Reliable access to high-speed internet}.
+\item
+  \textbf{An active GVSU network account} so that you can access email,
+  Blackboard, and Google Docs.
+\end{itemize}
+
+
+
+\textbf{What Calculus is about:} Calculus is the mathematical study of
+\textbf{change}. Quite frequently we care not only about \emph{how much}
+there is of a certain quantity but \emph{how fast it is changing} at a
+given point in time. Calculus starts with simple geometry and introduces
+the important concept of the \emph{limit} to develop an entire language,
+focused on the \emph{derivative} and the \emph{definite integral}, that
+allows us to describe and calculate change.
+
+\textbf{Course content:} We will cover chapters 1-4 of the \emph{Active
+Calculus} text. Key topics include: understanding functions from the
+perspective of calculus, the concept of limit, the definition and
+meaning of the derivative, computing derivatives, using derivatives in
+applications, antiderivatives and definite integrals and their meaning,
+and the Fundamental Theorem of Calculus. In every topic, we seek a
+\textbf{conceptual understanding} from several perspectives, the ability
+to \textbf{apply ideas}, development of \textbf{logical reasoning and
+communication skills}, and an \textbf{appreciation for calculus as a
+whole}.
+
+\textbf{Official course description:} A development of the fundamental
+concepts of calculus using graphical, numerical, and analytical methods
+with algebraic and trigonometric functions of a single variable. Limits
+and continuity, derivatives, indefinite integrals, definite integrals,
+and the Fundamental Theorem of Calculus; applications of derivatives and
+integrals. Fulfills Foundations - Mathematical Sciences. Offered every
+semester. \emph{Prerequisites}: MTH 122 and MTH 123; or MTH 124; or
+assignment through Grand Valley math placement.
+
+\hypertarget{learning-objectives}{%
+\subsection{Learning Objectives}\label{learning-objectives}}
+
+By the end of the course, you will be able to:
+
+\begin{itemize}
+\tightlist
+\item
+  Use \textbf{functions} and other pre-Calculus mathematics
+  proficiently.
+\item
+  Calculate, use, and explain the concept of \textbf{limits}.
+\item
+  Explain and interpret the meaning of the \textbf{derivative} of a
+  function.
+\item
+  Use \textbf{shortcuts} to calculate derivatives efficiently.
+\item
+  Use derivatives to solve authentic real-life \textbf{application
+  problems}.
+\item
+  Use \textbf{definite integrals and the Fundamental Theorem of
+  Calculus} to find areas and total change.
+\end{itemize}
+
+A full list of official departmental objectives for MTH 201 can be found
+\href{https://www.gvsu.edu/cms4/asset/9A420BCF-BA9E-0845-91754145EA82C51F/sor_descriptions_objectives__topics_for_faculty_updated_12-11-19.pdf}{here}.
+
+Your progress toward these course objectives will be tracked using
+\textbf{Learning Targets}. There are 23 individual Learning Targets
+covering all the major skills in the course; a complete list of these is
+at the end of this syllabus.
+
+\hypertarget{structure-and-flow-of-the-course}{%
+\subsection{Structure and flow of the
+course}\label{structure-and-flow-of-the-course}}
+
+Your work in the class will follow a pattern that will involve you
+\textbf{before}, \textbf{during}, and \textbf{after} our meetings:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{BEFORE each class}: You'll complete a \textbf{Daily Prep}
+  assignment in which you'll get familiar with the basic concepts of the
+  upcoming lesson. Daily Prep assignments will typically be due by
+  11:59pm ET the night before the lesson; you'll be able to work ahead
+  if you want.
+\item
+  \textbf{DURING each class}: Class meetings will typically start with
+  10 minutes for going over the Daily Prep assignments and fielding
+  questions. Then we will spend around 30 minutes doing activities
+  together on the harder concepts from the material. Then we will
+  typically spend 10 minutes wrapping up, going through some of the main
+  points of the activity, taking short ungraded quizzes to give you
+  feedback on your learning, and getting your feedback on the lesson.
+\item
+  \textbf{AFTER each class}: Only about half the lesson is covered
+  during the in-class session. The rest of the lesson is learned through
+  \textbf{Followup Activities} that you will do asynchronously (outside
+  of class on your own schedule).
+\end{itemize}
+
+This pattern repeats for each F2F meeting that you have with your group. Finally, there is ongoing work outside the flow of class meetings, such
+as online homework and application/extension problems. More on these in
+the ``Learning Activities in MTH 201'' section below.
+
+Visually, the workflow looks like this:
+
+\begin{center}
+    \includegraphics[width=4in]{201workflow.png}
+\end{center}
+
+\hypertarget{learning-activities-in-mth-201}{%
+\subsection{Learning activities in MTH
+201}\label{learning-activities-in-mth-201}}
+
+You will be engaging with several different kinds of activities in the
+course, both to learn the material and to demonstrate how well you have
+learned it. The kinds of activities you will undertake are:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Daily Preparation (DP)}: You will complete these before each
+  of your F2F meetings. Each Daily Prep assignment involves reading,
+  video-watching, or interaction and then working exercises on basic
+  learning obejctives.
+\item
+  \textbf{Followup Activities (FA)}: Followup activities will complete
+  the lesson for each part of a module and are done after a F2F meeting.
+\item
+  \textbf{WeBWorK (WW)}: Once a week, you will complete a 16-item online
+  homework set that provides practice on basic ideas from each part of a
+  module. These are deployed using the \emph{WeBWorK} online homework
+  system at https://webwork-math.gvsu.edu/webwork2/. These will
+  typically be due Sunday nights at 11:59pm ET.
+\item
+  \textbf{Learning Target Checkpoints}: On a roughly bi-weekly basis,
+  you'll receive a take-home exam called a ``Checkpoint''. Each
+  Checkpoint will contain one problem for every Learning Target that has
+  been covered up to that point. You'll be given a detailed rubric
+  explaining what constitutes acceptable work on each Learning Target.
+  Work that meets the criteria for acceptable work will be given a
+  ``check''; work that does not meet the criteria will receive an ``X''.
+  If you receive an ``x'' on a problem, you can try it again on a new
+  version on the next Checkpoint until you receive a ``check''. You will
+  only need to attempt problems on Learning Targets you have not yet
+  mastered. You can also earn a ``check'' through means other than
+  Checkpoints; see ``How work is graded in MTH 201'' below for details.
+\item
+  \textbf{Application/Extension Problems (AEPs)}: AEPs are more
+  extensive problems that require applying or extending the basic course
+  knowledge from the Learning Targets.
+\item
+  \textbf{Miscellaneous engagement opportunities}: Various other
+  activities in the class will give you the opportunity to get and stay
+  engaged with the course. These include the Startup assignment in week
+  1, occasional discussion board activities, meeting certain incentive
+  bonus deadlines, and other items. Designated items will carry 1
+  ``engagement credit'', and engagement credits will accumulate through
+  the semester. In particular, every ``check'' on a Daily Prep and
+  Followup activity is worth 1 engagement credit.
+\end{itemize}
+
+Additionally, we will have a \textbf{final exam} consisting of two
+parts. The first part focuses on big-picture questions on the overall
+ideas of the course. Your performance on this part contributes to the
+plus/minus grade in the course. The other part of the final exam will be
+a last Checkpoint of the semester and will give you the chance to meet
+additional learning targets that have not yet been mastered.
+
+\hypertarget{how-work-is-graded-in-mth-201}{%
+\subsection{How work is graded in MTH
+201}\label{how-work-is-graded-in-mth-201}}
+
+Our course uses a \textbf{mastery grading} system in which \textbf{most
+graded items do not use points}, but rather your work will be required
+to meet certain levels of quality that demonstrate \emph{mastery}. We
+will discuss this several times in class, and there is more information
+later in this document.
+
+\hypertarget{daily-prep-and-followup-activities}{%
+\subsubsection{Daily Prep and Followup
+Activities}\label{daily-prep-and-followup-activities}}
+
+Daily Prep and Followup Activities are graded with either a ``check'' or
+an ``x''. \textbf{A check is given if the work is turned in on time, and
+if every item has a response that represents a good-faith effort to be
+right}. Actual correctness of the answer or explanation is not part of
+the grading. Work that does not meet these expectations receives an
+``x''. This includes work that has missing responses (even if by
+accident), work that includes responses like ``I don't know'' that show
+insufficient effort to give a good-faith response, and work that is late
+(again, even if by accident).
+
+\hypertarget{proficiency-and-mastery-on-learning-targets}{%
+\subsubsection{Proficiency and Mastery on Learning
+Targets}\label{proficiency-and-mastery-on-learning-targets}}
+
+There are 23 Learning Targets in the course, 11 of which are designated
+as \textbf{Core} targets due to their central nature in Calculus, and
+the other 12 of which are designated as \textbf{Supplemental}. There are
+two levels of achievement on any of the Learning Targets:
+\textbf{Proficiency} and \textbf{Mastery}. Students get numerous
+opportunities to demonstrate understanding of the Learning Targets;
+every time this happens, the student receives a ``check'' on that
+Learning Target.
+
+\begin{itemize}
+\tightlist
+\item
+  To be rated as ``Proficient'' on a Learning Target, earn \textbf{one
+  check} on it.
+\item
+  To be rated as ``Mastered'' on a Learning Target, earn \textbf{two
+  checks} on it.
+\end{itemize}
+
+You can earn a check on a Learning Target in four different ways:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \emph{(The simplest way)} \textbf{Do work on a Checkpoint} that meets
+  the criteria for acceptable quality, as described above.
+\item
+  \textbf{Schedule an oral assessment} (on videoconference) during which
+  I will give a new version of a Checkpoint-like problem for that
+  Learning Target, and you solve that problem ``live'' at an acceptable
+  level.
+\item
+  \textbf{Create a video} of yourself working out the solution to a
+  Checkpoint-like problem that I will make for you, then submit the
+  video. If you choose this option, you'll also be required to have a
+  follow-up meeting with me to discuss the solution and answer
+  additional related questions.
+\item
+  \textbf{Use work on an AEP set} and schedule a videoconference meeting
+  with me to argue that your work on the AEP demonstrates mastery of the
+  Learning Target, as well as answer follow-up questions. For example,
+  you might do work on an AEP that you believe demonstrates proficiency
+  with ``computing derivatives correctly using multiple rules in
+  combination'' (Learning Target DC.3). If so, then you could schedule a
+  meeting with me to explain why you think your work satisfied DC.3; I
+  would listen and, if I agree, I might ask you to work out a second
+  problem also related to DC.3 to make sure you really understand the
+  idea.
+\end{enumerate}
+
+Please note the following restrictions on options 2-4 above:
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{No more than one check per week can be earned through options
+  2-4}.
+\item
+  \emph{Option 3 (make a video) must adhere to standards for video
+  creation} (to be posted separately; basically the video must have
+  clear sound and audio, and keep face, handwriting, and voice in the
+  frame at all times).
+\item
+  \emph{Mastery (two checks) must include at least one Checkpoint
+  problem.} That is, you can't earn Mastery on a learning target through
+  options 2-4 alone.
+\end{itemize}
+
+Therefore, for example, you can earn Mastery (two checks) on a Learning
+Target by:
+
+\begin{itemize}
+\tightlist
+\item
+  Earning a check on a Checkpoint problem for that target, then earning
+  another on a new version of that problem on a later Checkpoint;
+\item
+  Earning a check on a Checkpoint problem for that target; then earning
+  another check through an oral assessment;
+\item
+  Doing a video on that target, then earning a check on a Checkpoint;
+\item
+  Discussing some AEP work related to that target, then earning a check
+  on a Checkpoint
+\end{itemize}
+
+But you cannot earn Mastery, for instance, by doing a video and then
+using an AEP. At least one of the checks has to come through a
+Checkpoint.
+
+\textbf{Exceptions:} Learning Target F.1 is assessed \emph{only} through
+the \textbf{Functions Bootcamp} assignment given in the first 2-3 weeks
+of classes. This assignment consists of a special WeBWorK set. A score
+of 75\% or higher will earn \emph{Proficiency} rating on this target; a
+score of 90\% or higher will earn \emph{Mastery}. A second Functions
+Bootcamp set will be given around week 7 for those who do not earn
+Mastery on the first set. Further, Learning Target L.2 (L'Hopital's
+Rule) will be assessed through a special AEP set and will not appear on
+a Checkpoint; an ``E'' on that AEP will count as Mastery, an ``M'' as
+Proficiency.
+
+\hypertarget{aeps-and-the-emrn-rubric}{%
+\subsubsection{AEP's and the EMRN
+rubric}\label{aeps-and-the-emrn-rubric}}
+
+Work on Application/Extension Problems is graded not with points but
+with one of four designation: ``E'' (Excellent/Exemplary), ``M'' (Meets
+the standard), ``R'' (Needs revision), or ``N'' (Not assessible/Not
+enough information). The process of assigning these marks is shown
+below:
+
+\begin{center}
+    \includegraphics[width=4in]{EMRN.png}
+\end{center}
+
+Whenever your work on an AEP is graded, you will be given extensive
+actionable feedback on what was done well and what needs improvement.
+
+\hypertarget{how-your-semester-grade-is-determined}{%
+\subsection{How your semester grade is
+determined}\label{how-your-semester-grade-is-determined}}
+
+Your course grade is determined using the table below. In order to earn
+a particular letter grade, each requirement must be met in the column
+for that grade. Your \emph{base grade} (the letter A,B,C, D, or F
+without plus or minus) is \textbf{the highest grade for which all the
+requirements are met}.
+
+Note: In the table, numerical values indicate the minimum level needed
+to meet the requirement; amounts above this level also meet the
+requirement. For AEP's, ``M+'' means ``either M or E''. Finally,
+``DP+LA'' refers to the \emph{sum} of your Daily Prep and Followup
+Activities with a ``check''; there will be 24 of each, for a maximum
+total of 48.
+
+
+\begin{tabular}{c||c|c|c|c}
+Category & D & C & B & A \\ \hline
+Core LTs (11) & 5 Proficient & 5 Proficient, 5 Mastered & 10 Mastered & 11 Mastered \\ \hline
+Supplemental LTs (12) & 3 Proficient & 6 Proficient & 6 Proficient, 2 Mastered & 6 Proficient, 4 Mastered \\ \hline
+AEP (8+) & 2 M+ & 5 M+ & 2 E, 4 M+ & 4 E, 2 M+ \\ \hline
+WeBWorK (192) & 80 & 130 & 150 & 170 \\ \hline
+DP + FA (48) & 24 & 34 & 39 & 44 \\ \hline
+EC (100) & 30 & 50 & 60 & 75 
+\end{tabular}
+
+
+A grade of ``F'' is given if not all the requirements for a ``D'' are
+met.
+
+\textbf{Plus/minus grades:} Your base grade may be modified with a plus
+or minus, according to these guidelines:
+
+\begin{itemize}
+\tightlist
+\item
+  A ``plus'' is added to the base grade if all requirements for a base
+  grade are satisfied, \emph{and} the LT (both the Core and
+  Supplemental) \emph{or} AEP requirement for the next level up is also
+  satisfied; \emph{and} the big-picture portion of the final exam is
+  passed.
+\item
+  A ``minus'' is added to the base grade above in any of the following
+  cases: (1) All requirements for a base grade are satisfied
+  \emph{except one}, and that one is no more than two levels below the
+  others; \textbf{or} (2) You meet the minimum requirements for a base
+  grade (i.e.~none of the requirements for higher levels are met) and
+  you do not pass the big-picture portion of the final exam. In the
+  first case, if the deficient area is more than two levels below, the
+  penalty will be either a minus or a full letter grade, at my
+  discretion.
+\end{itemize}
+
+\hypertarget{revisions-and-tokens}{%
+\subsection{Revisions and tokens}\label{revisions-and-tokens}}
+
+Since your work in the course is not graded with points (or is graded
+either 0 or 1), partial credit is not available except for occasional
+multi-part WeBWorK items. Instead, almost all work you do in the course
+can be revised and resubmitted to allow you to improve your work and
+raise your grade.
+
+\textbf{Checkpoint items} can be revised by reattempting the item on a
+later Checkpoint or through one of the other means described earlier.
+For example if you attempt a Checkpoint problem for Learning Target D.1
+and receive an ``x'', you can: redo the problem on a later Checkpoint
+(where it will be the same essential task but with different specifics);
+schedule an oral exam via video meeting to attempt a different version
+of the problem; create a video for a different version of the problem;
+or use work on an AEP to argue that you've met the standards for that
+target. Remember, though, only one check per week can be earned through
+non-Checkpoint methods, and Mastery level on a target requires that at
+least one Checkpoint problem earn a ``check''.
+
+\textbf{AEPs} earning M, R, or N can be revised and resubmitted at any
+time. They will be regraded using the same standards as originally used.
+However, there are two important limitations on your revision and
+resubmission of AEP's:
+
+\begin{quote}
+\textbf{Two-submission-per-week rule: No more than two submissions of
+AEP sets may be made per week. This can be two new sets, two revisions,
+or one of each.} A third submission can be purchased with a token
+(below) but \textbf{four or more submissions in a week are not allowed
+under any cirumstance.}
+\end{quote}
+
+\begin{quote}
+\textbf{Revision of N grades rule: Students have to spend a token
+(below) in order to revise any AEP that was graded at ``N'' (Not
+Assessable).}
+\end{quote}
+
+\textbf{WeBWorK} items can be redone and resubmitted as many times as
+you want until the deadline, at no cost.
+
+However, \textbf{Daily Prep} and \textbf{Followup Activities} may not be
+revised at all; these are graded on the basis of completeness and effort
+only and are intended to be done once.
+
+\textbf{Tokens:} Tokens are a fake currency that are used to ``purchase'' exceptions to
+course policies and other advantageous items in the course. Every
+student starts with five of these. One token can be spent for any of the
+following at any time:
+
+\begin{itemize}
+\tightlist
+\item
+  Attempt a second Learning Target in a given week through
+  non-Checkpoint means
+\item
+  Submit a third AEP (either revision or new submission) in a given week
+\item
+  Revise an AEP graded ``N''
+\item
+  Extend the deadline on a Checkpoint by 12 hours (request must be
+  submitted prior to the original deadline)
+\item
+  Extend the deadline on a WeBWorK set by 24 hours (request must be
+  submitted prior to the original deadline)
+\item
+  Purchase 3 engagement credits
+\end{itemize}
+
+To spend a token, please use the \emph{Token Spending form} found on
+Blackboard in the left sidebar.
+
+With the exception of the last item, tokens may not be ``stacked'', for
+example by spending 3 tokens to get a 72-hour WeBWorK deadline
+extension. You can stack tokens to purchase engagement credits
+(e.g.~spend 3 to get 9 EC's).
+
+Opportunities to earn more tokens may be given during the semester.
+
+\hypertarget{academic-integrity-in-mth-201}{%
+\subsection{Academic integrity in MTH
+201}\label{academic-integrity-in-mth-201}}
+
+The university's academic integrity policy is described in the GVSU
+Student Code, Section 3.1 which you can read online here:
+\url{http://bit.ly/gvsuacademicintegrity}. \textbf{Every student has the
+responsibility of reading and understanding these policies, especially
+the consequences for engaging in academically dishonest activities.}
+
+Some of the work you will do in the course involves collaboration; at
+other times collaboration may be allowed but not required; while at
+others it may not be allowed. Here are the rules for collaboration on
+each kind of work you do:
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Daily Prep and Followup Activities}: You may collaborate with
+  others, but your writeup must be in your own words. You may not copy
+  someone's work and submit it as your own, nor may you copy the ideas
+  from someone and simply change the wording.
+\item
+  \emph{Checkpoints} and other work done on Learning Targets: No
+  interations at all with another person or with unauthorized sources on
+  the internet is allowed. Any evidence of using information from
+  another person or source will be investigated as academic dishonesty.
+\item
+  \emph{AEPs}: Similarly, no interations at all with another person or
+  with unauthorized sources on the internet is allowed.
+\item
+  \emph{WeBWorK}: You may discuss the general, broad ideas of WeBWorK
+  problems with others (including on Campuswire) but you may not use
+  other people's work as your own. You may also not ask for specific
+  details of a solution, either in person or on Campuswire.
+\end{itemize}
+
+\textbf{In particular, use of ``study'' sites such as Chegg or
+Coursehero, or Q\&A sites like Stack Exchange or Quora, to obtain help
+on graded work other than Daily Prep or Followups is forbidden and will
+automatically constitute academic dishonesty.}
+
+All suspected instances of academic dishonesty will be thoroughly
+investigated, and whether a student has committed academic dishonesty is
+my determination to make based on the evidence. If I determine academic
+dishonesty has been committed, a report will be filed with the Dean of
+Students office, and the minimum penalty will be:
+
+\begin{itemize}
+\tightlist
+\item
+  Daily Prep and Followup: A grade of ``x''
+\item
+  Checkpoints and other Learning Target work: A grade of ``x'' and
+  required expense of two tokens to reattempt; for severe cases, you may
+  be barred from reattempting.
+\item
+  AEP's: A grade of ``N'', and you will not be allowed to revise or
+  resubmit the AEP for the rest of the semester.
+\item
+  WeBWorK: A ``0'' on the entire WeBWorK set.
+\end{itemize}
+
+Note these are \emph{minimum} penalties; additional penalties may be
+given including reduction of course grades and potential suspension from
+the university.
+
+\textbf{Please note: There is no need to commit academic dishonesty in
+this class since you can revise and resubmit almost anything.} If you
+come to believe that cheating or plagiarism is necessary given your
+situation: DON'T DO IT. Get some help instead and take comfort in the
+fact that you can just submit your best effort, get feedback, and try
+again later.
+
+\hypertarget{additional-course-expectations-and-information}{%
+\subsection{Additional course expectations and
+information}\label{additional-course-expectations-and-information}}
+
+Below are some additional important information about the course. Please
+note there is a separate section following this one, with course
+policies specific to the Covid-19 pandemic and how the class will be
+conducted.
+
+\textbf{Attendance:} Each F2F meeting will be live-streamed so that you
+can participate either F2F or remotely. It is critical that you actually
+attend your group's F2F meeting days --- Monday/Wednesday for Red group
+and Tuesday/Thursday for Blue group --- either F2F or synchronously
+online. \textbf{You may not attend the F2F meeting for the group other
+than your own} due to social distancing requirements; however you are
+welcome to watch the live stream of the other group's meeting if you
+want.
+
+You will be responsible for all announcements made in the F2F meetings
+and for all material covered in those meetings. Each meeting will begin
+on the hour; please be on time for your meetings. If circumstances
+beyond your control prevent you from attending F2F \emph{or}
+participating remotely, please let me know so I can help you stay
+current.
+
+\textbf{Tech support:} Please note that \textbf{I (Prof.~Talbert) am not
+able to provide support for technological issues}. If you encounter
+issues with technology, please use the appropriate source of help:
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{For help with Blackboard}: Email the Blackboard Help Desk at
+  bbadmin@gvsu.edu or call (616) 331-8526. For hours of operation and
+  more information see https://www.gvsu.edu/elearn/help/.
+\item
+  \emph{For help with the GVSU network, email, or printing}: Email the
+  GVSU IT Help Desk at helpdesk@gvsu.edu; or call (616) 331-2101 or toll
+  free (855) 435-7488. For hours of operation and more information see
+  https://www.gvsu.edu/it/.
+\item
+  \emph{For specific help with your computer}: Try the GVSU IT Help Desk
+  (see previous bullet) or contact your equipment manufacturer or
+  computer store.
+\item
+  \emph{For help with course tools such as Desmos and Campuswire}: Ask a
+  question on the \texttt{\#tech} channel on Campuswire, seek out the
+  help documentation in the tool, or do a targeted Google search.
+\end{itemize}
+
+\textbf{Deadlines and late work:} Deadlines for course work are clearly
+indicated on the Course Calendar; in cases of apparent conflict between
+dates, always assume that the Course Calendar is right.
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{For Daily Prep and Followup Activities}: No extensions to
+  deadlines are available. Simply submit a good faith effort on all
+  items by the deadline.
+\item
+  \emph{For Checkpoints and WeBWorK sets}: Deadlines may be extended 12
+  and 24 hours, respectively, by spending a token. No other extensions
+  are available.
+\item
+  \emph{For AEPs}: There is only one deadline for AEP's, namely the last
+  day of classes (11:59pm ET, Friday December 11). Otherwise you simply
+  submit your work when it is ready to be graded (subject to the
+  Two-Item-Per-Week Rule). This deadline will not be extended.
+\end{itemize}
+
+\textbf{Math Center:} GVSU's Math Tutoring Center is online with
+Blackboard Collaborate this semester! You can access virtual drop-in
+tutoring through a link in your Blackboard course called Math Tutoring
+Center or on our website at http://gvsu.edu/tutoring/math/. Then you
+need to click on the ``Online Math Tutoring Center'' button, which will
+require a GVSU login. There will be tutors online, ready to help, Monday
+through Thursday 10a -- 9p, Friday 10a -- 2p and Sunday 6p -- 9p
+starting Wednesday, September 2nd. Bring questions about your
+technology, on methods and concepts, or on specific problems. All Math
+Center tutoring is FREE, so stop by early and often. When you enter the
+Collaborate room, please type your first and last name so you can get
+you signed in and connected with a tutor.
+
+\textbf{Special learning needs:} If you have special needs because of
+learning, physical or other disabilities, it is your responsibility to
+contact Disability Support Resources (DSR) at 616-331-2490 or
+http://www.gvsu.edu/dsr/ . DSR will help you arrange accommodations.
+Then, speak with me in person about making those accommodations and
+ensure that they are consistent with your arrangements with DSR.
+
+\textbf{Basic needs security:} If you have difficulty affording
+groceries or accessing sufficient food to eat every day, or if you lack
+a safe and stable place to live, I encourage you to visit
+\href{https://www.gvsu.edu/replenish/}{Replenish}, a food resource for
+GVSU students. If you are comfortable doing so, please speak with me
+about your circumstances so that I can advocate for you and to connect
+you with other campus resources.
+
+\textbf{Gender identity and expression:} If, for purposes of gender
+identity and expression, your official name (in Banner) does not match
+your preferred name, your name can be updated in Blackboard. Please
+contact the registrar's office to submit this request. The registrar's
+office will contact the Blackboard administrator to make the change and
+will also contact your professors to inform them that your name in
+Banner will not match the name in Blackboard.
+
+\textbf{Changes to this syllabus:} Changes to this syllabus may occur
+during the semester. In those cases, the changes will be announced in
+class and online, and if appropriate, students will be given a voice on
+how the changes will be implemented. It is your responsibility stay
+abreast of the information passed along in course announcements so that
+you will be aware of any changes that take place.
+
+\textbf{Credits:} Portions of the language of this syllabus were adapted
+from the syllabi of Prof.~Matt Boelkins and Prof.~David Clark, both of
+GVSU.
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{mth-201-covid-19-policies}{%
+\subsection{MTH 201 COVID-19 Policies}\label{mth-201-covid-19-policies}}
+
+As you are well aware, we will be having class this semester while
+trying to navigate a global pandemic that seems to change every day.
+While we can't predict even the near future, the following are general
+guidelines and plans for how we can work productively together in the
+course.
+
+\hypertarget{taking-care-of-yourself}{%
+\subsubsection{Taking care of yourself}\label{taking-care-of-yourself}}
+
+Above all else, \textbf{take care of your own physical and mental
+health} during these difficult times. Make sure you are getting
+sufficient rest, staying connected to friends and family, and giving
+yourself time and space to do things you enjoy outside of college.
+\href{https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/self-care-tips-during-the-covid-19-pandemic}{This
+website lists several good tips} for maintaining good self-care in our
+situation.
+
+Before coming to campus, \textbf{perform a self-evaluation each time}
+and \textbf{if you feel even the slightest bit of sickness or Covid-19
+symptoms, stay home and participate remotely}. You should be on campus
+only if you feel \emph{completely healthy}.
+
+Please know that \textbf{at any time this semester if you feel unable or
+unwilling to be present for a F2F meeting, you can opt out of the
+meeting and participate remotely --- no questions asked, no permission
+needed, no penalty incurred}. Remember that F2F meetings are
+live-streamed, and you can participate remotely through Campuswire and
+other means, so you will not fall behind if you have to participate from
+home. Also note that \emph{there are no graded assessments done in
+class} so you will never have to make up work that was turned in during
+class.
+
+\hypertarget{keeping-our-class-meetings-safe}{%
+\subsubsection{Keeping our class meetings
+safe}\label{keeping-our-class-meetings-safe}}
+
+When you are present in a F2F meeting, please observe the following:
+
+\textbf{Wear a mask at all times.} Face coverings, such as masks, are
+required to be worn in the classroom. Students who have forgotten their
+face coverings may get a disposable mask at a campus office. The
+evidence is clear that
+\href{https://www.wbtv.com/2020/06/29/demonstration-aims-show-effectiveness-masks/}{face
+coverings are a crucial part of keeping coronavirus at bay} and
+\href{https://www.gvsu.edu/inclusion/suggested-syllabus-language-for-inclusion-and-equity-132.htm}{support
+the university's commitment to providing all members of its community
+with an inclusive living and learning environment with equitable
+opportunities for success}. GVSU's policy on face coverings is posted on
+the
+\href{https://www.gvsu.edu/lakerstogether/face-covering-policy-27.htm}{Lakers
+Together web site}. Students who are not able to wear a face covering
+due to a medical condition should
+\href{https://www.gvsu.edu/dsr/}{contact Disability Support Services
+(DSR)} to discuss their individual situation.
+
+Please note, students who remove their masks during class, wear the mask
+incorrectly (for example, with the nose exposed), or refuse to wear mask
+at all will be reminded of this policy once, and then asked to leave if
+non-compliance continues.
+
+\textbf{Observe proper social distancing.} Your classroom has been
+specially arranged so that students are 6 feet apart from each other and
+from the professor at all times. This is sufficient for social
+distancing and close enough so that 2-3 students can turn to each other
+and discuss a concept. We will also leverage technology to allow for
+more remote communication, for example using the chat rooms in
+Campuswire. \textbf{Please do not encroach on the space of another
+person or share physical objects with another such as pens, calculators,
+or paper.}
+
+\textbf{Practice appropriate personal hygiene.} Wash your hands
+regularly or use hand sanitizer. If you must cough or sneeze, do so
+facing away from other people and use the inside of your elbow to cover
+your mouth, even if you have a mask on. You may wish to bring sanitizing
+wipes to wipe down your desk and seat before and after class.
+
+\hypertarget{contingency-plans-for-the-semester}{%
+\subsubsection{Contingency plans for the
+semester}\label{contingency-plans-for-the-semester}}
+
+We will begin the semester in ``staggered hybrid'' mode, but several
+things could happen during the semester that might alter this setup.
+Here are the initial plans for the most likely of those things.
+
+\textbf{If the entire university goes fully online:} In this case,
+\textbf{all F2F meetings will be replaced by synchronous online
+meetings}, still split into Red (MW) and Blue (TR) groupings. We will
+also introduce \textbf{an option to participate in the course
+asynchronously}, so that those with issues with sychronous online
+participation can still participate in activities. No other changes will
+be made.
+
+\textbf{If the professor cannot be on campus due to self-quarantine, but
+not because of illness:} (For example, if my kids or wife get sick or my
+daily self-assessment directs me to stay at home) In this case, we will
+follow the plan above for if the university goes fully online:
+\textbf{F2F meetings will be replace by synchronous online meetings, and
+an asynchronous option will be introduced}.
+
+\textbf{If the professor cannot be on campus due to having a Covid-19
+infection:} In this case, \textbf{the entire course will be moved to an
+asynchronous online format} until I am well enough to resume teaching. A
+proxy/substitute may be appointed to grade and give feedback on Daily
+Prep and Followup Activities; all other graded work will be suspended
+until I am well enough to grade.
+
+In the latter two eventualities, you can expect a slowdown in the
+grading process and significant changes to the course calendar or
+syllabus. Please monitor your course announcements on a twice-daily
+basis to ensure you have correct information.
+
+\emph{Please note}: These plans may be changed overridden by
+university-wide directives as the semester unfolds. Again, check course
+announcements twice daily.
+
+\hypertarget{encouragement}{%
+\subsubsection{Encouragement}\label{encouragement}}
+
+Although these plans can be scary and demoralizing, I want you to know
+that \textbf{GVSU is doing everything in its power to keep people safe
+from Covid-19}. In my view, GVSU's campus is at least as safe from
+Covid-19 as the average large supermarket, which many of us visit on a
+regular basis now without much trepidation. Furthermore I believe that
+\textbf{if we observe reasonable precautions like the ones described
+here, then while the risk of Covid-19 is still present, there's no
+reason to be afraid.} We will still learn and grow intellectually just
+as in ``normal'' times if we stay focused and work together.
+
+\hypertarget{appendix-course-modules-and-learning-targets}{%
+\subsection{Appendix: Course modules and Learning
+Targets}\label{appendix-course-modules-and-learning-targets}}
+
+\hypertarget{learning-targets}{%
+\subsubsection{Learning Targets}\label{learning-targets}}
+
+\begin{itemize}
+\tightlist
+\item
+  Group F: Use functions and other pre-Calculus mathematics
+  proficiently.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    F.1 \textbf{(CORE)}: I can evaluate functions given in different
+    representations, find composites of functions, and determine the
+    domain and range of a function. (\emph{Assessed via the Functions
+    Bootcamp assignment})
+  \item
+    F.2: I can find the average rate of change of a function on an
+    interval.
+  \end{itemize}
+\item
+  Group L: Calculate, use, and explain the concept of limits.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    L.1: \textbf{(CORE)} I can find the limit of a function at a point
+    using numerical, graphical, and algebraic methods.
+  \item
+    L.2: I can identify limits in indeterminate form and apply
+    L'Hopital's Rule to evaluate them. (\emph{Assessed via an AEP})
+  \end{itemize}
+\item
+  Group D: Explain and interpret the meaning of the derivative of a
+  function.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    D.1 \textbf{(CORE)}: I can find the derivative of a function, both
+    at a point and as a function, using the definition of the
+    derivative.
+  \item
+    D.2 \textbf{(CORE)}: I can use derivative notation correctly, state
+    the units of a derivative, estimate the value of a derivative using
+    difference quotients, and correctly interpret the meaning of a
+    derivative in context.
+  \item
+    D.3 \textbf{(CORE)}: Given information about \(f\), \(f'\), or
+    \(f''\), I can correctly give information about \(f\), \(f'\), or
+    \(f''\) and the increasing/decreasing behavior and concavity of
+    \(f\) (and vice versa).
+  \item
+    D.4: I can find the equation of the tangent line to a function at a
+    point and use the tangent line to estimate values of the function.
+  \end{itemize}
+\item
+  Group DC: Use shortcuts to calculate derivatives efficiently.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    DC.1 \textbf{(CORE)}: I can compute derivatives correctly for power,
+    polynomial, and exponential functions and the sine and cosine
+    functions, and basic combinations of these (constant multiples,
+    sums, differences).
+  \item
+    DC.2 \textbf{(CORE)}: I can compute derivatives correctly for
+    products, quotients, and composites of functions.
+  \item
+    DC.3: I can compute derivatives correctly using multiple rules in
+    combination.
+  \item
+    DC.4: I can compute the derivatives correctly for logarithmic,
+    trigonometric, and inverse trigonometric functions.
+  \end{itemize}
+\item
+  Group DA: Use derivatives to solve authentic real-life application
+  problems.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    DA.1 \textbf{(CORE)}: I can find the critical values of a function,
+    determine where the function is increasing and decreasing, and apply
+    the First and Second Derivative Tests to classify the critical
+    points as local extrema.
+  \item
+    DA.2: I can determine the intervals of concavity of a function and
+    find all of its points of inflection.
+  \item
+    DA.3: I can use the Extreme Value Theorem to find the absolute
+    maximum and minimum values of a continuous function on a closed
+    interval.
+  \item
+    DA.4 \textbf{(CORE)}: I can set up and use derivatives to solve
+    applied optimization problems.
+  \item
+    DA.5: I can compute the derivative of an implicitly-defined function
+    and find the slope of the tangent line to an implicit curve.
+  \item
+    DA.6: I can set up and use derivatives to solve related rates
+    problems.
+  \end{itemize}
+\item
+  Group INT: Use definite integrals and the Fundamental Theorem of
+  Calculus to find areas and total change.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    INT.1: I can calculate the area between curves, net change, and
+    displacement using geometric formulas and Riemann sums.
+  \item
+    INT.2: I can explain the meaning of each part of the definition of
+    the definite integral in terms of a graph, and interpret the
+    definite integral in terms of areas, net change, and displacement.
+  \item
+    INT.3: I can evaluate a definite integral using geometric formulas
+    and the Properties of the Definite Integral.
+  \item
+    INT.4 \textbf{(CORE)}: I can evaluate a definite integral using the
+    Fundamental Theorem of Calculus.
+  \item
+    INT.5 \textbf{(CORE)}: I can correctly antidifferentiate basic
+    functions and identify antiderivatives.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{modules-textbook-coverage-and-learning-target-focus}{%
+\subsubsection{Modules, Textbook coverage, and Learning Target
+focus}\label{modules-textbook-coverage-and-learning-target-focus}}
+
+The numbers at the end of each module refer to sections in Active
+Calculus. Please see the Course Calendar for the dates corresponding to
+these modules.
+
+
+\begin{longtable}[]{@{}cccc@{}}
+\toprule
+\begin{minipage}[b]{0.22\columnwidth}\centering
+Module\strut
+\end{minipage} & \begin{minipage}[b]{0.22\columnwidth}\centering
+Focus\strut
+\end{minipage} & \begin{minipage}[b]{0.22\columnwidth}\centering
+Text\strut
+\end{minipage} & \begin{minipage}[b]{0.22\columnwidth}\centering
+Learning Targets\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.22\columnwidth}\centering
+1\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+How do we find the speed of a moving object?\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+1.1, 1.2\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+F.2, L.1\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\centering
+2\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+What is the derivative of a function?\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+1.3, 1.4\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+D.1, D.2\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\centering
+3\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+What does a derivative tell us about a function?\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+1.5, 1.6, 1.7\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+D.3, D.4\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\centering
+4\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+How do we efficiently compute derivatives of basic functions?\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+2.1, 2.2\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+DC.1\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\centering
+5\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+How do we compute derivatives of products and quotients?\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+2.3, 2.4\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+DC.2\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\centering
+6\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+How do we compute derivatives of composites and other functions?\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+2.5, 2.6\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+DC.2, DC.3, DC.4\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\centering
+7\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+How are derivatives used to learn how things behave?\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+3.1, 3.3\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+DA.1, DA.2, DA.3\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\centering
+8\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+How are derivatives used to find the best way to do something?\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+3.4\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+DA.4\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\centering
+9\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+How are derivatives used to find how fast something is changing?\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+2.7, 3.5\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+DA.5, DA.6\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\centering
+10\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+How do we find how far a moving object has traveled?\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+4.1, 4.2\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+INT.1\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\centering
+11\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+What is the definite integral of a function?\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+4.3, 4.4\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+INT.2, INT.3\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\centering
+12\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+How are derivatives and integrals related?\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+4.4\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\centering
+INT.4, INT.5\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+\end{document}

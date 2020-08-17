@@ -15,24 +15,26 @@ Before reading any further, here are some first things to know:
 
 ## Course information
 
-**Instructor**: Robert Talbert, Ph.D., Professor of Mathematics. Email: talbertr@gvsu.edu. Phone: ???
+**Instructor**: Robert Talbert, Ph.D., Professor of Mathematics. Email: talbertr@gvsu.edu. Phone: 616.331.8968. 
 
-**Instructor availability:** My office is **Mackinac Hall C-2-513**; however due to public health concerns, **all student meetings this semester will be conducted remotely** unless you have a specific need that requires a physical meeting outside of class. Open drop-in hours will be held *(insert times here)* through Google Meet, using the link *(insert link here)*. **You do not need an appointment for open drop-in hours; just click the link to join.** (You may be put into a waiting room if there is a meeting in process.) Outside those hours, you can contact me by email or phone, through a direct message on Campuswire, or by scheduling an appointment at http://rtalbert.youcanbook.me. 
+**Office:** My office is **Mackinac Hall C-2-513**. All student meetings this semester will be conducted online unless you have a specific need that requires a physical meeting. 
 
-**Limits on availability:** Please note that **I typically only check email and other messages between 6am and 6pm on weekdays and once on Saturday mornings**. If you send a message that needs a response during those times, *you can expect to get a response within 6 hours*. Otherwise you can expect one when I am back online. Please plan accordingly --- for example, do not send messages after 6pm with the expectation of an immediate response. **If you have a question and it can be made public, you'll get a much faster response if you post it to CampusWire instead**. 
+**Open drop-in hours:** **Monday through Thursday, 1-1:50pm**, using the link [http://gvsu.edu/s/1qX](http://gvsu.edu/s/1qX) and password **growthmind**. **You do not need an appointment.** If you cannot attend open drop-in hours, you can contact me by email, through a Campuswire direct message, or by scheduling an appointment at http://rtalbert.youcanbook.me. 
 
-**Face-to-face Meetings**: This course is being conducted in a *staggered hybrid* mode in which your section is split into two groups, called the "Red" group and the "Blue" group, and the different groups take turns meeting face-to-face (F2F) and working online. The time and location of your F2F meetings depends on your section and group: 
+**Availability:** I typically only check email and other messages between 6am and 6pm on weekdays and once on Saturday mornings. If you send a message that needs a response during those times, you can expect to get a response within 6 hours. Otherwise you can expect one when I am back online. 
+
+**Face-to-face Meetings**: Your section is split into two groups ("Red" and "Blue") and the different groups take turns meeting face-to-face (F2F) and working online. The time and location of your F2F meetings depends on your section and group: 
 
 | Section |  Red group  | Blue group | 
 |:------: | :--: | :---: | 
 | 02 | Monday/Wednesday 10:00-10:50am, Mackinac Hall D-1-135 | Tuesday/Thursday 10:00-10:50am, Mackinac Hall D-1-135 
 | 04 | Monday/Wednesday 3:00-3:50pm, Mackinac Hall A-1-165 | Tuesday/Thursday 3:00-3:50pm, Mackinac Hall A-1-165
 
-**Textbook:** We will use *Active Calculus* (2018 edition) by Matt Boelkins. The textbook is freely available online at https://activecalculus.org/single/frontmatter.html. There is also a PDF version available, and instructions for ordering a printed copy, at  https://activecalculus.org/. **The online version is preferred.** 
+**Textbook:** *Active Calculus* (2018 edition) by Matt Boelkins. The textbook is freely available online at https://activecalculus.org/ACS.html. **This online version is preferred.** There is also a PDF version available, and instructions for ordering a printed copy, at https://activecalculus.org/. 
 
-**Course website and discussion board:** All course announcements, assignments, and grades will be communicated using the course **Blackboard** site available at http://mybb.gvsu.edu All other course communications (including additional examples, guidance on assignments, etc.) will be available through **Campuswire**, our class discussion tool; to join, go to https://campuswire.com/p/GAD2DF67E and join with the code ``7913``. 
+**Course website and discussion board:** All course announcements, assignments, and grades will be communicated using the course **Blackboard** site available at http://mybb.gvsu.edu. All other course communications will be available through **Campuswire**, our class discussion tool; to join, go to https://campuswire.com/p/GAD2DF67E and use the code ``7913``. 
 
-**Course calendar:** A Google Calendar for the course, will all due dates and other important time-sensitive information posted on it, is available on Blackboard through a link in the left sidebar. **Be sure to check the calendar once daily** for upcoming events. The calendar is kept up-to-date constantly and **in cases of apparent conflicts in times or dates, the calendar is considered to be correct always.** 
+**Course calendar:** A Google Calendar, will all due dates and other important time-sensitive information posted on it, is available on Blackboard  in the left sidebar. **Be sure to check the calendar once daily** for upcoming events. The calendar is kept up-to-date constantly and **in cases of apparent conflicts in times or dates, the calendar is considered to be correct always.** 
 
 **Technology:** To use the course tools, you will need to have access to the following: 
 
@@ -41,11 +43,11 @@ Before reading any further, here are some first things to know:
 + **Reliable access to high-speed internet**. 
 + **An active GVSU network account** so that you can access email, Blackboard, and Google Docs. 
 
-If you have any issue with accessing any of the above, please let me know as soon as possible. We will use a variety of additional course tools during the semester, but they will be free to use, and you will be taught how to use them as part of the class. 
+If you have any issue with accessing any of the above, please let me know as soon as possible. 
 
-**What Calculus is about:** Calculus is the mathematical study of **change**. Quite frequently we care not only about *how much* there is of a certain quantity but *how fast it is changing* at a given point in time. Case in point: The current Covid-19 pandemic. The number of Covid-19 cases in the USA is important, but at least as important is the rate at which that number is growing or shrinking right now. Calculus starts with simple geometry and introduces the important concept of the *limit* to develop an entire language, focused on the *derivative* and the *definite integral*, that allows us to describe and calculate change. 
+**What Calculus is about:** Calculus is the mathematical study of **change**. Quite frequently we care not only about *how much* there is of a certain quantity but *how fast it is changing* at a given point in time. Calculus starts with simple geometry and introduces the important concept of the *limit* to develop an entire language, focused on the *derivative* and the *definite integral*, that allows us to describe and calculate change. 
 
-**Course content:** We will cover chapters 1-4 of the *Active Calculus* text. Key topics to be studied include: understanding functions from the perspective of calculus, the concept of limit, the definition and meaning of the derivative, computing derivatives, using derivatives in applications, antiderivatives and definite integrals and their meaning, and the Fundamental Theorem of Calculus. In every topic, we seek a **conceptual understanding** from several perspectives, the ability to **apply ideas**, development of **logical reasoning and communication skills**, and an **appreciation for calculus as a whole**.
+**Course content:** We will cover chapters 1-4 of the *Active Calculus* text. Key topics include: understanding functions from the perspective of calculus, the concept of limit, the definition and meaning of the derivative, computing derivatives, using derivatives in applications, antiderivatives and definite integrals and their meaning, and the Fundamental Theorem of Calculus. In every topic, we seek a **conceptual understanding** from several perspectives, the ability to **apply ideas**, development of **logical reasoning and communication skills**, and an **appreciation for calculus as a whole**.
 
 **Official course description:** A development of the fundamental concepts of calculus using graphical, numerical, and analytical methods with algebraic and trigonometric functions of a single variable. Limits and continuity, derivatives, indefinite integrals, definite integrals, and the Fundamental Theorem of Calculus; applications of derivatives and integrals. Fulfills Foundations - Mathematical Sciences. Offered every semester. *Prerequisites*: MTH 122 and MTH 123; or MTH 124; or assignment through Grand Valley math placement.
 
@@ -62,50 +64,47 @@ By the end of the course, you will be able to:
 
 A full list of official departmental objectives for MTH 201 can be found [here](https://www.gvsu.edu/cms4/asset/9A420BCF-BA9E-0845-91754145EA82C51F/sor_descriptions_objectives__topics_for_faculty_updated_12-11-19.pdf). 
 
-Your progress toward these course objectives will be tracked using **Learning Targets**. There are 24 individual Learning Targets covering all the major skills in the course; a complete list of these is in Appendix ??? at the end of this syllabus. Your grade in the course will be based in large part on the amount and quality of evidence you can provide, through various forms of work, that you've mastered these Learning Targets. 
+Your progress toward these course objectives will be tracked using **Learning Targets**. There are 23 individual Learning Targets covering all the major skills in the course; a complete list of these is at the end of this syllabus. 
 
 ## Structure and flow of the course 
 
-Your MTH 201 course is being offered in a **staggered hybrid** mode. "Staggered" means that while we will have F2F meetings regularly, we will stagger the attendance so that only about half the section is in attendance at any give meeting, for social distancing purposes. "Hybrid" means that the course is a combination of F2F work and asynchronous online work, with about a 50/50 split in our case. The content of MTH 201 is divided into 12 **modules**, each of which is subdivided into a "Part A" and a "Part B". A complete list of modules and the content they cover is in the Appendix  at the end of this syllabus. 
+Your work in the class will follow a pattern that will involve you **before**, **during**, and **after** our meetings:
 
-Your work in the class will follow a simple, repeating pattern that will involve you **before**, **during**, and **after** our meetings. It works like this: 
++ **BEFORE each class**: You'll complete a **Daily Prep** assignment in which you'll get familiar with the basic concepts of the upcoming lesson. Daily Prep assignments will typically be due by 11:59pm ET the night before the lesson; you'll be able to work ahead if you want. 
++ **DURING each class**: Class meetings will typically start with 10 minutes for going over the Daily Prep assignments and fielding  questions. Then we will spend around 30 minutes doing activities together on the harder concepts from the material. Then we will typically spend 10 minutes wrapping up, going through some of the main points of the activity, taking short ungraded quizzes to give you feedback on your learning, and getting your feedback on the lesson. 
++ **AFTER each class**: Only about half the lesson is covered during the in-class session. The rest of the lesson is learned through **Followup Activities** that you will do asynchronously (outside of class on your own schedule). 
 
-+ **BEFORE each class**: You'll complete a **Daily Prep** assignment in which you'll get familiar with the **basic concepts** of the upcoming lesson through guided reading, video, or hands-on activity and completion of basic exercises on new concepts. Daily Prep assignments will typically be due by 11:59pm ET the night before the lesson; you'll be able to work ahead if you want. 
-+ **DURING each clas**s: Class meetings will typically start with 10 minutes for going over the Daily Prep assignments and fielding your questions. Then we will spend most of the class (around 30 minutes) doing activities together on the harder concepts from the material. There may be some small lectures, but active work will be the main event since you can only learn math by doing it! Then we will typically spend 10 minutes wrapping up, going through some of the main points of the activity, taking short ungraded quizzes to give you feedback on your learning, and then getting your feedback on the lesson. 
-+ **AFTER each class**: In the hybrid format, only about half the lesson is covered during the in-class session. The rest of the lesson is learned through **Followup Activities** that you will do asynchronously (outside of class on your own schedule). Followup activities are basically what we **would* do as active group work if we were going to meet for a second hour on the lesson. 
-
-This pattern repeats for each F2F meeting that you have with your group. 
-
-Finally, there is ongoing work that you'll be doing outside the flow of class meetings: Online homework done weekly to practice the ideas from the module, Application/Extension Problems that take your basic skills to the next level and into real-world applications, and Checkpoints given roughly every other week that assess your mastery of basic skills. More on these in the "Learning Activities in MTH 201" section below. 
-
-Visually, the workflow looks like this: 
+This pattern repeats for each F2F meeting that you have with your group. Visually, the workflow looks like this: 
 
 ![201 Workflow](201workflow.png)
 
-**Live streaming of F2F meetings:** All F2F meetings will be live-streamed over either Zoom or Google Meet. If you cannot attend one of your designated F2F meetings, you will have the option of participating remotely through the live stream. 
+Finally, there is ongoing work outside the flow of class meetings, such as online homework and application/extension problems. More on these in the "Learning Activities in MTH 201" section below. 
 
 ## Learning activities in MTH 201 
 
-You will be engaging with several different kinds of activities in the course, both to learn the material and to demonstrate how well you have learned it. Our course uses a **mastery grading** system in which **most graded items do not use points**, but rather your work will be required to meet certain levels of quality that demonstrate *mastery*. We will discuss this several times in class, and there is more information later in this document.  
+You will be engaging with several different kinds of activities in the course, both to learn the material and to demonstrate how well you have learned it. The kinds of activities you will undertake are: 
 
-The kinds of activities you will undertake are: 
-
-+ **Daily Preparation (DP)**: You will complete Daily Prep assignments before each of your F2F meetings. Each Daily Prep assignment involves reading, video-watching, or playing with an interactive tool and then answering questions and working exercises on basic learning obejctives. Each Daily Prep is graded with a "check" if it is submitted by the deadline (given on the course calendar), every exercise has a response, and each response indicates a good-faith effort to be right. Otherwise the work receives an "x". 
-+ **Followup Activities (FA)**: Following your face-to-face meeting, you'll complete a short set of activities roughly equivalent to an in-class group activity. Followup activities will complete the lesson for each part of a module. As with Daily Prep assignments, they are grade with a "check" if the activity is completed by the due date and each part of the activity is complete with a good-faith effort to be right. Otherwise it receives an "x".  
-+ **WeBWorK (WW)**: Once a week, students will complete a 16-item online homework sets that provide opportunities to practice basic ideas from each part of a module and to review. These are deployed using the *WeBWorK* online homework system at https://webwork-math.gvsu.edu/webwork2/. These will typically be due Sunday nights at 11:59pm ET. WeBWork allows for unlimited multiple attempts without penalty up to those deadlines. Each WeBWorK item is worth 1 point (some allow partial credit) ad is auto-graded by the computer on the basis of correctness of the answer. 
-+ **Learning Target Checkpoints**: On a roughly bi-weekly basis, you'll receive a take-home exam called a "Checkpoint" that consists of several problems, each one of which focuses on a single Learning Target from the list in the Appendix. Each Checkpoint will contain one problem for every Learning Target that has been covered up to that point. For example, the first Checkpoint may contain problems for Learning Targets F.1 through L.2; the second Checkpoint will contain new versions of F.1 through L.2 along with first-time problems for D.1 through D.3; the third Checkpoint will contain new versions of F.1 through D.3 with first-time problems for D.4 through DC.1; and so on. **You will only need to attempt problems for Learning Targets that you have not yet mastered**. The cumulative structure allows you to attempt problems multiple times in different weeks. Students will be provided with a detailed rubric for what constitutes acceptable work on each Checkpoint problem. Work that meets the criteria for acceptable work will be given a "check"; work that does not meet the criteria will receive an "X". **Work receiving an "X" can be redone at any later Checkpoint**. See the Revision policy for details. You can also earn a "check" through means other than Checkpoints; see "How work is graded in MTH 201" below for details. 
-+ **Application/Extension Problems (AEPs)**: AEPs are more extensive problems that require applying or extending the basic course knowledge from the Learning Targets. Most require technology, and all will require a formal writeup. There will be at least 8 AEP sets posted during the semester. They are graded using the EMRN rubric discussed in "How work is graded in MTH 201" and can be revised and resubmitted if needed. 
-+ **Final Exam**: The final exam in the course will consist of two parts. The first part consists of big-picture questions on the overall ideas of the course. Your performance on this part contributes to the plus/minus grade in the course. The other part of the final exam will be a last Checkpoint of the semester and will give you the chance to meet additional learning targets that have not yet been mastered. 
++ **Daily Preparation (DP)**: You will complete these before each of your F2F meetings. Each Daily Prep assignment involves reading, video-watching, or interaction and then working exercises on basic learning obejctives. 
++ **Followup Activities (FA)**: Followup activities will complete the lesson for each part of a module and are done after a F2F meeting. 
++ **WeBWorK (WW)**: Once a week, you will complete a 16-item online homework set that provides practice on basic ideas from each part of a module. These are deployed using the *WeBWorK* online homework system at https://webwork-math.gvsu.edu/webwork2/. These will typically be due Sunday nights at 11:59pm ET. 
++ **Learning Target Checkpoints**: On a roughly bi-weekly basis, you'll receive a take-home exam called a "Checkpoint". Each Checkpoint will contain one problem for every Learning Target that has been covered up to that point. You'll be given a detailed rubric explaining what constitutes acceptable work on each Learning Target. Work that meets the criteria for acceptable work will be given a "check"; work that does not meet the criteria will receive an "X". If you receive an "x" on a problem, you can try it again on a new version on the next Checkpoint until you receive a "check". You will only need to attempt problems on Learning Targets you have not yet mastered. You can also earn a "check" through means other than Checkpoints; see "How work is graded in MTH 201" below for details. 
++ **Application/Extension Problems (AEPs)**: AEPs are more extensive problems that require applying or extending the basic course knowledge from the Learning Targets.
 + **Miscellaneous engagement opportunities**: Various other activities in the class will give you the opportunity to get and stay engaged with the course. These include the Startup assignment in week 1, occasional discussion board activities, meeting certain incentive bonus deadlines, and other items. Designated items will carry 1 "engagement credit", and engagement credits will accumulate through the semester. In particular, every "check" on a Daily Prep and Followup activity is worth 1 engagement credit. 
 
-Additionally, you'll be required to complete some basic review of mathematical functions in order to make sure you're prepared to start work with Calculus. This review is called the **Functions Bootcamp** and your completion of the bootcamp will come through either a special WeBWorK set or a take-home assessment. More information on this will be given in week 1. 
+Additionally, we will have a **final exam** consisting of two parts. The first part focuses on big-picture questions on the overall ideas of the course. Your performance on this part contributes to the plus/minus grade in the course. The other part of the final exam will be a last Checkpoint of the semester and will give you the chance to meet additional learning targets that have not yet been mastered. 
 
 
 ## How work is graded in MTH 201
 
+Our course uses a **mastery grading** system in which **most graded items do not use points**, but rather your work will be required to meet certain levels of quality that demonstrate *mastery*. We will discuss this several times in class, and there is more information later in this document.  
+
+### Daily Prep and Followup Activities
+
+Daily Prep and Followup Activities are graded with either a "check" or an "x". **A check is given if the work is turned in on time, and if every item has a response that represents a good-faith effort to be right**. Actual correctness of the answer or explanation is not part of the grading. Work that does not meet these expectations receives an "x". This includes work that has missing responses (even if by accident), work that includes responses like "I don't know" that show insufficient effort to give a good-faith response, and work that is late (again, even if by accident). 
+
 ### Proficiency and Mastery on Learning Targets 
 
-There are 24 Learning Targets in the course, 10 of which are designated as **Core** targets due to their central nature in Calculus, and the other 14 of which are designated as **Supplemental**. There are two levels of achievement on any of the  Learning Targets: **Proficiency** and **Mastery**. Students get numerous opportunities to demonstrate understanding of the Learning Targets; every time this happens, the student receives a "check" on that Learning Target. 
+There are 23 Learning Targets in the course, 11 of which are designated as **Core** targets due to their central nature in Calculus, and the other 12 of which are designated as **Supplemental**. There are two levels of achievement on any of the  Learning Targets: **Proficiency** and **Mastery**. Students get numerous opportunities to demonstrate understanding of the Learning Targets; every time this happens, the student receives a "check" on that Learning Target. 
 
 + To be rated as "Proficient" on a Learning Target, earn **one check** on it. 
 + To be rated as "Mastered" on a Learning Target, earn **two checks** on it. 
@@ -114,16 +113,29 @@ You can earn a check on a Learning Target in four different ways:
 
 1. *(The simplest way)* **Do work on a Checkpoint** that meets the criteria for acceptable quality, as described above.
 2. **Schedule an oral assessment** (on videoconference) during which I will give a new version of a Checkpoint-like problem for that Learning Target, and you solve that problem "live" at an acceptable level. 
-3. **Create a video** of yourself working out the solution to a Checkpoint-like problem that I will make for you, then submit the video. If you choose this option, you'll also be required to have a follow-up video meeting with me to discuss the solution and answer additional related questions to make sure you really understand the ideas. 
+3. **Create a video** of yourself working out the solution to a Checkpoint-like problem that I will make for you, then submit the video. If you choose this option, you'll also be required to have a follow-up meeting with me to discuss the solution and answer additional related questions.
 4. **Use work on an AEP set** and schedule a videoconference meeting with me to argue that your work on the AEP demonstrates mastery of the Learning Target, as well as answer follow-up questions. For example, you might do work on an AEP that you believe demonstrates proficiency with "computing derivatives correctly using multiple rules in combination" (Learning Target DC.3). If so, then you could schedule a meeting with me to explain why you think your work satisfied DC.3; I would listen and, if I agree, I might ask you to work out a second problem also related to DC.3 to make sure you really understand the idea. 
 
-**Boundaries on these methods:** Please note the following restrictions on options 2-4 above: 
+Please note the following restrictions on options 2-4 above: 
 
 - *No more than one check per week can be earned through options 2-4*. 
 - *Option 3 (make a video) must adhere to standards for video creation* (to be posted separately; basically the video must have clear sound and audio, and keep face, handwriting, and voice in the frame at all times). 
 - *Mastery (two checks) *must* include at least one Checkpoint problem*. That is, you can't earn Mastery on a learning target through options 2-4 alone.
 
-### The EMRN rubric
+Therefore, for example, you can earn Mastery (two checks) on a Learning Target by: 
+
++ Earning a check on a Checkpoint problem for that target, then earning another on a new version of that problem on a later Checkpoint;
++ Earning a check on a Checkpoint problem for that target; then earning another check through an oral assessment;
++ Doing a video on that target, then earning a check on a Checkpoint;
++ Discussing some AEP work related to that target, then earning a check on a Checkpoint
+
+But you cannot earn Mastery, for instance, by doing a video and then using an AEP. At least one of the checks has to come through a Checkpoint. 
+
+
+**Exceptions:** Learning Target F.1 is assessed *only* through the **Functions Bootcamp** assignment given in the first 2-3 weeks of classes. This assignment consists of a special WeBWorK set. A score of 75% or higher will earn *Proficiency* rating on this target; a score of 90% or higher will earn *Mastery*. A second Functions Bootcamp set will be given around week 7 for those who do not earn Mastery on the first set. Further, Learning Target L.2 (L'Hopital's Rule) will be assessed through a special AEP set and will not appear on a Checkpoint; an "E" on that AEP will count as Mastery, an "M" as Proficiency. 
+
+
+### AEP's and the EMRN rubric
 
 Work on Application/Extension Problems is graded not with points but with one of four designation: "E" (Excellent/Exemplary), "M" (Meets the standard), "R" (Needs revision), or "N" (Not assessible/Not enough information). The process of assigning these marks is shown below: 
 
@@ -141,12 +153,12 @@ Note: In the table, numerical values indicate the minimum level needed to meet t
 
 | Category | D | C | B | A | 
 |:---: |:---: |:---: |:---: |:---: |
-| Core Learning Targets (10) | 5 Proficient | 5 Proficient, 5 Mastered | 10 Mastered | 10 Mastered | 
-| Supplemental Learning Targets (14) |  3 Proficient | 6 Proficient | 6 Proficient, 3 Mastered | 6 Proficient, 6 Mastered | 
+| Core Learning Targets (11) | 5 Proficient | 5 Proficient, 5 Mastered | 10 Mastered | 11 Mastered | 
+| Supplemental Learning Targets (12) |  3 Proficient | 6 Proficient | 6 Proficient, 2 Mastered | 6 Proficient, 4 Mastered | 
 | AEPs (8+)  | 2 M+ | 5 M+ | 2 E, 4 M+ | 4 E, 2 M+ | 
-| WeBWorK (192) | 90 | 140 | 160 | 180 | 
+| WeBWorK (192) | 80 | 130 | 150 | 170 | 
 | DP + FA (48) | 24 | 34 | 39 | 44 | 
-| Engagement credits (100+) | 30 | 60 | 70 | 80 |
+| Engagement credits (100+) | 30 | 50 | 60 | 75 |
 
 
 
@@ -154,8 +166,8 @@ A grade of "F" is given if not all the requirements for a "D" are met.
 
 **Plus/minus grades:** Your base grade may be modified with a plus or minus, according to these guidelines: 
 
-+ A "plus" is added to the base grade if all requirements for a base grade are satisfied, *and* the LT (both the Core and Supplemental) or AEP requirement for the next level up is also satisfied; *and* the big-picture portion of the final exam is passed. 
-+ A "minus" is added to the base grade above in any of the following cases: (1)  All requirements for a base grade are satisfied *except one*, and that one is no more than two levels below the others; **or** (2) You meet the minimum requirements for a base grade (i.e. none of the requirements for higher levels are met) and you do not pass the big-picture portion of the final exam **or** (3) you meet the minimum requirements for a base grade but do not complete the Functions Bootcamp satisfactorily by Monday, September 14. In the first case, if the deficient area is more than two levels below, the penalty will be either a minus or a full letter grade, at my discretion.
++ A "plus" is added to the base grade if all requirements for a base grade are satisfied, *and* the LT (both the Core and Supplemental) *or* AEP requirement for the next level up is also satisfied; *and* the big-picture portion of the final exam is passed. 
++ A "minus" is added to the base grade above in any of the following cases: (1)  All requirements for a base grade are satisfied *except one*, and that one is no more than two levels below the others; **or** (2) You meet the minimum requirements for a base grade (i.e. none of the requirements for higher levels are met) and you do not pass the big-picture portion of the final exam. In the first case, if the deficient area is more than two levels below, the penalty will be either a minus or a full letter grade, at my discretion.
 
 ## Revisions and tokens 
 
@@ -205,6 +217,8 @@ Some of the work you will do in the course involves collaboration; at other time
 + *AEPs*: Similarly, no interations at all with another person or with unauthorized sources on the internet is allowed.
 + *WeBWorK*: You may discuss the general, broad ideas of  WeBWorK problems with others (including on Campuswire) but you may not use other people's work as your own. You may also not ask for specific details of a solution, either in person or on Campuswire. 
 
+**In particular, use of "study" sites such as Chegg or Coursehero, or Q&A sites like Stack Exchange or Quora, to obtain help on graded work other than Daily Prep or Followups is forbidden and will automatically constitute academic dishonesty.**
+
 All suspected instances of academic dishonesty will be thoroughly investigated, and whether a student has committed academic dishonesty is my determination to make based on the evidence. If I determine academic dishonesty has been committed, a report will be filed with the Dean of Students office, and the minimum penalty will be: 
 
 + Daily Prep and Followup: A grade of "x" 
@@ -219,7 +233,6 @@ Note these are *minimum* penalties; additional penalties may be given including 
 ## Additional course expectations and information  
 
 Below are some additional important information about the course. Please note there is a separate section following this one, with course policies specific to the Covid-19 pandemic and how the class will be conducted. 
-
 
 **Attendance:** Each F2F meeting will be live-streamed so that you can participate either F2F or remotely. It is critical that you actually attend your group's F2F meeting days --- Monday/Wednesday for Red group and Tuesday/Thursday for Blue group --- either F2F or synchronously online. **You may not attend the F2F meeting for the group other than your own** due to social distancing requirements; however you are welcome to watch the live stream of the other group's meeting if you want. 
 
@@ -238,7 +251,7 @@ You will be responsible for all announcements made in the F2F meetings and for a
 + *For Checkpoints and WeBWorK sets*: Deadlines may be extended 12 and 24 hours, respectively, by spending a token. No other extensions are available. 
 + *For AEPs*: There is only one deadline for AEP's, namely the last day of classes (11:59pm ET, Friday December 11). Otherwise you simply submit your work when it is ready to be graded (subject to the Two-Item-Per-Week Rule). This deadline will not be extended. 
 
-**Math Center:** The Math Center, located on the second floor of Mackinac Hall near the Mathematics Department office, provides a workspace for students to work on mathematics course assignments and on-demand help from trained student workers. The Math Center also offers online help. Information on hours of operation and online access will be given during week 1.
+**Math Center:** GVSU’s Math Tutoring Center is online with Blackboard Collaborate this semester!  You can access virtual drop-in tutoring through a link in your Blackboard course called Math Tutoring Center or on our website at http://gvsu.edu/tutoring/math/.  Then you need to click on the “Online Math Tutoring Center” button, which will require a GVSU login.  There will be tutors online, ready to help, Monday through Thursday 10a – 9p, Friday 10a – 2p and Sunday 6p – 9p starting Wednesday, September 2nd.  Bring questions about your technology, on methods and concepts, or on specific problems.  All Math Center tutoring is FREE, so stop by early and often.  When you enter the Collaborate room, please type your first and last name so you can get you signed in and connected with a tutor. 
 
 **Special learning needs:** If you have special needs because of learning, physical or other disabilities, it is your responsibility to contact Disability Support Resources (DSR) at 616-331-2490 or http://www.gvsu.edu/dsr/ . DSR will help you arrange accommodations.  Then, speak with me in person about making those accommodations and ensure that they are consistent with your arrangements with DSR.
 
@@ -303,16 +316,16 @@ Although these plans can be scary and demoralizing, I want you to know that **GV
 
 
 - Group F: Use functions and other pre-Calculus mathematics proficiently.
-  - F.1: I can find the average rate of change of a function on an interval.
+  - F.1 **(CORE)**: I can evaluate functions given in different representations, find composites of functions, and determine the domain and range of a function. (*Assessed via the Functions Bootcamp assignment*)
+  - F.2: I can find the average rate of change of a function on an interval.
 - Group L: Calculate, use, and explain the concept of limits.
   - L.1: **(CORE)** I can find the limit of a function at a point using numerical, graphical, and algebraic methods.
-  - L.2: I can identify limits in indeterminate form and apply L'Hopital's Rule to evaluate them. 
+  - L.2: I can identify limits in indeterminate form and apply L'Hopital's Rule to evaluate them. (*Assessed via an AEP*)
 - Group D: Explain and interpret the meaning of the derivative of a function.
   - D.1 **(CORE)**: I can find the derivative of a function, both at a point and as a function, using the definition of the derivative. 
   - D.2 **(CORE)**: I can use derivative notation correctly, state the units of a derivative, estimate the value of a derivative using difference quotients, and correctly interpret the meaning of a derivative in context. 
   - D.3 **(CORE)**: Given information about $f$, $f'$, or $f''$, I can correctly give information about $f$, $f'$, or $f''$ and the increasing/decreasing behavior and concavity of $f$ (and vice versa).
-  - D.4: I can determine where a function is continuous or differentiable given a graph or formula of the function and explain my reasoning.
-  - D.5: I can find the equation of the tangent line to a function at a point and use the tangent line to estimate values of the function.  
+  - D.4: I can find the equation of the tangent line to a function at a point and use the tangent line to estimate values of the function.  
 - Group DC: Use shortcuts to calculate derivatives efficiently.
   - DC.1 **(CORE)**: I can compute derivatives correctly for power, polynomial, and exponential functions and the sine and cosine functions, and basic combinations of these (constant multiples, sums, differences). 
   - DC.2 **(CORE)**: I can compute derivatives correctly for products, quotients, and composites of functions.  
@@ -331,7 +344,6 @@ Although these plans can be scary and demoralizing, I want you to know that **GV
   - INT.3: I can evaluate a definite integral using geometric formulas and the Properties of the Definite Integral. 
   - INT.4 **(CORE)**: I can evaluate a definite integral using the Fundamental Theorem of Calculus.
   - INT.5 **(CORE)**: I can correctly antidifferentiate basic functions and identify antiderivatives. 
-  - INT.6 I can find the average value of a function and the net change in a function over an interval using a definite integral.
 
 ### Modules, Textbook coverage, and Learning Target focus
 
@@ -341,9 +353,9 @@ The numbers at the end of each module refer to sections in Active Calculus. Plea
 
 | Module | Focus | Text | Learning Targets | 
 | :----: | :----: | :----: | :----: |
-| 1 | How do we find the speed of a moving object?  |  1.1, 1.2 | F.1, L.1 | 
+| 1 | How do we find the speed of a moving object?  |  1.1, 1.2 | F.2, L.1 | 
 | 2 | What is the derivative of a function? | 1.3, 1.4 | D.1, D.2  |
-| 3 | What does a derivative tell us about a function? | 1.5, 1.6, 1.7 | D.3, D.4, D.5 |
+| 3 | What does a derivative tell us about a function? | 1.5, 1.6, 1.7 | D.3, D.4|
 | 4 | How do we efficiently compute derivatives of basic functions?  |  2.1, 2.2 | DC.1  |
 | 5 | How do we compute derivatives of products and quotients?  | 2.3, 2.4 | DC.2 |
 | 6 | How do we compute derivatives of composites and other functions? | 2.5, 2.6 | DC.2, DC.3, DC.4| 
@@ -352,4 +364,4 @@ The numbers at the end of each module refer to sections in Active Calculus. Plea
 | 9 | How are derivatives used to find how fast something is changing? | 2.7, 3.5 | DA.5, DA.6 |
 | 10 | How do we find how far a moving object has traveled? | 4.1, 4.2 | INT.1 | 
 | 11 | What is the definite integral of a function? | 4.3, 4.4 | INT.2, INT.3 | 
-| 12 | How are derivatives and integrals related? | 4.4 | INT.4, INT.5, INT.6 | 
+| 12 | How are derivatives and integrals related? | 4.4 | INT.4, INT.5 | 
