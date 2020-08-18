@@ -99,7 +99,7 @@ Our course uses a **mastery-based grading system** in which **most graded work d
 
 **AEPs**: These are more involved, and are graded using one of four labels: **E** (Excellent/Exemplary), **M** (Meets Expectations), **R** (Revision Needed), or **N** (Not Enough Information/Not Assessable). Those labels are assigned using this flowchart: 
 
-![EMRN rubric](https://i.ibb.co/Pww4pVg/EMRN.png)
+![EMRN rubric](https://i.ibb.co/MVNXJWL/EMRN-rubric-2020.png)
 
 **Learning Targets and Checkpoints**: There are 23 Learning Targets in the course, which together form an outline of all the important concepts in Calculus. Eleven (11) of these are designated as **Core** targets due to their central nature in Calculus, and the other 12 are designated as **Supplemental**. 
 
@@ -150,8 +150,12 @@ Notes on the table:
 - "DP+FA" is the sum of the number of checks earned through either Daily Prep or Followup Activities. There are 24 possible for each. 
 - A grade of "F" is given if **not all of the requirements for a D are met**. 
 
-**Important note on PE credits**: There will be at least 240 PE credits available: 48 total through Daily Prep and Followup activities plus 192 through WeBWorK. Other PE credit opportunities will be available but probably not more than 50 credits' worth. Therefore, **it will likely be impossible to earn enough PE credits for a C in the course without doing at least 130-150 points of WeBWorK**. 
+**Important note on PE credits**: There will be at least 240 PE credits available: 48 total through Daily Prep and Followup activities plus 192 through WeBWorK. Other PE credit opportunities will be available but probably not more than 50 credits' worth. Therefore, **it will likely be impossible to earn enough PE credits for a C in the course (170) without doing at least 130-150 points of WeBWorK**. 
 
+**Plus/minus grades:** Your base grade may be modified with a plus or minus, according to these guidelines: 
+
++ **A "plus"** is added to the base grade if all requirements for a base grade are satisfied, *and* the LT (both the Core and Supplemental) *or* AEP requirement for the next level up is also satisfied; *and* the big-picture portion of the final exam is passed. 
++ **A "minus"** is added to the base grade above in any of the following cases: (1)  All requirements for a base grade are satisfied *except one*, and that one is no more than two levels below the others; **or** (2) You meet the minimum requirements for a base grade (i.e. none of the requirements for higher levels are met) and you do not pass the big-picture portion of the final exam. In the first case, if the deficient area is more than two levels below, the penalty will be either a minus or a full letter grade, at my discretion.
 
 
 ---
@@ -168,5 +172,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDcyOTExMiw3MzkzMDk5MjldfQ==
+eyJoaXN0b3J5IjpbLTI3MjM2MzAzMSw3MzkzMDk5MjldfQ==
 -->
