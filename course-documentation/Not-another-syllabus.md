@@ -118,7 +118,9 @@ As you earn checks on Learning Targets, you'll earn a **rating** on that target.
 
 Checkpoints will probably be the primary means by which you earn checks on Learning Targets and gradually improve your ratings. 
 
-- **Each Checkpoint is cumulative**. Checkpoint 1 will contain problems for 1-2 Learning Targets; Checkpoint 2 will contain *new versions of those problems* plus brand-new problems for the next 2-3 Learning Targets; Checkpoint 3 will contain new versions of all the previous problems 
+- **Each Checkpoint is cumulative**. Checkpoint 1 will contain problems for 1-2 Learning Targets; Checkpoint 2 will contain *new versions of those problems* plus brand-new problems for the next 2-3 Learning Targets; Checkpoint 3 will contain new versions of all the previous problems plus brand-new problems for new Learning Targets; and so on. 
+- **On a Checkpoint, you only need to attempt problems you feel ready to take.** If you believe you need more time to study a Learning Target, you can skip the problem for that target on the Checkpoint and wait till the next round (usually 2 weeks later). 
+- **On a Checkpoint, you only need to attempt problems if you still need or want to improve your rating on 
 
 Please note the following restrictions on options 2-4 above: 
 
@@ -149,5 +151,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjM2MTQ0Niw3MzkzMDk5MjldfQ==
+eyJoaXN0b3J5IjpbLTk0ODIyMDcwMSw3MzkzMDk5MjldfQ==
 -->
