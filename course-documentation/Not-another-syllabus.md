@@ -150,7 +150,7 @@ Notes on the table:
 - "DP+FA" is the sum of the number of checks earned through either Daily Prep or Followup Activities. There are 24 possible for each. 
 - A grade of "F" is given if **not all of the requirements for a D are met**. 
 
-**Important note on PE credits**: There will be at least 240 PE credits available: 48 total through Daily Prep and Followup activities plus 192 through WeBWorK. Other PE credit opportunities will be available but probably not more than 50 credits' worth. Therefore, **it will likely be impossible to earn enough PE credits for a C in the course (170) without doing at least 130-150 points of WeBWorK**. 
+**Important note on PE credits**: There will be at least 240 PE credits available: 48 total through Daily Prep and Followup activities plus 192 through WeBWorK. Other PE credit opportunities will be available but probably not more than 50 credits' worth. Therefore, **it may be impossible to earn a C in the course (requirement of 170 PE credits) without doing at least 130-150 points of WeBWorK**. 
 
 **Plus/minus grades:** Your base grade may be modified with a plus or minus, according to these guidelines: 
 
@@ -158,6 +158,9 @@ Notes on the table:
 + **A "minus"** is added to the base grade above if: (1)  All requirements for a base grade are satisfied *except one*, and that one is no more than two levels below the others; **or** (2) You meet the minimum requirements for a base grade (i.e. none of the requirements for higher levels are met) and you do not pass the big-picture portion of the final exam. In the first case, if the deficient area is more than two levels below, the penalty will be either a minus or a full letter grade, at my discretion.
 
 ## Revision and Tokens 
+
+Almost 
+
 
 Since your work in the course is not graded with points (or is graded either 0 or 1), partial credit is not available except for occasional multi-part WeBWorK items. Instead, almost all work you do in the course can be revised and resubmitted to allow you to improve your work and raise your grade. 
 
@@ -180,25 +183,10 @@ Since your work in the course is not graded with points (or is graded either 0 o
 + Extend the deadline on a WeBWorK set by 24 hours (request must be submitted prior to the original deadline)
 + Purchase 3 PE credits 
 
-With the exception of the last item, tokens may not be "stacked", for example by spending 3 tokens to get a 72-hour WeBWorK deadline extension. You can stack tokens to purchase engagement credits (e.g. spend 3 to get 9 EC's). 
+With the exception of the last item, tokens may not be "stacked", for example by spending 3 tokens to get a 72-hour WeBWorK deadline extension. You can stack tokens to purchase PE credits (e.g. spend 3 to get 9 EC's). 
 
 Opportunities to earn more tokens may be given during the semester. 
 
-
-
----
-
-Assessments: 
-
-- LT Checkpoints
-- AEP
-- DP+FA
-- Engagement/practice (includes WW): 
-	- Each DP, FA earns 1 (48)
-	- Each WW earns 1 
-	- Startup assignment (10?) 
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTkxNjkwNTQsNzM5MzA5OTI5XX0=
+eyJoaXN0b3J5IjpbMTQwOTA3MjQ1MCw3MzkzMDk5MjldfQ==
 -->
