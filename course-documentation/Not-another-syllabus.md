@@ -133,7 +133,20 @@ As mentioned, **Checkpoints are not the only way to earn checks**. For example, 
 
 Your grade for the semester is not based on points because most items in the course don't carry point values. Instead, your grade will be based on **the quantity and quality of evidence you can provide of across-the-board mastery of Calculus** --- the basic skills found in the Learning Targets, the applications found in AEPs, and your daily work and engagement elsewhere. 
 
-To determine your course **base grade** (the letter A/B/C/D/F without, use the following table. Each gra
+To determine your course **base grade** (the letter A/B/C/D/F without plus/minus modifications), use the following table. To earn a grade, you must complete **all** the requirements in the column for that grade; your base grade is the **highest grade level for which all the requirements have been met**. 
+
+
+| Category | D | C | B | A | 
+|:---: |:---: |:---: |:---: |:---: |
+| Core Learning Targets (11) | 5 Proficient | 5 Proficient, 5 Mastered | 10 Mastered | 11 Mastered | 
+| Supplemental Learning Targets (12) |  3 Proficient | 6 Proficient | 6 Proficient, 2 Mastered | 6 Proficient, 4 Mastered | 
+| AEPs (8+)  | 2 M+ | 5 M+ | 2 E, 4 M+ | 4 E, 2 M+ | 
+| DP + FA (48) | 24 | 34 | 39 | 44 | 
+| PE | 
+
+
+
+| Engagement credits (100+) | 30 | 50 | 60 | 75 |
 
 
 
@@ -151,5 +164,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODI1MDMzMDIsNzM5MzA5OTI5XX0=
+eyJoaXN0b3J5IjpbMTY2NjAxNDY1LDczOTMwOTkyOV19
 -->
