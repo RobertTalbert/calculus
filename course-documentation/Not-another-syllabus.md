@@ -107,7 +107,8 @@ An important goal for you in the course is to **demonstrate proficiency, and eve
 
 1. By **completing a problem on a Checkpoint** that pertains to that Learning Target. 
 2. By **scheduling a live oral exam** (through Zoom/Google Meet) during which you'll be given a problem similar to one on a Checkpoint for the Learning Target, and completing the problem satisfactorily along with followup questions I may ask. 
-3. By **creating a video** of yourself in which you work out the solution to a problem similar to one on a Checkpoint for the Learning Target (that I will provide), then submitting that video and 
+3. By **creating a video** of yourself in which you work out the solution to a problem similar to one on a Checkpoint for the Learning Target (that I will provide), then submitting that video and answering followup questions via a video meeting. 
+4. By **using work on an AEP** that, in your view, shows evidence that you know how to perform the task on a Learning Target. In this option, you'll schedule a video interview with me and make the case for your work, and I'll listen and then ask some followup questions that you'll need to address. 
 
 
 You will get numerous opportunities to demonstrate understanding of the Learning Targets; every time this happens, the student receives a "check" on that Learning Target. 
@@ -151,5 +152,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzMzODcyMTgsNzM5MzA5OTI5XX0=
+eyJoaXN0b3J5IjpbNDAzOTQ4ODI2LDczOTMwOTkyOV19
 -->
