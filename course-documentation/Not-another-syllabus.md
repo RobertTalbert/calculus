@@ -85,14 +85,14 @@ You will be engaging with several different kinds of activities in the course, b
 
 + **Daily Preparation (DP)**: You will complete these before each of your F2F meetings. Each Daily Prep assignment involves reading, video-watching, or interaction and then working exercises on basic learning objectives. 
 + **Followup Activities (FA)**: Followup activities will complete the lesson for each part of a module and are done after a F2F meeting. They're the equivalent of a second class meetings' worth of active learning tasks, only they're done asynchronously online. 
-+ **Learning Target Checkpoints**: A major part of the course is your demonstrating progress toward the 23 different Learning Targets. The main way you'll do this is through occasional take-home assessments called **Checkpoints**. Each checkpoint contains **one problem per Learning Target that has been covered up to that point, focusing only on that Learning Target.** For example Checkpoint 1 will contain one problem each for Learning Targets F.2 and L.1; Checkpoint 2, coming one week later, will contain *new versions* of those two problems plus brand-new problems for Learning Targets D.1-D.3; and so on. Therefore **every Checkpoint is cumulative**; however **you'll only need to attempt problems that you have not already completed with satisfactory work**. 
-
-On a roughly bi-weekly basis, you'll receive a take-home exam called a "Checkpoint". Each Checkpoint will contain one problem for every Learning Target that has been covered up to that point. You'll be given a detailed rubric explaining what constitutes acceptable work on each Learning Target. Work that meets the criteria for acceptable work will be given a "check"; work that does not meet the criteria will receive an "X". If you receive an "x" on a problem, you can try it again on a new version on the next Checkpoint until you receive a "check". You will only need to attempt problems on Learning Targets you have not yet mastered. You can also earn a "check" through means other than Checkpoints; see "How work is graded in MTH 201" below for details. 
++ **Learning Target Checkpoints**: A major part of the course is your demonstrating progress toward the 23 different Learning Targets. The main way you'll do this is through occasional take-home assessments called **Checkpoints**. Each checkpoint contains **one problem per Learning Target that has been covered up to that point, focusing only on that Learning Target.** More details on Checkpoints, how they are constructed, and how they are graded are given in the "How your work is graded" section. 
++ **Application/Extension Problems (AEPs)**: AEPs are more extensive problems that require applying or extending the basic course knowledge from the Learning Targets. 
++ **Practice 
 
 
 + **WeBWorK (WW)**: Once a week, you will complete a 16-item online homework set that provides practice on basic ideas from each part of a module. These are deployed using the *WeBWorK* online homework system at https://webwork-math.gvsu.edu/webwork2/. These will typically be due Sunday nights at 11:59pm ET. 
 
-+ **Application/Extension Problems (AEPs)**: AEPs are more extensive problems that require applying or extending the basic course knowledge from the Learning Targets.
+
 + **Miscellaneous engagement opportunities**: Various other activities in the class will give you the opportunity to get and stay engaged with the course. These include the Startup assignment in week 1, occasional discussion board activities, meeting certain incentive bonus deadlines, and other items. Designated items will carry 1 "engagement credit", and engagement credits will accumulate through the semester. In particular, every "check" on a Daily Prep and Followup activity is worth 1 engagement credit. 
 
 Additionally, we will have a **final exam** consisting of two parts. The first part focuses on big-picture questions on the overall ideas of the course. Your performance on this part contributes to the plus/minus grade in the course. The other part of the final exam will be a last Checkpoint of the semester and will give you the chance to meet additional learning targets that have not yet been mastered. 
@@ -119,5 +119,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODgyMzM1Niw3MzkzMDk5MjldfQ==
+eyJoaXN0b3J5IjpbNzQ0MjI1OTM0LDczOTMwOTkyOV19
 -->
