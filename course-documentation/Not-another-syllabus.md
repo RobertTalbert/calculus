@@ -67,7 +67,7 @@ Your progress toward these course objectives will be tracked using **Learning Ta
 + **DURING each class**: Class meetings will typically start with 10 minutes for going over the Daily Prep assignments and fielding  questions. Then we will spend around 30 minutes doing activities together on the harder concepts from the material. Then we will typically spend 10 minutes wrapping up, going through some of the main points of the activity, taking short ungraded quizzes to give you feedback on your learning, and getting your feedback on the lesson. 
 + **AFTER each class**: Only about half the lesson is covered during the in-class session. The rest of the lesson is learned through **Followup Activities** that you will do asynchronously (outside of class on your own schedule). 
 
-![enter image description here](https://drive.google.com/file/d/1xNDMGBYAqdKTmGb1LXNDvgw4DmFtBe9L/view?usp=sharing)
+![Workflow](https://i.ibb.co/LhVqc4t/201workflow.png)
 
 This pattern repeats for each F2F meeting that you have with your group. Finally, there is ongoing work outside the flow of class meetings, such as online homework and application/extension problems. 
 
@@ -78,6 +78,10 @@ This pattern repeats for each F2F meeting that you have with your group. Finally
 - **Asking for help when you need it** through drop-in visits or Campuswire posts; also **giving help to others** when you see a question on Campuswire that you can answer. 
 - 
 
+
+
+
+![EMRN rubric](https://i.ibb.co/Pww4pVg/EMRN.png)
 
 ---
 
@@ -93,5 +97,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM5MzA5OTI5XX0=
+eyJoaXN0b3J5IjpbMTk4Mjg0MDg4Niw3MzkzMDk5MjldfQ==
 -->
