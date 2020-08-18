@@ -85,7 +85,7 @@ You will be engaging with several different kinds of activities in the course, b
 
 + **Daily Preparation (DP)**: You will complete these before each of your F2F meetings. Each Daily Prep assignment involves reading, video-watching, or interaction and then working exercises on basic learning objectives. 
 + **Followup Activities (FA)**: Followup activities will complete the lesson for each part of a module and are done after a F2F meeting. They're the equivalent of a second class meetings' worth of active learning tasks, only they're done asynchronously online. 
-+ **Learning Target Checkpoints**: A major part of the course is your demonstrating progress toward the 23 different Learning Targets. The main way you'll do this is through occasional take-home assessments called **Checkpoints**. Each checkpoint contains **one problem per Learning Target that has been covered up to that point, focusing only on that Learning Target.** For example Checkpoint 1 will contain one problem each for Learning Targets 
++ **Learning Target Checkpoints**: A major part of the course is your demonstrating progress toward the 23 different Learning Targets. The main way you'll do this is through occasional take-home assessments called **Checkpoints**. Each checkpoint contains **one problem per Learning Target that has been covered up to that point, focusing only on that Learning Target.** For example Checkpoint 1 will contain one problem each for Learning Targets F.2 and L.1; Checkpoint 2, coming one week later, will contain *new versions* of those two problems plus brand-new problems for Learning Targets D.1-D.3; and so on. Therefore **every Checkpoint is cumulative**; however **you'll only need to attempt problems that you have not already completed with satisfactory work**. 
 
 On a roughly bi-weekly basis, you'll receive a take-home exam called a "Checkpoint". Each Checkpoint will contain one problem for every Learning Target that has been covered up to that point. You'll be given a detailed rubric explaining what constitutes acceptable work on each Learning Target. Work that meets the criteria for acceptable work will be given a "check"; work that does not meet the criteria will receive an "X". If you receive an "x" on a problem, you can try it again on a new version on the next Checkpoint until you receive a "check". You will only need to attempt problems on Learning Targets you have not yet mastered. You can also earn a "check" through means other than Checkpoints; see "How work is graded in MTH 201" below for details. 
 
@@ -119,5 +119,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyNjU2Njk0LDczOTMwOTkyOV19
+eyJoaXN0b3J5IjpbMTE3ODgyMzM1Niw3MzkzMDk5MjldfQ==
 -->
