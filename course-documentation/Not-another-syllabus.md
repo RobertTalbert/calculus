@@ -143,7 +143,11 @@ To determine your course **base grade** (the letter A/B/C/D/F without plus/minus
 | DP + FA (48) | 24 | 34 | 39 | 44 | 
 | PE | 100 | 170 | 190 | 210 | 
 
+Notes on the table: 
 
+- The requirements shown are the minimum to meet the grade level; exceeding those requirements also meets the level. For example, Mastering 10 Supplemental Learning Targets satisfies the Supplemental Learning Target requirement for an A. 
+- "M+" means a grade of M or E. 
+- "DP+FA" is the sum of the number of checks earned through either Daily Prep or Followup Activities. There are 24 of each. 
 
 
 ---
@@ -160,5 +164,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4ODk5OTM1LDczOTMwOTkyOV19
+eyJoaXN0b3J5IjpbNjYyMTEwOTM1LDczOTMwOTkyOV19
 -->
