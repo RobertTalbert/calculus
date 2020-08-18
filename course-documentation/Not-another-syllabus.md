@@ -75,7 +75,9 @@ Finally, there is ongoing work outside the flow of class meetings, such as onlin
 
 **Student expectations:** All students in the course are expected to do the following: 
 
-- **Check email, Blackboard announcements, and Campuswire posts at least once a day** --- preferably more often for information, hints, questions, and engagement opportunities. Especially, given the unpredictable nature of the ongoing pandemic, it's imperative that you stay 
+- **Check email, Blackboard announcements, and Campuswire posts at least once a day** --- preferably more often --- for information, hints, questions, and engagement opportunities. Especially, given the unpredictable nature of the ongoing pandemic, it's imperative that you stay consistently up to date on course information. All important announcements will be posted (and sent to your GVSU email and cross-posted to Campuswire) as soon as possible; you're responsible for seeing these announcements and taking action. 
+- **Check the calendar daily for upcoming due items and other events.** 
+- **Asking for help,
 
 
 ---
@@ -92,5 +94,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTM2NjM2XX0=
+eyJoaXN0b3J5IjpbLTkyMDgzOTM4NF19
 -->
