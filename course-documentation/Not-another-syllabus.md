@@ -119,7 +119,7 @@ As you earn checks on Learning Targets, you'll earn a **rating** on that target.
 Checkpoints will probably be the primary means by which you earn checks on Learning Targets and gradually improve your ratings. 
 
 - **Each Checkpoint is cumulative**. Checkpoint 1 will contain problems for 1-2 Learning Targets; Checkpoint 2 will contain *new versions of those problems* plus brand-new problems for the next 2-3 Learning Targets; Checkpoint 3 will contain new versions of all the previous problems plus brand-new problems for new Learning Targets; and so on. 
-- **On a Checkpoint, you only need to attempt problems you feel ready to take.** If you believe you need more time to study a Learning Target, you can skip the problem for that target on the Checkpoint and wait till the next round (usually 2 weeks later). 
+- **On a Checkpoint, you only need to attempt problems you feel ready to take.** If you believe you need more time to study a Learning Target, you can skip the problem for that target on the Checkpoint and wait till the next round (usually 2 weeks later). You can skip an entire Checkpoint if you need to. But, there are only 10-11 of these planned for the semester, so make every effort to make *some* progress on each one. 
 - **On a Checkpoint, you only need to attempt problems if you still need or want to improve your rating on the Learning Target.** For example if you've earned a Mastery rating on Learning Target D.2, you do not have to attempt the problem for D.2 any more during the course. 
 
 As mentioned, **Checkpoints are not the only way to earn checks**. For example, you might earn Mastery on a Learning Target by doing two successful Checkpoint problems; or one Checkpoint problem and a video; or by using some AEP work followed by doing a Checkpoint problem successfully. You have options. However, to keep the logistics from being overwhelming, there are just a few restrictions on those options: 
@@ -131,6 +131,7 @@ As mentioned, **Checkpoints are not the only way to earn checks**. For example, 
 
 ## How your semester grade is determined 
 
+Your grade for the semester is not based on points because most items in the course don't carry point values. Instead, your grade will be based on **the quantity and quality of evidence you can provide** (through the v
 
 
 
@@ -148,5 +149,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk4MzA3MDUsNzM5MzA5OTI5XX0=
+eyJoaXN0b3J5IjpbMzczNjEyMjQ4LDczOTMwOTkyOV19
 -->
