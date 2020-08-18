@@ -46,8 +46,34 @@ Before reading any further, here are some first things to know:
 
 If you have any issue with accessing any of the above, please let me know as soon as possible. 
 
+## Course overview and expectations 
 
---
+**Learning objectives:** By the end of the course, you will be able to:
+
+- Use **functions** and other pre-Calculus mathematics proficiently.
+- Calculate, use, and explain the concept of **limits**.
+- Explain and interpret the meaning of the **derivative** of a function.
+- Use **shortcuts** to calculate derivatives efficiently.
+- Use derivatives to solve authentic real-life **application problems**.
+- Use **definite integrals and the Fundamental Theorem of Calculus** to find areas and total change.
+
+A full list of official departmental objectives for MTH 201 can be found [here](https://www.gvsu.edu/cms4/asset/9A420BCF-BA9E-0845-91754145EA82C51F/sor_descriptions_objectives__topics_for_faculty_updated_12-11-19.pdf). 
+
+Your progress toward these course objectives will be tracked using **Learning Targets**. There are 23 individual Learning Targets covering all the major skills in the course; a complete list of these is at the end of this syllabus. 
+
+**Structure and flow of the course:**  Your work in the class will follow a pattern that will involve you **before**, **during**, and **after** our meetings:
+
++ **BEFORE each class**: You'll complete a **Daily Prep** assignment in which you'll get familiar with the basic concepts of the upcoming lesson. Daily Prep assignments will typically be due by 11:59pm ET the night before the lesson; you'll be able to work ahead if you want. 
++ **DURING each class**: Class meetings will typically start with 10 minutes for going over the Daily Prep assignments and fielding  questions. Then we will spend around 30 minutes doing activities together on the harder concepts from the material. Then we will typically spend 10 minutes wrapping up, going through some of the main points of the activity, taking short ungraded quizzes to give you feedback on your learning, and getting your feedback on the lesson. 
++ **AFTER each class**: Only about half the lesson is covered during the in-class session. The rest of the lesson is learned through **Followup Activities** that you will do asynchronously (outside of class on your own schedule). 
+
+This pattern repeats for each F2F meeting that you have with your group. Visually, the workflow looks like this: 
+
+![201 Workflow](201workflow.png)
+
+Finally, there is ongoing work outside the flow of class meetings, such as online homework and application/extension problems. More on these in the "Learning Activities in MTH 201" section below. 
+
+---
 
 Assessments: 
 
@@ -61,5 +87,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTU3Njg4N119
+eyJoaXN0b3J5IjpbMTcyOTAyMTczNl19
 -->
