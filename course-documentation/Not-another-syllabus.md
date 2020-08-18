@@ -135,7 +135,7 @@ Your grade for the semester is not based on points because most items in the cou
 
 To determine your course **base grade** (the letter A/B/C/D/F without plus/minus modifications), use the following table. To earn a grade, you must complete **all** the requirements in the column for that grade; your base grade is the **highest grade level for which all the requirements have been met**. 
 
-| Category | D | C | B | A | 
+| Category: | D | C | B | A | 
 |:---: |:---: |:---: |:---: |:---: |
 | Core Learning Targets (11) | 5 Proficient | 5 Proficient, 5 Mastered | 10 Mastered | 11 Mastered | 
 | Supplemental Learning Targets (12) |  3 Proficient | 6 Proficient | 6 Proficient, 2 Mastered | 6 Proficient, 4 Mastered | 
@@ -148,7 +148,9 @@ Notes on the table:
 - The requirements shown are the minimum to meet the grade level; exceeding those requirements also meets the level. For example, Mastering 10 Supplemental Learning Targets satisfies the Supplemental Learning Target requirement for an A. 
 - "M+" means a grade of M or E. 
 - "DP+FA" is the sum of the number of checks earned through either Daily Prep or Followup Activities. There are 24 possible for each. 
-- There will be at least 240 PE credits available: 48 through Daily Prep and Followup activities plus 192 through WeBWorK. Other PE credit opportunities will be available but probably not more than 
+
+**Important note on PE credits**: There will be at least 240 PE credits available: 48 total through Daily Prep and Followup activities plus 192 through WeBWorK. Other PE credit opportunities will be available but probably not more than 50 credits' worth. Therefore, **it will likely be impossible to earn enough PE credits for a C in the course without doing at least 130-150 points of WeBWorK**. 
+
 
 
 ---
@@ -165,5 +167,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDkxODkzMTUsNzM5MzA5OTI5XX0=
+eyJoaXN0b3J5IjpbLTIwODYwMDU1OTIsNzM5MzA5OTI5XX0=
 -->
