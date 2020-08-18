@@ -159,10 +159,7 @@ Notes on the table:
 
 ## Revision and Tokens 
 
-Almost 
-
-
-Since your work in the course is not graded with points (or is graded either 0 or 1), partial credit is not available except for occasional multi-part WeBWorK items. Instead, almost all work you do in the course can be revised and resubmitted to allow you to improve your work and raise your grade. 
+The most significant and challenging work you do in the course --- Checkpoints and AEPs --- can be revised and resubmitted to allow you to improve your work and raise your grade. Your grade is based on what you *eventually* show that you can do, not what you can show in a single moment. The process of revision/resubmission depends on the item: 
 
 **Checkpoint items** can be revised by reattempting the item on a later Checkpoint or through one of the other means described earlier. Remember, though, only one check per week can be earned through non-Checkpoint methods, and Mastery level on a target requires at least one check earned by a Checkpoint or oral exam. 
 
@@ -188,5 +185,5 @@ With the exception of the last item, tokens may not be "stacked", for example by
 Opportunities to earn more tokens may be given during the semester. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTA3MjQ1MCw3MzkzMDk5MjldfQ==
+eyJoaXN0b3J5IjpbMTk0MjI4NDgwNSw3MzkzMDk5MjldfQ==
 -->
