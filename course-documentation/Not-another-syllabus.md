@@ -89,16 +89,18 @@ You will be engaging with several different kinds of activities in the course, b
 + **Application/Extension Problems (AEPs)**: AEPs are more extensive problems that require applying or extending the basic course knowledge from the Learning Targets. 
 + **Practice and Engagement (PE)**: It's very important to practice with the basic material and stay involved in the course. To help you do this, you'll earn "PE credits" (not to be confused with gym class) by completing many different small activities through the semester. Most activities will earn 1 PE credit. In particular: **Every "check" on a Daily Prep or Followup Activity earns 1 PE credit.** There will also be weekly online practice homework set up using the **WeBWorK** online homework system (https://webwork-math.gvsu.edu/webwork2/), with typically 16 problems available in each module worth one PE credit each, for a total of 192 PE credits available from WeBWorK. There will be several other opportunities in the semester to earn PE credits. 
 
-
-Additionally, we will have a **final exam** consisting of two parts. The first part focuses on big-picture questions on the overall ideas of the course. Your performance on this part contributes to the plus/minus grade in the course. The other part of the final exam will be a last Checkpoint of the semester and will give you the chance to meet additional learning targets that have not yet been mastered. 
+Additionally, we will have a **Final Exam** consisting of two parts. The first part focuses on big-picture questions on the overall ideas of the course. Your performance on this part contributes to the plus/minus grade in the course. The other part of the final exam will be one final Checkpoint to give you the chance to meet additional learning targets that have not yet been mastered. The Final Exam will be done asynchronously; it will be assigned on Monday December 14 and due on Wednesday December 16. 
 
 ## How the work is graded 
 
 
-## How your semester grade is determined 
 
 
 ![EMRN rubric](https://i.ibb.co/Pww4pVg/EMRN.png)
+## How your semester grade is determined 
+
+
+
 
 ---
 
@@ -114,5 +116,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTY0MTg1OTEsNzM5MzA5OTI5XX0=
+eyJoaXN0b3J5IjpbLTE4MDI4MjYwNTYsNzM5MzA5OTI5XX0=
 -->
