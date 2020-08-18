@@ -13,12 +13,41 @@ Before reading any further, here are some first things to know:
 6. **You have a lot of help available to you as you work.** Throughout the semester, you will be challenged but also given a lot of support to help you rise to the challenge. I will be readily available to help in several channels; your classmates will be available for help through structured and informal support groups; and the GVSU Math Department provides free help through the Math Center. **Everyone in the course has your back.** 
 7. **You will find MTH 201 to be very enjoyable if you embrace the challenge.** Although hard work doesn't always feel good in the moment, by embracing the challenge and committing to learning Calculus, I think you will find that **growth is fun** and **Calculus is really interesting stuff**. 
 
----
+
+## Course information
+
+**Instructor**: Robert Talbert, Ph.D., Professor of Mathematics. Email: talbertr@gvsu.edu. Phone: 616.331.8968. 
+
+**Office:** My office is **Mackinac Hall C-2-513**. However, all student meetings this semester will be conducted online unless you have a specific need that requires a physical meeting. 
+
+**Open drop-in hours:** **Monday through Thursday, 1-1:50pm**, using the link [http://gvsu.edu/s/1qX](http://gvsu.edu/s/1qX) and password **growthmind**. **You do not need an appointment.** If you cannot attend open drop-in hours, you can contact me by email, through a Campuswire direct message, or by scheduling an appointment at http://rtalbert.youcanbook.me. 
+
+**Availability:** I typically only check email and other messages between 6am and 6pm on weekdays and once on Saturday mornings. If you send a message that needs a response during those times, you can expect to get a response within 6 hours. Otherwise you can expect one when I am back online. 
+
+**Face-to-face Meetings**: Your section is split into two groups ("Red" and "Blue") and the different groups take turns meeting face-to-face (F2F) and working online. The time and location of your F2F meetings depends on your section and group: 
+
+| Section |  Red group  | Blue group | 
+|:------: | :--: | :---: | 
+| 02 | Monday/Wednesday 10:00-10:50am, Mackinac Hall D-1-135 | Tuesday/Thursday 10:00-10:50am, Mackinac Hall D-1-135 
+| 04 | Monday/Wednesday 3:00-3:50pm, Mackinac Hall A-1-165 | Tuesday/Thursday 3:00-3:50pm, Mackinac Hall A-1-165
+
+**Textbook:** *Active Calculus* (2018 edition) by Matt Boelkins. The textbook is freely available online at https://activecalculus.org/ACS.html. **This online version is preferred.** There is also a PDF version available, and instructions for ordering a printed copy, at https://activecalculus.org/. 
+
+**Course website and discussion board:** All course announcements, assignments, and grades will be communicated using the course **Blackboard** site available at http://mybb.gvsu.edu. All other course communications will be available through **Campuswire**, our class discussion tool; to join, go to https://campuswire.com/p/GAD2DF67E and use the code ``7913``. 
+
+**Course calendar:** A Google Calendar, will all due dates and other important time-sensitive information posted on it, is available on Blackboard  in the left sidebar. **Be sure to check the calendar once daily** for upcoming events. The calendar is kept up-to-date constantly and **in cases of apparent conflicts in times or dates, the calendar is considered to be correct always.** 
+
+**Technology:** To use the course tools, you will need to have access to the following: 
+
++ **A laptop or tablet device**, preferably one with a **touchscreen that allows writing on the screen with a stylus**. Please plan on bringing this device with you to all F2F meetings. 
++ **A modern web browser**. Chrome is preferred, but browsers such as Firefox and Edge are also fine. 
++ **Reliable access to high-speed internet**. 
++ **An active GVSU network account** so that you can access email, Blackboard, and Google Docs. 
+
+If you have any issue with accessing any of the above, please let me know as soon as possible. 
 
 
-
-
-
+--
 
 Assessments: 
 
@@ -32,5 +61,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDc3Njk5N119
+eyJoaXN0b3J5IjpbMjEzNTU3Njg4N119
 -->
