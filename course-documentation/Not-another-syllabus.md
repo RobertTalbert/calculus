@@ -93,7 +93,9 @@ Additionally, we will have a **Final Exam** consisting of two parts. The first p
 
 ## How your work is graded 
 
-Our course uses a **mastery-based grading system** in which **most graded work does not have a point value** but is instead graded on the basis of **whether or not it meets standards of acceptable work or not**. This is not exactly "Pass/Fail" because if you submit work that does not meet the standards, you'll usually have a chance to revise it and resubmit for regrading. 
+Our course uses a **mastery-based grading system** in which **most graded work does not have a point value** but is instead graded on the basis of **whether or not it meets standards of acceptable work or not**. This is not exactly "Pass/Fail", because if you submit work that does not meet the standards, you'll usually have a chance to revise it and resubmit for regrading, as often as needed until you're happy with your grade (or until the end of the course). But, like "Pass/Fail", your work will be evaluated on a two-level or a four-level rubric. How this works, depends on the work being graded: 
+
+**Daily Prep and Followup Activities**: These are graded either with a "check" or an "x". A 
 
 
 ![EMRN rubric](https://i.ibb.co/Pww4pVg/EMRN.png)
@@ -116,5 +118,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTUyNTYwMzMsNzM5MzA5OTI5XX0=
+eyJoaXN0b3J5IjpbLTIxOTE5MzE0Miw3MzkzMDk5MjldfQ==
 -->
