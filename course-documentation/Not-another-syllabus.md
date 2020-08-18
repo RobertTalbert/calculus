@@ -81,11 +81,26 @@ This pattern repeats for each F2F meeting that you have with your group. Finally
 
 ## The work you'll do in the course 
 
+You will be engaging with several different kinds of activities in the course, both to learn the material and to demonstrate how well you have learned it. These include: 
+
++ **Daily Preparation (DP)**: You will complete these before each of your F2F meetings. Each Daily Prep assignment involves reading, video-watching, or interaction and then working exercises on basic learning objectives. 
++ **Followup Activities (FA)**: Followup activities will complete the lesson for each part of a module and are done after a F2F meeting. They're the equivalent of a second class meetings' worth of active learning tasks, only they're done asynchronously online. 
++ **Learning Target Checkpoints**: A major part of the course is your demonstrating progress toward the 23 different Learning Targets in 
+
+On a roughly bi-weekly basis, you'll receive a take-home exam called a "Checkpoint". Each Checkpoint will contain one problem for every Learning Target that has been covered up to that point. You'll be given a detailed rubric explaining what constitutes acceptable work on each Learning Target. Work that meets the criteria for acceptable work will be given a "check"; work that does not meet the criteria will receive an "X". If you receive an "x" on a problem, you can try it again on a new version on the next Checkpoint until you receive a "check". You will only need to attempt problems on Learning Targets you have not yet mastered. You can also earn a "check" through means other than Checkpoints; see "How work is graded in MTH 201" below for details. 
+
+
++ **WeBWorK (WW)**: Once a week, you will complete a 16-item online homework set that provides practice on basic ideas from each part of a module. These are deployed using the *WeBWorK* online homework system at https://webwork-math.gvsu.edu/webwork2/. These will typically be due Sunday nights at 11:59pm ET. 
+
++ **Application/Extension Problems (AEPs)**: AEPs are more extensive problems that require applying or extending the basic course knowledge from the Learning Targets.
++ **Miscellaneous engagement opportunities**: Various other activities in the class will give you the opportunity to get and stay engaged with the course. These include the Startup assignment in week 1, occasional discussion board activities, meeting certain incentive bonus deadlines, and other items. Designated items will carry 1 "engagement credit", and engagement credits will accumulate through the semester. In particular, every "check" on a Daily Prep and Followup activity is worth 1 engagement credit. 
+
+Additionally, we will have a **final exam** consisting of two parts. The first part focuses on big-picture questions on the overall ideas of the course. Your performance on this part contributes to the plus/minus grade in the course. The other part of the final exam will be a last Checkpoint of the semester and will give you the chance to meet additional learning targets that have not yet been mastered. 
 
 ## How the work is graded 
 
 
-## How your semester grade is degetr
+## How your semester grade is determined 
 
 
 ![EMRN rubric](https://i.ibb.co/Pww4pVg/EMRN.png)
@@ -104,5 +119,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTQ0NDUyNCw3MzkzMDk5MjldfQ==
+eyJoaXN0b3J5IjpbOTg4MDI5OSw3MzkzMDk5MjldfQ==
 -->
