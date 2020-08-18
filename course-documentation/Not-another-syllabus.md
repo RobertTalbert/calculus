@@ -120,7 +120,11 @@ Checkpoints will probably be the primary means by which you earn checks on Learn
 
 - **Each Checkpoint is cumulative**. Checkpoint 1 will contain problems for 1-2 Learning Targets; Checkpoint 2 will contain *new versions of those problems* plus brand-new problems for the next 2-3 Learning Targets; Checkpoint 3 will contain new versions of all the previous problems plus brand-new problems for new Learning Targets; and so on. 
 - **On a Checkpoint, you only need to attempt problems you feel ready to take.** If you believe you need more time to study a Learning Target, you can skip the problem for that target on the Checkpoint and wait till the next round (usually 2 weeks later). 
-- **On a Checkpoint, you only need to attempt problems if you still need or want to improve your rating on 
+- **On a Checkpoint, you only need to attempt problems if you still need or want to improve your rating on the Learning Target.** For example if you've earned a Mastery rating on Learning Target D.2, you do not have to attempt the problem for D.2 any more during the course. 
+
+As mentioned, Checkpoints are not the only way to earn checks. For example, you might earn Mastery on a Learning Target by doing two successful Checkpoint problems; or one Checkpoint problem and a video; or by using some AEP work followed by a Checkpoint problem. You have options. However, to 
+
+
 
 Please note the following restrictions on options 2-4 above: 
 
@@ -151,5 +155,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODIyMDcwMSw3MzkzMDk5MjldfQ==
+eyJoaXN0b3J5IjpbLTYxODcxNzcyNSw3MzkzMDk5MjldfQ==
 -->
