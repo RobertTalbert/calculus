@@ -105,8 +105,9 @@ Our course uses a **mastery-based grading system** in which **most graded work d
 
 An important goal for you in the course is to **demonstrate proficiency, and eventually mastery, of all the Core targets and as many of the Supplemental targets as you can.** Accordingly, there are two levels of achievement on the  Learning Targets: **Proficiency** and **Mastery**. Each time you provide a piece of evidence that shows you know how to perform the task in a Learning Target, you will earn a "check" on that Learning Target. You can earn a check on a Learning Target in **four different ways**: 
 
-1. By **completing a problem on a Checkpoint** that pertains to that problem. 
-2. By **sche
+1. By **completing a problem on a Checkpoint** that pertains to that Learning Target. 
+2. By **scheduling a live oral exam** (through Zoom/Google Meet) during which you'll be given a problem similar to one on a Checkpoint for the Learning Target, and completing the problem satisfactorily along with followup questions I may ask. 
+3. By **creating a video** of yourself in which you work out the solution to a problem similar to one on a Checkpoint for the Learning Target (that I will provide), then submitting that video and 
 
 
 You will get numerous opportunities to demonstrate understanding of the Learning Targets; every time this happens, the student receives a "check" on that Learning Target. 
@@ -150,5 +151,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTUwNTEyMjYsNzM5MzA5OTI5XX0=
+eyJoaXN0b3J5IjpbLTEzNzMzODcyMTgsNzM5MzA5OTI5XX0=
 -->
