@@ -112,14 +112,11 @@ An important goal for you in the course is to **demonstrate proficiency, and eve
 
 As you earn checks on Learning Targets, you'll earn a **rating** on that target. There are three possible ratings: 
 
-- 
+- **No rating yet (NRY)**, which means you have not yet successfully provided evidence of mastery of the Learning Target. (All students start the semester at this rating on all 23 Learning Targets.) 
+- **Proficiency**, which means you have earned **one check.**
+- **Mastery**, which means you have earned **two checks.** 
 
-
-You will get numerous opportunities to demonstrate understanding of the Learning Targets; every time this happens, the student receives a "check" on that Learning Target. 
-
-+ To be rated as "Proficient" on a Learning Target, earn **one check** on it. 
-+ To be rated as "Mastered" on a Learning Target, earn **two checks** on it. 
-
+Checkpoints will 
 
 Please note the following restrictions on options 2-4 above: 
 
@@ -150,5 +147,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzgwNzEwMyw3MzkzMDk5MjldfQ==
+eyJoaXN0b3J5IjpbLTE3NTg0MzgyMTQsNzM5MzA5OTI5XX0=
 -->
