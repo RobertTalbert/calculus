@@ -73,8 +73,9 @@ This pattern repeats for each F2F meeting that you have with your group. Visuall
 
 Finally, there is ongoing work outside the flow of class meetings, such as online homework and application/extension problems. 
 
-**Student expectations:** The hybrid structure of the course together with the unpredictable nature of the ongoing pandemic 
+**Student expectations:** All students in the course are expected to do the following: 
 
+- **Check email, Blackboard announcements, and Campuswire posts at least once a day** --- preferably more often for information, hints, questions, and engagement opportunities. Especially, given the unpredictable nature of the ongoing pandemic, it's imperative that you stay 
 
 
 ---
@@ -91,5 +92,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODk5NDE0Nl19
+eyJoaXN0b3J5IjpbMTAyNTM2NjM2XX0=
 -->
