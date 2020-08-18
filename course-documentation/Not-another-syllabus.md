@@ -105,10 +105,14 @@ Our course uses a **mastery-based grading system** in which **most graded work d
 
 An important goal for you in the course is to **demonstrate proficiency, and eventually mastery, of all the Core targets and as many of the Supplemental targets as you can.** Accordingly, there are two levels of achievement on the  Learning Targets: **Proficiency** and **Mastery**. Each time you provide a piece of evidence that shows you know how to perform the task in a Learning Target, you will earn a "check" on that Learning Target. You can earn a check on a Learning Target in **four different ways**: 
 
-1. By **completing a problem on a Checkpoint** that pertains to that Learning Target. 
-2. By **scheduling a live oral exam** (through Zoom/Google Meet) during which you'll be given a problem similar to one on a Checkpoint for the Learning Target, and completing the problem satisfactorily along with followup questions I may ask. 
+1. By **completing a problem on a Checkpoint** that pertains to that Learning Target. *(Most students will earn most of their checks this way.)* 
+2. By **scheduling an oral exam** (through Zoom/Google Meet) during which you'll be given a problem similar to one on a Checkpoint for the Learning Target, and completing the problem satisfactorily along with followup questions I may ask. 
 3. By **creating a video** of yourself in which you work out the solution to a problem similar to one on a Checkpoint for the Learning Target (that I will provide), then submitting that video and answering followup questions via a video meeting. 
 4. By **using work on an AEP** that, in your view, shows evidence that you know how to perform the task on a Learning Target. In this option, you'll schedule a video interview with me and make the case for your work, and I'll listen and then ask some followup questions that you'll need to address. 
+
+As you earn checks on Learning Targets, you'll earn a **rating** on that target. There are three possible ratings: 
+
+- 
 
 
 You will get numerous opportunities to demonstrate understanding of the Learning Targets; every time this happens, the student receives a "check" on that Learning Target. 
@@ -116,12 +120,6 @@ You will get numerous opportunities to demonstrate understanding of the Learning
 + To be rated as "Proficient" on a Learning Target, earn **one check** on it. 
 + To be rated as "Mastered" on a Learning Target, earn **two checks** on it. 
 
-You can earn a check on a Learning Target in four different ways: 
-
-1. *(The simplest way)* **Do work on a Checkpoint** that meets the criteria for acceptable quality, as described above.
-2. **Schedule an oral assessment** (on videoconference) during which I will give a new version of a Checkpoint-like problem for that Learning Target, and you solve that problem "live" at an acceptable level. 
-3. **Create a video** of yourself working out the solution to a Checkpoint-like problem that I will make for you, then submit the video. If you choose this option, you'll also be required to have a follow-up meeting with me to discuss the solution and answer additional related questions.
-4. **Use work on an AEP set** and schedule a videoconference meeting with me to argue that your work on the AEP demonstrates mastery of the Learning Target, as well as answer follow-up questions. For example, you might do work on an AEP that you believe demonstrates proficiency with "computing derivatives correctly using multiple rules in combination" (Learning Target DC.3). If so, then you could schedule a meeting with me to explain why you think your work satisfied DC.3; I would listen and, if I agree, I might ask you to work out a second problem also related to DC.3 to make sure you really understand the idea. 
 
 Please note the following restrictions on options 2-4 above: 
 
@@ -152,5 +150,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzOTQ4ODI2LDczOTMwOTkyOV19
+eyJoaXN0b3J5IjpbMTQ3MzgwNzEwMyw3MzkzMDk5MjldfQ==
 -->
