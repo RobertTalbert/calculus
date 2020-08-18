@@ -97,7 +97,7 @@ Our course uses a **mastery-based grading system** in which **most graded work d
 
 **Daily Prep and Followup Activities**: These are graded either with a "check" or an "x". **A "check" is given if the work is turned in on time, and if every item has a response that represents a good-faith effort to be right**. Actual correctness is not factored in, so you should feel free to make honest mistakes and present your best understanding of the concepts, even if it's flawed, as long as you do a thorough job of it. An "x" will be given to work that is late, incomplete (there's at least one item that has no response), or shows insufficient effort (for example just putting down "I don't know" without trying). 
 
-**AEPs**: These are more involved, and are graded using one of four labels: **E** (Excellent/Exemplary), **M** (Meets Expectations), **R** (Needs Revision), or **N** (Not Enough Information/Not Assessable). Those labels are assigned using this flowchart: 
+**AEPs**: These are more involved, and are graded using one of four labels: **E** (Excellent/Exemplary), **M** (Meets Expectations), **R** (Revision Needed), or **N** (Not Enough Information/Not Assessable). Those labels are assigned using this flowchart: 
 
 ![EMRN rubric](https://i.ibb.co/Pww4pVg/EMRN.png)
 
@@ -148,6 +148,7 @@ Notes on the table:
 - The requirements shown are the minimum to meet the grade level; exceeding those requirements also meets the level. For example, Mastering 10 Supplemental Learning Targets satisfies the Supplemental Learning Target requirement for an A. 
 - "M+" means a grade of M or E. 
 - "DP+FA" is the sum of the number of checks earned through either Daily Prep or Followup Activities. There are 24 possible for each. 
+- A grade of "F" is given if **not all of the requirements for a D are met**. 
 
 **Important note on PE credits**: There will be at least 240 PE credits available: 48 total through Daily Prep and Followup activities plus 192 through WeBWorK. Other PE credit opportunities will be available but probably not more than 50 credits' worth. Therefore, **it will likely be impossible to earn enough PE credits for a C in the course without doing at least 130-150 points of WeBWorK**. 
 
@@ -167,5 +168,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODYwMDU1OTIsNzM5MzA5OTI5XX0=
+eyJoaXN0b3J5IjpbMTQ4MDcyOTExMiw3MzkzMDk5MjldfQ==
 -->
