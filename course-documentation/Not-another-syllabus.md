@@ -124,9 +124,9 @@ Checkpoints will probably be the primary means by which you earn checks on Learn
 
 As mentioned, **Checkpoints are not the only way to earn checks**. For example, you might earn Mastery on a Learning Target by doing two successful Checkpoint problems; or one Checkpoint problem and a video; or by using some AEP work followed by doing a Checkpoint problem successfully. You have options. However, to keep the logistics from being overwhelming, there are just a few restrictions on those options: 
 
-1. No more than one check per week can be earned through oral exams, videos, and AEPs. 
-2. Video submissions will need to adhere by standards of video creation that will be posted to the course website. 
-3. A Mastery rating 
+1. *A Mastery rating must include at least one check earned through a Checkpoint problem or oral exam*. For example, you can't earn Mastery by doing two videos, or an AEP plus a video. 
+2. *No more than one check per week can be earned through oral exams, videos, and AEPs*. A "week" for us is defined to be the time period from 12:01am ET on MOnda
+3. Video submissions will need to adhere by standards of video creation that will be posted to the course website. 
 
 
 
@@ -159,5 +159,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODIzNDEyMSw3MzkzMDk5MjldfQ==
+eyJoaXN0b3J5IjpbLTE1NDU2NTM1NTcsNzM5MzA5OTI5XX0=
 -->
