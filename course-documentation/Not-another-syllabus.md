@@ -180,10 +180,11 @@ The most significant and challenging work you do in the course --- Checkpoints a
 + Extend the deadline on a WeBWorK set by 24 hours (request must be submitted prior to the original deadline)
 + Purchase 3 PE credits 
 
-With the exception of the last item, tokens may not be "stacked", for example by spending 3 tokens to get a 72-hour WeBWorK deadline extension. You can stack tokens to purchase PE credits (e.g. spend 3 to get 9 EC's). 
+With the exception of the last item, tokens may not be "stacked", for example by spending 3 tokens to get a 72-hour WeBWorK deadline extension. You can stack tokens to purchase PE credits (e.g. spend 3 to get 9 credits). 
 
 Opportunities to earn more tokens may be given during the semester. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTUxNTQ0Myw3MzkzMDk5MjldfQ==
+eyJoaXN0b3J5IjpbLTE0OTI4MTgzNTksLTY0MTUxNTQ0Myw3Mz
+kzMDk5MjldfQ==
 -->
