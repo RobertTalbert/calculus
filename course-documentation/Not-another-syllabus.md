@@ -91,9 +91,9 @@ You will be engaging with several different kinds of activities in the course, b
 
 Additionally, we will have a **Final Exam** consisting of two parts. The first part focuses on big-picture questions on the overall ideas of the course. Your performance on this part contributes to the plus/minus grade in the course. The other part of the final exam will be one final Checkpoint to give you the chance to meet additional learning targets that have not yet been mastered. The Final Exam will be done asynchronously; it will be assigned on Monday December 14 and due on Wednesday December 16. 
 
-## How the work is graded 
+## How your work is graded 
 
-
+Our course uses a **mastery-based grading system** in which **most graded work does not have a point value** but is instead graded on the basis of **whether or not it meets standards of acceptable work or not**. This is not exactly "Pass/Fail" because if you submit work that does not meet the standards, you'll usually have a chance to revise it and resubmit for regrading. 
 
 
 ![EMRN rubric](https://i.ibb.co/Pww4pVg/EMRN.png)
@@ -116,5 +116,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI4MjYwNTYsNzM5MzA5OTI5XX0=
+eyJoaXN0b3J5IjpbLTE0OTUyNTYwMzMsNzM5MzA5OTI5XX0=
 -->
