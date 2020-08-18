@@ -95,10 +95,17 @@ Additionally, we will have a **Final Exam** consisting of two parts. The first p
 
 Our course uses a **mastery-based grading system** in which **most graded work does not have a point value** but is instead graded on the basis of **whether or not it meets standards of acceptable work or not**. This is not exactly "Pass/Fail", because if you submit work that does not meet the standards, you'll usually have a chance to revise it and resubmit for regrading, as often as needed until you're happy with your grade (or until the end of the course). But, like "Pass/Fail", your work will be evaluated on a two-level or a four-level rubric. How this works, depends on the work being graded: 
 
-**Daily Prep and Followup Activities**: These are graded either with a "check" or an "x". **A "check" is given if the work is turned in on time, and if every item has a response that represents a good-faith effort to be right**. Actual correctness is not factored in, so you should feel free to make honest mistakes and present your best understanding of the concepts, even if it's flawed, as long as you do a thorough job of it. An "x" will be given to work that is late, incomplete (there's at least one item that has no response), or shows insufficient effort (for example just putting down "I don't know" without t
+**Daily Prep and Followup Activities**: These are graded either with a "check" or an "x". **A "check" is given if the work is turned in on time, and if every item has a response that represents a good-faith effort to be right**. Actual correctness is not factored in, so you should feel free to make honest mistakes and present your best understanding of the concepts, even if it's flawed, as long as you do a thorough job of it. An "x" will be given to work that is late, incomplete (there's at least one item that has no response), or shows insufficient effort (for example just putting down "I don't know" without trying). 
 
+**AEPs**: These are more involved, and are graded using one of four labels: **E** (Excellent/Exemplary), **M** (Meets Expectations), **R** (Needs Revision), or **N** (Not Enough Information/Not Assessable). Those labels are assigned using this flowchart: 
 
 ![EMRN rubric](https://i.ibb.co/Pww4pVg/EMRN.png)
+
+
+
+
+
+
 ## How your semester grade is determined 
 
 
@@ -118,5 +125,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDI0MTkxNCw3MzkzMDk5MjldfQ==
+eyJoaXN0b3J5IjpbLTE1MDg2NTU0ODMsNzM5MzA5OTI5XX0=
 -->
