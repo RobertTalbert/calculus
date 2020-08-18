@@ -101,6 +101,26 @@ Our course uses a **mastery-based grading system** in which **most graded work d
 
 ![EMRN rubric](https://i.ibb.co/Pww4pVg/EMRN.png)
 
+**Learning Targets and Checkpoints**: There are 23 Learning Targets in the course, which together form an outline of all the important concepts in 
+
+
+1 of which are designated as **Core** targets due to their central nature in Calculus, and the other 12 of which are designated as **Supplemental**. There are two levels of achievement on any of the  Learning Targets: **Proficiency** and **Mastery**. Students get numerous opportunities to demonstrate understanding of the Learning Targets; every time this happens, the student receives a "check" on that Learning Target. 
+
++ To be rated as "Proficient" on a Learning Target, earn **one check** on it. 
++ To be rated as "Mastered" on a Learning Target, earn **two checks** on it. 
+
+You can earn a check on a Learning Target in four different ways: 
+
+1. *(The simplest way)* **Do work on a Checkpoint** that meets the criteria for acceptable quality, as described above.
+2. **Schedule an oral assessment** (on videoconference) during which I will give a new version of a Checkpoint-like problem for that Learning Target, and you solve that problem "live" at an acceptable level. 
+3. **Create a video** of yourself working out the solution to a Checkpoint-like problem that I will make for you, then submit the video. If you choose this option, you'll also be required to have a follow-up meeting with me to discuss the solution and answer additional related questions.
+4. **Use work on an AEP set** and schedule a videoconference meeting with me to argue that your work on the AEP demonstrates mastery of the Learning Target, as well as answer follow-up questions. For example, you might do work on an AEP that you believe demonstrates proficiency with "computing derivatives correctly using multiple rules in combination" (Learning Target DC.3). If so, then you could schedule a meeting with me to explain why you think your work satisfied DC.3; I would listen and, if I agree, I might ask you to work out a second problem also related to DC.3 to make sure you really understand the idea. 
+
+Please note the following restrictions on options 2-4 above: 
+
+- *No more than one check per week can be earned through options 2-4*. 
+- *Option 3 (make a video) must adhere to standards for video creation* (to be posted separately; basically the video must have clear sound and audio, and keep face, handwriting, and voice in the frame at all times). 
+- *Mastery (two checks) *must* include at least one Checkpoint problem*. That is, you can't earn Mastery on a learning target through options 2-4 alone.
 
 
 
@@ -125,5 +145,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDg2NTU0ODMsNzM5MzA5OTI5XX0=
+eyJoaXN0b3J5IjpbNDIwNTExNzU4LDczOTMwOTkyOV19
 -->
