@@ -87,7 +87,7 @@ You will be engaging with several different kinds of activities in the course, b
 + **Followup Activities (FA)**: Followup activities will complete the lesson for each part of a module and are done after a F2F meeting. They're the equivalent of a second class meetings' worth of active learning tasks, only they're done asynchronously online. 
 + **Learning Target Checkpoints**: A major part of the course is your demonstrating progress toward the 23 different Learning Targets. The main way you'll do this is through occasional take-home assessments called **Checkpoints**. Each checkpoint contains **one problem per Learning Target that has been covered up to that point, focusing only on that Learning Target.** More details on Checkpoints, how they are constructed, and how they are graded are given in the "How your work is graded" section. 
 + **Application/Extension Problems (AEPs)**: AEPs are more extensive problems that require applying or extending the basic course knowledge from the Learning Targets. 
-+ **Practice and Engagement (PE)**: It's very important to practice with the basic materials and stay involved in the course. To help you do this, you'll earn "PE credits" (not to be confused with gym class) by completing many different small activities through the semester. Most activities will earn 1 
++ **Practice and Engagement (PE)**: It's very important to practice with the basic materials and stay involved in the course. To help you do this, you'll earn "PE credits" (not to be confused with gym class) by completing many different small activities through the semester. Most activities will earn 1 PE credit. In particular: **Every "check" on a Daily Prep or Followup Activity earns 1 PE credit.** There will also be weekly online practice homework set up using the **WeBWorK** online homework system (https://webwork-math.gvsu.edu/webwork2/), with typically 16 problems available in each module worth one PE credit each, for a total of 192 PE credits 
 
 
 + **WeBWorK (WW)**: Once a week, you will complete a 16-item online homework set that provides practice on basic ideas from each part of a module. These are deployed using the *WeBWorK* online homework system at https://webwork-math.gvsu.edu/webwork2/. These will typically be due Sunday nights at 11:59pm ET. 
@@ -119,5 +119,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTc2MDY0Nyw3MzkzMDk5MjldfQ==
+eyJoaXN0b3J5IjpbLTcwNjM0NTEzNiw3MzkzMDk5MjldfQ==
 -->
