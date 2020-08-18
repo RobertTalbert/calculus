@@ -71,7 +71,11 @@ This pattern repeats for each F2F meeting that you have with your group. Visuall
 
 ![201 Workflow](201workflow.png)
 
-Finally, there is ongoing work outside the flow of class meetings, such as online homework and application/extension problems. More on these in the "Learning Activities in MTH 201" section below. 
+Finally, there is ongoing work outside the flow of class meetings, such as online homework and application/extension problems. 
+
+**Student expectations:** The hybrid structure of the course together with the unpredictable nature of the ongoing pandemic 
+
+
 
 ---
 
@@ -87,5 +91,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTAyMTczNl19
+eyJoaXN0b3J5IjpbLTMzODk5NDE0Nl19
 -->
