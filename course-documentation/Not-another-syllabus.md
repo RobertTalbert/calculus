@@ -159,9 +159,9 @@ Notes on the table:
 
 ## Revision and Tokens 
 
-The most significant and challenging work you do in the course --- Checkpoints and AEPs --- can be revised and resubmitted to allow you to improve your work and raise your grade. Your grade is based on what you *eventually* show that you can do, not what you can show in a single moment. The process of revision/resubmission depends on the item: 
+The most significant and challenging work you do in the course --- Checkpoints and AEPs --- can be revised and resubmitted to allow you to improve on previous attempts and raise your grade. Your course grade is therefore based on what you *eventually* show that you can do, not just the results of a single moment. The process of revision/resubmission depends on the item: 
 
-**Checkpoint items** can be revised by reattempting the item on a later Checkpoint or through one of the other means described earlier. Remember, though, only one check per week can be earned through non-Checkpoint methods, and Mastery level on a target requires at least one check earned by a Checkpoint or oral exam. 
+**Learning Target check attempts** can be revised by reattempting the item on a later Checkpoint or through one of the other means described earlier. For example, if you attempt a Checkpoint problem on a target and don't do good-enough work, you can reattempt it on a later Checkpoint, or through an oral exam, or a video, or an AEP. Remember, though, only one check per week can be earned through non-Checkpoint methods, and Mastery level on a target requires at least one check earned by a Checkpoint or oral exam. 
 
 **AEPs** earning M, R, or N can be revised and resubmitted at any time. They will be regraded using the same standards as originally used. There are two important limitations on your revision and resubmission of AEP's: 
 
@@ -185,5 +185,5 @@ With the exception of the last item, tokens may not be "stacked", for example by
 Opportunities to earn more tokens may be given during the semester. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjI4NDgwNSw3MzkzMDk5MjldfQ==
+eyJoaXN0b3J5IjpbLTY0MTUxNTQ0Myw3MzkzMDk5MjldfQ==
 -->
