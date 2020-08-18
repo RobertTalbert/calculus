@@ -67,17 +67,14 @@ Your progress toward these course objectives will be tracked using **Learning Ta
 + **DURING each class**: Class meetings will typically start with 10 minutes for going over the Daily Prep assignments and fielding  questions. Then we will spend around 30 minutes doing activities together on the harder concepts from the material. Then we will typically spend 10 minutes wrapping up, going through some of the main points of the activity, taking short ungraded quizzes to give you feedback on your learning, and getting your feedback on the lesson. 
 + **AFTER each class**: Only about half the lesson is covered during the in-class session. The rest of the lesson is learned through **Followup Activities** that you will do asynchronously (outside of class on your own schedule). 
 
-This pattern repeats for each F2F meeting that you have with your group. Visually, the workflow looks like this: 
-
-![201 Workflow](201workflow.png)
-
-Finally, there is ongoing work outside the flow of class meetings, such as online homework and application/extension problems. 
+This pattern repeats for each F2F meeting that you have with your group. Finally, there is ongoing work outside the flow of class meetings, such as online homework and application/extension problems. 
 
 **Student expectations:** All students in the course are expected to do the following: 
 
-- **Check email, Blackboard announcements, and Campuswire posts at least once a day** --- preferably more often --- for information, hints, questions, and engagement opportunities. Especially, given the unpredictable nature of the ongoing pandemic, it's imperative that you stay consistently up to date on course information. All important announcements will be posted (and sent to your GVSU email and cross-posted to Campuswire) as soon as possible; you're responsible for seeing these announcements and taking action. 
+- **Check email, Blackboard announcements, and Campuswire posts at least once a day** --- preferably more often --- for information, hints, questions, and engagement opportunities. Especially, given the unpredictable nature of the ongoing pandemic, it's imperative that you stay consistently up to date on course information. All important announcements will be posted (and sent to your GVSU email and cross-posted to Campuswire) as soon as possible; you're responsible for seeing these announcements and taking action. "I didn't see the announcement" will not be accepted for missed work or other inactions! 
 - **Check the calendar daily for upcoming due items and other events.** 
-- **Asking for help,
+- **Asking for help when you need it** through drop-in visits or Campuswire posts; also **giving help to others** when you see a question on Campuswire that you can answer. 
+- 
 
 
 ---
@@ -94,5 +91,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDgzOTM4NF19
+eyJoaXN0b3J5IjpbMjAyNjMxMDIyMV19
 -->
