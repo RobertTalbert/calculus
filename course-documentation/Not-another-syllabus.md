@@ -122,7 +122,11 @@ Checkpoints will probably be the primary means by which you earn checks on Learn
 - **On a Checkpoint, you only need to attempt problems you feel ready to take.** If you believe you need more time to study a Learning Target, you can skip the problem for that target on the Checkpoint and wait till the next round (usually 2 weeks later). 
 - **On a Checkpoint, you only need to attempt problems if you still need or want to improve your rating on the Learning Target.** For example if you've earned a Mastery rating on Learning Target D.2, you do not have to attempt the problem for D.2 any more during the course. 
 
-As mentioned, Checkpoints are not the only way to earn checks. For example, you might earn Mastery on a Learning Target by doing two successful Checkpoint problems; or one Checkpoint problem and a video; or by using some AEP work followed by a Checkpoint problem. You have options. However, to 
+As mentioned, **Checkpoints are not the only way to earn checks**. For example, you might earn Mastery on a Learning Target by doing two successful Checkpoint problems; or one Checkpoint problem and a video; or by using some AEP work followed by doing a Checkpoint problem successfully. You have options. However, to keep the logistics from being overwhelming, there are just a few restrictions on those options: 
+
+1. No more than one check per week can be earned through oral exams, videos, and AEPs. 
+2. Video submissions will need to adhere by standards of video creation that will be posted to the course website. 
+3. A Mastery rating 
 
 
 
@@ -155,5 +159,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODcxNzcyNSw3MzkzMDk5MjldfQ==
+eyJoaXN0b3J5IjpbLTg4ODIzNDEyMSw3MzkzMDk5MjldfQ==
 -->
