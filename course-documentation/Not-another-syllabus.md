@@ -131,7 +131,9 @@ As mentioned, **Checkpoints are not the only way to earn checks**. For example, 
 
 ## How your semester grade is determined 
 
-Your grade for the semester is not based on points because most items in the course don't carry point values. Instead, your grade will be based on **the quantity and quality of evidence you can provide** (through the v
+Your grade for the semester is not based on points because most items in the course don't carry point values. Instead, your grade will be based on **the quantity and quality of evidence you can provide of across-the-board mastery of Calculus** --- the basic skills found in the Learning Targets, the applications found in AEPs, and your daily work and engagement elsewhere. 
+
+To determine your course **base grade** (the letter A/B/C/D/F without, use the following table. Each gra
 
 
 
@@ -149,5 +151,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczNjEyMjQ4LDczOTMwOTkyOV19
+eyJoaXN0b3J5IjpbLTIwODI1MDMzMDIsNzM5MzA5OTI5XX0=
 -->
