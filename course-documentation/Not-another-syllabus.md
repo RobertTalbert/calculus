@@ -76,7 +76,7 @@ This pattern repeats for each F2F meeting that you have with your group. Finally
 - **Check email, Blackboard announcements, and Campuswire posts at least once a day** --- preferably more often --- for information, hints, questions, and engagement opportunities. Especially, given the unpredictable nature of the ongoing pandemic, it's imperative that you stay consistently up to date on course information. All important announcements will be posted (and sent to your GVSU email and cross-posted to Campuswire) as soon as possible; you're responsible for seeing these announcements and taking action. "I didn't see the announcement" will not be accepted for missed work or other inactions! 
 - **Check the calendar daily for upcoming due items and other events.** 
 - **Asking for help when you need it** through drop-in visits or Campuswire posts; also **giving help to others** when you see a question on Campuswire that you can answer. 
-- 
+- **Be kind to each other and help each other.** These are rough times and the course material can be difficult. Let's all agree to be 
 
 
 
@@ -97,5 +97,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Mjg0MDg4Niw3MzkzMDk5MjldfQ==
+eyJoaXN0b3J5IjpbMTg3ODcxODE1NSw3MzkzMDk5MjldfQ==
 -->
