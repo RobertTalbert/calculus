@@ -147,7 +147,8 @@ Notes on the table:
 
 - The requirements shown are the minimum to meet the grade level; exceeding those requirements also meets the level. For example, Mastering 10 Supplemental Learning Targets satisfies the Supplemental Learning Target requirement for an A. 
 - "M+" means a grade of M or E. 
-- "DP+FA" is the sum of the number of checks earned through either Daily Prep or Followup Activities. There are 24 of each. 
+- "DP+FA" is the sum of the number of checks earned through either Daily Prep or Followup Activities. There are 24 possible for each. 
+- There will be at least 240 PE credits available: 48 through Daily Prep and Followup activities plus 192 through WeBWorK. Other PE credit opportunities will be available but probably not more than 
 
 
 ---
@@ -164,5 +165,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyMTEwOTM1LDczOTMwOTkyOV19
+eyJoaXN0b3J5IjpbLTExMDkxODkzMTUsNzM5MzA5OTI5XX0=
 -->
