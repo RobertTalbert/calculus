@@ -101,9 +101,12 @@ Our course uses a **mastery-based grading system** in which **most graded work d
 
 ![EMRN rubric](https://i.ibb.co/Pww4pVg/EMRN.png)
 
-**Learning Targets and Checkpoints**: There are 23 Learning Targets in the course, which together form an outline of all the important concepts in Calculus. Eleven (11) of these are designated as **Core** targets due to their central nature in Calculus, and the other 12 of which are designated as **Supplemental**. An important goal for you in the course is to **demonstrate proficiency, and eventually mastery, of all the Core targets and as many of the Supplemental targets as you can.**
+**Learning Targets and Checkpoints**: There are 23 Learning Targets in the course, which together form an outline of all the important concepts in Calculus. Eleven (11) of these are designated as **Core** targets due to their central nature in Calculus, and the other 12 of which are designated as **Supplemental**. 
 
-Accordingly, there are two levels of achievement on the  Learning Targets: **Proficiency** and **Mastery**. You will get numerous opportunities to demonstrate understanding of the Learning Targets; every time this happens, the student receives a "check" on that Learning Target. 
+An important goal for you in the course is to **demonstrate proficiency, and eventually mastery, of all the Core targets and as many of the Supplemental targets as you can.** Accordingly, there are two levels of achievement on the  Learning Targets: **Proficiency** and **Mastery**. Each time you provide a piece of evidence that shows you 
+
+
+You will get numerous opportunities to demonstrate understanding of the Learning Targets; every time this happens, the student receives a "check" on that Learning Target. 
 
 + To be rated as "Proficient" on a Learning Target, earn **one check** on it. 
 + To be rated as "Mastered" on a Learning Target, earn **two checks** on it. 
@@ -144,5 +147,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDQ4MTczMDksNzM5MzA5OTI5XX0=
+eyJoaXN0b3J5IjpbLTE0NTUxMTcxMjQsNzM5MzA5OTI5XX0=
 -->
