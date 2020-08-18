@@ -161,17 +161,15 @@ Notes on the table:
 
 Since your work in the course is not graded with points (or is graded either 0 or 1), partial credit is not available except for occasional multi-part WeBWorK items. Instead, almost all work you do in the course can be revised and resubmitted to allow you to improve your work and raise your grade. 
 
-**Checkpoint items** can be revised by reattempting the item on a later Checkpoint or through one of the other means described earlier. Remember, though, only one check per week can be earned through non-Checkpoint methods, and Mastery level on a target requires at least one 
+**Checkpoint items** can be revised by reattempting the item on a later Checkpoint or through one of the other means described earlier. Remember, though, only one check per week can be earned through non-Checkpoint methods, and Mastery level on a target requires at least one check earned by a Checkpoint or oral exam. 
 
-**AEPs** earning M, R, or N can be revised and resubmitted at any time. They will be regraded using the same standards as originally used. However, there are two important limitations on your revision and resubmission of AEP's: 
+**AEPs** earning M, R, or N can be revised and resubmitted at any time. They will be regraded using the same standards as originally used. There are two important limitations on your revision and resubmission of AEP's: 
 
 >**Two-submission-per-week rule: No more than two submissions of AEP sets may be made per week. This can be two new sets, two revisions, or one of each.** A third submission can be purchased with a token (below) but **four or more submissions in a week are not allowed under any cirumstance.** 
 
 >**Revision of N grades rule: Students have to spend a token (below) in order to revise any AEP that was graded at "N" (Not Assessable).** 
 
-**WeBWorK** items can be redone and resubmitted as many times as you want until the deadline, at no cost. 
-
-However, **Daily Prep** and **Followup Activities** may not be revised at all; these are graded on the basis of completeness and effort only and are intended to be done once. 
+**Daily Prep** and **Followup Activities** may *not* be revised; these are graded on the basis of completeness and effort only and are intended to be done once. 
 
 **Tokens**:  Tokens are a fake currency that are used to "purchase" exceptions to course policies and other advantageous items in the course. Every student starts with five of these. One token can be spent for any of the following at any time:
 
@@ -180,9 +178,7 @@ However, **Daily Prep** and **Followup Activities** may not be revised at all; t
 + Revise an AEP graded "N"
 + Extend the deadline on a Checkpoint by 12 hours (request must be submitted prior to the original deadline)
 + Extend the deadline on a WeBWorK set by 24 hours (request must be submitted prior to the original deadline)
-+ Purchase 3 engagement credits 
-
-To spend a token, please use the *Token Spending form* found on Blackboard in the left sidebar. 
++ Purchase 3 PE credits 
 
 With the exception of the last item, tokens may not be "stacked", for example by spending 3 tokens to get a 72-hour WeBWorK deadline extension. You can stack tokens to purchase engagement credits (e.g. spend 3 to get 9 EC's). 
 
@@ -204,5 +200,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI3NzcxNDAsNzM5MzA5OTI5XX0=
+eyJoaXN0b3J5IjpbLTEwOTkxNjkwNTQsNzM5MzA5OTI5XX0=
 -->
