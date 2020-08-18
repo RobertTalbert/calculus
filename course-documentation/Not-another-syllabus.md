@@ -101,7 +101,7 @@ Our course uses a **mastery-based grading system** in which **most graded work d
 
 ![EMRN rubric](https://i.ibb.co/Pww4pVg/EMRN.png)
 
-**Learning Targets and Checkpoints**: There are 23 Learning Targets in the course, which together form an outline of all the important concepts in Calculus. Eleven (11) of these are designated as **Core** targets due to their central nature in Calculus, and the other 12 of which are designated as **Supplemental**. 
+**Learning Targets and Checkpoints**: There are 23 Learning Targets in the course, which together form an outline of all the important concepts in Calculus. Eleven (11) of these are designated as **Core** targets due to their central nature in Calculus, and the other 12 are designated as **Supplemental**. 
 
 An important goal for you in the course is to **demonstrate proficiency, and eventually mastery, of all the Core targets and as many of the Supplemental targets as you can.** Accordingly, there are two levels of achievement on the  Learning Targets: **Proficiency** and **Mastery**. Each time you provide a piece of evidence that shows you know how to perform the task in a Learning Target, you will earn a "check" on that Learning Target. You can earn a check on a Learning Target in **four different ways**: 
 
@@ -112,7 +112,7 @@ An important goal for you in the course is to **demonstrate proficiency, and eve
 
 As you earn checks on Learning Targets, you'll earn a **rating** on that target. There are three possible ratings: 
 
-- **No rating yet (NRY)**, which means you have not yet successfully provided evidence of mastery of the Learning Target. (All students start the semester at this rating on all 23 Learning Targets.) 
+- **No rating yet (NRY)**, which means you have not yet successfully provided evidence of mastery of the Learning Target. *(All students start the semester at this rating on all 23 Learning Targets.)* 
 - **Proficiency**, which means you have earned **one check.**
 - **Mastery**, which means you have earned **two checks.** 
 
@@ -125,19 +125,8 @@ Checkpoints will probably be the primary means by which you earn checks on Learn
 As mentioned, **Checkpoints are not the only way to earn checks**. For example, you might earn Mastery on a Learning Target by doing two successful Checkpoint problems; or one Checkpoint problem and a video; or by using some AEP work followed by doing a Checkpoint problem successfully. You have options. However, to keep the logistics from being overwhelming, there are just a few restrictions on those options: 
 
 1. *A Mastery rating must include at least one check earned through a Checkpoint problem or oral exam*. For example, you can't earn Mastery by doing two videos, or an AEP plus a video. 
-2. *No more than one check per week can be earned through oral exams, videos, and AEPs*. A "week" for us is defined to be the time period from 12:01am ET on MOnda
-3. Video submissions will need to adhere by standards of video creation that will be posted to the course website. 
-
-
-
-Please note the following restrictions on options 2-4 above: 
-
-- *No more than one check per week can be earned through options 2-4*. 
-- *Option 3 (make a video) must adhere to standards for video creation* (to be posted separately; basically the video must have clear sound and audio, and keep face, handwriting, and voice in the frame at all times). 
-- *Mastery (two checks) *must* include at least one Checkpoint problem*. That is, you can't earn Mastery on a learning target through options 2-4 alone.
-
-
-
+2. *No more than one check per week can be earned through oral exams, videos, and AEPs*. A "week" for us is defined to be the time period from 12:01am ET on Monday through 11:59pm ET the following Sunday. 
+3. *Video submissions will need to adhere by standards of video creation that will be posted to the course website*. 
 
 
 ## How your semester grade is determined 
@@ -159,5 +148,5 @@ Assessments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDU2NTM1NTcsNzM5MzA5OTI5XX0=
+eyJoaXN0b3J5IjpbLTE0Mzk4MzA3MDUsNzM5MzA5OTI5XX0=
 -->
