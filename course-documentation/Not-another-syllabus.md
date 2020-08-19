@@ -184,7 +184,32 @@ With the exception of the last item, tokens may not be "stacked", for example by
 
 Opportunities to earn more tokens may be given during the semester. 
 
+## Academic integrity in MTH 201 
+
+The university’s academic integrity policy is described in the GVSU Student Code, Section 3.1 which you can read online here: [http://bit.ly/gvsuacademicintegrity](http://bit.ly/gvsuacademicintegrity). __Every student has the responsibility of reading and understanding these policies, especially the consequences for engaging in academically dishonest activities.__
+
+<!-- Additionally, the Computer Science major has additional guidelines for academic integrity here: [http://www.cis.gvsu.edu/academic-honesty/](http://www.cis.gvsu.edu/academic-honesty/).  -->
+
+Some of the work you will do in the course involves collaboration; at other times collaboration may be allowed but not required; while at others it may not be allowed. Here are the rules for collaboration on each kind of work you do: 
+
++ *Daily Prep and Followup Activities*: You may collaborate with others, but your writeup must be in your own words. You may not copy someone's work and submit it as your own, nor may you copy the ideas from someone and simply change the wording. 
++ *Checkpoints* and other work done on Learning Targets: No interactions at all with another person or with unauthorized sources on the internet is allowed. Any evidence of using information from another person or source will be investigated as academic dishonesty. 
++ *AEPs*: Similarly, no interactions at all with another person or with unauthorized sources on the internet is allowed.
+
+**In particular, use of "study" sites such as Chegg or Coursehero, or Q&A sites like Stack Exchange or Quora, to obtain help on graded work other than Daily Prep or Followups is forbidden and will automatically constitute academic dishonesty.**
+
+All suspected instances of academic dishonesty will be thoroughly investigated, and whether a student has committed academic dishonesty is my determination to make based on the evidence. If I determine academic dishonesty has been committed, a report will be filed with the Dean of Students office, and the minimum penalty will be: 
+
++ Daily Prep and Followup: A grade of "x" 
++ Checkpoints and other Learning Target work: A grade of "x" and required expense of two tokens to reattempt; for severe cases, you may be barred from reattempting. 
++ AEP's: A grade of "N", and you will not be allowed to revise or resubmit the AEP for the rest of the semester. 
++ WeBWorK: A "0" on the entire WeBWorK set. 
+
+Note these are *minimum* penalties; additional penalties may be given including reduction of course grades and potential suspension from the university. 
+
+**Please note: There is no need to commit academic dishonesty in this class since you can revise and resubmit almost anything.** If you come to believe that cheating or plagiarism is necessary given your situation: DON'T DO IT. Get some help instead and take comfort in the fact that you can just submit your best effort, get feedback, and try again later. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI4MTgzNTksLTY0MTUxNTQ0Myw3Mz
-kzMDk5MjldfQ==
+eyJoaXN0b3J5IjpbMTEyNzc3NzE3MCwtMTQ5MjgxODM1OSwtNj
+QxNTE1NDQzLDczOTMwOTkyOV19
 -->
