@@ -272,9 +272,63 @@ We will begin the semester in "staggered hybrid" mode, but several things could 
 **Encouragement:** Although these plans can be scary and demoralizing, I want you to know that **GVSU is doing everything in its power to keep people safe from Covid-19**. If we observe reasonable precautions like the ones described above, **there is no reason to be afraid**. If we stay focused, remain flexible, and give our best work then we will learn just as well as in "normal" times, which I am hopeful will return soon. 
 
 
+## Appendix: Course modules and Learning Targets
 
+### Learning Targets 
+
+
+- **Group F: Use functions and other pre-Calculus mathematics proficiently**.
+  - F.1 **(CORE)**: I can evaluate functions given in different representations, find composites of functions, and determine the domain and range of a function. (*Assessed via the Functions Bootcamp assignment*)
+  - F.2: I can find the average rate of change of a function on an interval.
+- **Group L: Calculate, use, and explain the concept of limits**.
+  - L.1: **(CORE)** I can find the limit of a function at a point using numerical, graphical, and algebraic methods.
+  - L.2: I can identify limits in indeterminate form and apply L'Hopital's Rule to evaluate them. (*Assessed via an AEP*)
+- **Group D: Explain and interpret the meaning of the derivative of a function**.
+  - D.1 **(CORE)**: I can find the derivative of a function, both at a point and as a function, using the definition of the derivative. 
+  - D.2 **(CORE)**: I can use derivative notation correctly, state the units of a derivative, estimate the value of a derivative using difference quotients, and correctly interpret the meaning of a derivative in context. 
+  - D.3 **(CORE)**: Given information about $f$, $f'$, or $f''$, I can correctly give information about $f$, $f'$, or $f''$ and the increasing/decreasing behavior and concavity of $f$ (and vice versa).
+  - D.4: I can find the equation of the tangent line to a function at a point and use the tangent line to estimate values of the function.  
+- **Group DC: Use shortcuts to calculate derivatives efficiently**.
+  - DC.1 **(CORE)**: I can compute derivatives correctly for power, polynomial, and exponential functions and the sine and cosine functions, and basic combinations of these (constant multiples, sums, differences). 
+  - DC.2 **(CORE)**: I can compute derivatives correctly for products, quotients, and composites of functions.  
+  - DC.3: I can compute derivatives correctly using multiple rules in combination. 
+  - DC.4: I can compute the derivatives correctly for logarithmic, trigonometric, and inverse trigonometric functions. 
+- **Group DA: Use derivatives to solve authentic real-life application problems**.
+  - DA.1 **(CORE)**: I can find the critical values of a function, determine where the function is increasing and decreasing, and apply the First and Second Derivative Tests to classify the critical points as local extrema.
+  - DA.2: I can determine the intervals of concavity of a function and find all of its points of inflection.
+  - DA.3: I can use the Extreme Value Theorem to find the absolute maximum and minimum values of a continuous function on a closed interval.
+  - DA.4 **(CORE)**: I can set up and use derivatives to solve applied optimization problems.
+  - DA.5: I can compute the derivative of an implicitly-defined function and find the slope of the tangent line to an implicit curve. 
+  - DA.6: I can set up and use derivatives to solve related rates problems.
+- **Group INT: Use definite integrals and the Fundamental Theorem of Calculus to find areas and total change**.
+  - INT.1: I can calculate the area between curves, net change, and displacement using geometric formulas and Riemann sums.
+  - INT.2: I can explain the meaning of each part of the definition of the definite integral in terms of a graph, and interpret the definite integral in terms of areas, net change, and displacement.
+  - INT.3: I can evaluate a definite integral using geometric formulas and the Properties of the Definite Integral. 
+  - INT.4 **(CORE)**: I can evaluate a definite integral using the Fundamental Theorem of Calculus.
+  - INT.5 **(CORE)**: I can correctly antidifferentiate basic functions and identify antiderivatives. 
+
+### Modules, Textbook coverage, and Learning Target focus
+
+Please see the Course Calendar for the dates corresponding to these modules. 
+
+## Course Modules 
+
+| Module | Focus | Sections from text | Learning Targets | 
+| :----: | :----: | :----: | :----: |
+| 1 | How do we find the speed of a moving object?  |  1.1, 1.2 | F.2, L.1 | 
+| 2 | What is the derivative of a function? | 1.3, 1.4 | D.1, D.2  |
+| 3 | What does a derivative tell us about a function? | 1.5, 1.6, 1.7 | D.3, D.4|
+| 4 | How do we efficiently compute derivatives of basic functions?  |  2.1, 2.2 | DC.1  |
+| 5 | How do we compute derivatives of products and quotients?  | 2.3, 2.4 | DC.2 |
+| 6 | How do we compute derivatives of composites and other functions? | 2.5, 2.6 | DC.2, DC.3, DC.4| 
+| 7 | How are derivatives used to learn how things behave? | 3.1, 3.3 | DA.1, DA.2, DA.3 | 
+| 8 | How are derivatives used to find the best way to do something? | 3.4 | DA.4 |
+| 9 | How are derivatives used to find how fast something is changing? | 2.7, 3.5 | DA.5, DA.6 |
+| 10 | How do we find how far a moving object has traveled? | 4.1, 4.2 | INT.1 | 
+| 11 | What is the definite integral of a function? | 4.3, 4.4 | INT.2, INT.3 | 
+| 12 | How are derivatives and integrals related? | 4.4 | INT.4, INT.5 | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTk1MTkyNSw2MDY5MjgzNzQsLTE0OT
+eyJoaXN0b3J5IjpbLTM1MjI5ODQ1Miw2MDY5MjgzNzQsLTE0OT
 I4MTgzNTksLTY0MTUxNTQ0Myw3MzkzMDk5MjldfQ==
 -->
