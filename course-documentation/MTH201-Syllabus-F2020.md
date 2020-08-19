@@ -1,5 +1,7 @@
 # MTH 201: Calculus 
 
+**Fall 2020, Grand Valley State University**
+
 ## START HERE 
 
 **Welcome to Calculus**! I'm Robert Talbert, a professor in the Mathematics Department, and I am grateful that you are signed up for the course and am looking forward to working with you this semester. 
@@ -329,5 +331,5 @@ Please see the Course Calendar for the dates corresponding to these modules.
 | 12 | How are derivatives and integrals related? | 4.4 | INT.4, INT.5 | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MjI5ODQ1Ml19
+eyJoaXN0b3J5IjpbNjM0MzgyNDUsLTM1MjI5ODQ1Ml19
 -->
