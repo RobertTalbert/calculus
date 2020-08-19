@@ -38,6 +38,3 @@
 - INT.4 **(CORE)**: I can evaluate a definite integral using the Fundamental Theorem of Calculus.
 - INT.5 **(CORE)**: I can correctly antidifferentiate basic functions and identify antiderivatives. 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTY0NTQ5MDRdfQ==
--->
