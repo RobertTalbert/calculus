@@ -200,16 +200,48 @@ Some of the work you will do in the course involves collaboration; at other time
 
 All suspected instances of academic dishonesty will be thoroughly investigated, and whether a student has committed academic dishonesty is my determination to make based on the evidence. If I determine academic dishonesty has been committed, a report will be filed with the Dean of Students office, and the minimum penalty will be: 
 
-+ Daily Prep and Followup: A grade of "x" 
++ Daily Prep and Followup: A grade of "x". 
 + Checkpoints and other Learning Target work: A grade of "x" and required expense of two tokens to reattempt; for severe cases, you may be barred from reattempting. 
 + AEP's: A grade of "N", and you will not be allowed to revise or resubmit the AEP for the rest of the semester. 
-+ WeBWorK: A "0" on the entire WeBWorK set. 
 
 Note these are *minimum* penalties; additional penalties may be given including reduction of course grades and potential suspension from the university. 
 
 **Please note: There is no need to commit academic dishonesty in this class since you can revise and resubmit almost anything.** If you come to believe that cheating or plagiarism is necessary given your situation: DON'T DO IT. Get some help instead and take comfort in the fact that you can just submit your best effort, get feedback, and try again later. 
 
+## Additional course pio
+
+Below are some additional important information about the course. Please note there is a separate section following this one, with course policies specific to the Covid-19 pandemic and how the class will be conducted. 
+
+**Attendance:** Each F2F meeting will be live-streamed so that you can participate either F2F or remotely. It is critical that you actually attend your group's F2F meeting days --- Monday/Wednesday for Red group and Tuesday/Thursday for Blue group --- either F2F or synchronously online. **You may not attend the F2F meeting for the group other than your own** due to social distancing requirements; however you are welcome to watch the live stream of the other group's meeting if you want. 
+
+You will be responsible for all announcements made in the F2F meetings and for all material covered in those meetings. Each meeting will begin on the hour; please be on time for your meetings. If circumstances beyond your control prevent you from attending F2F *or* participating remotely, please let me know so I can help you stay current. 
+
+**Tech support:** Please note that **I (Prof. Talbert) am not able to provide support for technological issues**. If you encounter issues with technology, please use the appropriate source of help: 
+
++ *For help with Blackboard*: Email the Blackboard Help Desk at bbadmin@gvsu.edu or call (616) 331-8526. For hours of operation and more information see https://www.gvsu.edu/elearn/help/. 
++ *For help with the GVSU network, email, or printing*: Email the GVSU IT Help Desk at helpdesk@gvsu.edu; or call (616) 331-2101 or toll free (855) 435-7488. For hours of operation and more information see  https://www.gvsu.edu/it/. 
++ *For specific help with your computer*: Try the GVSU IT Help Desk (see previous bullet) or contact your equipment manufacturer or computer store. 
++ *For help with course tools such as Desmos and Campuswire*: Ask a question on the `#tech` channel on Campuswire, seek out the help documentation in the tool, or do a targeted Google search. 
+
+**Deadlines and late work:** Deadlines for course work are clearly indicated on the Course Calendar; in cases of apparent conflict between dates, always assume that the Course Calendar is right. 
+
++ *For Daily Prep and Followup Activities*: No extensions to deadlines are available. Simply submit a good faith effort on all items by the deadline. 
++ *For Checkpoints and WeBWorK sets*: Deadlines may be extended 12 and 24 hours, respectively, by spending a token. No other extensions are available. 
++ *For AEPs*: There is only one deadline for AEP's, namely the last day of classes (11:59pm ET, Friday December 11). Otherwise you simply submit your work when it is ready to be graded (subject to the Two-Item-Per-Week Rule). This deadline will not be extended. 
+
+**Math Center:** GVSU’s Math Tutoring Center is online with Blackboard Collaborate this semester!  You can access virtual drop-in tutoring through a link in your Blackboard course called Math Tutoring Center or on our website at http://gvsu.edu/tutoring/math/.  Then you need to click on the “Online Math Tutoring Center” button, which will require a GVSU login.  There will be tutors online, ready to help, Monday through Thursday 10a – 9p, Friday 10a – 2p and Sunday 6p – 9p starting Wednesday, September 2nd.  Bring questions about your technology, on methods and concepts, or on specific problems.  All Math Center tutoring is FREE, so stop by early and often.  When you enter the Collaborate room, please type your first and last name so you can get you signed in and connected with a tutor. 
+
+**Special learning needs:** If you have special needs because of learning, physical or other disabilities, it is your responsibility to contact Disability Support Resources (DSR) at 616-331-2490 or http://www.gvsu.edu/dsr/ . DSR will help you arrange accommodations.  Then, speak with me in person about making those accommodations and ensure that they are consistent with your arrangements with DSR.
+
+
+**Basic needs security:** If you have difficulty affording groceries or accessing sufficient food to eat every day, or if you lack a safe and stable place to live, I encourage you to visit [Replenish](https://www.gvsu.edu/replenish/), a food resource for GVSU students. If you are comfortable doing so, please speak with me about your circumstances so that I can advocate for you and to connect you with other campus resources. 
+
+**Gender identity and expression:** If, for purposes of gender identity and expression, your official name (in Banner) does not match your preferred name, your name can be updated in Blackboard. Please contact the registrar's office to submit this request.  The registrar's office will contact the Blackboard administrator to make the change and will also contact your professors to inform them that your name in Banner will not match the name in Blackboard.
+
+**Changes to this syllabus:** Changes to this syllabus may occur during the semester. In those cases, the changes will be announced in class and online, and if appropriate, students will be given a voice on how the changes will be implemented. It is your responsibility stay abreast of the information passed along in course announcements so that you will be aware of any changes that take place.
+
+**Credits:** Portions of the language of this syllabus were adapted from the syllabi of Prof. Matt Boelkins and Prof. David Clark, both of GVSU. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzc3NzE3MCwtMTQ5MjgxODM1OSwtNj
-QxNTE1NDQzLDczOTMwOTkyOV19
+eyJoaXN0b3J5IjpbMjc3ODE5NTE3LC0xNDkyODE4MzU5LC02ND
+E1MTU0NDMsNzM5MzA5OTI5XX0=
 -->
