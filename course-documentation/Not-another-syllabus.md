@@ -258,17 +258,17 @@ When you are present in a F2F meeting, please observe the following:
 
 **Wear a mask at all times.** Face coverings, such as masks, are required to be worn in the classroom. Students who have forgotten their face coverings may get a disposable mask at a campus office. The evidence is clear that [face coverings are a crucial part of keeping coronavirus at bay](https://www.wbtv.com/2020/06/29/demonstration-aims-show-effectiveness-masks/) and [support the university’s commitment to providing all members of its community with an inclusive living and learning environment with equitable opportunities for success](https://www.gvsu.edu/inclusion/suggested-syllabus-language-for-inclusion-and-equity-132.htm). GVSU's policy on face coverings is posted on the [Lakers Together web site](https://www.gvsu.edu/lakerstogether/face-covering-policy-27.htm). Students who are not able to wear a face covering due to a medical condition should [contact Disability Support Services (DSR)](https://www.gvsu.edu/dsr/) to discuss their individual situation.
 
-Please note, students who remove their masks during class, wear the mask incorrectly (for example, with the nose exposed), or refuse to wear mask at all will be reminded of this policy once, and then asked to leave if non-compliance continues. 
+Please note, students who remove their masks during class, wear the mask incorrectly (for example, with the nose exposed), or refuse to wear a mask will be reminded of this policy once, and then asked to leave if non-compliance continues. 
 
-**Observe proper social distancing.** Your classroom has been specially arranged so that students are 6 feet apart from each other and from the professor at all times. This is sufficient for social distancing and close enough so that 2-3 students can turn to each other and discuss a concept. We will also leverage technology to allow for more remote communication, for example using the chat rooms in Campuswire. **Please do not encroach on the space of another person or share physical objects with another such as pens, calculators, or paper.** 
+**Observe proper social distancing.** Your classroom has been specially arranged so that students are 6 feet apart from each other and from the professor at all times. This is sufficient for social distancing and close enough so that 2-3 students can turn to each other and discuss a concept. We will also leverage technology to allow for remote communication, for example using the chat rooms in Campuswire. **Please do not encroach on the space of another person, or share physical objects such as pens, calculators, or paper.** 
 
 **Practice appropriate personal hygiene.** Wash your hands regularly or use hand sanitizer. If you must cough or sneeze, do so facing away from other people and use the inside of your elbow to cover your mouth, even if you have a mask on. You may wish to bring sanitizing wipes to wipe down your desk and seat before and after class. 
 
 
 ### Contingency plans for the semester 
 
-We will begin the semester in "staggered hybrid" mode, but several things could happen during the semester that might alter this setup. Here are the initial plans for the most likely of those things. 
+We will begin the semester in "staggered hybrid" mode, but many things could change, with little
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NzQ1ODcxMyw2MDY5MjgzNzQsLTE0OT
+eyJoaXN0b3J5IjpbMTYyNTQ5NDA4OSw2MDY5MjgzNzQsLTE0OT
 I4MTgzNTksLTY0MTUxNTQ0Myw3MzkzMDk5MjldfQ==
 -->
