@@ -250,9 +250,7 @@ As you are well aware, we will be having class this semester while trying to nav
 
 Above all else, **take care of your own physical and mental health** during these difficult times. Make sure you are getting sufficient rest, staying connected to friends and family, and giving yourself time and space to do things you enjoy outside of college. [This website lists several good tips](https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/self-care-tips-during-the-covid-19-pandemic) for maintaining good self-care in our situation. 
 
-Before coming to campus, **perform a self-evaluation each time** and **if you feel even the slightest bit of sickness or Covid-19 symptoms, stay home and participate remotely**. You should be on campus only if you feel *completely healthy*. 
-
-Please know that **at any time this semester if you feel unable or unwilling to be present for a F2F meeting, you can opt out of the meeting and participate remotely --- no questions asked, no permission needed, no penalty incurred**. Remember that F2F meetings are live-streamed, and you can participate remotely through Campuswire and other means, so you will not fall behind if you have to participate from home. Also note that *there are no graded assessments done in class* so you will never have to make up work that was turned in during class. 
+Before coming to campus, [perform a self-evaluation each time](https://www.gvsu.edu/hro/selfassessment-login.htm) and if you feel even the slightest bit of sickness or Covid-19 symptoms, stay home and participate remotely. You should be on campus only if you feel *completely healthy*. Remember that **you can opt out of your group's F2F meeting at any time and participate online synchronously --- no questions asked, no permission needed, no penalty incurred**. Also note that *there are no graded assessments done in class* so you will never have to make up work that was turned in during class. 
 
 ### Keeping our class meetings safe
 
@@ -271,6 +269,6 @@ Please note, students who remove their masks during class, wear the mask incorre
 
 We will begin the semester in "staggered hybrid" mode, but several things could happen during the semester that might alter this setup. Here are the initial plans for the most likely of those things. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzEzOTI0OTcsNjA2OTI4Mzc0LC0xND
-kyODE4MzU5LC02NDE1MTU0NDMsNzM5MzA5OTI5XX0=
+eyJoaXN0b3J5IjpbLTk2NzQ1ODcxMyw2MDY5MjgzNzQsLTE0OT
+I4MTgzNTksLTY0MTUxNTQ0Myw3MzkzMDk5MjldfQ==
 -->
