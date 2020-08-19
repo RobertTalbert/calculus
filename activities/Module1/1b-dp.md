@@ -34,13 +34,13 @@ In the previous lesson, we introduced an idea that is central to calculus: Rathe
 
 **Video:** At the MTH 201 playlist on YouTube (http://bit.ly/GVSUCalculus), watch the following videos. The total running time is 18:27. 
 
-+ Screencast 1.2.1: Limits (6:02)
-+ Screencast 1.2.2: Limits of functions using graphing tools (6:27)
-+ Screencast 1.2.3: Limits of functions using tables (5:58) 
++ Screencast 1.2.1: Limits (6:02) https://www.youtube.com/watch?v=GZzJOAUOqLI
++ Screencast 1.2.2: Limits of functions using graphing tools (6:27) https://www.youtube.com/watch?v=5TFu_sh_orM
++ Screencast 1.2.3: Limits of functions using tables (5:58) https://www.youtube.com/watch?v=GdBIiRzaTAQ
 
 And here is an optional fourth video that may help you with the other concepts: 
 
-+ Screencast 1.2.4: Limits of functions using spreadsheets (5:38) 
++ Screencast 1.2.4: Limits of functions using spreadsheets (5:38) https://www.youtube.com/watch?v=uAepmkpG34A
 
 
 **Text:** Read through Section 1.2 of the *Active Calculus* textbook: [https://activecalculus.org/single/sec-1-2-lim.html](https://activecalculus.org/single/sec-1-2-lim.html) 
@@ -70,5 +70,5 @@ Unlike Google Forms, with Desmos activities there is no button to press to submi
 
 **Getting help on this assignment:** *You may work with others on this assignment, but you may not copy each others' answers.* Evidence of copying will be treated as academic dishonesty. You may also ask questions on the #guidedpractice channel on CampusWire, but you may not ask simply to be given the answers; giving and receiving answers on CampusWire will be treated as academic dishonesty.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTIyMTEzNzZdfQ==
+eyJoaXN0b3J5IjpbMjA1MDY0MDQ5NF19
 -->
