@@ -208,11 +208,11 @@ Note these are *minimum* penalties; additional penalties may be given including 
 
 **Please note: There is no need to commit academic dishonesty in this class since you can revise and resubmit almost anything.** If you come to believe that cheating or plagiarism is necessary given your situation: DON'T DO IT. Get some help instead and take comfort in the fact that you can just submit your best effort, get feedback, and try again later. 
 
-## Additional course pio
+## Additional course policies 
 
-Below are some additional important information about the course. Please note there is a separate section following this one, with course policies specific to the Covid-19 pandemic and how the class will be conducted. 
+**Attendance:** You are expected to attend the F2F meeting 
 
-**Attendance:** Each F2F meeting will be live-streamed so that you can participate either F2F or remotely. It is critical that you actually attend your group's F2F meeting days --- Monday/Wednesday for Red group and Tuesday/Thursday for Blue group --- either F2F or synchronously online. **You may not attend the F2F meeting for the group other than your own** due to social distancing requirements; however you are welcome to watch the live stream of the other group's meeting if you want. 
+Each F2F meeting will be live-streamed so that you can participate either F2F or remotely. It is critical that you actually attend your group's F2F meeting days --- Monday/Wednesday for Red group and Tuesday/Thursday for Blue group --- either F2F or synchronously online. **You may not attend the F2F meeting for the group other than your own** due to social distancing requirements; however you are welcome to watch the live stream of the other group's meeting if you want. 
 
 You will be responsible for all announcements made in the F2F meetings and for all material covered in those meetings. Each meeting will begin on the hour; please be on time for your meetings. If circumstances beyond your control prevent you from attending F2F *or* participating remotely, please let me know so I can help you stay current. 
 
@@ -242,6 +242,6 @@ You will be responsible for all announcements made in the F2F meetings and for a
 
 **Credits:** Portions of the language of this syllabus were adapted from the syllabi of Prof. Matt Boelkins and Prof. David Clark, both of GVSU. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3ODE5NTE3LC0xNDkyODE4MzU5LC02ND
+eyJoaXN0b3J5IjpbNjA2OTI4Mzc0LC0xNDkyODE4MzU5LC02ND
 E1MTU0NDMsNzM5MzA5OTI5XX0=
 -->
