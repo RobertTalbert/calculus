@@ -269,11 +269,12 @@ Please note, students who remove their masks during class, wear the mask incorre
 
 We will begin the semester in "staggered hybrid" mode, but several things could happen during the semester that might alter this setup. The details for how we respond to events of the next 14 weeks depend on the situation, but please rest assured that I (Talbert) have plans in reserve for all likely scenarios including if the university goes fully online or if I cannot be present due to self-quarantine or infection. **Remember to check your email, Blackboard announcements, and Campuswire daily to stay notified of all course information**.
 
-**Encouragement:** Although these plans can be scary and demoralizing, I want you to know that **GVSU is doing everything in its power to keep people safe from Covid-19**. If we observe reasonable precautions like the ones described above, stay focused, and be flexible, we will be able to learn just as in "normal" times and **there is no reason to be afraid**
+**Encouragement:** Although these plans can be scary and demoralizing, I want you to know that **GVSU is doing everything in its power to keep people safe from Covid-19**. If we observe reasonable precautions like the ones described above, **there is no reason to be afraid**. If we stay focused, remain flexible, and give our best work then we will learn just as well as in "normal" times, which I am hopeful will return soon. 
 
 
-Furthermore I believe that **if we observe reasonable precautions like the ones described here, then while the risk of Covid-19 is still present, there's no reason to be afraid.** We will still learn and grow intellectually just as in "normal" times if we stay focused and work together. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI2Mjg2MzQsNjA2OTI4Mzc0LC0xND
-kyODE4MzU5LC02NDE1MTU0NDMsNzM5MzA5OTI5XX0=
+eyJoaXN0b3J5IjpbLTYwNTk1MTkyNSw2MDY5MjgzNzQsLTE0OT
+I4MTgzNTksLTY0MTUxNTQ0Myw3MzkzMDk5MjldfQ==
 -->
