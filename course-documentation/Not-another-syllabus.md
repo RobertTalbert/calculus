@@ -265,10 +265,15 @@ Please note, students who remove their masks during class, wear the mask incorre
 **Practice appropriate personal hygiene.** Wash your hands regularly or use hand sanitizer. If you must cough or sneeze, do so facing away from other people and use the inside of your elbow to cover your mouth, even if you have a mask on. You may wish to bring sanitizing wipes to wipe down your desk and seat before and after class. 
 
 
-### If plans  
+### If plans change 
 
 We will begin the semester in "staggered hybrid" mode, but several things could happen during the semester that might alter this setup. The details for how we respond to events of the next 14 weeks depend on the situation, but please rest assured that I (Talbert) have plans in reserve for all likely scenarios including if the university goes fully online or if I cannot be present due to self-quarantine or infection. **Remember to check your email, Blackboard announcements, and Campuswire daily to stay notified of all course information**.
+
+**Encouragement:** Although these plans can be scary and demoralizing, I want you to know that **GVSU is doing everything in its power to keep people safe from Covid-19**. If we observe reasonable precautions like the ones described above, stay focused, and be flexible, we will be able to learn just as in "normal" times and **there is no reason to be afraid**
+
+
+Furthermore I believe that **if we observe reasonable precautions like the ones described here, then while the risk of Covid-19 is still present, there's no reason to be afraid.** We will still learn and grow intellectually just as in "normal" times if we stay focused and work together. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzMxMDIyNzksNjA2OTI4Mzc0LC0xND
+eyJoaXN0b3J5IjpbLTE4NTI2Mjg2MzQsNjA2OTI4Mzc0LC0xND
 kyODE4MzU5LC02NDE1MTU0NDMsNzM5MzA5OTI5XX0=
 -->
