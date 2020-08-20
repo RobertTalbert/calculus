@@ -5,8 +5,6 @@
 ## Group L: Calculate, use, and explain the concept of limits.
 
 - L.1: **(CORE)** I can find the limit of a function at a point using numerical, graphical, and algebraic methods.
-- L.2: I can identify limits in indeterminate form and apply L'Hopital's Rule to evaluate them. (*Assessed via an AEP*)
-
 
 ## Group D: Explain and interpret the meaning of the derivative of a function.
 
@@ -27,8 +25,6 @@
 - DA.2: I can determine the intervals of concavity of a function and find all of its points of inflection.
 - DA.3: I can use the Extreme Value Theorem to find the absolute maximum and minimum values of a continuous function on a closed interval.
 - DA.4 **(CORE)**: I can set up and use derivatives to solve applied optimization problems.
-- DA.5: I can compute the derivative of an implicitly-defined function and find the slope of the tangent line to an implicit curve. 
-- DA.6: I can set up and use derivatives to solve related rates problems.
 
 ## Group INT: Use definite integrals and the Fundamental Theorem of Calculus to find areas and total change.
 
@@ -36,5 +32,8 @@
 - INT.2: I can explain the meaning of each part of the definition of the definite integral in terms of a graph, and interpret the definite integral in terms of areas, net change, and displacement.
 - INT.3: I can evaluate a definite integral using geometric formulas and the Properties of the Definite Integral. 
 - INT.4 **(CORE)**: I can evaluate a definite integral using the Fundamental Theorem of Calculus.
-- INT.5 **(CORE)**: I can correctly antidifferentiate basic functions and identify antiderivatives. 
+- INT.5: I can correctly antidifferentiate basic functions and identify antiderivatives. 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ0MDQ3Njk5MF19
+-->
