@@ -55,61 +55,27 @@ Here is a 1-minute video showing an example of this process, using Prof. Talbert
 
 ### Tasks for this AEP
 
-On Desmos, do the following:
+1. On Desmos, do the following:
 
-1. Create a linear function that approximates the data. The process for doing this is described in the resources under "Technology Background" above.
+	a. Create a linear function that approximates the data. The process for doing this is described in the resources under "Technology Background" above.
 
-2. Create a second-degree polynomial (that is, a parabola) that approximates the data. The process for doing this is described in the resources under "Technology Background" above.
+	b. Create a second-degree polynomial (that is, a parabola) that approximates the data. The process for doing this is described in the resources under "Technology Background" above.
 
-3. Create a *power function* that approximates the data. This is done similarly to the first two except you should type in:
+	c. Create a *power function* that approximates the data. This is done similarly to the first two except you should type in:
 $$y_1 \sim a x_1^n$$ 
 (Remember that a power function is a function in which the variable is raised to a constant power, like $y = 3 x^5$.)
 
-4. Finally, create an *exponential function* that approximates the data. This is done similarly to the first two except you should type in: $$y_1 \sim a b^{x_1}$$ (Remember that an exponential function is a function in which the variable is a power, which is an exponent on a constant base, like $y = 3 \cdot 5^x$.)
+	d. Finally, create an *exponential function* that approximates the data. This is done similarly to the first two except you should type in: $$y_1 \sim a b^{x_1}$$ (Remember that an exponential function is a function in which the variable is a power, which is an exponent on a constant base, like $y = 3 \cdot 5^x$.)
 
-When you have these four graphs and the data table prepared, copy the link to your graph by clicking on the "Share" button in Desmos (it's in the upper right of the screen, to the left of the question
-
-mark; it looks like a square with an arrow pointing out of it.) Copy
-
-this link and paste it into your writeup. Double-check before you
-
-submit anything that the link actually works.
+	When you have these four graphs and the data table prepared, copy the link to your graph by clicking on the "Share" button in Desmos (it's in the upper right of the screen, to the left of the question mark; it looks like a square with an arrow pointing out of it.) Copy this link and paste it into your writeup. Double-check before you submit anything that the link actually works.
 
   
 
-2. On each of the regression models you created with Desmos, there is a
+2. On each of the regression models you created with Desmos, there is a number called $R^2$. This number is a statistic that indicates the quality of the "fit" of the model to the data. It ranges between 0 and 1, with 1 indicating an exact fit of the graph to the actual data. The closer to $1$ this number is, the better the fit. Look through the models and choose the one that has the highest $R^2$ value, and state which one that is, and state the formula for that model in your writeup with the parameters $a$, $b$, $c$, etc. filled in with their numerical values. The values of the parameters are given on the graph. For example, look at the sample results here: <https://goo.gl/0U8atf>. In that example, the quadratic model has the best fit ($R^2 = 0.977$). That model has three parameters: $a$, $b$, and $c$ and their values are shown where it says "Parameters". This means that the formula for this model is
 
-number called $R^2$. This number is a statistic that indicates the
+$$y_1 = 57.689x_1^2 - 7594.8x_1 + 244380$$ 
 
-quality of the "fit" of the model to the data. It ranges between 0
-
-and 1, with 1 indicating an exact fit of the graph to the actual
-
-data. The closer to $1$ this number is, the better the fit. Look
-
-through the models and choose the one that has the highest $R^2$
-
-value, and state which one that is, and state the formula for that
-
-model in your writeup with the parameters $a$, $b$, $c$, etc. filled
-
-in with their numerical values. The values of the parameters are
-
-given on the graph. For example, look at the sample results here:
-
-<https://goo.gl/0U8atf>. In that example, the quadratic model has
-
-the best fit ($R^2 = 0.977$). That model has three parameters: $a$,
-
-$b$, and $c$ and their values are shown where it says "Parameters".
-
-This means that the formula for this model is
-
-$$y_1 = 57.689x_1^2 - 7594.8x_1 + 244380$$ Your model might look
-
-different, since the quadratic model might not be the best fit for
-
-your data.
+Your model might look different, since the quadratic model might not be the best fit for your data.
 
   
 
@@ -151,5 +117,5 @@ your work; state your answer clearly; and put correct units of
 
 measurement on this answer.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODk2OTg2MzZdfQ==
+eyJoaXN0b3J5IjpbLTE0NDcxMTkzNDldfQ==
 -->
