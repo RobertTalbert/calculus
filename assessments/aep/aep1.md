@@ -95,9 +95,11 @@ Your model might look different, since the quadratic model might not be the best
   
 
 - The link to the Desmos graph --- consisting of the scatterplot of data and four regression models --- is given in question 1, the link works, and all four models and the data table are visible in the web page. **Writeups with a non-functioning link in question 1 will be automatically graded "N". Please check to make sure the link works before submitting.**
-- The correct model is chosen in task 2 and a correct formula is given
-
-in the writeup.
+- The correct model is chosen in task 2 and a correct formula is given in the writeup.
+- In task 3:
+	- **All parts of task 3 must consist not only of correct, complete computations but also clear, correct English text that explains to the reader what is taking place.** Responses that are just raw calculations with no text will receive a "N" (Not Assessible) grade. Responses that have significant issues with the clarity or correctness of the explanatory text may receive a grade of R ("Needs Revision").
+	- The computations in parts (a) and (b) are correct and the work is shown (in addition to the explanatory text).
+	- The computation in part (c) is correct, and the numerical process involves at least 4-5 computations. (For comparison, the first limit that is computed in Example 1.2.4(a) in the textbook, which is shown in Tables , uses eight computations.)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3OTQ4NTI3XX0=
+eyJoaXN0b3J5IjpbMTgwMjc1MjYxOF19
 -->
