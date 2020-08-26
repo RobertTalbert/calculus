@@ -99,7 +99,10 @@ Your model might look different, since the quadratic model might not be the best
 - In task 3:
 	- **All parts of task 3 must consist not only of correct, complete computations but also clear, correct English text that explains to the reader what is taking place.** Responses that are just raw calculations with no text will receive a "N" (Not Assessible) grade. Responses that have significant issues with the clarity or correctness of the explanatory text may receive a grade of R ("Needs Revision").
 	- The computations in parts (a) and (b) are correct and the work is shown (in addition to the explanatory text).
-	- The computation in part (c) is correct, and the numerical process involves at least 4-5 computations. (For comparison, the first limit that is computed in Example 1.2.4(a) in the textbook, which is shown in Tables , uses eight computations.)
+	- The computation in part (c) is correct, and the numerical process involves at least 4-5 computations from the left and the same amount from the right. (For comparison, the first limit that is computed in Example 1.2.4(a) in the textbook, which is shown in Tables 1.2.5 and 1.2.6, uses eight computations each.)
+- All work is shown, and all results are explained clearly. 
+
+Please note, it is the case with all AEP's that **your grade is primarily based on your explanations and writing, and only secondarily on the precision and correctness of your computations.** Correct computations with insufficient explanation will need to be revised and may receive an "N"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjc1MjYxOF19
+eyJoaXN0b3J5IjpbOTA0OTIxNTYzXX0=
 -->
