@@ -85,7 +85,19 @@ Your model might look different, since the quadratic model might not be the best
 
 	b. Find the average rate of change in the population from 2010 (the last known data point in the Census Bureau table) to 2016. Show your work, and put correct units of measurement on your answer.
 	
-	c. Use a table of values to estimate the *instantaneous* rate of change in your city's population in 2018. **Do not attempt to use any algebra.** For examples of how to evaluate limits using numerical methods, study Example 1.2 in the textbook. Show all your work; state your answer clearly; and put correct units of measurement on this answer.
+	c. Use a table of values to estimate the *instantaneous* rate of change in your city's population in 2018. **Do not attempt to use any algebra.** For examples of how to evaluate limits using numerical methods, study Example 1.2.4 in the textbook. Show all your work; state your answer clearly; and put correct units of measurement on this answer.
+
+
+## Assignment Expectations and Grading Criteria 
+
+**Grading procedure:** AEPs are graded using the "EMRN" rubric found in the syllabus. **A grade of E or M requires all of the following to be met:**
+
+  
+
+- The link to the Desmos graph --- consisting of the scatterplot of data and four regression models --- is given in question 1, the link works, and all four models and the data table are visible in the web page. **Writeups with a non-functioning link in question 1 will be automatically graded "N". Please check to make sure the link works before submitting.**
+- The correct model is chosen in task 2 and a correct formula is given
+
+in the writeup.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQwNjc3NTNdfQ==
+eyJoaXN0b3J5IjpbNzQ3OTQ4NTI3XX0=
 -->
