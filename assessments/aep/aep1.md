@@ -41,7 +41,7 @@ How fast is the typical American city growing right now? This is a question that
  
 For this lab, you'll select a city in the USA, build some models for its population over time, and then apply what you've learned about rates of change to estimate how fast the population was growing in 2016.
 
-### S
+### Setup (do this first) 
 
 
 **First**, go to this website, which generates randomly-selected US cities, and pick the first one off the list: <https://www.randomlists.com/random-us-cities>. Then go to that city's Wikipedia entry. Somewhere in the entry for your city should be a table that shows the US Census Bureau data for the "Historical population" of your city measured at 10-year intervals. If you cannot find that table for your city, generate another city.
@@ -52,6 +52,104 @@ For this lab, you'll select a city in the USA, build some models for its populat
 - In the right column ($y_1$), enter in the population values without rescaling. Once you enter these data in, Desmos will automatically create a "scatter plot" of the data, plotting each table entry as a single point. However, you'll need to change the axis settings to be able to see the points.
 
 Here is a 1-minute video showing an example of this process, using Prof. Talbert's hometown of Nashville, TN (just the first five data points from the Census Bureau data): <http://bit.ly/2N4ojOM>. (The second-to-last character is a capital "O", not a zero.) You might need to enlarge the video to full screen in order to see some of the details.
+
+### Tasks for this AEP
+
+On Desmos, do the following:
+
+1. Create a linear function that approximates the data. The process for doing this is described in the resources under "Technology Background" above.
+
+2. Create a second-degree polynomial (that is, a parabola) that approximates the data. The process for doing this is described in the resources under "Technology Background" above.
+
+3. Create a *power function* that approximates the data. This is done similarly to the first two except you should type in:
+$$y_1 \sim a x_1^n$$ 
+(Remember that a power function is a function in which the variable is raised to a constant power, like $y = 3 x^5$.)
+
+4. Finally, create an *exponential function* that approximates the data. This is done similarly to the first two except you should type in: $$y_1 \sim a b^{x_1}$$ (Remember that an exponential function is a function in which the variable is a power, which is an exponent on a constant base, like $y = 3 \cdot 5^x$.)
+
+When you have these four graphs and the data table prepared, copy the link to your graph by clicking on the "Share" button in Desmos (it's in the upper right of the screen, to the left of the question
+
+mark; it looks like a square with an arrow pointing out of it.) Copy
+
+this link and paste it into your writeup. Double-check before you
+
+submit anything that the link actually works.
+
+  
+
+2. On each of the regression models you created with Desmos, there is a
+
+number called $R^2$. This number is a statistic that indicates the
+
+quality of the "fit" of the model to the data. It ranges between 0
+
+and 1, with 1 indicating an exact fit of the graph to the actual
+
+data. The closer to $1$ this number is, the better the fit. Look
+
+through the models and choose the one that has the highest $R^2$
+
+value, and state which one that is, and state the formula for that
+
+model in your writeup with the parameters $a$, $b$, $c$, etc. filled
+
+in with their numerical values. The values of the parameters are
+
+given on the graph. For example, look at the sample results here:
+
+<https://goo.gl/0U8atf>. In that example, the quadratic model has
+
+the best fit ($R^2 = 0.977$). That model has three parameters: $a$,
+
+$b$, and $c$ and their values are shown where it says "Parameters".
+
+This means that the formula for this model is
+
+$$y_1 = 57.689x_1^2 - 7594.8x_1 + 244380$$ Your model might look
+
+different, since the quadratic model might not be the best fit for
+
+your data.
+
+  
+
+3. Now let's think about rates of change.
+
+  
+
+1. The model you selected, and which you just wrote a formula for,
+
+can be used to approximate values of population that we *don't*
+
+have in the table. Use the formula for your model to estimate
+
+the population of your city in 2018. (Remember that $x_1$
+
+represents time, and these values are shifted by 1800 years ---
+
+so you cannot just plug in 2016.)
+
+  
+
+2. Find the average rate of change in the population from 2010 (the
+
+last known data point in the Census Bureau table) to 2016. Show
+
+your work, and put correct units of measurement on your answer.
+
+  
+
+3. Use a table of values to estimate the *instantaneous* rate of
+
+change in your city's population in 2018. **Do not attempt to
+
+use any algebra.** For examples of how to evaluate limits using
+
+numerical methods, study Example 1.2 in the textbook. Show all
+
+your work; state your answer clearly; and put correct units of
+
+measurement on this answer.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTc5NzkyNV19
+eyJoaXN0b3J5IjpbLTE1ODk2OTg2MzZdfQ==
 -->
