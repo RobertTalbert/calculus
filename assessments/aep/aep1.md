@@ -113,8 +113,10 @@ When you have your work typed up, double-check it for neatness, correctness, and
 
 ## Getting Help
 
-Please note that according to the syllabus, for AEP's **"no interactions at all with another person or with unauthorized sources on the internet is allowed."** Violations of this rule include *any* consultation with other students or former students; submitting the problem set to an online help site such as Chegg or Cou
+Please note that according to the syllabus, for AEP's **"no interactions at all with another person or with unauthorized sources on the internet is allowed."** Violations of this rule include *any* consultation with other students or former students; using work from another student or former student; submitting the problem set to an online help site such as Chegg or Coursehero; or asking for help in an online forum. All such violations will be treated as academic dishonesty and will result in a grade of "N" and being banned from revising the work. 
+
+You **may** ask me (Talbert) for help on this assignment in the form of specific mathematical or te
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTAwMjM3OF19
+eyJoaXN0b3J5IjpbLTI4NTAxNDQzNV19
 -->
