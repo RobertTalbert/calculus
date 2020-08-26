@@ -339,3 +339,9 @@ Please see the Course Calendar for the dates corresponding to these modules.
 | 10 | How do we find how far a moving object has traveled? | 4.1, 4.2 | INT.1 | 
 | 11 | What is the definite integral of a function? | 4.3, 4.4 | INT.2, INT.3 | 
 | 12 | How are derivatives and integrals related? | 4.4 | INT.4, INT.5 | 
+
+
+Last edit: 2020-08-26 07:56
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTIzMTgxNDgxMF19
+-->
