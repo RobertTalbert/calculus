@@ -81,41 +81,11 @@ Your model might look different, since the quadratic model might not be the best
 
 3. Now let's think about rates of change.
 
-  
+	a. The model you selected, and which you just wrote a formula for, can be used to approximate values of population that we *don't* have in the table. Use the formula for your model to estimate the population of your city in 2018. (Remember that $x_1$ represents time, and these values are shifted by 1800 years --- so you cannot just plug in 2016.)
 
-1. The model you selected, and which you just wrote a formula for,
-
-can be used to approximate values of population that we *don't*
-
-have in the table. Use the formula for your model to estimate
-
-the population of your city in 2018. (Remember that $x_1$
-
-represents time, and these values are shifted by 1800 years ---
-
-so you cannot just plug in 2016.)
-
-  
-
-2. Find the average rate of change in the population from 2010 (the
-
-last known data point in the Census Bureau table) to 2016. Show
-
-your work, and put correct units of measurement on your answer.
-
-  
-
-3. Use a table of values to estimate the *instantaneous* rate of
-
-change in your city's population in 2018. **Do not attempt to
-
-use any algebra.** For examples of how to evaluate limits using
-
-numerical methods, study Example 1.2 in the textbook. Show all
-
-your work; state your answer clearly; and put correct units of
-
-measurement on this answer.
+	b. Find the average rate of change in the population from 2010 (the last known data point in the Census Bureau table) to 2016. Show your work, and put correct units of measurement on your answer.
+	
+	c. Use a table of values to estimate the *instantaneous* rate of change in your city's population in 2018. **Do not attempt to use any algebra.** For examples of how to evaluate limits using numerical methods, study Example 1.2 in the textbook. Show all your work; state your answer clearly; and put correct units of measurement on this answer.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDcxMTkzNDldfQ==
+eyJoaXN0b3J5IjpbLTExNTQwNjc3NTNdfQ==
 -->
