@@ -115,8 +115,9 @@ When you have your work typed up, double-check it for neatness, correctness, and
 
 Please note that according to the syllabus, for AEP's **"no interactions at all with another person or with unauthorized sources on the internet is allowed."** Violations of this rule include *any* consultation with other students or former students; using work from another student or former student; submitting the problem set to an online help site such as Chegg or Coursehero; or asking for help in an online forum. All such violations will be treated as academic dishonesty and will result in a grade of "N" and being banned from revising the work. 
 
-You **may** ask me (Talbert) for help on this assignment in the form of specific mathematical or te
+You **may** ask me (Talbert) for help on this assignment in the form of specific mathematical or technical questions. If I cannot answer a question because it would give too much away, I'll tell you so. **However please note: I will not "look over your work" before you submit it to give you feedback on the overall submission**; the expectations are clearly laid out above, so just follow those directions and submit your best work, and you'll be allowed to revise it if needed. 
  
+You can ask technology related questions to anyone at any time
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTAxNDQzNV19
+eyJoaXN0b3J5IjpbLTE0NzU5NTMyNzNdfQ==
 -->
