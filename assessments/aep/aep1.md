@@ -26,29 +26,28 @@ Please do the following before attempting this Lab:
 
 - If you are not already familiar with graphing functions in Desmos, go to Blackboard and then **Course technology**, then **Desmos tutorials** and watch the three short videos that are there.
 - Work through this short lesson on regression:
-<https://www.khanacademy.org/math/probability/regression>. The "Scatter plots" portion of the lesson (which is the first grouping of videos and exerises) is really all you need, but you are welcome
+<https://www.khanacademy.org/math/probability/regression>. The "Scatter plots" portion of the lesson (which is the first grouping of videos and exercises) is really all you need, but you are welcome to work through the rest of the lesson as well. If you are already familiar with the concept of regression, you can just skim this section.
+- Now learn how to use Desmos to construct regressions by accessing the interactive web page at <https://www.desmos.com/calculator?tour=regressions>.
+- Once you have worked through the regressions tour, you can watch a video on using Desmos to do regressions at
+ <https://www.youtube.com/watch?v=E9B0hQYfziw>.
 
-to work through the rest of the lesson as well. If you are already
+Once you are sure you know how to create regressions in Desmos, you can continue on to the lab. If you are not yet sure and have a question, please post your question on Campuswire in the `#tech` channel to get help.
 
-familiar with the concept of regression, you can just skim this
+## AEP Description and Tasks 
 
-section.
+How fast is the typical American city growing right now? This is a question that a lot of people might want to know --- for example city councils, businesses and families thinking of moving to a new city, legislatures trying to determine voting district boundaries, and so on. We have lots of data showing *how many* people live in America's cities and towns but, surprisingly, not a lot of data to show *how fast* the population is changing. Since population is related to time, this is a
+
+*relationship that is affected by change* and so calculus should be
+
+helpful for answering the question!
 
   
 
-- Now learn how to use Desmos to construct regressions by accessing
+For this lab, you'll select a city in the USA, build some models for its
 
-the interactive web page at
+population over time, and then apply what you've learned about rates of
 
-<https://www.desmos.com/calculator?tour=regressions>.
-
-  
-
-- Once you have worked through the regressions tour, you can watch a
-
-video on using Desmos to do regressions at
-
-<https://www.youtube.com/watch?v=E9B0hQYfziw>.
+change to estimate how fast the population is growing in 2016.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3MzYwNTAzXX0=
+eyJoaXN0b3J5IjpbMjg0NDQwOTM3XX0=
 -->
