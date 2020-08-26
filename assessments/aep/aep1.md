@@ -90,9 +90,7 @@ Your model might look different, since the quadratic model might not be the best
 
 ## Assignment Expectations and Grading Criteria 
 
-**Grading procedure:** AEPs are graded using the "EMRN" rubric found in the syllabus. **A grade of E or M requires all of the following to be met:**
-
-  
+AEPs are graded using the "EMRN" rubric found in the syllabus. **A grade of E or M requires all of the following to be met:**
 
 - The link to the Desmos graph --- consisting of the scatterplot of data and four regression models --- is given in question 1, the link works, and all four models and the data table are visible in the web page. **Writeups with a non-functioning link in question 1 will be automatically graded "N". Please check to make sure the link works before submitting.**
 - The correct model is chosen in task 2 and a correct formula is given in the writeup.
@@ -102,7 +100,9 @@ Your model might look different, since the quadratic model might not be the best
 	- The computation in part (c) is correct, and the numerical process involves at least 4-5 computations from the left and the same amount from the right. (For comparison, the first limit that is computed in Example 1.2.4(a) in the textbook, which is shown in Tables 1.2.5 and 1.2.6, uses eight computations each.)
 - All work is shown, and all results are explained clearly. 
 
-Please note, it is the case with all AEP's that **your grade is primarily based on your explanations and writing, and only secondarily on the precision and correctness of your computations.** Correct computations with insufficient explanation will need to be revised and may receive an "N"
+Please note, it is the case with all AEP's that **your grade is primarily based on your explanations and writing, and only secondarily on the precision and correctness of your computations.** Correct computations with insufficient explanation will need to be revised and may receive an "N" grade. 
+
+A grade of "E" is given if all of the above expectations are met, and the work is of superior quality in terms of the clarity of explanations and work, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0OTIxNTYzXX0=
+eyJoaXN0b3J5IjpbMTk3MTU2NjQ3N119
 -->
