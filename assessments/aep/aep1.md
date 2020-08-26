@@ -113,7 +113,8 @@ When you have your work typed up, double-check it for neatness, correctness, and
 
 ## Getting Help
 
-Ple
+Please note that according to the syllabus, for AEP's **"no interactions at all with another person or with unauthorized sources on the internet is allowed."** Violations of this rule include *any* consultation with other students or former students; submitting the problem set to an online help site such as Chegg or Cou
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQ3OTE4NDNdfQ==
+eyJoaXN0b3J5IjpbLTY3OTAwMjM3OF19
 -->
