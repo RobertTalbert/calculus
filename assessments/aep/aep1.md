@@ -8,7 +8,13 @@ In this AEP, you will use technological tools to work with sets of data and buil
 
 + F.1: I can find the average rate of change of a function on an interval.
 + D.1 **(CORE)**: I can find the derivative of a function, both at a point and as a function, using the definition of the derivative.
-+ D.2 \tetxbf{(CORE)}: I can use derivative notation correctly, state the units of a derivative, estimate the value of a derivative using difference quotients, and correctly interpret the meaning of a derivative in context.
++ D.2 **(CORE)**: I can use derivative notation correctly, state the units of a derivative, estimate the value of a derivative using difference quotients, and correctly interpret the meaning of a derivative in context.
+
+Remember, AEPs do not have fixed deadlines; simply work on this item until you are ready to submit it. But remember the **Two Items Per Week Rule.** 
+
+## Technology Background
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2NDI4NTM0XX0=
+eyJoaXN0b3J5IjpbNzEzMjE3NjM2XX0=
 -->
