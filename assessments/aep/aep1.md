@@ -102,7 +102,12 @@ AEPs are graded using the "EMRN" rubric found in the syllabus. **A grade of E or
 
 Please note, it is the case with all AEP's that **your grade is primarily based on your explanations and writing, and only secondarily on the precision and correctness of your computations.** Correct computations with insufficient explanation will need to be revised and may receive an "N" grade. 
 
-A grade of "E" is given if all of the above expectations are met, and the work is of superior quality in terms of the clarity of explanations and work, 
+A grade of "E" is given if all of the above expectations are met, and the work is of superior quality in terms of the clarity of explanations and work, appearance of the writeup, and precision of the mathematics. 
+
+
+## Submitting your work 
+
+**AEP submissions must be typewritten and saved as either a PDF or MS Word file. No part of your submission may involve handwriting; work that is submitted that contains handwriting will be graded N and returned without feedback.** This includes electronic handwritten docments, for example using a stylus and a note-taking pro To type up your work, you can use MS Word or Google Docs (both of which have equation editors for mathematical notation) or any other computer-based math typesetting tool. Just make sure you save your work as a Word document or PDF (no `.odt`, `.rtf`, or other file extensions are allowed).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTU2NjQ3N119
+eyJoaXN0b3J5IjpbNTE0NzUwNjQ0XX0=
 -->
