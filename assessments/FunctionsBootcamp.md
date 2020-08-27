@@ -16,13 +16,15 @@ Unlike the other Learning Targets, there will be no problems on Checkpoints for 
 
 Your score on this assignment will determine your rating: 
 
-- A score of 90% or higher will give you Mastery rating on Learning Target F.1; 
-- A score of 75% or higher, but less than 90%
+- A score of **90% or higher** will give you **Mastery** rating on Learning Target F.1; 
+- A score of **75% or higher, but less than 90%**, will give you **Proficiency** rating on Learning Target F.1. 
+
+So, Learning Target F.1 is the only target we have where you can achieve Mastery rating on the first try. Two "checks" are not needed if you score 90% or higher on the WeBWorK assignme
 
 
 ## What you need to do
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTE1ODcxMF19
+eyJoaXN0b3J5IjpbNDg0NTA2OThdfQ==
 -->
