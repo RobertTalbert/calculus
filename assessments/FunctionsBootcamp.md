@@ -6,12 +6,14 @@ Calculus involves **functions** at every stage. Your prerequisite courses for MT
 
 The Functions Bootcamp is a set of **10 videos followed by a WeBWorK set**. Watching the videos and then doing the WeBWorK set will get your function knowledge completely up to where it needs to be, in order to move ahead into Calculus with confidence. It will remain available to you for the duration of the course in case you ever need to refresh your knowledge. 
 
-One of your Core Learning Targets is the very first one: 
+**Completing the Functions Bootcamp assignment is required to satisfy Learning Target F.1:**
 
 >- F.1 **(CORE)**: I can evaluate functions given in different representations, find composites of functions, and determine the domain and range of a function. 
+
+As stated, this is a Core Learning Tar
 
 
 ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5Njc0OTc5XX0=
+eyJoaXN0b3J5IjpbMjExOTQ1MTI1Ml19
 -->
