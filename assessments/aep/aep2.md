@@ -43,6 +43,17 @@ Think of a topic that interests you -- sports, politics, weather, etc, Then go t
 
 For example, I (Prof. Talbert) like to cook, so I began to wonder how the prices of some of the ingredients I use have changed over time. Doing a Google search on "price of a pound of ground beef over time" led me to this site, which shows the price in US dollars of a pound of beef in each year from 1995 to 2017. (Here the independent variable is time in years, and the dependent variable is price in US dollars.)
 
+https://www.statista.com/statistics/236776/retail-price-of-ground-beef-in-the-united-states/
+
+  
+Once you have found a data set you like, **place your data into a Google Spreadsheet with the independent variable data in column A and the dependent variable data in column B.** IMPORTANT NOTE: If you are using data for years, rescale the data so that time = 0 corresponds to your first year. This will avoid issues with the regression analysis later.
+
+For example, here are my ground beef data, entered in with 1995 set as year 0: <https://i.imgur.com/WK4nxxs.jpg>
+
+If your data set is very long, over 30 pairs, you are allowed to use just a subset of the data consisting of 30 pairs. Most of the calculations in this lab are done with technology, so don't worry about the number of hand computations. But don't cut out more than this, or you will lose accuracy (and this is considered bad data analysis).
+
+Creating a Google Spreadsheet is the same process as creating a Google Doc -- just choose Spreadsheets instead of Documents when creating. If you are unfamiliar with this process, please contact the professor or friend, or ask a question on the `#tech` channel on Slack.
+
 ### Tasks for this AEP
 
 
@@ -65,5 +76,5 @@ You **may** ask me (Talbert) for help on this assignment in the form of **specif
  
 **You can ask technology related questions to anyone at any time**. For example if you need help with Desmos, or with figuring out how to type up your work, there are no restrictions on that. I recommend the `#tech` channel on Campuswire so that you'll reach a large audience. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxMDIzODkxLC01OTM4ODI2NjRdfQ==
+eyJoaXN0b3J5IjpbNzMzOTUwMjAyLC01OTM4ODI2NjRdfQ==
 -->
