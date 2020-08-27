@@ -13,12 +13,15 @@ Remember, AEPs do not have fixed deadlines; simply work on this item until you a
 
 ## Technology Background
 
+Before you begin this AEP, you will need to get comfortable with two tasks using the Desmos online graphing tool: **graphing functions** and doing **regression analysis**. *Regression* refers to the process of approximating a collection of data with a function and then using the function to draw conclusions about the data.
+
+Instructions and tutorials on these items can be found in the *Technology Background* section of AEP 1. 
 
 ## AEP Description and Tasks 
 
 ### What this AEP is about
 
-Data sets that involve two variables, and one of the variables is related to the other, are called *two-variable data sets*. An example of a two-variable data set is the US Census Bureau data used in AEP 1, in which the population of a city was given in terms of the year in which the data were collected. There is an implied relationship between one variable and the other. For example, in the population data, there is an implied relationship between time and population -- as time passes, population changes. Time is like the input variable to a function, and population is like the output; we call time the independent variable and population the dependent variable because population depends on time. Population also depends on a host of other variables (income levels, unemployment rates, cost of living, etc.) but in our data set, time is the independent variable we focus on.
+Data sets that involve two variables, and one of the variables is related to the other, are called **two-variable data sets**. An example of a two-variable data set is the US Census Bureau data used in AEP 1, in which the population of a city was given in terms of the year in which the data were collected. There is an implied relationship between one variable and the other. For example, in the population data, there is an implied relationship between time and population -- as time passes, population changes. Time is like the input variable to a function, and population is like the output; we call time the independent variable and population the dependent variable because population depends on time. Population also depends on a host of other variables (income levels, unemployment rates, cost of living, etc.) but in our data set, time is the independent variable we focus on.
 
 
 Note that there is no explicit formula that perfectly describes this relationship --- if there were, we wouldn't need to collect census data! Instead, to tell the story of the data, we rely on two kinds of analysis techniques:
@@ -104,5 +107,6 @@ You **may** ask me (Talbert) for help on this assignment in the form of **specif
  
 **You can ask technology related questions to anyone at any time**. For example if you need help with Desmos, or with figuring out how to type up your work, there are no restrictions on that. I recommend the `#tech` channel on Campuswire so that you'll reach a large audience. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDg0ODI0LC01OTM4ODI2NjRdfQ==
+eyJoaXN0b3J5IjpbODkxODE5ODQxLDE2ODA4NDgyNCwtNTkzOD
+gyNjY0XX0=
 -->
