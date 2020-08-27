@@ -1,4 +1,4 @@
-# AEP 1: Data-driven rates of change 
+# AEP 2: Derivatives and real-world data
 
 ## Overview 
 
@@ -107,6 +107,6 @@ You **may** ask me (Talbert) for help on this assignment in the form of **specif
  
 **You can ask technology related questions to anyone at any time**. For example if you need help with Desmos, or with figuring out how to type up your work, there are no restrictions on that. I recommend the `#tech` channel on Campuswire so that you'll reach a large audience. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTYyODA3Nyw4OTE4MTk4NDEsMTY4MD
-g0ODI0LC01OTM4ODI2NjRdfQ==
+eyJoaXN0b3J5IjpbMTc3MjQ2NDcxLC0xNTE2MjgwNzcsODkxOD
+E5ODQxLDE2ODA4NDgyNCwtNTkzODgyNjY0XX0=
 -->
