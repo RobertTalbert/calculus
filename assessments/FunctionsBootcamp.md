@@ -27,10 +27,10 @@ So, Learning Target F.1 is the only target we have where you can achieve Mastery
 The WeBWorK assignment for the Functions Bootcamp is available now, and will remain open until **11:59pm Eastern time on Sunday, September 20**. Here is my recommended pathway to completing this assignment successfully: 
 
 1. **This week**, go to WeBWorK and access the assignment. Set aside 1-2 hours to try to work through as many of the problems as you can without reviewing. Make a note of the concepts that are especially rusty for you. 
-2. 
+2. Then, **during week 2**, budget time in your day to watch the videos for the Functions Bootcamp, especially those that have to do with the WeBWorK problems that gave you issues. And then try again. Remember you can redo any WeBWorK problem you want, as many times as you want, until the deadline. 
+3. Repeat steps 1 and 2, asking questions and seeking out targeted help as needed, until you have attained a 90% score or better. 
 
 
-The first thing you should do is go look through the WeBWorK set and check out the problems you'll be working. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTIwMTg0NThdfQ==
+eyJoaXN0b3J5IjpbLTE0ODQ4OTE4OTFdfQ==
 -->
