@@ -85,6 +85,10 @@ AEPs are graded using the "EMRN" rubric found in the syllabus. **A grade of E or
 - All first and second derivative values must be correct in the table.
 - All other calculations are correct and the reasoning is clearly and carefully explained.
 
+Please note, it is the case with all AEP's that **your grade is primarily based on your explanations and writing, and only secondarily on the precision and correctness of your computations.** Correct computations with insufficient explanation will need to be revised and may receive an "N" grade. 
+
+A grade of "E" is given if all of the above expectations are met, and the work is of superior quality in terms of the clarity of explanations and work, appearance of the writeup, and precision of the mathematics. 
+
 
 ## Submitting your work 
 
@@ -100,5 +104,5 @@ You **may** ask me (Talbert) for help on this assignment in the form of **specif
  
 **You can ask technology related questions to anyone at any time**. For example if you need help with Desmos, or with figuring out how to type up your work, there are no restrictions on that. I recommend the `#tech` channel on Campuswire so that you'll reach a large audience. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Nzk4MjA0MSwtNTkzODgyNjY0XX0=
+eyJoaXN0b3J5IjpbMTY4MDg0ODI0LC01OTM4ODI2NjRdfQ==
 -->
