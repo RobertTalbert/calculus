@@ -24,7 +24,13 @@ So, Learning Target F.1 is the only target we have where you can achieve Mastery
 
 ## What you need to do
 
-The WeBWorK assignment for the Functions Bootcamp is available now, and will remain open until **11:59pm Eastern time on Sunday, September 20**. If you 
+The WeBWorK assignment for the Functions Bootcamp is available now, and will remain open until **11:59pm Eastern time on Sunday, September 20**. Here is my recommended pathway to completing this assignment successfully: 
+
+1. **This week**, go to WeBWorK and access the assignment. Set aside 1-2 hours to try to work through as many of the problems as you can without reviewing. Make a note of the concepts that are especially rusty for you. 
+2. 
+
+
+The first thing you should do is go look through the WeBWorK set and check out the problems you'll be working. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzM5NDk0ODVdfQ==
+eyJoaXN0b3J5IjpbLTE0NTIwMTg0NThdfQ==
 -->
