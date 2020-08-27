@@ -12,12 +12,17 @@ The Functions Bootcamp is a set of **10 videos and a WeBWorK set**. Watching the
 
 >- F.1 **(CORE)**: I can evaluate functions given in different representations, find composites of functions, and determine the domain and range of a function. 
 
-Unlike the other Learning Targets, there will be no problems on Checkpoints for this target, and you won't be able to do oral exams, videos, or use AEPs to satisfy it. The only way to 
+Unlike the other Learning Targets, there will be no problems on Checkpoints for this target, and you won't be able to do oral exams, videos, or use AEPs to satisfy it. The only way to check Learning Target F.1 is to complete the WeBWorK assignment. 
+
+Your score on this assignment will determine your rating: 
+
+- A score of 90% or higher will give you Mastery rating on Learning Target F.1; 
+- A score of 75% or higher, but less than 90%
 
 
 ## What you need to do
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDA3NjM4MjVdfQ==
+eyJoaXN0b3J5IjpbLTUwMTE1ODcxMF19
 -->
