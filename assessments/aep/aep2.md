@@ -2,11 +2,12 @@
 
 ## Overview 
 
+In this AEP, you'll seek out data on a topic of interest to you, analyze the data and its first two derivatives, and think about what the information from the derivatives mean in context.
+
 **Learning Targets associated with this AEP:**
 
-+ F.1: I can find the average rate of change of a function on an interval.
-+ D.1 **(CORE)**: I can find the derivative of a function, both at a point and as a function, using the definition of the derivative.
 + D.2 **(CORE)**: I can use derivative notation correctly, state the units of a derivative, estimate the value of a derivative using difference quotients, and correctly interpret the meaning of a derivative in context.
++ D.3 **(CORE)**: Given information about $f$, $f'$, or $f''$, I can correctly give information about $f$, $f'$, or $f''$ and the increasing/decreasing behavior and concavity of $f$ (and vice versa).
 
 Remember, AEPs do not have fixed deadlines; simply work on this item until you are ready to submit it. But remember the **Two Items Per Week Rule.** 
 
@@ -41,5 +42,5 @@ You **may** ask me (Talbert) for help on this assignment in the form of **specif
  
 **You can ask technology related questions to anyone at any time**. For example if you need help with Desmos, or with figuring out how to type up your work, there are no restrictions on that. I recommend the `#tech` channel on Campuswire so that you'll reach a large audience. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5Mzg4MjY2NF19
+eyJoaXN0b3J5IjpbLTc3MTMwMTE3MywtNTkzODgyNjY0XX0=
 -->
