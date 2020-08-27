@@ -79,6 +79,12 @@ Creating a Google Spreadsheet is the same process as creating a Google Doc -- ju
 
 AEPs are graded using the "EMRN" rubric found in the syllabus. **A grade of E or M requires all of the following to be met:**
 
+- There must be a working link that can be used to go to the source of the data. **Writeups with a non-functioning link in question 1 will be automatically graded "N". Please check to make sure the link works before submitting.**
+- The data must satisfy the four criteria given in the "Setup" section.
+- There must be a working link to your Google Spreadshseet containing the data set, and the data must be formatted as described above. As with the link to the source data,  **writeups with a non-functioning link in question 1 will be automatically graded "N". Please check to make sure the link works before submitting.**
+- All first and second derivative values must be correct in the table.
+- All other calculations are correct and the reasoning is clearly and carefully explained.
+
 
 ## Submitting your work 
 
@@ -94,5 +100,5 @@ You **may** ask me (Talbert) for help on this assignment in the form of **specif
  
 **You can ask technology related questions to anyone at any time**. For example if you need help with Desmos, or with figuring out how to type up your work, there are no restrictions on that. I recommend the `#tech` channel on Campuswire so that you'll reach a large audience. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTU5NzgzMCwtNTkzODgyNjY0XX0=
+eyJoaXN0b3J5IjpbMTk2Nzk4MjA0MSwtNTkzODgyNjY0XX0=
 -->
