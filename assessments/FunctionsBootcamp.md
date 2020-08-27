@@ -12,12 +12,12 @@ The Functions Bootcamp is a set of **10 videos and a WeBWorK set**. Watching the
 
 >- F.1 **(CORE)**: I can evaluate functions given in different representations, find composites of functions, and determine the domain and range of a function. 
 
-
+Unlike the other Learning Targets, there will be no problems on Checkpoints for this target, and you won't be able to do oral exams, videos, or use AEPs to satisfy it. The only way to 
 
 
 ## What you need to do
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjI2NDE2M119
+eyJoaXN0b3J5IjpbLTE1NDA3NjM4MjVdfQ==
 -->
