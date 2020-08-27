@@ -32,6 +32,17 @@ For this AEP, you are going to go search up a two-variable data set on some topi
 
 ### Setup (do this first) 
 
+Think of a topic that interests you -- sports, politics, weather, etc, Then go to the internet and search for a two-variable data set that relates two quantities involved with that topic. You may use any kind of data you like as long as:
+
+ 
+- It *doesn't involve populations and time*, because this is the subject of AEP 1.
+- The set involves *only two variables*, and there are *at least five pairs of data in the set*.
+- The data set is *real* (not made up by you) and you can *provide a link to the source*.
+- The data set has *some kind of personal relevance to you, that you can explain.* You are especially encouraged to look for data that relate to your academic major in some way.
+  
+
+For example, I (Prof. Talbert) like to cook, so I began to wonder how the prices of some of the ingredients I use have changed over time. Doing a Google search on "price of a pound of ground beef over time" led me to this site, which shows the price in US dollars of a pound of beef in each year from 1995 to 2017. (Here the independent variable is time in years, and the dependent variable is price in US dollars.)
+
 ### Tasks for this AEP
 
 
@@ -54,5 +65,5 @@ You **may** ask me (Talbert) for help on this assignment in the form of **specif
  
 **You can ask technology related questions to anyone at any time**. For example if you need help with Desmos, or with figuring out how to type up your work, there are no restrictions on that. I recommend the `#tech` channel on Campuswire so that you'll reach a large audience. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDEzNDA2NiwtNTkzODgyNjY0XX0=
+eyJoaXN0b3J5IjpbNTcxMDIzODkxLC01OTM4ODI2NjRdfQ==
 -->
