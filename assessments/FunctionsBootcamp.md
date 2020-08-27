@@ -19,12 +19,12 @@ Your score on this assignment will determine your rating:
 - A score of **90% or higher** will give you **Mastery** rating on Learning Target F.1; 
 - A score of **75% or higher, but less than 90%**, will give you **Proficiency** rating on Learning Target F.1. 
 
-So, Learning Target F.1 is the only target we have where you can achieve Mastery rating on the first try. Two "checks" are not needed if you score 90% or higher on the WeBWorK assignme
+So, Learning Target F.1 is the only target we have where you can achieve Mastery rating on the first try. Two "checks" are not needed if you score 90% or higher on the WeBWorK assignment. 
 
 
 ## What you need to do
 
-
+The WeBWorK assignment for the Functions Bootcamp is available now, and will remain open until **11:59pm Eastern time on Sunday, September 20**. If you 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0NTA2OThdfQ==
+eyJoaXN0b3J5IjpbLTE5MzM5NDk0ODVdfQ==
 -->
