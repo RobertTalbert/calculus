@@ -30,7 +30,11 @@ The WeBWorK assignment for the Functions Bootcamp is available now, and will rem
 2. Then, **during week 2**, budget time in your day to watch the videos for the Functions Bootcamp, especially those that have to do with the WeBWorK problems that gave you issues. And then try again. Remember you can redo any WeBWorK problem you want, as many times as you want, until the deadline. 
 3. Repeat steps 1 and 2, asking questions and seeking out targeted help as needed, until you have attained a 90% score or better. 
 
+## FAQs
 
+**What if I don't earn a 90% before the deadline?** There will be a second version of the Functions Bootcamp assignment posted around the middle of the semester for those who didn't get a high enough score the first time. **But there will be no others,** so really put effort into your work here. 
+
+**What if I only earn Proficiency rating and not Mastert
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQ4OTE4OTFdfQ==
+eyJoaXN0b3J5IjpbLTE1NzE3NjQxNDJdfQ==
 -->
