@@ -38,7 +38,13 @@ The WeBWorK assignment for the Functions Bootcamp is available now, and will rem
 
 **Do I have to watch the videos?** No. If you feel your background is good enough to not need them, it's fine to not watch them. Or, you can watch other videos; or use a textbook instead. The videos are just there to help. 
 
-**What are the academic honesty guidelines for this?** Treat it like a Checkpoint. The syllabus says this about ch
+**What are the academic honesty guidelines for this?** Treat it like a Checkpoint. The syllabus says this about Checkpoint collaboration: 
+
+>No interactions at all with another person or with unauthorized sources on the internet is allowed. Any evidence of using information from another person or source will be investigated as academic dishonesty. 
+
+*For this assignment, basic textbooks on high school algebra and precalculus along with videos from the web will be considered "authorized sources".* 
+
+**So, is there any help I can get on this?** Of course! The videos are helpful, as are many other resources. And you can ask questions in drop-in hours as needed. Just stay away from other human interac
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Mjg5MTg2NF19
+eyJoaXN0b3J5IjpbNTY5OTc3MTYxXX0=
 -->
