@@ -64,7 +64,7 @@ Creating a Google Spreadsheet is the same process as creating a Google Doc -- ju
 2. Enter your data into a Google Spreadsheet as described above. Then get a link to share that spreadsheet, and make sure that the link allows **Anyone with the link** (not just Grand Valley State University people) to **Edit** (not just view or comment). Here is a short video showing how to do this (some of the specifics may be different for you, but the process is the same): https://drive.google.com/a/mail.gvsu.edu/file/d/1Ysd-DaJiDTGNPMhqlhEBdnPLYLbeCTEn/view?usp=drivesdk I will be checking your data directly in your spreadsheet, so it's important that I can edit the work you've done. In your writeup, just paste the link for this task.
 
 
-3. Either in your writeup or in the spreadsheet (your choice), construct a table of values for both the first and second derivatives of the data you have. You will need to use the numerical approximation techniques we discussed in Section 1.5 of the textbook for this. You will also need to think about which of the three approximation techniques we've studied is the best choice for a given data point. For example, at the far ends of the table, you cannot use a central difference approximation, so what technique will you use? In addition to showing the completed table either in the writeup or in the Google Spreadsheet, write a 2-3 sentence paragraph explaining your techniques; then show your work on one computation for the first derivative and one computation for the second derivative. Here is an example of the completed spreadsheet for my ground beef price example (explanation and work not shown): https://i.imgur.com/CS8KTmA.jpg
+3. Either in your writeup or in the spreadsheet (your choice), construct a table of values for both the first and second derivatives of the data you have. **It is much less work if you can figure out how to do these calculations automatically using the spreadsheet, rather than doing them all separately and simply typing the results into the spreadsheet.** If you'd like a tutorial on basic spreadsheet use, please ask. You will need to use the numerical approximation techniques we discussed in Section 1.5 of the textbook for this. You will also need to think about which of the three approximation techniques we've studied is the best choice for a given data point. For example, at the far ends of the table, you cannot use a central difference approximation, so what technique will you use? In addition to showing the completed table either in the writeup or in the Google Spreadsheet, write a 2-3 sentence paragraph explaining your techniques; then show your work on one computation for the first derivative and one computation for the second derivative. Here is an example of the completed spreadsheet for my ground beef price example (explanation and work not shown): https://i.imgur.com/CS8KTmA.jpg
 
   
 
@@ -107,6 +107,6 @@ You **may** ask me (Talbert) for help on this assignment in the form of **specif
  
 **You can ask technology related questions to anyone at any time**. For example if you need help with Desmos, or with figuring out how to type up your work, there are no restrictions on that. I recommend the `#tech` channel on Campuswire so that you'll reach a large audience. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxODE5ODQxLDE2ODA4NDgyNCwtNTkzOD
-gyNjY0XX0=
+eyJoaXN0b3J5IjpbLTE1MTYyODA3Nyw4OTE4MTk4NDEsMTY4MD
+g0ODI0LC01OTM4ODI2NjRdfQ==
 -->
