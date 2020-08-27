@@ -34,7 +34,9 @@ The WeBWorK assignment for the Functions Bootcamp is available now, and will rem
 
 **What if I don't earn a 90% before the deadline?** There will be a second version of the Functions Bootcamp assignment posted around the middle of the semester for those who didn't get a high enough score the first time. **But there will be no others,** so really put effort into your work here. 
 
-**What if I only earn Proficiency rating and not Mastert
+**What if I only earn Proficiency rating and not Mastery?** (I.e. what if my score was bigger than 75% but less than 90%?) You can try again on the second round later in the term; or if all you are wanting in the course is a C or a B you could simply stop and use Learning Target F.1 as one of your "Proficient but not Mastered" targets. 
+
+**Do I have to watch the videos?** No. If you feel your background is good enough to not need them, it's fine to not watch them. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE3NjQxNDJdfQ==
+eyJoaXN0b3J5IjpbMTI5NDk4NTkyMF19
 -->
