@@ -1,0 +1,314 @@
+assignmentType      = default
+openDate          = 08/27/2020 at 03:03pm EDT
+reducedScoringDate = 12/31/1969 at 07:00pm EST
+dueDate           = 09/20/2020 at 11:59pm EDT
+answerDate        = 09/20/2020 at 11:59pm EDT
+enableReducedScoring = N
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = 
+restrictProbProgression = 0
+emailInstructor   = 0
+
+problemListV2 
+problem_start
+problem_id = 1
+source_file = Library/ASU-topics/setFunctions/rich1.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 3
+source_file = Library/Mizzou/Intermediate_Algebra/Functions_Evaluating/Quadratic.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 4
+source_file = Library/Mizzou/Intermediate_Algebra/Functions_Evaluating/Inverse.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 5
+source_file = Library/CollegeOfIdaho/setAlgebra_03_02_ProblemSolvingBusinessApp/32IntAlg_15_Functions_Review.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 6
+source_file = Library/UVA-Stew5e/setUVA-Stew5e-C01S03-NewFunctOld/1-3-31.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 7
+source_file = Library/PCC/BasicAlgebra/FunctionBasics/EvaluateFunction80.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 8
+source_file = Library/PCC/BasicAlgebra/FunctionBasics/Functions250.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 9
+source_file = Library/Wiley/setAnton_Section_0.1/Question8b.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 10
+source_file = Library/FortLewis/Basic-skills-pretest/Skill-Assessment-29.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 11
+source_file = Library/PCC/BasicAlgebra/FunctionBasics/FunctionValuesByGraph40.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 12
+source_file = Library/Westmont/ActiveCalculus/Preview_1_2/preview_1_2_a/preview_1_2_a.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 13
+source_file = Library/Rochester/setAlgebra16FunctionGraphs/ns1_1_2.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 14
+source_file = Library/CollegeOfIdaho/setAlgebra_05_03_FactoringByGrouping/53IntAlg_32_Functions_Review.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 15
+source_file = Library/LoyolaChicago/Precalc/Chap2Sec2/Q08.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 16
+source_file = Library/ASU-topics/setFunctions/srw2_1_55.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 17
+source_file = Library/Utah/Intermediate_Algebra/set5_Graphs_and_Functions/s5p41.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 18
+source_file = Library/CollegeOfIdaho/setAlgebra_02_01_IntroFunctions/21IntAlg_08a_function.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 19
+source_file = Library/LoyolaChicago/Precalc/Chap2Review/Q13.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 20
+source_file = Library/LoyolaChicago/Precalc/Chap2Review/Q14.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 21
+source_file = Library/LoyolaChicago/Precalc/Chap8Sec1/Q22.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 22
+source_file = Library/LoyolaChicago/Precalc/Chap8Sec3/Q26.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 23
+source_file = Library/Michigan/Chap1Sec3/Q43.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 24
+source_file = Library/Westmont/ActiveCalculus/Preview_2_5/preview_2_5_a.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 25
+source_file = Library/Rochester/setAlgebra17FunComposition/ur_fn_2_8.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 26
+source_file = Library/Rochester/setAlgebra17FunComposition/ur_fn_2_6.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 27
+source_file = Library/LoyolaChicago/Precalc/Chap5Review/Q30.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 28
+source_file = Library/LoyolaChicago/Precalc/Chap1Sec1/Q19.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 29
+source_file = Library/LoyolaChicago/Precalc/Chap2Sec2/Connally3-2-2-31ab-Domain-range.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 30
+source_file = Library/PCC/BasicAlgebra/FunctionBasics/DataFromTable10.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 31
+source_file = Library/PCC/BasicAlgebra/FunctionBasics/FunctionInContext20.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
