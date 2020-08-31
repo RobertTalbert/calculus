@@ -4,7 +4,7 @@
 
 **Due by:** 11:59pm ET, Sunday September 13
 
-**Estimated time requirement:** About 45 minutes for the whole assignment. *If you have worked on this assignment for 30 minutes and you're not at least halfway done, DON'T work any further* --- instead, *stop and ask for help* on the `#dailyprep` channel on CampusWire. 
+**Estimated time requirement:** No more than 60 minutes for the whole assignment. *If you have worked on this assignment for 30 minutes and you're not at least halfway done, DON'T work any further* --- instead, *stop and ask for help* on the `#dailyprep` channel on CampusWire. 
 
 ## Overview 
 
@@ -59,3 +59,6 @@ Your work is saved as you go, so there's no "submit" step at the end.
 **How this is graded:** Daily Prep assignments are graded on the basis of *completeness and effort*: If your submission has **all parts completed** (no blank entries, even if left blank accidentally) and **a good-faith effort to provide a correct solution or explanation is given** (no responses of "I don't know" or "I didn't understand") and **the work is submitted on time**, it gets a "check". Otherwise it gets an "x". If you are stuck on an item, you're expected to ask questions and give your best effort.  
 
 **Getting help on this assignment:** *You may work with others on this assignment, but you may not copy each others' answers.* Evidence of copying will be treated as academic dishonesty. You may also ask questions on the #dailyprep channel on CampusWire, but you may not ask simply to be given the answers; giving and receiving answers on CampusWire will be treated as academic dishonesty.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwMDk1ODgyMzBdfQ==
+-->

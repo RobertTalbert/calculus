@@ -38,16 +38,20 @@ Please **do not attend the F2F meeting for the group you are not part of**, as t
 
 **Definition of "Week":** Quite often we'll refer to a "week" as a unit of time in the course. For us, a "week" is *the period of time starting at 12:01am Eastern on Monday and ending at 11:59pm Eastern the following Sunday*. 
 
-**Technology:** To use the course tools, you will need to have access to the following: 
+**Technology:** GVSU students taking online and hybrid courses are expected to possess a baseline of technological skills and equipment. [Click here to read the full list of expectations](https://www.gvsu.edu/online/technology-requirements-for-onlinehybrid-courses-8.htm). For our course specifically, you will need to have access to the following: 
 
 + **A laptop or tablet device**, preferably one with a **touchscreen that allows writing on the screen with a stylus**. Please plan on bringing this device with you to all F2F meetings. 
 + **A modern web browser**. Chrome is preferred, but browsers such as Firefox and Edge are also fine. 
 + **Reliable access to high-speed internet**. 
 + **An active GVSU network account** so that you can access email, Blackboard, and Google Docs. 
 
+
+
 If you have any issue with accessing any of the above, please let me know as soon as possible. 
 
 **Student communication expectations:** Due to the hybrid format of the course and the unpredictable, fast-changing pandemic situation, it is imperative that you maintain awareness of course announcements and other communications. **Each student is expected to check their email, Blackboard announcements, Campuswire posts, and the course calendar at least once per day and preferably more than once.** All important information will be pushed to you as soon as possible; it's your responsibility to check messages regularly and act on the information. *"I didn't see the announcement"* will not be accepted as an excuse! 
+
+**Important modifications to the calendar:** Please note that, in keeping with an announcement from the Provost and President in August: *the course will be entirely online after Thanksgiving Break*, from Monday November 30 through the end of the semester, including the final exam. Also, *Fall Break is cancelled*, although we will have no course activities scheduled for the days Fall Break occupied. Finally, **the withdrawal deadline has been extended to November 20, 5:00pm** and **the deadline to declare Credit/No Credit has been extended to September 11, 5:00pm**. 
 
 
 ### What Calculus is about 
@@ -237,6 +241,9 @@ Please note that **I (Prof. Talbert) am not able to provide student tech support
 
 ### Miscellaneous 
 
+**Recordings of online synchronous meetings:** We will use technology for live-streaming class meetings, and recordings of these may be made. Our use of such technology is governed by FERPA, the [Acceptable Use Policy](https://www.gvsu.edu/policies/policy.htm?policyId=821DD178-92CC-5C81-65C19EFD76FAC207) and GVSU's [Student Code of Conduct](https://www.gvsu.edu/policies/category.htm?categoryId=2C706898-FBBE-C50F-09A6D62DEA20957B). A record of all meetings and recordings is kept and stored by GVSU, in accordance with the Acceptable Use Policy and FERPA. I will not share recordings of your class activities outside of course participants, which include your fellow students, advisors, and any guest faculty or community based learning partners that we may engage with. **You may not share recordings outside of this course**. Doing so may result in disciplinary action.
+
+
 **This course is subject to the GVSU policies listed at [http://www.gvsu.edu/coursepolicies/](http://www.gvsu.edu/coursepolicies/.)**
 
 **General education:** This course satisfies the Mathematical Sciences Foundation requirement for the General Education program. https://www.gvsu.edu/gened/
@@ -272,7 +279,11 @@ Please note, students who remove their masks during class, wear the mask incorre
 
 ### If plans change 
 
-We will begin the semester in "staggered hybrid" mode, but several things could happen during the semester that might alter this setup. The details for how we respond to events of the next 14 weeks depend on the situation, but please rest assured that I (Talbert) have plans in reserve for all likely scenarios including if the university goes fully online or if I cannot be present due to self-quarantine or infection. **Remember to check your email, Blackboard announcements, and Campuswire daily to stay notified of all course information**.
+We will begin the semester in "staggered hybrid" mode, but several things could happen during the semester that might alter this setup. The details for how we respond to events of the next 14 weeks depend on the situation, but please rest assured that I (Talbert) have plans in reserve for all likely scenarios including if the university goes fully online or if I cannot be present due to self-quarantine or infection. 
+
+Please note: I (Prof. Talbert) reserve the right to make changes to the course at any time, including changing the modality of the course (e.g. to fully online) if I believe the situation warrants and independently of global actions GVSU does or does not take. I will always strive to do so with an appropriate level of input from you, but decisions about the course are vested in me. 
+
+**Remember to check your email, Blackboard announcements, and Campuswire daily to stay notified of all course information**.
 
 **Encouragement:** Although these plans can be scary and demoralizing, I want you to know that **GVSU is doing everything in its power to keep people safe from Covid-19**. If we observe reasonable precautions like the ones described above, **there is no reason to be afraid**. If we stay focused, remain flexible, and give our best work then we will learn just as well as in "normal" times, which I am hopeful will return soon. 
 
@@ -339,3 +350,9 @@ Please see the Course Calendar for the dates corresponding to these modules.
 | 10 | How do we find how far a moving object has traveled? | 4.1, 4.2 | INT.1 | 
 | 11 | What is the definite integral of a function? | 4.3, 4.4 | INT.2, INT.3 | 
 | 12 | How are derivatives and integrals related? | 4.4 | INT.4, INT.5 | 
+
+
+Last edit: 2020-08-26 07:56
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTIzMTgxNDgxMF19
+-->
