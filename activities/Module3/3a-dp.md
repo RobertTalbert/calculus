@@ -31,14 +31,12 @@ Being able to compute derivatives is nice, but what's more important is **being 
 
 ## Resources for Learning
 
-**Text:** Read through Section 1.5 of the *Active Calculus* textbook. Work through the examples and all interactive exercises found at the end of the section. 
+**Text:** Read through [Section 1.5](https://activecalculus.org/single/sec-1-5-units.html) of the *Active Calculus* textbook. Work through the examples and all interactive exercises found at the end of the section. 
 
-**Video:** At the MTH 201 playlist on YouTube (http://bit.ly/GVSUCalculus), watch the following videos. The total running time is 19:31. 
+**Video:** At the MTH 201 playlist on YouTube (http://bit.ly/GVSUCalculus), watch the following videos. The total running time is 8:42. 
 
 - Screencast 1.5.1: Quick review: Interpreting, estimating, and using the derivative (3:27) http://www.youtube.com/watch?v=XZa0uNu6Uyk
 - Screencast 1.5.2: Estimating the derivative (5:15) http://www.youtube.com/watch?v=wWdijnTdkTk
-- Screencast 1.6.1: Quick review: The second derivative (3:07) https://www.youtube.com/watch?v=UtzyPEk2zxA
-- Screencast 1.6.3: Determining concavity from a graph (7:42) https://youtu.be/o1_o4E-LGsA
 
 **Bonus screencast for those who like spreadsheets:** Screencast 1.5.3: Estimating derivatives using spreadsheets (5:25) http://www.youtube.com/watch?v=CJ_OZ-Uxs3o&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=16 
   
@@ -62,5 +60,5 @@ Your work is saved as you go, so there's no "submit" step at the end.
 
 **Getting help on this assignment:** *You may work with others on this assignment, but you may not copy each others' answers.* Evidence of copying will be treated as academic dishonesty. You may also ask questions on the #dailyprep channel on CampusWire, but you may not ask simply to be given the answers; giving and receiving answers on CampusWire will be treated as academic dishonesty.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODA4MjI1Nl19
+eyJoaXN0b3J5IjpbMTA3OTY2NzM2OF19
 -->
