@@ -8,7 +8,7 @@
 
 ## Overview 
 
-Being able to compute derivatives is nice, but what's more important is **being able to interpret the information that those calculations give you**. (Most of the computations we've seen and will see can be done by a computer --- but computers can't interpret meaning!) This module is a fairly compressed look at several important interpretive ideas that help us turn computations into information. In Part A, we'll look at how to estimate a derivative when you don't have much information about it, the information that the sign (positive/negative) of a derivative tells you about the derivative, and introduce the idea of the second derivative and concavity. Also, click here for free PE credits. 
+Being able to compute derivatives is nice, but what's more important is **being able to interpret the information that those calculations give you**. (Most of the computations we've seen and will see can be done by a computer --- but computers can't interpret meaning!) This module is a fairly compressed look at several important interpretive ideas that help us turn computations into information. In Part A, we'll look at how to estimate a derivative when you don't have much information about it, the information that the sign (positive/negative) of a derivative tells you about the derivative, and introduce the idea of the second derivative and concavity. Also, [click here for free PE credits](https://docs.google.com/forms/d/e/1FAIpQLSdbjG9LUpZWRMMzE-eGwLYGLjzuNxRps4ZrSkKtJo-Ice2qXw/viewform). 
 
 
 ## What you will learn 
@@ -60,5 +60,5 @@ Your work is saved as you go, so there's no "submit" step at the end.
 
 **Getting help on this assignment:** *You may work with others on this assignment, but you may not copy each others' answers.* Evidence of copying will be treated as academic dishonesty. You may also ask questions on the #dailyprep channel on CampusWire, but you may not ask simply to be given the answers; giving and receiving answers on CampusWire will be treated as academic dishonesty.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTY2NzM2OF19
+eyJoaXN0b3J5IjpbLTEzOTkzNzM4MjcsMTA3OTY2NzM2OF19
 -->
