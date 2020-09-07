@@ -17,25 +17,21 @@ Being able to compute derivatives is nice, but what's more important is **being 
 
 - **D.2 (CORE)**: I can use derivative notation correctly, state the units of a derivative, estimate the value of a derivative using difference quotients, and correctly interpret the meaning of a derivative in context.
 - **D.3 (CORE)**: Given information about $f$, $f'$, or $f''$, I can correctly give information about $f$, $f'$, or $f''$ and the increasing/decreasing behavior and concavity of $f$ (and vice versa).
-- D.4: I can determine where a function is continuous or differentiable given a graph or formula of the function and explain my reasoning.
+- **D.4**: I can determine where a function is continuous or differentiable given a graph or formula of the function and explain my reasoning.
 
 **BEFORE** your class meeting, use the Resources for Learning (below) to learn how to do the following: 
 
-- Determine whether a function is increasing, decreasing, or constant on an interval by examining the sign of its derivative. (Conversely, state the sign of a function's derivative using information about whether the function is increasing, decreasing, or constant.)
-- Interpret the meaning of the derivative of a function that models a real-life situation, in terms instantaneous rates of change.
+- If a function is given with units for the input and output, state the units of the derivative.
 - Estimate the value of a derivative at a point using forward, backward, and central difference calculations.
-- State the definition of the second derivative of a function.
 
 **DURING AND AFTER** your class meeting, you will learn how to do the following: 
 
-- Explain the meaning of the terms concave up and concave down and explain the connection between concavity of a function and its first and second derivatives.
-- Determine whether a function is concave up or concave down on an interval by examining its graph.
-- Given the graph of a function, make a reasonable sketch of the graph of its second derivative.
-- If a function is given with units for the input and output, state the units of the second derivative.
+- Determine whether a function is increasing, decreasing, or constant on an interval by examining the sign of its derivative. (Conversely, state the sign of a function's derivative using information about whether the function is increasing, decreasing, or constant.)
+- Interpret the meaning of the derivative of a function that models a real-life situation, in terms instantaneous rates of change.
 
 ## Resources for Learning
 
-**Text:** Read through Sections 1.5 and 1.6 of the *Active Calculus* textbook. Work through the examples and all interactive exercises found at the end of the section. 
+**Text:** Read through Section 1.5 of the *Active Calculus* textbook. Work through the examples and all interactive exercises found at the end of the section. 
 
 **Video:** At the MTH 201 playlist on YouTube (http://bit.ly/GVSUCalculus), watch the following videos. The total running time is 19:31. 
 
@@ -66,5 +62,5 @@ Your work is saved as you go, so there's no "submit" step at the end.
 
 **Getting help on this assignment:** *You may work with others on this assignment, but you may not copy each others' answers.* Evidence of copying will be treated as academic dishonesty. You may also ask questions on the #dailyprep channel on CampusWire, but you may not ask simply to be given the answers; giving and receiving answers on CampusWire will be treated as academic dishonesty.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDExMDM1MF19
+eyJoaXN0b3J5IjpbMjAwODA4MjI1Nl19
 -->
