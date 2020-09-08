@@ -44,8 +44,10 @@ Being able to compute derivatives is nice, but what's more important is **being 
 **Bonus screencasts:** These are optional, but good: 
 
 - Concavity, inflection points, and second derivative (Organic Chemistry Tutor) (12:49) https://www.youtube.com/watch?v=OhqNbQi9QPk
-- 
-- 
+- Concavity introduction (Khan Academy) (9:41) https://www.youtube.com/watch?v=LcEqOzNov4E 
+- Concavity, inflection points, and second derivative (PatrickJMT) (10:23) https://www.youtube.com/watch?v=c1N8zyVhWxM 
+
+- Not a
   
 You are free to search for and use other resources in addition to, or instead of the above, as long as you can work the exercises below.
 
@@ -67,5 +69,5 @@ Your work is saved as you go, so there's no "submit" step at the end.
 
 **Getting help on this assignment:** *You may work with others on this assignment, but you may not copy each others' answers.* Evidence of copying will be treated as academic dishonesty. You may also ask questions on the #dailyprep channel on CampusWire, but you may not ask simply to be given the answers; giving and receiving answers on CampusWire will be treated as academic dishonesty.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODA4NjAwMzRdfQ==
+eyJoaXN0b3J5IjpbNTQwOTgwMTc1XX0=
 -->
