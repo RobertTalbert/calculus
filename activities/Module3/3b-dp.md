@@ -2,13 +2,13 @@
 
 ## Daily Preparation, Module 3B: The second derivative and concavity
 
-**Due by:** 11:59pm ET, Sunday September 20
+**Due by:** 11:59pm ET, Tuesday September 22
 
 **Estimated time requirement:** About 45-60 minutes for the whole assignment. *If you have worked on this assignment for 30 minutes and you're not at least halfway done, DON'T work any further* --- instead, *stop and ask for help* on the `#dailyprep` channel on CampusWire. 
 
 ## Overview 
 
-In Part B of Module 3 we introduce a powerful new tool for examining the rate of change in a function --- the **second derivative**. The second derivative is what you get when you find the derivative of a function, then find the derivative of *the result*. The second derivative gives infor
+In Part B of Module 3 we introduce a powerful new tool for examining the rate of change in a function --- the **second derivative**. The second derivative is what you get when you find the derivative of a function, then find the derivative of *the result*. The second derivative gives information about a function's rate of change that is subtle but important --- namely, what we call the **concavity** of the function. Having information about a function, its derivative, and its second derivative gives us a complete "fingerprint" of how the function behaves. 
 
 
 ## What you will learn 
@@ -68,5 +68,5 @@ Your work is saved as you go, so there's no "submit" step at the end.
 
 **Getting help on this assignment:** *You may work with others on this assignment, but you may not copy each others' answers.* Evidence of copying will be treated as academic dishonesty. You may also ask questions on the #dailyprep channel on CampusWire, but you may not ask simply to be given the answers; giving and receiving answers on CampusWire will be treated as academic dishonesty.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjI1NjE0MjVdfQ==
+eyJoaXN0b3J5IjpbLTE2NjQwMTYyMzJdfQ==
 -->
