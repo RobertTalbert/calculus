@@ -56,7 +56,7 @@ You are free to search for and use other resources in addition to, or instead of
 The exercises for this assignment are on Desmos this time.  **Be sure to only use the link below for your section** or your work will end up in the wrong place. 
 
 - Section 02: https://student.desmos.com/join/5mekk5 
-- Section 04: https://student.desmos.com/join/tcv5eg 
+- Section 04: https://student.desmos.com/join/mkxb62 
 
 Your work is saved as you go, so there's no "submit" step at the end. 
 
@@ -68,6 +68,6 @@ Your work is saved as you go, so there's no "submit" step at the end.
 
 **Getting help on this assignment:** *You may work with others on this assignment, but you may not copy each others' answers.* Evidence of copying will be treated as academic dishonesty. You may also ask questions on the #dailyprep channel on CampusWire, but you may not ask simply to be given the answers; giving and receiving answers on CampusWire will be treated as academic dishonesty.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjI1MDQ0NSwtOTEwNTkzMTMsLTE2Nj
-QwMTYyMzJdfQ==
+eyJoaXN0b3J5IjpbLTEyODQzMzAzMDMsLTkxMDU5MzEzLC0xNj
+Y0MDE2MjMyXX0=
 -->
