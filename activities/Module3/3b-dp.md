@@ -26,23 +26,15 @@ Being able to compute derivatives is nice, but what's more important is **being 
 + Determine whether a function is increasing, decreasing, or constant on an interval by examining the sign of its derivative. (Conversely, state the sign of a function's derivative using information about whether the function is increasing, decreasing, or constant.)
 + Determine whether a function is concave up or concave down on an interval by examining its graph.
 
-
-+ Explain the meaning of the terms _concave up_ and _concave down_ and explain the connection between concavity of a function and its first and second derivatives.  
-+ Given the graph of a function,  make a reasonable sketch of the graph of its second derivative.
-
-
-
-
-
-
 **DURING AND AFTER** your class meeting, you will learn how to do the following: 
 
-- Determine whether a function is increasing, decreasing, or constant on an interval by examining the sign of its derivative. (Conversely, state the sign of a function's derivative using information about whether the function is increasing, decreasing, or constant.)
-- Interpret the meaning of the derivative of a function that models a real-life situation, in terms instantaneous rates of change.
++ Explain the meaning of the terms _concave up_ and _concave down_ and explain the connection between concavity of a function and its first and second derivatives.  
++ Given the graph of a function, make a reasonable sketch of the graph of its second derivative.
+
 
 ## Resources for Learning
 
-**Text:** Read through [Section 1.5](https://activecalculus.org/single/sec-1-5-units.html) of the *Active Calculus* textbook. Work through the examples and all interactive exercises found at the end of the section. 
+**Text:** Read through Section 1.6 vof the *Active Calculus* textbook. Work through the examples and all interactive exercises found at the end of the section. 
 
 **Video:** At the MTH 201 playlist on YouTube (http://bit.ly/GVSUCalculus), watch the following videos. The total running time is 8:42. 
 
@@ -71,5 +63,5 @@ Your work is saved as you go, so there's no "submit" step at the end.
 
 **Getting help on this assignment:** *You may work with others on this assignment, but you may not copy each others' answers.* Evidence of copying will be treated as academic dishonesty. You may also ask questions on the #dailyprep channel on CampusWire, but you may not ask simply to be given the answers; giving and receiving answers on CampusWire will be treated as academic dishonesty.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTgxMTMwNl19
+eyJoaXN0b3J5IjpbLTE2MjA3MjkyMTNdfQ==
 -->
