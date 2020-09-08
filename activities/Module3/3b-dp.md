@@ -21,13 +21,13 @@ In Part B of Module 3 we introduce a powerful new tool for examining the rate of
 **BEFORE** your class meeting, use the Resources for Learning (below) to learn how to do the following: 
 
 + State the definition of the *second derivative* of a function.
-+ If a function is given with units for the input and output, state the units of the second derivative.
 + Determine whether a function is increasing, decreasing, or constant on an interval by examining the sign of its derivative. (Conversely, state the sign of a function's derivative using information about whether the function is increasing, decreasing, or constant.)
 + Determine whether a function is concave up or concave down on an interval by examining its graph.
 
 **DURING AND AFTER** your class meeting, you will learn how to do the following: 
 
-+ Explain the meaning of the terms _concave up_ and _concave down_ and explain the connection between concavity of a function and its first and second derivatives.  
++ Explain the connection between concavity of a function and its first and second derivatives.  
++ If a function is given with units for the input and output, state the units of the second derivative.
 + Given the graph of a function, make a reasonable sketch of the graph of its second derivative.
 
 
@@ -68,5 +68,5 @@ Your work is saved as you go, so there's no "submit" step at the end.
 
 **Getting help on this assignment:** *You may work with others on this assignment, but you may not copy each others' answers.* Evidence of copying will be treated as academic dishonesty. You may also ask questions on the #dailyprep channel on CampusWire, but you may not ask simply to be given the answers; giving and receiving answers on CampusWire will be treated as academic dishonesty.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQwMTYyMzJdfQ==
+eyJoaXN0b3J5IjpbLTkxMDU5MzEzLC0xNjY0MDE2MjMyXX0=
 -->
