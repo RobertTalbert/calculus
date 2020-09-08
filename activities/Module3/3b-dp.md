@@ -15,7 +15,6 @@ Being able to compute derivatives is nice, but what's more important is **being 
 
 **Learning Targets addressed in this module:** 
 
-- **D.2 (CORE)**: I can use derivative notation correctly, state the units of a derivative, estimate the value of a derivative using difference quotients, and correctly interpret the meaning of a derivative in context.
 - **D.3 (CORE)**: Given information about $f$, $f'$, or $f''$, I can correctly give information about $f$, $f'$, or $f''$ and the increasing/decreasing behavior and concavity of $f$ (and vice versa).
 - **D.4**: I can determine where a function is continuous or differentiable given a graph or formula of the function and explain my reasoning.
 
@@ -46,8 +45,8 @@ Being able to compute derivatives is nice, but what's more important is **being 
 - Concavity, inflection points, and second derivative (Organic Chemistry Tutor) (12:49) https://www.youtube.com/watch?v=OhqNbQi9QPk
 - Concavity introduction (Khan Academy) (9:41) https://www.youtube.com/watch?v=LcEqOzNov4E 
 - Concavity, inflection points, and second derivative (PatrickJMT) (10:23) https://www.youtube.com/watch?v=c1N8zyVhWxM 
-
-- Not a
+- Not a screencast, but [a tutorial website at Khan Academy on concavity and the second derivative](https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-analytical-applications-new/ab-5-6b/a/concavity-review). 
+- [Another tutorial website from Lamar University on concavity](https://tutorial.math.lamar.edu/classes/calci/shapeofgraphptii.aspx). Nice pictures. 
   
 You are free to search for and use other resources in addition to, or instead of the above, as long as you can work the exercises below.
 
@@ -69,5 +68,5 @@ Your work is saved as you go, so there's no "submit" step at the end.
 
 **Getting help on this assignment:** *You may work with others on this assignment, but you may not copy each others' answers.* Evidence of copying will be treated as academic dishonesty. You may also ask questions on the #dailyprep channel on CampusWire, but you may not ask simply to be given the answers; giving and receiving answers on CampusWire will be treated as academic dishonesty.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwOTgwMTc1XX0=
+eyJoaXN0b3J5IjpbLTE5OTI2MzcwNzZdfQ==
 -->
