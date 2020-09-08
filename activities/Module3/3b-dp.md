@@ -36,11 +36,10 @@ Being able to compute derivatives is nice, but what's more important is **being 
 
 **Text:** Read through [Section 1.6](https://activecalculus.org/single/sec-1-6-second-d.html) of the *Active Calculus* textbook. Work through the examples and all interactive exercises found at the end of the section. 
 
-**Video:** At the MTH 201 playlist on YouTube (http://bit.ly/GVSUCalculus), watch the following videos. The total running time is 8:42. 
+**Video:** At the MTH 201 playlist on YouTube (http://bit.ly/GVSUCalculus), watch the following videos. The total running time is 10:50.
 
 - Screencast 1.6.1: Quick review: The second derivative (3:07) https://www.youtube.com/watch?v=UtzyPEk2zxA
-- Screencast 1.6.2
-- Screencast 1.5.2: Estimating the derivative (5:15) http://www.youtube.com/watch?v=wWdijnTdkTk
+- Screencast 1.6.3: Determining concavity from a graph (7:43) https://www.youtube.com/watch?v=o1_o4E-LGsA
 
 **Bonus screencast for those who like spreadsheets:** Screencast 1.5.3: Estimating derivatives using spreadsheets (5:25) http://www.youtube.com/watch?v=CJ_OZ-Uxs3o&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=16 
   
@@ -64,5 +63,5 @@ Your work is saved as you go, so there's no "submit" step at the end.
 
 **Getting help on this assignment:** *You may work with others on this assignment, but you may not copy each others' answers.* Evidence of copying will be treated as academic dishonesty. You may also ask questions on the #dailyprep channel on CampusWire, but you may not ask simply to be given the answers; giving and receiving answers on CampusWire will be treated as academic dishonesty.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODMyMDUwM119
+eyJoaXN0b3J5IjpbLTEyNTQ5OTUyOThdfQ==
 -->
