@@ -8,15 +8,15 @@
 
 ## Overview 
 
-Being able to compute derivatives is nice, but what's more important is **being able to interpret the information that those calculations give you**. (Most of the computations we've seen and will see can be done by a computer --- but computers can't interpret meaning!) This module is a fairly compressed look at several important interpretive ideas that help us turn computations into information. In Part A, we'll look at how to estimate a derivative when you don't have much information about it, the information that the sign (positive/negative) of a derivative tells you about the derivative, and introduce the idea of the second derivative and concavity. Also, [click here for free PE credits](https://docs.google.com/forms/d/e/1FAIpQLSdbjG9LUpZWRMMzE-eGwLYGLjzuNxRps4ZrSkKtJo-Ice2qXw/viewform). 
+In Part B of Module 3 we introduce a powerful new tool for examining the rate of change in a function --- the **second derivative**. The second derivative is what you get when you find the derivative of a function, then find the derivative of *the result*. The second derivative gives infor
 
 
 ## What you will learn 
 
 **Learning Targets addressed in this module:** 
 
+- **D.2 (CORE)**: I can use derivative notation correctly, state the units of a derivative, estimate the value of a derivative using difference quotients, and correctly interpret the meaning of a derivative in context.
 - **D.3 (CORE)**: Given information about $f$, $f'$, or $f''$, I can correctly give information about $f$, $f'$, or $f''$ and the increasing/decreasing behavior and concavity of $f$ (and vice versa).
-- **D.4**: I can determine where a function is continuous or differentiable given a graph or formula of the function and explain my reasoning.
 
 **BEFORE** your class meeting, use the Resources for Learning (below) to learn how to do the following: 
 
@@ -68,5 +68,5 @@ Your work is saved as you go, so there's no "submit" step at the end.
 
 **Getting help on this assignment:** *You may work with others on this assignment, but you may not copy each others' answers.* Evidence of copying will be treated as academic dishonesty. You may also ask questions on the #dailyprep channel on CampusWire, but you may not ask simply to be given the answers; giving and receiving answers on CampusWire will be treated as academic dishonesty.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTI2MzcwNzZdfQ==
+eyJoaXN0b3J5IjpbLTEyMjI1NjE0MjVdfQ==
 -->
