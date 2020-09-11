@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>201-aep3</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#aep-3-local-linear-approximations">AEP 3: Local linear approximations</a>
+<ul>
+<li><a href="#overview">Overview</a></li>
+<li><a href="#technology-background">Technology Background</a></li>
+<li><a href="#aep-description-and-tasks">AEP Description and Tasks</a></li>
+<li><a href="#assignment-expectations-and-grading-criteria">Assignment Expectations and Grading Criteria</a></li>
+<li><a href="#submitting-your-work">Submitting your work</a></li>
+<li><a href="#getting-help">Getting Help</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="aep-3-local-linear-approximations">AEP 3: Local linear approximations</h1>
+<h2 id="overview">Overview</h2>
+<p>In this AEP, you’ll learn how to build simple approximations to complicated functions using derivatives, and then use those models to make reasonably accurate predictions and forecasts.</p>
+<p><strong>Learning Targets associated with this AEP:</strong></p>
+<ul>
+<li><strong>D.3</strong>  <strong>(CORE)</strong>: Given information about <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>f</mi></mrow><annotation encoding="application/x-tex">f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.88888em; vertical-align: -0.19444em;"></span><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span></span></span></span></span>, <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>f</mi><mo mathvariant="normal">′</mo></msup></mrow><annotation encoding="application/x-tex">f'</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.946332em; vertical-align: -0.19444em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.751892em;"><span class="" style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span></span>, or <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>f</mi><mrow><mo mathvariant="normal">′</mo><mo mathvariant="normal">′</mo></mrow></msup></mrow><annotation encoding="application/x-tex">f''</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.946332em; vertical-align: -0.19444em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.751892em;"><span class="" style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span></span>, I can correctly give information about <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>f</mi></mrow><annotation encoding="application/x-tex">f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.88888em; vertical-align: -0.19444em;"></span><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span></span></span></span></span>, <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>f</mi><mo mathvariant="normal">′</mo></msup></mrow><annotation encoding="application/x-tex">f'</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.946332em; vertical-align: -0.19444em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.751892em;"><span class="" style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span></span>, or <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>f</mi><mrow><mo mathvariant="normal">′</mo><mo mathvariant="normal">′</mo></mrow></msup></mrow><annotation encoding="application/x-tex">f''</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.946332em; vertical-align: -0.19444em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.751892em;"><span class="" style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span></span> and the increasing/decreasing behavior and concavity of <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>f</mi></mrow><annotation encoding="application/x-tex">f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.88888em; vertical-align: -0.19444em;"></span><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span></span></span></span></span> (and vice versa).</li>
+<li><strong>D.4</strong>: I can find the equation of the tangent line to a function at a point and use the tangent line to estimate values of the function.</li>
+</ul>
+<p>Remember, AEPs do not have fixed deadlines; simply work on this item until you are ready to submit it. But remember the <strong>Two Items Per Week Rule.</strong></p>
+<h2 id="technology-background">Technology Background</h2>
+<p>No special technology skills are needed for this AEP.</p>
+<h2 id="aep-description-and-tasks">AEP Description and Tasks</h2>
+<h3 id="what-this-aep-is-about">What this AEP is about</h3>
+<p>Functions can be simple, like <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup></mrow><annotation encoding="application/x-tex">y=x^2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="mord mathdefault" style="margin-right: 0.03588em;">y</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.814108em; vertical-align: 0em;"></span><span class="mord"><span class="mord mathdefault">x</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.814108em;"><span class="" style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span></span>. Or they can be ridiculously complex, <a href="https://en.wikipedia.org/wiki/Gamma_function">like this one</a>:<br>
+<img src="https://i.ibb.co/SN3nCK1/325px-Gamma-plot-svg.png" alt="enter image description here"></p>
+<p>Most functions that tell us important things about the world are either ridiculously complicated formulas, or they don’t have formulas at all! For example the price of Google stock over time is important, but there’s no formula for it — just data, which we can graph, but not turn into a formula:</p>
+<p><img src="https://i.imgur.com/HYxLDpT.jpg" alt="enter image description here"></p>
+<p>So the math that we learned in high school, where everything comes from a nice-looking formula, has limited usefulness. In real life, we are working with either complicated formulas or no formulas at all, and yet we still have to work with these functions to learn things and make decisions. For example, how might we use the information about Google’s stock values shown above, to predict the value of the stock next week, and make a decision about whether to invest in it or not?</p>
+<p>In this AEP, you’ll learn a technique for doing this. It involves approximating the derivative of a function, replacing the function with its tangent line at a point, and then using the tangent line to make forecasts and fill in missing data.</p>
+<h3 id="setup-do-this-first">Setup (do this first)</h3>
+<p>Before you do any of the AEP tasks, you’ll need to do some background learning first:</p>
+<ol>
+<li>
+<p>Read Section 1.8 (“The Tangent Line Approximation”) in the textbook and work through the four interactive exercises at the end of the section. Here’s a link to the online version: <a href="http://gvsu.edu/s/0PB">http://gvsu.edu/s/0PB</a></p>
+</li>
+<li>
+<p>Watch the following four videos at the GVSU Math Department Youtube channel:</p>
+<ul>
+<li>Quick review of the tangent line approximation (2:18) <a href="http://gvsu.edu/s/0PC">http://gvsu.edu/s/0PC</a></li>
+<li>Calculating a tangent line (5:42) <a href="http://gvsu.edu/s/0PD">http://gvsu.edu/s/0PD</a></li>
+<li>Using a tangent line (3:27) <a href="http://gvsu.edu/s/0PE">http://gvsu.edu/s/0PE</a></li>
+<li>Using the local linearization (7:07) <a href="http://gvsu.edu/s/0PF">http://gvsu.edu/s/0PF</a></li>
+</ul>
+</li>
+</ol>
+<p>There is nothing to submit for grading here; these are just tasks you need to complete to get up to speed for the main tasks, below.</p>
+<h3 id="tasks-for-this-aep">Tasks for this AEP</h3>
+<ol>
+<li>Suppose <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>y</mi><mo>=</mo><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">y = f(x)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="mord mathdefault" style="margin-right: 0.03588em;">y</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span><span class="mopen">(</span><span class="mord mathdefault">x</span><span class="mclose">)</span></span></span></span></span> is a function and we know <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>f</mi><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo><mo>=</mo><mn>10</mn></mrow><annotation encoding="application/x-tex">f(3) = 10</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span><span class="mopen">(</span><span class="mord">3</span><span class="mclose">)</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.64444em; vertical-align: 0em;"></span><span class="mord">1</span><span class="mord">0</span></span></span></span></span> and <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>f</mi><mo mathvariant="normal">′</mo></msup><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo><mo>=</mo><mo>−</mo><mn>1.25</mn></mrow><annotation encoding="application/x-tex">f'(3) = -1.25</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1.00189em; vertical-align: -0.25em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.751892em;"><span class="" style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mopen">(</span><span class="mord">3</span><span class="mclose">)</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.72777em; vertical-align: -0.08333em;"></span><span class="mord">−</span><span class="mord">1</span><span class="mord">.</span><span class="mord">2</span><span class="mord">5</span></span></span></span></span>. The reading and video in the “Setup” section above teaches you about the <em>local linearization</em> of a function. Using the knowledge that <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>f</mi><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo><mo>=</mo><mn>10</mn></mrow><annotation encoding="application/x-tex">f(3) = 10</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span><span class="mopen">(</span><span class="mord">3</span><span class="mclose">)</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.64444em; vertical-align: 0em;"></span><span class="mord">1</span><span class="mord">0</span></span></span></span></span> and <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>f</mi><mo mathvariant="normal">′</mo></msup><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo><mo>=</mo><mo>−</mo><mn>1.25</mn></mrow><annotation encoding="application/x-tex">f'(3) = -1.25</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1.00189em; vertical-align: -0.25em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.751892em;"><span class="" style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mopen">(</span><span class="mord">3</span><span class="mclose">)</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.72777em; vertical-align: -0.08333em;"></span><span class="mord">−</span><span class="mord">1</span><span class="mord">.</span><span class="mord">2</span><span class="mord">5</span></span></span></span></span>, find a local linearization for <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>f</mi></mrow><annotation encoding="application/x-tex">f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.88888em; vertical-align: -0.19444em;"></span><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span></span></span></span></span> at <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi><mo>=</mo><mn>3</mn></mrow><annotation encoding="application/x-tex">x=3</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.43056em; vertical-align: 0em;"></span><span class="mord mathdefault">x</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.64444em; vertical-align: 0em;"></span><span class="mord">3</span></span></span></span></span>, then use it to estimate the value of <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>f</mi><mo stretchy="false">(</mo><mn>5</mn><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">f(5)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span><span class="mopen">(</span><span class="mord">5</span><span class="mclose">)</span></span></span></span></span>. Be sure to explain your steps and thought processes clearly.</li>
+<li>According to the data about Google stock prices whose graph you saw above, the value of Google stock over the course of the morning of Thursday, September 10, 2020 was:</li>
+</ol>
+
+<table>
+<thead>
+<tr>
+<th>Time</th>
+<th>9:30am</th>
+<th>10:00am</th>
+<th>10:30am</th>
+<th>11:00am</th>
+<th>11:30am</th>
+<th>Noon</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Value (US dollars)</td>
+<td>1550.18</td>
+<td>1559.01</td>
+<td>1567.66</td>
+<td>1554.56</td>
+<td>1565.76</td>
+<td>1557.98</td>
+</tr>
+</tbody>
+</table><p>Make a table of values for the <em>derivative</em> of the stock values at each of these times. For each value in the derivative table, explain how you got the value. And show your work on at least a couple of the calculations.</p>
+<ol start="3">
+<li>Find a local linearization of Google’s stock value at noon, and use it to predict the stock price at 1:00pm on September 10.</li>
+<li>Use the same local linearization you found in the previous task to predict Google’s stock value at 1:00pm on Friday, September 11. How accurate do you expect this prediction to be? If there are any potential issues with the accuracy, explain them.</li>
+<li>We can also use local linearizations to find data within the table that aren’t shown. This process is called <em>interpolation</em>. Find a local linearization of Google’s stock value at 10:00am and use it to estimate the stock value at 10:15am.</li>
+<li>Now make a table of values for the <em>second derivative</em> of Google’s stock value, at each of the half-hour increments from 9:30am to noon. For each value in the derivative table, explain how you got the value. And show your work on at least a couple of the calculations.</li>
+<li>Look at the second derivative of the stock value at noon. Given the sign of the second derivative, what does it tell you about the behavior or shape of the original stock values?</li>
+<li>Look at your prediction of the stock values at 1:00pm from the fourth task above, and also your response to the previous task about what the second derivative tells you. Given this information, do you expect your prediction of the stock prices at 1:00pm to be an <em>overestimate</em> (i.e. the estimated value will turn out to be bigger than the actual value of the stock once 1:00pm arrives), an <em>underestimate</em> (the estimated value will turn out to be smaller than the actual value of the stock once 1:00pm arrives), or exactly equal to the actual stock value at 1:00pm? Give a thorough explanation of your answer.</li>
+</ol>
+<h2 id="assignment-expectations-and-grading-criteria">Assignment Expectations and Grading Criteria</h2>
+<p>AEPs are graded using the “EMRN” rubric found in the syllabus. Please note, it is the case with all AEP’s that <strong>your grade is primarily based on your explanations and writing, and only secondarily on the precision and correctness of your computations.</strong> Correct computations with insufficient explanation will need to be revised and may receive an “N” grade.</p>
+<p>Also, <strong>significant incompleteness will result in a grade of “N”.</strong> This includes the following:</p>
+<ul>
+<li><strong>Giving answers with no explanations.</strong> As mentioned above, you are being graded on explanations and writing, not so much on answers. Submissions that contain items where there is an answer with no explanation or insufficient explanation, will be graded “N” and returned without comment.</li>
+<li>Leaving items blank (even accidentally)</li>
+<li>Leaving large gaps in computations (skipping important steps)</li>
+<li>Giving only partial attempts at tasks (for example, working down to a certain point in a solution and then stopping because you need help)</li>
+</ul>
+<p><strong>A grade of E or M requires all of the following to be met:</strong></p>
+<ul>
+<li>All work needs to be shown <em>and</em> your thought processes clearly expressed in all of the tasks of the assignment. The results also need to be correct.</li>
+<li>All the information needed for an “outsider” to understand your work needs to be self-contained within the work. <strong>The reader should not have to do any work to fill in gaps.</strong></li>
+<li>Explanations must be given in clearly written and grammatically correct English. Multiple instances of failure to capitalize beginnings of sentences, subject-verb agreement, misuse of punctuation, etc. will result in a grade of R or N.</li>
+<li>Some simple mistakes in calculations are allowed, but significant errors and those that lead to incorrect explanations will probably result in a grade or R or N.</li>
+</ul>
+<p>There are some additional formatting requirements in the “Submitting your work” section below.</p>
+<p>A grade of “E” is given if all of the above expectations are met, and the work is of superior quality in terms of the clarity of explanations and work, appearance of the writeup, and precision of the mathematics.</p>
+<h2 id="submitting-your-work">Submitting your work</h2>
+<p><strong>AEP submissions must be typewritten and saved as either a PDF or MS Word file. No part of your submission may involve handwriting; work that is submitted that contains handwriting will be graded N and returned without feedback.</strong> This includes electronic handwritten docments, for example using a stylus and a note-taking app. To type up your work, you can use MS Word or Google Docs (both of which have equation editors for mathematical notation) or any other computer-based math typesetting tool. Just make sure you save your work as a Word document or PDF (no <code>.odt</code>, <code>.rtf</code>, or other file extensions are allowed).</p>
+<p>When you have your work typed up, double-check it for neatness, correctness, and clarity. Then, go to Blackboard, then <strong>Assignments</strong>, then <strong>AEP</strong>, then <strong>AEP 3</strong>. Clicking on the text “AEP 1” will take you to a place on Blackboard where you can upload your work. All grading and revisions of labs are done entirely on Blackboard. <strong>Do not email your work to the professor</strong> – only Blackboard submissions are accepted.</p>
+<h2 id="getting-help">Getting Help</h2>
+<p>Please note that according to the syllabus, for AEP’s <strong>“no interactions at all with another person or with unauthorized sources on the internet is allowed.”</strong> Violations of this rule include <em>any</em> consultation with other students or former students, including Math Center tutors; using work from another student or former student; submitting the problem set to an online help site such as Chegg or Coursehero; or asking for help in an online forum. All such violations will be treated as academic dishonesty and will result in a grade of “N” and being banned from revising the work.</p>
+<p>You <strong>may</strong> ask me (Talbert) for help on this assignment in the form of <strong>specific mathematical or technical questions</strong>. If I cannot answer a question because it would give too much away, I’ll tell you so. <strong>However please note: I will not “look over your work” before you submit it to give you feedback on the overall submission</strong>; the expectations are clearly laid out above, so just follow those directions and submit your best work, and you’ll be allowed to revise it if needed.</p>
+<p><strong>You can ask technology related questions to anyone at any time</strong>. For example if you need help with Desmos, or with figuring out how to type up your work, there are no restrictions on that. I recommend the <code>#tech</code> channel on Campuswire so that you’ll reach a large audience.</p>
+
+    </div>
+  </div>
+</body>
+
+</html>
