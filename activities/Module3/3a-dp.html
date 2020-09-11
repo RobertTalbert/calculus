@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>3a-dp</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#mth-201-calculus">MTH 201: Calculus</a>
+<ul>
+<li><a href="#daily-preparation-module-3a-interpreting-and-estimating-derivatives">Daily Preparation, Module 3A: Interpreting and estimating derivatives</a></li>
+<li><a href="#overview">Overview</a></li>
+<li><a href="#what-you-will-learn">What you will learn</a></li>
+<li><a href="#resources-for-learning">Resources for Learning</a></li>
+<li><a href="#exercises">Exercises</a></li>
+<li><a href="#submission-grading-and-getting-help">Submission, grading, and getting help</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="mth-201-calculus">MTH 201: Calculus</h1>
+<h2 id="daily-preparation-module-3a-interpreting-and-estimating-derivatives">Daily Preparation, Module 3A: Interpreting and estimating derivatives</h2>
+<p><strong>Due by:</strong> 11:59pm ET, Sunday September 20</p>
+<p><strong>Estimated time requirement:</strong> About 45-60 minutes for the whole assignment. <em>If you have worked on this assignment for 30 minutes and you’re not at least halfway done, DON’T work any further</em> — instead, <em>stop and ask for help</em> on the <code>#dailyprep</code> channel on CampusWire.</p>
+<h2 id="overview">Overview</h2>
+<p>Being able to compute derivatives is nice, but what’s more important is <strong>being able to interpret the information that those calculations give you</strong>. (Most of the computations we’ve seen and will see can be done by a computer — but computers can’t interpret meaning!) This module is a fairly compressed look at several important interpretive ideas that help us turn computations into information. In Part A, we’ll look at how to estimate a derivative when you don’t have much information about it, the information that the sign (positive/negative) of a derivative tells you about the derivative, and introduce the idea of the second derivative and concavity. Also, <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbjG9LUpZWRMMzE-eGwLYGLjzuNxRps4ZrSkKtJo-Ice2qXw/viewform">click here for free PE credits</a>.</p>
+<h2 id="what-you-will-learn">What you will learn</h2>
+<p><strong>Learning Targets addressed in this module:</strong></p>
+<ul>
+<li><strong>D.2 (CORE)</strong>: I can use derivative notation correctly, state the units of a derivative, estimate the value of a derivative using difference quotients, and correctly interpret the meaning of a derivative in context.</li>
+<li><strong>D.3 (CORE)</strong>: Given information about <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>f</mi></mrow><annotation encoding="application/x-tex">f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.88888em; vertical-align: -0.19444em;"></span><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span></span></span></span></span>, <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>f</mi><mo mathvariant="normal">′</mo></msup></mrow><annotation encoding="application/x-tex">f'</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.946332em; vertical-align: -0.19444em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.751892em;"><span class="" style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span></span>, or <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>f</mi><mrow><mo mathvariant="normal">′</mo><mo mathvariant="normal">′</mo></mrow></msup></mrow><annotation encoding="application/x-tex">f''</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.946332em; vertical-align: -0.19444em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.751892em;"><span class="" style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span></span>, I can correctly give information about <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>f</mi></mrow><annotation encoding="application/x-tex">f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.88888em; vertical-align: -0.19444em;"></span><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span></span></span></span></span>, <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>f</mi><mo mathvariant="normal">′</mo></msup></mrow><annotation encoding="application/x-tex">f'</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.946332em; vertical-align: -0.19444em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.751892em;"><span class="" style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span></span>, or <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>f</mi><mrow><mo mathvariant="normal">′</mo><mo mathvariant="normal">′</mo></mrow></msup></mrow><annotation encoding="application/x-tex">f''</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.946332em; vertical-align: -0.19444em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.751892em;"><span class="" style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span></span> and the increasing/decreasing behavior and concavity of <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>f</mi></mrow><annotation encoding="application/x-tex">f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.88888em; vertical-align: -0.19444em;"></span><span class="mord mathdefault" style="margin-right: 0.10764em;">f</span></span></span></span></span> (and vice versa).</li>
+<li><strong>D.4</strong>: I can determine where a function is continuous or differentiable given a graph or formula of the function and explain my reasoning.</li>
+</ul>
+<p><strong>BEFORE</strong> your class meeting, use the Resources for Learning (below) to learn how to do the following:</p>
+<ul>
+<li>If a function is given with units for the input and output, state the units of the derivative.</li>
+<li>Estimate the value of a derivative at a point using forward, backward, and central difference calculations.</li>
+</ul>
+<p><strong>DURING AND AFTER</strong> your class meeting, you will learn how to do the following:</p>
+<ul>
+<li>Determine whether a function is increasing, decreasing, or constant on an interval by examining the sign of its derivative. (Conversely, state the sign of a function’s derivative using information about whether the function is increasing, decreasing, or constant.)</li>
+<li>Interpret the meaning of the derivative of a function that models a real-life situation, in terms instantaneous rates of change.</li>
+</ul>
+<h2 id="resources-for-learning">Resources for Learning</h2>
+<p><strong>Text:</strong> Read through <a href="https://activecalculus.org/single/sec-1-5-units.html">Section 1.5</a> of the <em>Active Calculus</em> textbook. Work through the examples and all interactive exercises found at the end of the section.</p>
+<p><strong>Video:</strong> At the MTH 201 playlist on YouTube (<a href="http://bit.ly/GVSUCalculus">http://bit.ly/GVSUCalculus</a>), watch the following videos. The total running time is 8:42.</p>
+<ul>
+<li>Screencast 1.5.1: Quick review: Interpreting, estimating, and using the derivative (3:27) <a href="http://www.youtube.com/watch?v=XZa0uNu6Uyk">http://www.youtube.com/watch?v=XZa0uNu6Uyk</a></li>
+<li>Screencast 1.5.2: Estimating the derivative (5:15) <a href="http://www.youtube.com/watch?v=wWdijnTdkTk">http://www.youtube.com/watch?v=wWdijnTdkTk</a></li>
+</ul>
+<p><strong>Bonus screencast for those who like spreadsheets:</strong> Screencast 1.5.3: Estimating derivatives using spreadsheets (5:25) <a href="http://www.youtube.com/watch?v=CJ_OZ-Uxs3o&amp;list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&amp;index=16">http://www.youtube.com/watch?v=CJ_OZ-Uxs3o&amp;list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&amp;index=16</a></p>
+<p>You are free to search for and use other resources in addition to, or instead of the above, as long as you can work the exercises below.</p>
+<h2 id="exercises">Exercises</h2>
+<p>The exercises for this assignment are on Desmos this time.  <strong>Be sure to only use the link below for your section</strong> or your work will end up in the wrong place.</p>
+<ul>
+<li>Section 02: <a href="https://student.desmos.com/join/hun2ty">https://student.desmos.com/join/hun2ty</a></li>
+<li>Section 04: <a href="https://student.desmos.com/join/tcv5eg">https://student.desmos.com/join/tcv5eg</a></li>
+</ul>
+<p>Your work is saved as you go, so there’s no “submit” step at the end.</p>
+<h2 id="submission-grading-and-getting-help">Submission, grading, and getting help</h2>
+<p><strong>Submitting your work:</strong> Just work through the activities; your work is saved as you go.</p>
+<p><strong>How this is graded:</strong> Daily Prep assignments are graded on the basis of <em>completeness and effort</em>: If your submission has <strong>all parts completed</strong> (no blank entries, even if left blank accidentally) and <strong>a good-faith effort to provide a correct solution or explanation is given</strong> (no responses of “I don’t know” or “I didn’t understand”) and <strong>the work is submitted on time</strong>, it gets a “check”. Otherwise it gets an “x”. If you are stuck on an item, you’re expected to ask questions and give your best effort.</p>
+<p><strong>Getting help on this assignment:</strong> <em>You may work with others on this assignment, but you may not copy each others’ answers.</em> Evidence of copying will be treated as academic dishonesty. You may also ask questions on the #dailyprep channel on CampusWire, but you may not ask simply to be given the answers; giving and receiving answers on CampusWire will be treated as academic dishonesty.</p>
+
+    </div>
+  </div>
+</body>
+
+</html>
