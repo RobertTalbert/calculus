@@ -29,7 +29,8 @@ Advanced:
 Notes: 
 
 - Add review for exponential functions, natural log, the number e
-- Class activity fo
+- Class activity focuses on Activities 2.1.3 and 2.1.4
+- Followup is on more applications, correct use of notation
 
 
 
@@ -39,5 +40,5 @@ Notes:
 -   Compute the derivative of the sine and cosine functions.
 -   Use basic derivative rules to solve problems about slopes, velocities, and rates of change involving basic functions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjU0NTMwNDRdfQ==
+eyJoaXN0b3J5IjpbLTE1OTEyNTAwNDddfQ==
 -->
