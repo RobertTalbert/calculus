@@ -30,7 +30,7 @@ Notes:
 
 - Add review for exponential functions, natural log, the number e
 - Class activity focuses on Activities 2.1.3 and 2.1.4
-- Followup is on more applications, correct use of notation
+- Followup is on more applications, correct use of notation, second derivatives and concavity
 
 
 
@@ -47,6 +47,6 @@ $h(w) = w^{3/4}$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzEzNzQ2ODUsLTE1OTEyNTAwNDddfQ
-==
+eyJoaXN0b3J5IjpbLTIxMTgzMTUyMjYsLTIwNzEzNzQ2ODUsLT
+E1OTEyNTAwNDddfQ==
 -->
