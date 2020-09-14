@@ -16,9 +16,20 @@ Main learning targets:
 
 ## Part A
 
+Basic: 
+
 -   Compute (without using limits) the derivatives of constant, power, and exponential functions.
 -  Compute the derivative of constant multiples and sums of constant, power, and exponential functions.
+
+Advanced:
+
 -   Use basic derivative rules to solve problems about slopes, velocities, and rates of change involving basic functions.
+
+
+Notes: 
+
+- Add review for exponential functions, natural log, the number e
+- Class activity fo
 
 
 
@@ -28,5 +39,5 @@ Main learning targets:
 -   Compute the derivative of the sine and cosine functions.
 -   Use basic derivative rules to solve problems about slopes, velocities, and rates of change involving basic functions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI3Mjc2MzNdfQ==
+eyJoaXN0b3J5IjpbLTE5MjU0NTMwNDRdfQ==
 -->
