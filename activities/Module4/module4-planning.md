@@ -39,6 +39,14 @@ Notes:
 
 -   Compute the derivative of the sine and cosine functions.
 -   Use basic derivative rules to solve problems about slopes, velocities, and rates of change involving basic functions.
+
+
+## Throwaway -- math notation
+
+$h(w) = w^{3/4}$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTEyNTAwNDddfQ==
+eyJoaXN0b3J5IjpbLTIwNzEzNzQ2ODUsLTE1OTEyNTAwNDddfQ
+==
 -->
