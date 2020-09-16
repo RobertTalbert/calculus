@@ -40,6 +40,18 @@ Notes:
 -   Compute the derivative of the sine and cosine functions.
 -   Use basic derivative rules to solve problems about slopes, velocities, and rates of change involving basic functions.
 
+Pre-class: 
+
+- Desmos activity to sketch derivative of sin(x) 
+- Why isn't derivative of cos(x) = sin(x)
+- Trig review (just sin, cos values) 
+
+
+In class: 
+
+- Activity 2.2.4 plus Exercise 2
+
+
 
 ## Throwaway -- math notation
 
@@ -47,6 +59,6 @@ $h(w) = w^{3/4}$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTgzMTUyMjYsLTIwNzEzNzQ2ODUsLT
-E1OTEyNTAwNDddfQ==
+eyJoaXN0b3J5IjpbLTg3MTYyMjA4MSwtMjExODMxNTIyNiwtMj
+A3MTM3NDY4NSwtMTU5MTI1MDA0N119
 -->
