@@ -1,0 +1,174 @@
+assignmentType      = default
+openDate          = 09/01/2020 at 11:23am EDT
+reducedScoringDate = 12/31/1969 at 07:00pm EST
+dueDate           = 09/13/2020 at 11:59pm EDT
+answerDate        = 09/14/2020 at 11:59pm EDT
+enableReducedScoring = N
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = 
+restrictProbProgression = 
+emailInstructor   = 
+
+problemListV2 
+problem_start
+problem_id = 1
+source_file = Library/ASU-topics/setRateChange/xs2_1_8.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 2
+source_file = Library/UCSB/Stewart5_2_1/Stewart5_2_1_7.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 3
+source_file = Library/UCSB/Stewart5_2_1/Stewart5_2_1_6.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 4
+source_file = Library/Rochester/setLimitsRates1TangentVelocity/s1_1_5.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 5
+source_file = Library/Rochester/setLimitsRates1TangentVelocity/s1_1_2.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 6
+source_file = Library/UCSB/Stewart5_2_1/Stewart5_2_1_2.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 7
+source_file = Library/WHFreeman/Rogawski_Calculus_Early_Transcendentals_Second_Edition/2_Limits/2.2_Limits-_A_Numerical_and_Graphical_Approach/2.2.5.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 8
+source_file = Library/Westmont/ActiveCalculus/Preview_1_2/preview_1_2_b/preview_1_2_b.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 9
+source_file = Library/UVA-Stew5e/setUVA-Stew5e-C02S03-CalcLimits/2-3-12.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 10
+source_file = Library/ASU-topics/setLimitConcepts/3-2-43.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 11
+source_file = Library/ASU-topics/setRateChange/3-3-01.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 12
+source_file = Library/UCSB/Stewart5_2_3/Stewart5_2_3_15.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 13
+source_file = Library/PCC/BasicAlgebra/FunctionBasics/EvaluateFunction80.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 14
+source_file = Library/PCC/BasicAlgebra/FunctionBasics/Functions250.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 15
+source_file = Library/FortLewis/Basic-skills-pretest/Skill-Assessment-29.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 16
+source_file = Library/LoyolaChicago/Precalc/Chap2Review/Q14.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+
