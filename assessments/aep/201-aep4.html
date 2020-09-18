@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>201-aep4</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li>
+<ul>
+<li><a href="#overview">Overview</a></li>
+<li><a href="#technology-background">Technology Background</a></li>
+<li><a href="#aep-description-and-tasks">AEP Description and Tasks</a></li>
+<li><a href="#assignment-expectations-and-grading-criteria">Assignment Expectations and Grading Criteria</a></li>
+<li><a href="#submitting-your-work">Submitting your work</a></li>
+<li><a href="#getting-help">Getting Help</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <p># AEP 4: Continuity and differentiability</p>
+<h2 id="overview">Overview</h2>
+<p>This AEP is more “extension” than “application”, as we look at some fine details about functions that have an impact on how we work with their derivatives.</p>
+<p><strong>Learning Targets associated with this AEP:</strong></p>
+<ul>
+<li>L.1: <strong>(CORE)</strong> I can find the limit of a function at a point using numerical, graphical, and algebraic methods.</li>
+</ul>
+<p>Remember, AEPs do not have fixed deadlines; simply work on this item until you are ready to submit it. But remember the <strong>Two Items Per Week Rule.</strong></p>
+<h2 id="technology-background">Technology Background</h2>
+<p>No special technology skills are needed for this AEP.</p>
+<h2 id="aep-description-and-tasks">AEP Description and Tasks</h2>
+<h3 id="what-this-aep-is-about">What this AEP is about</h3>
+<p>When we think about functions and their derivatives, we make a lot of assumptions about the behavior of those functions that aren’t necessarily satisfied in reality. For example, we’ve assumed that functions look like their tangent lines as we zoom in on their graphs. But that’s not always true — for example, look at the graph of the absolute value function <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>y</mi><mo>=</mo><mi mathvariant="normal">∣</mi><mi>x</mi><mi mathvariant="normal">∣</mi></mrow><annotation encoding="application/x-tex">y = |x|</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="mord mathdefault" style="margin-right: 0.03588em;">y</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mord">∣</span><span class="mord mathdefault">x</span><span class="mord">∣</span></span></span></span></span> near <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">x=0</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.43056em; vertical-align: 0em;"></span><span class="mord mathdefault">x</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.64444em; vertical-align: 0em;"></span><span class="mord">0</span></span></span></span></span>:</p>
+<p><img src="https://i.ibb.co/mbsL3gP/desmos-graph.png" alt="enter image description here"></p>
+<p>It doesn’t matter how close you zoom in on that sharp point at <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">x=0</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.43056em; vertical-align: 0em;"></span><span class="mord mathdefault">x</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.64444em; vertical-align: 0em;"></span><span class="mord">0</span></span></span></span></span> — the function will never “flatten out” to a single line. So there’s <em>no tangent line</em> to this graph at this point. (Although, the tangent line exists at every <em>other</em> point.)</p>
+<p>We also have ignored functions that have holes in their graphs, like this one:</p>
+<p><img src="https://i.ibb.co/k0g0gZd/desmos-graph-19.png" alt="enter image description here"></p>
+<p>What’s the derivative of this function at <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow><annotation encoding="application/x-tex">x=2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.43056em; vertical-align: 0em;"></span><span class="mord mathdefault">x</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.64444em; vertical-align: 0em;"></span><span class="mord">2</span></span></span></span></span>? It’s hard to say — the function is defined at <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow><annotation encoding="application/x-tex">x=2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.43056em; vertical-align: 0em;"></span><span class="mord mathdefault">x</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.64444em; vertical-align: 0em;"></span><span class="mord">2</span></span></span></span></span>, but it’s just a dot floating in space at <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>y</mi><mo>=</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">y=1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="mord mathdefault" style="margin-right: 0.03588em;">y</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.64444em; vertical-align: 0em;"></span><span class="mord">1</span></span></span></span></span>. We can’t attach a tangent line to a dot!</p>
+<p>So in this AEP, you’re going to fill in the details about these situations and build some tools for determining when a function has a condition where the derivative would be difficult or impossible to compute.</p>
+<p>This material comes directly from <a href="https://activecalculus.org/single/sec-1-7-lim-cont-diff.html">Section 1.7 of <em>Active Calculus</em></a>. We’re not covering it in the course, but this AEP gives you a chance to learn it independently.</p>
+<h3 id="setup-do-this-first">Setup (do this first)</h3>
+<p>Before you do any of the AEP tasks, you’ll need to do some background learning first:</p>
+<ol>
+<li>Read through <a href="https://activecalculus.org/single/sec-1-7-lim-cont-diff.html">Section 1.7 of <em>Active Calculus</em></a>. Especially, try the interactive exercises at the end of the section.</li>
+<li>Watch the following video content from the GVSUMath YouTube channel:</li>
+</ol>
+<ul>
+<li>Quick review: Limits, continuity, and differentiability (4:02) <a href="https://www.youtube.com/watch?v=7-S0qHpnddk">https://www.youtube.com/watch?v=7-S0qHpnddk</a></li>
+<li>More limits (5:58) <a href="https://www.youtube.com/watch?v=OmgIej6fHrc">https://www.youtube.com/watch?v=OmgIej6fHrc</a></li>
+<li>Determining continuity (7:22) <a href="https://www.youtube.com/watch?v=71PGm02zFjw">https://www.youtube.com/watch?v=71PGm02zFjw</a></li>
+<li>Determining differentiability graphically (4:41) <a href="https://www.youtube.com/watch?v=_vimObBaJxI">https://www.youtube.com/watch?v=_vimObBaJxI</a></li>
+</ul>
+<p>There is nothing to submit for grading here; these are just tasks you need to complete to get up to speed for the main tasks, below.</p>
+<h3 id="tasks-for-this-aep">Tasks for this AEP</h3>
+<ol>
+<li>Work completely through Activity 1.7.2 and put your work in the writeup. For part (e), a neatly hand-drawn graph is OK, or you can plot the function in Desmos. (<a href="https://support.desmos.com/hc/en-us/articles/203192385-Piecewise">Here’s how to plot a piecewise function in Desmos</a>.) If you do a hand-drawn graph, include an image of the graph in your writeup — do not submit it on paper.</li>
+<li>Work completely through Activity 1.7.3 and put your work in the writeup.</li>
+<li>Work completely through Activity 1.7.4 and put your work in the writeup.</li>
+<li>Work completely through Exercise 6 at the end of this section, and put your work in the writeup.</li>
+</ol>
+<h2 id="assignment-expectations-and-grading-criteria">Assignment Expectations and Grading Criteria</h2>
+<p>AEPs are graded using the “EMRN” rubric found in the syllabus. Please note, it is the case with all AEP’s that <strong>your grade is primarily based on your explanations and writing, and only secondarily on the precision and correctness of your computations.</strong> Correct computations with insufficient explanation will need to be revised and may receive an “N” grade.</p>
+<p>Also, <strong>significant incompleteness will result in a grade of “N”.</strong> This includes the following:</p>
+<ul>
+<li><strong>Giving answers with no explanations.</strong> As mentioned above, you are being graded on explanations and writing, not so much on answers. Submissions that contain items where there is an answer with no explanation or insufficient explanation, will be graded “N” and returned without comment.</li>
+<li>Leaving items blank (even accidentally)</li>
+<li>Leaving large gaps in computations (skipping important steps)</li>
+<li>Giving only partial attempts at tasks (for example, working down to a certain point in a solution and then stopping because you need help)</li>
+</ul>
+<p><strong>A grade of E or M requires all of the following to be met:</strong></p>
+<ul>
+<li>All work needs to be shown <em>and</em> your thought processes clearly expressed in all of the tasks of the assignment. The results also need to be correct.</li>
+<li>All the information needed for an “outsider” to understand your work needs to be self-contained within the work. <strong>The reader should not have to do any work to fill in gaps.</strong></li>
+<li>Explanations must be given in clearly written and grammatically correct English. Multiple instances of failure to capitalize beginnings of sentences, subject-verb agreement, misuse of punctuation, etc. will result in a grade of R or N.</li>
+<li>Some simple mistakes in calculations are allowed, but significant errors and those that lead to incorrect explanations will probably result in a grade or R or N.</li>
+</ul>
+<p>There are some additional formatting requirements in the “Submitting your work” section below.</p>
+<p>A grade of “E” is given if all of the above expectations are met, and the work is of superior quality in terms of the clarity of explanations and work, appearance of the writeup, and precision of the mathematics.</p>
+<h2 id="submitting-your-work">Submitting your work</h2>
+<p><strong>AEP submissions must be typewritten and saved as either a PDF or MS Word file. No part of your submission may involve handwriting; work that is submitted that contains handwriting will be graded N and returned without feedback.</strong> This includes electronic handwritten docments, for example using a stylus and a note-taking app. To type up your work, you can use MS Word or Google Docs (both of which have equation editors for mathematical notation) or any other computer-based math typesetting tool. Just make sure you save your work as a Word document or PDF (no <code>.odt</code>, <code>.rtf</code>, or other file extensions are allowed).</p>
+<p>When you have your work typed up, double-check it for neatness, correctness, and clarity. Then, go to Blackboard, then <strong>Assignments</strong>, then <strong>AEP</strong>, then <strong>AEP 4</strong>. Clicking on the text “AEP 4” will take you to a place on Blackboard where you can upload your work. All grading and revisions of labs are done entirely on Blackboard. <strong>Do not email your work to the professor</strong> – only Blackboard submissions are accepted.</p>
+<h2 id="getting-help">Getting Help</h2>
+<p>Please note that according to the syllabus, for AEP’s <strong>“no interactions at all with another person or with unauthorized sources on the internet is allowed.”</strong> Violations of this rule include <em>any</em> consultation with other students or former students, including Math Center tutors; using work from another student or former student; submitting the problem set to an online help site such as Chegg or Coursehero; or asking for help in an online forum. All such violations will be treated as academic dishonesty and will result in a grade of “N” and being banned from revising the work.</p>
+<p>You <strong>may</strong> ask me (Talbert) for help on this assignment in the form of <strong>specific mathematical or technical questions</strong>. If I cannot answer a question because it would give too much away, I’ll tell you so. <strong>However please note: I will not “look over your work” before you submit it to give you feedback on the overall submission</strong>; the expectations are clearly laid out above, so just follow those directions and submit your best work, and you’ll be allowed to revise it if needed.</p>
+<p><strong>You can ask technology related questions to anyone at any time</strong>. For example if you need help with Desmos, or with figuring out how to type up your work, there are no restrictions on that. I recommend the <code>#tech</code> channel on Campuswire so that you’ll reach a large audience.</p>
+
+    </div>
+  </div>
+</body>
+
+</html>
