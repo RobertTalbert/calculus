@@ -18,10 +18,26 @@ Although we don't really round this off until Module 6
 
 ### A
 
+Basic: 
+
 -   State the Product Rule and Quotient Rule.
 -   Use the Product Rule to differentiate products of basic functions.
 -   Use the Quotient Rule to differentiate quotients of basic functions.
+
+Advanced: 
+
+-   Use derivative rules (including PR and QR) to solve problems about slopes, velocities, and rates of change involving basic functions.
+
+
+Class Activities: 
+
+- Group practice with QR on just functions, also functions given as graphs a
+
+
+
+### B
+
 -   Compute the derivatives of the tangent, cotangent, secant, and cosecant functions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTA4NDkzN119
+eyJoaXN0b3J5IjpbNDk2OTk5MTAyXX0=
 -->
