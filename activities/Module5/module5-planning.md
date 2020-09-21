@@ -31,7 +31,9 @@ Advanced:
 
 Class Activities: 
 
-- Group practice with QR on just functions, also functions given as graphs a
+- Polling: What rule would apply, or is there a rule that applies 
+- Group practice with QR on just functions, also functions given as graphs and tables, and applications to the usual stuff. 
+- 
 
 
 
@@ -39,5 +41,5 @@ Class Activities:
 
 -   Compute the derivatives of the tangent, cotangent, secant, and cosecant functions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2OTk5MTAyXX0=
+eyJoaXN0b3J5IjpbMzI1OTk3MDcyXX0=
 -->
