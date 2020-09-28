@@ -40,6 +40,9 @@ Class Activities:
 ### B
 
 -   Compute the derivatives of the tangent, cotangent, secant, and cosecant functions.
+
+Also combinations of rules -- didn't get to this in part A
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1OTk3MDcyXX0=
+eyJoaXN0b3J5IjpbLTI2NjAxMTQ1MSwzMjU5OTcwNzJdfQ==
 -->
