@@ -37,6 +37,12 @@ Objectives:
 
 
 ## Part B: Section 2.6 (inverse functions) 
+
++ Explain what is meant by an "inverse function" and the notation $f^{-1}$. 
++ State the derivative of the function $y = \ln(x)$.
++ State the derivatives of the arcsine and arctangent functions.
++ Given an invertible function, state a rule for the derivative of its inverse.  
++ Find derivatives of inverse functions including logarithmic and inverse trig functions, in combination with other rules. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjMwODU4MV19
+eyJoaXN0b3J5IjpbLTE3MTQ0MTA4MThdfQ==
 -->
