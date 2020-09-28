@@ -29,7 +29,14 @@ Objectives:
 + Differentiate a function whose derivative involves a mixture of rules (Product, Quotient, Chain, etc.)
 
 
+**Plan:**
+
+- In class: Lots of practice decomposing functions and finding derivatives with the Chain Rule; identifying which rules to use and in which order  
+- Preclass: Review of composites, fundamental algebraic structure, using the Chain Rule in simple cases 
+- Followup: Combinations of rules + applications 
+
+
 ## Part B: Section 2.6 (inverse functions) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjc0NTA3MV19
+eyJoaXN0b3J5IjpbLTg4MjMwODU4MV19
 -->
