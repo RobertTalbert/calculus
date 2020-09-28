@@ -22,7 +22,8 @@ Micro-objectives:
 
 Objectives: 
 
-+ (Review) Determine the fundamental algebra
++ (Review) Determine the fundamental algebraic structure of a function. 
++ (Review) If the fundamental algebraic structure of a function is a *composite*, determine the inner and outer functions in the composite. 
 + State the Chain Rule.
 + Use the Chain Rule to differentiate a composite of two basic functions.
 + Differentiate a function whose derivative involves a mixture of rules (Product, Quotient, Chain, etc.)
@@ -30,5 +31,5 @@ Objectives:
 
 ## Part B: Section 2.6 (inverse functions) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjI1MzYyMF19
+eyJoaXN0b3J5IjpbMTEzMjc0NTA3MV19
 -->
