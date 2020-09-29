@@ -1,3 +1,13 @@
+# UPDATED AEP list 2020-09-29
+
+1. Data driven rates of change 
+2. Derivatives and real-world data (still without shortcuts)
+3. Local linearizations
+4. Continuity and differentiability 
+5. Revisiting AEP 2 but with shortcut rules this time
+6. 
+
+
 # Planned Application/Extension Problems for MTH 201 Fall 2020
 
 + Derivatives with technology (Module 2) 
@@ -28,3 +38,6 @@
   - Incentives: EC/tokens for completing on a timeline 
   - Required ones expire after a certain time to ensure they get done early 
 - Post more as you get more ideas 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ3MjkzMjM5XX0=
+-->
