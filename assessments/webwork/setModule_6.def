@@ -1,0 +1,174 @@
+assignmentType      = default
+openDate          = 09/30/2020 at 08:04am EDT
+reducedScoringDate = 12/31/1969 at 07:00pm EST
+dueDate           = 10/18/2020 at 11:59pm EDT
+answerDate        = 10/19/2020 at 11:59pm EDT
+enableReducedScoring = N
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = 
+restrictProbProgression = 
+emailInstructor   = 
+
+problemListV2 
+problem_start
+problem_id = 1
+source_file = Library/Union/setDervBasic/3-4-45.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 2
+source_file = Library/UCSB/Stewart5_3_1/Stewart5_3_1_20.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 3
+source_file = Library/Utah/Calculus_I/set6_Applications_of_the_Derivative/1210s6p7.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 4
+source_file = Library/UVA-Stew5e/setUVA-Stew5e-C03S04-DerivsTrig/3-4-25.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 5
+source_file = Library/maCalcDB/setDerivatives2Formulas/ur_dr_2_12.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 6
+source_file = Library/Wiley/setAnton_Section_2.6/Question8.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 7
+source_file = Library/ASU-topics/setChainRuleExpLogFunctions/5-3-65.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 8
+source_file = Library/ASU-topics/setChainRulePowerFunctions/5-2-28.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 9
+source_file = Library/Michigan/Chap3Sec4/Q41.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 10
+source_file = Library/UVA-Stew5e/setUVA-Stew5e-C03S05-ChainRule/3-5-33.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 11
+source_file = Library/UVA-Stew5e/setUVA-Stew5e-C03S05-ChainRule/3-5-44.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 12
+source_file = Library/Wiley/setAnton_Section_3.2/Anton3_2Q22.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 13
+source_file = Library/Rochester/setDerivatives7Log/mec5.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 14
+source_file = Library/UVA-Stew5e/setUVA-Stew5e-C03S06-ImplicitDiff/3-6-45.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 15
+source_file = Library/UMN/calculusStewartCCC/s_3_6_19.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 16
+source_file = Library/UVA-Stew5e/setUVA-Stew5e-C03S05-ChainRule/3-5-29.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+
