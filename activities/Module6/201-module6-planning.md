@@ -51,7 +51,13 @@ Objectives:
 	+ Practice with just computing with inverse functions
 	+ Practice with the definitions and properties 
 	+ Stating the derivatives 
++ In-class
+	+ Computing with the derivatives
+	+ Mini-applications
++ Follow-up
+	+ Fill in the blanks on derivation of derivative of something else 
+	+ More applications 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDU3MzcwNywtMTIxMTAxNDU5LC0xNz
-E0NDEwODE4XX0=
+eyJoaXN0b3J5IjpbNTU1NjExNDkyLC0xMjExMDE0NTksLTE3MT
+Q0MTA4MThdfQ==
 -->
