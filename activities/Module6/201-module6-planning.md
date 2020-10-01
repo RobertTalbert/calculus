@@ -48,6 +48,10 @@ Objectives:
 + Find derivatives of inverse functions including logarithmic and inverse trig functions, in combination with other rules. 
 
 + Pre-class 
+	+ Practice with just computing with inverse functions
+	+ Practice with the definitions and properties 
+	+ Stating the derivatives 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTEwMTQ1OSwtMTcxNDQxMDgxOF19
+eyJoaXN0b3J5IjpbLTQxNDU3MzcwNywtMTIxMTAxNDU5LC0xNz
+E0NDEwODE4XX0=
 -->
