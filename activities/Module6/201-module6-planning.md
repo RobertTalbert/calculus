@@ -47,8 +47,7 @@ Objectives:
 
 + Find derivatives of inverse functions including logarithmic and inverse trig functions, in combination with other rules. 
 
-
++ Pre-class 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDYyNjA2NTIsLTE3MTQ0MTA4MThdfQ
-==
+eyJoaXN0b3J5IjpbLTEyMTEwMTQ1OSwtMTcxNDQxMDgxOF19
 -->
