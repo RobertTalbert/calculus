@@ -55,9 +55,10 @@ Objectives:
 	+ Computing with the derivatives
 	+ Mini-applications
 + Follow-up
++ 	+ Derivative for log_b
 	+ Fill in the blanks on derivation of derivative of something else 
 	+ More applications 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NjExNDkyLC0xMjExMDE0NTksLTE3MT
-Q0MTA4MThdfQ==
+eyJoaXN0b3J5IjpbLTQ3NDQxNDk2MSw1NTU2MTE0OTIsLTEyMT
+EwMTQ1OSwtMTcxNDQxMDgxOF19
 -->
