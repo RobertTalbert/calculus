@@ -23,11 +23,19 @@ Focus on absolute/relative max and min; critical numbers; First Derivative Test;
 
 Micro-objectives: 
 
++ Identify the global and local minimum and maximum values of a function, given the function's graph.
++ State the definition of _critical number_ and identify all the critical numbers of a function given the function's graph.
++ State the First Derivative Test and the Second Derivative Test.  
+
++ Find all the critical numbers of a function algebraically using derivatives.
++ Use the First Derivative Test to determine whether a critical number of a function is a relative minimum, relative maximum, or neither.
++ Use the Second Derivative Test to determine whether a critical number of a function is a relative minimum or relative maximum.
+
 
 
 ## Part B
 
 Focus on concavity and inflection points 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODcwNzQ3Nl19
+eyJoaXN0b3J5IjpbLTEzNzEyMDYyNDhdfQ==
 -->
