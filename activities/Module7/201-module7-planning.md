@@ -11,12 +11,23 @@ Module 7 covers 3.1 and 3.2 -- really just 3.1, as 3.2 will be an AEP
 + Identify the inflection points of a function, given the function's graph.
 + Use the second derivative to find all inflection points of a function algebraically.
 
-Learning T
+Learning Targets: 
+
+-   DA.1  **(CORE)**: I can find the critical values of a function, determine where the function is increasing and decreasing, and apply the First and Second Derivative Tests to classify the critical points as local extrema.
+-   DA.2: I can determine the intervals of concavity of a function and find all of its points of inflection.
 
 
 ## Part A
 
+Focus on absolute/relative max and min; critical numbers; First Derivative Test; Second Derivative test
+
+Micro-objectives: 
+
+
+
 ## Part B
+
+Focus on concavity and inflection points 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTY3MjgyNV19
+eyJoaXN0b3J5IjpbLTM4ODcwNzQ3Nl19
 -->
