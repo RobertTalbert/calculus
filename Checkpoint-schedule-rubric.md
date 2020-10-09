@@ -1,5 +1,4 @@
-# Schedule of Checkpoints
-
+## Schedule for Checkpoints 
 
 | Checkpoint | Date | LT's introduced | 
 |:------:| :-----: | :------:| 
@@ -16,7 +15,7 @@
 | 11 (Final exam) | Dec 14 | none |
 
 
-# Rubrics
+## Rubrics
 
 - F.1: I can evaluate functions given in different representations, find composites of functions, and determine the domain and range of a function. (_Assessed via the Functions Bootcamp assignment_)
 - F.2: I can find the average rate of change of a function on an interval.
@@ -27,10 +26,6 @@
   - *Given*: 2-3 different functions in different representations. 
   - *To do*: State the value of the limit of each function at different points.  
   - *Check given if*: All answers are correct and explanation/work is clear and correct. 
-- L.2: I can identify limits in indeterminate form and apply L'Hopital's Rule to evaluate them. Not done in class
-  - *Given*: 2-3 limits 
-  - *To do*: Determine if each limit is an indeterminate form and explain your reasoning; if a limit is indeterminate, use L'Hopital's Rule to evaluate it. 
-  - *Check given if*: All indeterminate forms are correctly identified, and no more than one mistake due to a simple error is present. 
 - D.1 (CORE): I can find the derivative of a function, both at a point and as a function, using the definition of the derivative.
   - *Given*: 1-2 functions
   - *To do*: Use the definition and limits to find the derivative of each function at a particular point, and as a formula. 
@@ -114,5 +109,5 @@
   - *To do*: Compute the average value of the function on the interval and the net change inthe function on the interval using an integral. 
   - *Check given if*: All work is shown clearly and no more than one mistake due to a simple error is present. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTIzOTkyMzFdfQ==
+eyJoaXN0b3J5IjpbNTAzOTA1ODc0XX0=
 -->
