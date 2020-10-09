@@ -3,9 +3,9 @@
 
 | Checkpoint | Date | LT's introduced | 
 |:------:| :-----: | :------:| 
-| 1  | Sept 17 | F.1, L.1 |
+| 1  | Sept 17 | F.2, L.1 |
 | 2  | Sept 24 | D.1, D.2 | 
-| 3  | Oct 8 | D.3, D.4, D.5, DC.1 |
+| 3  | Oct 8 | D.3, D.4, DC.1 |
 | 4  | Oct 22 | DC.2, DC.3, DC.4, DA.1, DA.2 |
 | 5  | Nov 2 | DA.3, DA.4 |
 | 6  | Nov 16 | DA.5, DA.6, L.2, INT.1 |
@@ -18,7 +18,8 @@
 
 # Rubrics
 
-- F.1: I can find the average rate of change of a function on an interval.
+- F.1: I can evaluate functions given in different representations, find composites of functions, and determine the domain and range of a function. (_Assessed via the Functions Bootcamp assignment_)
+- F.2: I can find the average rate of change of a function on an interval.
   - *Given*: 2-3 different functions in different representations along with some intervals. 
   - *To do*: Compute the average rate of change of each function on the specified interval. 
   - *Check given if*: All work and explanations are clear and correct, and no more than one mistake due to a simple error is present. 
@@ -43,11 +44,7 @@
   - *To do*: Give correct conclusions about the missing function ($f$, $f'$, or $f''$) and about increasing/decreasing behavior and concavity of $f$. 
   - On some forms of this Checkpoint item, the "Given" and "To do" may be switched. 
   - *Check given if*: All conclusions drawn are correct and all reasoning is clearly explained. 
-- D.4: I can determine where a function is continuous or differentiable given a graph or formula of the function and explain my reasoning.
-  - *Given*: 2-3 functions given as graphs or formulas, along with several points
-  - *To do*: State whether each function is continuous and/or differentiable at the given points and explain the reasoning. 
-  - *Check given if*: All conclusions are correctly drawn and reasoning is clearly explained. 
-- D.5: I can find the equation of the tangent line to a function at a point and use the tangent line to estimate values of the function. 
+- D.4:  I can find the equation of the tangent line to a function at a point and use the tangent line to estimate values of the function. 
   - *Given*: 1-2 functions as formulas or graphs along with a point for each function.
   - *To do*: Find the equation of the tangent line to the graph of each function at the given point, and use the tangent line to estimate unknown values of the functions. 
   - *Check given if*: All tangent line equations are correct and reasoning is clearly explained, and no more than one mistake due to a simple error is present in the estimations. 
@@ -116,3 +113,6 @@
   - *Given*: A function in formula or graph form, and 1-2 closed intervals 
   - *To do*: Compute the average value of the function on the interval and the net change inthe function on the interval using an integral. 
   - *Check given if*: All work is shown clearly and no more than one mistake due to a simple error is present. 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5OTIzOTkyMzFdfQ==
+-->
