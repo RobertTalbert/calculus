@@ -1,0 +1,123 @@
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage{fancyhdr}
+\usepackage[latin1]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[hmargin=2cm,vmargin=2.5cm]{geometry}
+\usepackage[normalem]{ulem}
+\usepackage{enumerate}
+\usepackage{hyperref}
+
+
+
+\pagestyle{fancy}
+\setlength\parindent{0in}
+\setlength\parskip{0.1in}
+\setlength\headheight{15pt}
+
+
+\begin{document}
+
+\begin{flushright}
+	\begin{Large}
+		Miniproject 5: Using derivatives to analyze changes in relationships 
+	\end{Large}
+\end{flushright}
+
+\noindent
+\textbf{Overview:} In this miniproject, you'll construct regression models for a data set, use the techniques of Chapter 2 to find the first and second derivatives of the data at a point, and then explain what the derivative information tells you about how the relationship is being affected by change. 
+
+\medskip
+
+\noindent
+\textbf{When can I start this Miniproject?} You will need the concepts and tools of \textbf{Module 6} (How do we compute derivatives?) in this Miniproject.
+
+	
+
+\hrulefill
+
+
+\subsection*{Technology background}
+
+For ths Miniproject, you will need to know how to \textbf{plot data points} in Desmos and how to \textbf{fit data with polynomial and exponential regressions} in Desmos. To learn how to plot points in Desmos, please read the instructions in Miniproject 3. To learn how to construct regressions in Desmos, please see the instructions in Miniproject 1. 
+
+\subsection*{Miniproject description and tasks}
+
+Data sets that involve two variables that are linked together somehow are unsurprisingly called \emph{two-variable data set}. An example of a two-variable data set would be the Census Bureau population data for a city, where the population of a city is linked with the year when the population is measured. There is an implied relationship between one variable and the other. For example, in the population data, there is an implied relationship between time and population -- as time passes, population changes. Time is like the input variable to a function, and population is like the output; we call time the \textbf{independent variable} and population the \textbf{dependent variable} because population depends on time. 
+
+For this Miniproject, you are to go out onto the Internet and find a two-variable data set and analyze it. You can use any kind of data you wish, as long as: 
+	\begin{itemize}
+		\item It doesn't have to do with population and time, because that's the subject of Miniproject 1. 
+		\item The set has at least five pairs of data in it. 
+		\item The data set is real (not made up) and you can provide a link to a reference for it. 
+		\item The data set has some kind of personal relevance to you. Otherwise this assignment won't be as interesting.  
+	\end{itemize}
+Also, please use a different data set than any of the ones you have used on earlier miniprojects, if you've done any earlier miniprojects. 
+
+Place your data into a spreadsheet, such as Excel or a Google Spreadsheet with the independent variable in Column A and the dependent variable in Column B. \textbf{Note:} If the numbers in your data are large, you should consider rescaling your data using some sensible method. For example, if you are looking at household incomes that range from \$50,000 to \$500,000, then consider measuring your incomes instead in ``tens of thousands'' and let the data range from $5$ to $50$ instead. 
+
+Then copy and paste your data from the spreadsheet into a Desmos page. This will tell Desmos to produce a data table, and the data will be plotted in Desmos with the zooming level set appropriately. 
+
+At this point you're ready to begin the Miniproject tasks. 
+
+\begin{enumerate}
+	\item First, here is a warmup exercise to make sure you are familiar with the basic concepts of in this miniproject (differentiating basic functions and interpreting the results). 
+
+	Suppose that $V(t) = 24 \cdot 1.07^t + 6 \sin(t)$ represents the value of a person's investment portfolio (in thousands of dollars) in year $t$, where $t=0$ corresponds to January 1, 2010. 
+
+	\begin{enumerate}
+		\item At what instantaneous rate is the portfolio's value changing on January 1, 2012? Do your work by hand; show all your work, and put correct units of measurement on the answer. (\textbf{NOTE:} \emph{Remember to put your calculator or computing device in radian mode when doing calculations with trigonometric functions.})
+		\item Calculate the value of $V''(2)$. What are the units on this quantity? What does the sign (positive/negative/zero) of this quantity tell you about how the portfolio's value is changing? Show all your work by hand, and use clear and correct English. 
+	\end{enumerate}
+	
+
+	\item Now go out to the web and find a set of two-variable data. 
+		\begin{enumerate}
+			\item Write a paragraph that includes a link to the source of your data. Use the paragraph to explain what the data represent, why you found the data interesting enough to use for this Miniproject, and who might find these data important in a real-world job. 
+			\item On Desmos, plot the data points (by entering them into a spreadsheet and then copy/pasting them as described above). Then fit the data with a third-degree polynomial regression, a fourth-degree polynomial regression, and an exponential regression. When done, give a link to your graphs.
+			\item Give the precise formulas for each of your regression models. The values of the parameters are given on the graph. For example, look at the sample results here: \url{https://goo.gl/0U8atf}. The quadratic model has three parameters: $a$, $b$, and $c$; their values are shown where it says ``Parameters''. This means that the formula for this model is
+				$$y_1 = 57.689x_1^2 - 7594.8x_1 + 244380$$ 
+			Beneath each model, use the techniques we learned in Chapter 2 of \textit{Active Calculus} to calculate both the first and second derivatives of each of the three models. Do all your work by hand (but also on your own, make sure to check it using technology) and show all your work. 
+
+			\item Look through the four models you created and find the one that has the highest $R^2$ value. This number $R^2$ (it might be lower case, $r^2$) is a statistic that measure how well the model fits the data. The closer to $1$ this number is, the better the fit. Once you identify the model that has the best fit, choose a data point in your data set and give the values of the first and second derivatives at that point. In 1--3 well-constructed sentences, explain exactly what these two numbers tell you about how your data set is changing instantaneously right at that point. 
+
+			You are to assume that the person to whom you are writing the explanation is smart but does not know a single thing about calculus. Therefore you are forbidden to use jargon such as the terms \textit{function}, \textit{derivative}, \textit{tangent line}, and so on. I (Prof. Talbert) will act as your secretary and return your memo to you for editing if it gets too jargony. (Read: Your work will get an ``R''.) The words \textit{data} and \textit{graph} are fairly common and therefore OK. As a starting point for your explanations you might consider the concepts of a function ``increasing at an increasing rate'', ``increasing at a decreasing rate'', and so on -- but don't rely too much on these stock phrases but rather make sure to give the memo recipient usable, actionable information that he/she can understand. 
+		\end{enumerate}
+
+
+
+
+	\item To complete this Miniproject, fill out the Miniproject Learning Survey:
+	\begin{center}
+			\url{http://bit.ly/mth201miniprojectsurvey}
+	\end{center}
+
+
+\end{enumerate}
+
+\subsection*{Evaluation criteria}
+
+All Miniprojects are grading using the \textbf{EMRN rubric} given in the course syllabus. A description of what constitutes E, M, R, and N-level work for Miniprojects is given in the \textit{Specifications for Student Work} document; please review this document before submitting your work. 
+
+Specifically in this Miniproject, a passing mark (E or M) requires (in addition to the general requirements given in the \textit{Specifications} document): 
+\begin{itemize}
+	\item All links work. 
+	\item All the graphical information that is supposed to be on Desmos, is there. 
+	\item All mathematical work is shown and is correct. 
+	\item Explanatory writing is well written, substantive, and explains phenomena in clear terms. 
+	\item The Learning Survey is completed. 
+\end{itemize}
+Submissions that do all of the above and do an exceptionally good job of explaining work, carrying out their processes, and presenting work in a clear, attractive, and professional way are eligible for a grade of ``E''. 
+
+
+\subsection*{Submitting your work}
+
+All Miniproject work must be typewritten and saved as either a PDF or MS Word file and then uploaded to Blackboard at the \textbf{Miniproject 5} area. Handwritten work will be marked ``N'' and returned without comment. Work that is received through means other than Blackboard (for example email attachments) will be returned without comment and then deleted. You do not need to give your writeup any particular file name. 
+
+For more information on standards for Miniproject writeups, please review the \textit{Specifications for Student Work} document. 
+
+
+\end{document}
