@@ -16,7 +16,10 @@
 - PA 3.4.1 
 	- Calculate girth a few times 
 	- Then work the rest of it -- Padlet for answers AND QUESTIONS
+	- Set up Campuswire thread for questions 
+- In class: 
+	- Students in groups debrief each other on this activity and be ready to be called upon to answer questions 
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjIzNDkyNiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTc1NzA5MTgzNCw3MzA5OTgxMTZdfQ==
 -->
