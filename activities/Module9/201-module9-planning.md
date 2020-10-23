@@ -15,8 +15,8 @@
 
 - PA 3.4.1 
 	- Calculate girth a few times 
-	- Then work the rest of it -- Padlet for answers 
+	- Then work the rest of it -- Padlet for answers AND QUESTIONS
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDI1OTk5Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIzMjIzNDkyNiw3MzA5OTgxMTZdfQ==
 -->
