@@ -1,7 +1,19 @@
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
+> Written# Module 9 -- Applied optimization
+
+- Focus entirely in 3.4
+- Special emphasis on *construction of models* 
+- Things to try: 
+	- Critical analysis of writh [StackEdit](https://stackedit.io/).ten solutions
+	- Building models step by step THEN applying calculus
+	- Break things down into smaller steps 
+
+
+## 9A 
+
+- PA 3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTU0NTUzNzY4MCw3MzA5OTgxMTZdfQ==
 -->
