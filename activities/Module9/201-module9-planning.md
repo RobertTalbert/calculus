@@ -13,7 +13,10 @@
 
 ## 9A 
 
-- PA 3
+- PA 3.4.1 
+	- Calculate girth a few times 
+	- Then work the rest of it -- Padlet for answers 
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTUzNzY4MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTMzNDI1OTk5Niw3MzA5OTgxMTZdfQ==
 -->
