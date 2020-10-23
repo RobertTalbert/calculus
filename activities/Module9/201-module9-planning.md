@@ -19,7 +19,18 @@
 	- Set up Campuswire thread for questions 
 - In class: 
 	- Students in groups debrief each other on this activity and be ready to be called upon to answer questions 
-	- 
+	- Activity: Use Calculus to find the maximum
+	- Then Activity 3.4.2 
+	- Then if time, Activity 3.4.3 
+- Followup: 
+	- 1-2 more of these 
+
+
+## 9B
+
+- Give Week 8 survey in place of a Daily Prep 
+- First activity: Groups debrief each other on the FA and report out to the class 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NzA5MTgzNCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNTY0MDI1Njc1LDczMDk5ODExNl19
 -->
