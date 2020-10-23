@@ -30,7 +30,10 @@
 
 - Give Week 8 survey in place of a Daily Prep 
 - First activity: Groups debrief each other on the FA and report out to the class 
-- 
+- Then activity 3.4.4 and/or 3.4.5 or one of the exercises 
+- Maybe set up different breakout rooms to work on different problems + quiet areas 
+- Require that some work be turned in by end of the day 
+- Followup is even more 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0MDI1Njc1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTU4OTYxNDkyMiw3MzA5OTgxMTZdfQ==
 -->
