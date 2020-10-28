@@ -20,8 +20,16 @@ Micro objectives:
 
 - Given the graph of a moving object's velocity, estimate the distance it traveled over a time interval using a rectangle sum. 
 - Define the term *antiderivative* and identify an antiderivative of a given function. 
+- Use an antiderivative to compute the distance traveled by an object, given a formula for its velocity.
+
+---
+
+In class activities: 
+
 - 
+- ID antiderivatives given the formula
+- Estimate distance travelled 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTk1MDMwMV19
+eyJoaXN0b3J5IjpbLTExNjAyMTkwM119
 -->
