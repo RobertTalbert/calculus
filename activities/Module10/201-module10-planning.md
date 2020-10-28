@@ -24,12 +24,17 @@ Micro objectives:
 
 ---
 
+Pre class: 
+- ID antiderivatives given the formula
+- Do a simple area sum to estimate distance travelled 
+
 In class activities: 
 
-- 
-- ID antiderivatives given the formula
-- Estimate distance travelled 
+- Estimate distance travelled using area sums
+- Find distance travelled using antiderivatives
+- Same as above but the velocity can be negative 
+- Make the connection that area is basically the opposite of 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjAyMTkwM119
+eyJoaXN0b3J5IjpbLTk2NzE5NTYzMl19
 -->
