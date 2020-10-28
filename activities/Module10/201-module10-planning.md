@@ -33,8 +33,8 @@ In class activities:
 - Estimate distance travelled using area sums
 - Find distance travelled using antiderivatives
 - Same as above but the velocity can be negative 
-- Make the connection that area is basically the opposite of 
+- Make the connection that area is basically the opposite of taking the derivative 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NzE5NTYzMl19
+eyJoaXN0b3J5IjpbODc2MTU4MTE0XX0=
 -->
