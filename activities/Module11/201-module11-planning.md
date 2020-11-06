@@ -21,7 +21,16 @@ Then the remainder of section 4.4 is Module 12.
 - Evaluate a definite integral exactly by interpreting it as an area, if the function given is made of lines and/or circles. 
 ---
 + Use the Properties of the Definite Integral to compute, manipulate, and simplify definite integrals.
-+ 
++ Calculate the average value of a function on an interval.
+
+## Part B
+
++ State the Fundamental Theorem of Calculus and explain in regular language what it says. 
++ Use the Fundamental Theorem of Calculus to find the exact value of a definite integral using an antiderivative.
++ Find the most general antiderivative of a function.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNjQ4MTA0OF19
+eyJoaXN0b3J5IjpbLTc3NzY3ODM0MV19
 -->
