@@ -17,7 +17,11 @@ Then the remainder of section 4.4 is Module 12.
 ## Part A
 
 - State the definition of the definite integral of a function on an interval, and explain the meaning of each part of the notation. 
-- 
+- Explain what the definite integral of a function on an interval tells you, in terms of area and the graph of the function. 
+- Evaluate a definite integral exactly by interpreting it as an area, if the function given is made of lines and/or circles. 
+---
++ Use the Properties of the Definite Integral to compute, manipulate, and simplify definite integrals.
++ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjM0OTQyMDldfQ==
+eyJoaXN0b3J5IjpbMTYzNjQ4MTA0OF19
 -->
