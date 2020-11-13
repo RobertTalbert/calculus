@@ -10,7 +10,7 @@
 | 6  | Nov 16 | No new LT's |
 | 7  | Nov 23 | INT.1, INT.2, INT.3 |
 | 8  | Dec 2 | INT.4 |
-| 9  | Dec 7 | INT.5, INT.6 |
+| 9  | Dec 7 | INT.5 |
 | 10  | Dec 10 | none |
 | 11 (Final exam) | Dec 14 | none |
 
@@ -75,14 +75,7 @@
   - *Given:* An applied optimization problem (= problem where you are asked to find the "best" value of a quantity and a verbal setup for the problem)
   - *To do:* Set up and solve the problem, and show all work and explain all reasoning correctly and clearly. 
   - *Check given if:* The problem setup is correct, the solution is correct, the answer is correct, and the explanation is clear. 
-- DA.5: I can compute the derivative of an implicitly-defined function and find the slope of the tangent line to an implicit curve.
-  - *Given:* An impiclicitly-defined function of $x$ and/or an equation that traces out an implicit curve. 
-  - *To do:* Find $dy/dx$ and/or the slope of the tangent line to the implicit curve at a given point. 
-  - *Check given if:* All work is shown clearly and no more than one mistake due to a simple error is present. 
-- DA.6: I can set up and use derivatives to solve related rates problems.
-  - *Given:* A related rates problem (= problem where you are asked to find a rate of change by using other rates of change, and a verbal setup for the problem)
-  - *To do:* Set up and solve the problem, and show all work and explain all reasoning correctly and clearly. 
-  - *Check given if:* The problem setup is correct, the solution is correct, the answer is correct, and the explanation is clear. 
+
 - INT.1: I can calculate the area between curves, net change, and displacement using geometric formulas and Riemann sums.
   - *Given:* A pair of functions in either formula or graph form 
   - *To do:* Use Riemann sums and/or geometric formulas to find the area between their graphs, the net change in each function on an interval, and (if a function describes velocity) the displacement of the moving object. 
@@ -104,10 +97,7 @@
   - *Given:* 4-5 functions in formula form. 
   - *To do*: Compute the most general antiderivative of each. 
   - *Check given if*: All work is shown clearly and no more than one mistake due to a simple error is present. 
-- INT.6 I can find the average value of a function and the net change in a function over an interval using a definite integral.
-  - *Given*: A function in formula or graph form, and 1-2 closed intervals 
-  - *To do*: Compute the average value of the function on the interval and the net change inthe function on the interval using an integral. 
-  - *Check given if*: All work is shown clearly and no more than one mistake due to a simple error is present. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTM0NzIzLDUwMzkwNTg3NF19
+eyJoaXN0b3J5IjpbLTE0MjA3MjczMDMsNTAzOTA1ODc0XX0=
 -->
