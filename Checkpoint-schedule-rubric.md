@@ -8,8 +8,8 @@
 | 4  | Oct 22 | DC.2, DC.3, DC.4, DA.1, DA.2 |
 | 5  | Nov 2 | DA.3, DA.4 |
 | 6  | Nov 16 | No new LT's |
-| 7  | Nov 23 | INT.1, INT.2 |
-| 8  | Dec 3 | INT.3, INT.4 |
+| 7  | Nov 23 | INT.1, INT.2, INT.3 |
+| 8  | Dec 2 | INT.4 |
 | 9  | Dec 7 | INT.5, INT.6 |
 | 10  | Dec 10 | none |
 | 11 (Final exam) | Dec 14 | none |
@@ -109,5 +109,5 @@
   - *To do*: Compute the average value of the function on the interval and the net change inthe function on the interval using an integral. 
   - *Check given if*: All work is shown clearly and no more than one mistake due to a simple error is present. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjM5NzQxNiw1MDM5MDU4NzRdfQ==
+eyJoaXN0b3J5IjpbLTM3OTM0NzIzLDUwMzkwNTg3NF19
 -->
