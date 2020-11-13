@@ -5,9 +5,9 @@
 | 1  | Sept 17 | F.2, L.1 |
 | 2  | Sept 24 | D.1, D.2 | 
 | 3  | Oct 8 | D.3, D.4, DC.1 |
-| 4  | Oct 22 | DC.2, DC.3, DC.4, DA.1, DA.2 |
-| 5  | Nov 2 | DA.3, DA.4 |
-| 6  | Nov 16 | No new LT's |
+| 4  | Oct 22 | DC.2, DC.3, DC.4, DA.1 |
+| 5  | Nov 2 | DA.2, DA.3 |
+| 6  | Nov 16 | DA.4 |
 | 7  | Nov 23 | INT.1, INT.2, INT.3 |
 | 8  | Dec 2 | INT.4 |
 | 9  | Dec 7 | INT.5 |
@@ -99,5 +99,6 @@
   - *Check given if*: All work is shown clearly and no more than one mistake due to a simple error is present. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA3MjczMDMsNTAzOTA1ODc0XX0=
+eyJoaXN0b3J5IjpbMTQ2Njc3OTA0OCwtMTQyMDcyNzMwMyw1MD
+M5MDU4NzRdfQ==
 -->
