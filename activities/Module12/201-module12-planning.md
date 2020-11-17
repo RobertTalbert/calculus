@@ -12,7 +12,22 @@
 
 ## Part A
 
++ (*Review*) State the Fundamental Theorem of Calculus.
++ (*Review*) Find the most general antiderivative of a function.
++ (*Review*) Use the Fundamental Theorem of Calculus to find the exact value of a definite integral using an antiderivative.
 
+---
+
++ Identify when basic antidifferentiation does *not* allow you to compute an integral. 
++ Apply the Fundamental Theorem of Calculus to solve problems about distance traveled, displacement, and total change. 
+
+
+## Part B
+
++ State the Total Change Theorem. 
+
+
++ Find the total amount of change in a function on an interval, using a definite integral.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjM0NDIzOV19
+eyJoaXN0b3J5IjpbMjEzNjcwMTI3XX0=
 -->
