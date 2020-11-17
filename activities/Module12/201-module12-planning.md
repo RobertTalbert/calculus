@@ -25,9 +25,11 @@
 ## Part B
 
 + State the Total Change Theorem. 
++ Explain how a definite integral can be used to solve a problem about total change. 
 
+---
 
 + Find the total amount of change in a function on an interval, using a definite integral.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjcwMTI3XX0=
+eyJoaXN0b3J5IjpbLTE0NzQyNDc1MzBdfQ==
 -->
