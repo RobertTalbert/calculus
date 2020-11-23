@@ -5,7 +5,7 @@
 
 **Module 11B:** Introduces FTC and ends with identifying basic antiderivatives
 
-**Part A:** Practice with FTC computation and applications
+**Part A:** Practice with FTC computation and applications -- especially, review of basic antiderivatives 
 
 **Part B:** Total change theorem 
 
@@ -31,5 +31,5 @@
 
 + Find the total amount of change in a function on an interval, using a definite integral.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQyNDc1MzBdfQ==
+eyJoaXN0b3J5IjpbMTI3OTY4MTI2OCwtMTQ3NDI0NzUzMF19
 -->
