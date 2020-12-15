@@ -75,6 +75,7 @@ So these would be turned in, then graded; if they don't meet the standard, they 
 ## Changes to assessments
 
 - Four basic things: Learning Targets (core + supplemental), POTW, WeBWorK, Daily Prep. 
+- MAYBE one additional: "Startup Bundle" consisting of Precalculus Review WW + Tool setup. Failing to complete the Startup bundle by X/X/2021 will result in a one-letter grade penalty 
 - Plus/minus system limited to Final Exam performance. State that if you meet all of the grade requirements except one, I'll look at it on a case-by-case basis (but no policies, no promises). 
 
 
