@@ -26,7 +26,8 @@ D: Level 1 on 8/16 including all Core
 
 ## Big Picture objectives -- reserve for final exam 
 
-- Use of tech tools to solve a problem
-- Effective communication
-- Self-assessment and use of feedback to improve 
-- Taking advantage of resources 
+- I can use computer tools to model and solve a problem in Calculus. 
+- I can apply the concepts of Calculus to problems that are different from the ones found in the text, class notes, and examples. 
+- I can communicate the setup and solution of a Calculus problem to a non-specialist, clearly and meaningfully in a well-structured and professional written document. 
+- I can assess my own work and use feedback to improve it. 
+
