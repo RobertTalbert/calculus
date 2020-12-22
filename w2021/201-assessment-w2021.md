@@ -1,5 +1,28 @@
 # MTH 201 W2021 Assessment plan
 
+
+## Second look 2020-12-22 08:46:31
+
+Assessments for learning: 
+
+- WeBWorK (purpose: Basic practice and wax-on/wax-off repetition). Graded on points, infinite redo until deadline, stick to 16 problems per week model (so I can reuse sets) 
+- Daily Prep (purpose: engagement + flipped class prep). Graded Completed/Incomplete. Expect 24 of these. No revisions possible but can spend tokens to fill in Incompletes. 
+- Learning Targets (purpose: practice and mastery on core skills). 
+  - 16 of these, 6 considered Core. 
+  - Students earn levels on these -- Proficiency or Mastery (or Level 0-2). Level up each time you demonstrate acceptable evidence of skill. 
+  - Level up can be accomplished through Checkpoint problems; oral assessments; videos; or student-initiated other means ("make me an offer"). 
+  - Do acceptable work once: Level 1. Do it twice: Level 2. 
+  - Checkpoints are every other week except there will be one during last week of classes and a last one during finals week. 
+  - Alternative methods can be done at any time, up to two Learning Targets per week. Instructions and grading criteria posted on Blackboard. 
+- AEP's (purpose: extension and application of the basics)
+  - There will be between 8-10 of these posted through the semester. You DO NOT have to do all of them, only the ones that interest you and enough to satisfy grade requirements. 
+  - Each one graded EMPX -- there are general standing requirements plus specific requirements for each one. 
+  - Grades of P or X need revision in order to count. Can submit two items per week, three with a token. 
+  - Revisions also limited by: Each AEP has an expiration date past which *any* revision costs a token. Revisions of "X" grades *always* cost a token. Also each revision must include a reflection on the reason for the revision plus a manifest of improvements made. 
+  - Deadlines in final week: Submissions give by 11:59pm on 4/21 will be graded by Friday; after that point, no guarantees. All submissions due by 11:59pm Sunday 4/25. And keep the two-per-week rule. 
+
+
+
 ## Sticking with the 3D approach
 
 - Basic skills: Assessed through Learning Target checkpoints and WeBWorK practice sets 
