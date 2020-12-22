@@ -12,9 +12,9 @@
 10. I can determine the intervals of concavity of a function and find all of its points of inflection.
 11. I can use the Extreme Value Theorem to find the absolute maximum and minimum values of a continuous function on a closed interval.
 12. **CORE** I can set up and use derivatives to solve applied optimization problems.
-13. I can calculate the area between curves, net change, and displacement using geometric formulas and Riemann sums.
-14. I can explain the meaning of each part of the definition of the definite integral in terms of a graph, and interpret the definite integral in terms of areas, net change, and displacement.
-15. I can evaluate a definite integral using geometric formulas and the Properties of the Definite Integral.
+13. I can calculate the area under a curve, net change, and displacement using geometric formulas and Riemann sums.
+14. I can evaluate a definite integral using geometric formulas and the Properties of the Definite Integral.
+15.  I can explain the meaning of each part of the definition of the definite integral in terms of a graph, and interpret the definite integral in terms of areas, net change, and displacement.
 16. **CORE** I can find antiderivatives of a function and evaluate a definite integral using the Fundamental Theorem of Calculus.
 
 This gives 6 **CORE** targets. If I had to go to 8, I'd choose 2 from: 3, 5, 14. 

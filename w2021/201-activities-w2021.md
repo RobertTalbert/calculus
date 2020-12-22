@@ -29,3 +29,23 @@
 - Think about: 
   - Some kind of writers' workshop on Campuswire except for Calculus problems 
   - Weekly reflections on FlipGrid 
+
+Questions for weekly reflection: 
+
+- What am I to learn this week? (completed prior to the activities)
+- What did I learn this week?
+- How well did I learn it?
+- Is there anything that I still need to know, or know better—and if so, how will I seek the help I need to do that?
+- What worked well—or not so well—in my approach to studying course material or preparing my assignments this week?
+- What have I learned about my own study skills this week, and what will I do better in the future?
+
+
+
+## Tools
+
+- Campuswire -- For course announcements and communication - possibly more 
+- Blackboard -- for gradebook and getting/submitting assignments and housing files
+- Desmos + Desmos Activities 
+- Classkick -- for ?
+- Remind -- for nudges, reminders, and urgent messages only, no more than 3x/week
+- Flipgrid for possible weekly feedback, and for those doing videos for checkpoints 
