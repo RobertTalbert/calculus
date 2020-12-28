@@ -13,7 +13,8 @@ I am really looking forward to working with you in this course. It won't be easy
 
 ## Key Information 
 
-+ Professo
++ Professor contact info: The *preferred* method of contact is email at talbertr@gvsu.edu. 
++ 
 
 ## What will each class be like? 
 
@@ -46,5 +47,5 @@ There are **16 Learning Targets** in the course. **Six** (6) of those are design
 15.  I can explain the meaning of each part of the definition of the definite integral in terms of a graph, and interpret the definite integral in terms of areas, net change, and displacement.
 16. (**CORE**) I can find antiderivatives of a function and evaluate a definite integral using the Fundamental Theorem of Calculus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2MTU2NzAzXX0=
+eyJoaXN0b3J5IjpbLTE3MzE5MTM5OTBdfQ==
 -->
