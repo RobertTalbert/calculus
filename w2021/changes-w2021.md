@@ -83,4 +83,7 @@ So these would be turned in, then graded; if they don't meet the standard, they 
 
 ## Questions 
 
-- Do students have direct access to Zoom links, or do I need to post those? *2020-12-15 08:38:50*
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1NzYxNDgzMjhdfQ==
+-->
