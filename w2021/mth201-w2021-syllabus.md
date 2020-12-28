@@ -14,7 +14,7 @@ I am really looking forward to working with you in this course. It won't be easy
 ## Key Information 
 
 + **Professor contact info**: The *preferred* method of contact is email at talbertr@gvsu.edu. For questions that anyone in the class might answer, please post to the class feed on **Campuswire** instead. You can also DM me on Campuswire. 
-+ **Professor availability: 
++ **Professor availability:** I check email and Campuswire regularly between the hours of 7:00am and 5:00pm and once on Saturday mornings; if you contact me during those hours and your message needs a reply, you can expect to receive one within 6 hours. Outside of those hours, particularly on weekends, I do not check messages. 
 + **Class meetings**: MTWR 2:00-2:50 online. Class sessions will be held on Zoom using the link https://gvsu-edu.zoom.us/j/94860437207?pwd=MzdYS3VoQUZkdWcxT3NKR0VCeEpxQT09 and passcode **342013**. You will need to sign in to Zoom to join the meetings. 
 + **Drop-in hours**: XXXXX  You do *not* need an appointment! 
 + **Textbook**: *Active Calculus* by Matt Boelkins (August 2020 version). This is available *free* online here: https://activecalculus.org/single/frontmatter.html  You can also download a PDF copy here: https://scholarworks.gvsu.edu/books/18/  You do not need a print copy, but if you want one, you can order it here: http://amzn.to/38HQdIo (Note this is the 2018 version.) 
@@ -67,5 +67,5 @@ There are **16 Learning Targets** in the course. **Six** (6) of those are design
 15.  I can explain the meaning of each part of the definition of the definite integral in terms of a graph, and interpret the definite integral in terms of areas, net change, and displacement.
 16. (**CORE**) I can find antiderivatives of a function and evaluate a definite integral using the Fundamental Theorem of Calculus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjIwODQ1NCwtNzY1MDc1OV19
+eyJoaXN0b3J5IjpbLTE5MzAxMDcwNDgsLTc2NTA3NTldfQ==
 -->
