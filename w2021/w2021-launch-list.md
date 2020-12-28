@@ -4,11 +4,18 @@
 - Calendar
 - Blackboard site shell
 - Startup bundles 
-	- Onboarding (setup on Campuswire, setup on Desmos, setup on Remind, ) 
+	- Onboarding (setup on Campuswire, setup on Desmos, setup on Remind, syllabus quiz, grading quiz) 
 	- Precalculus review (big WeBWorK set for functions, trig, algebra, logs) 
 - AEP's: As many as possible but definitely all the ones connected to Chapter 1
 - List of AEP topics and rough release schedule 
+- Sample checkpoints (need to update)
+- Learning Target list 
+- Grading checklist 
+- Checkpoint guide (topics, question types, grading standards) 
+- Guide for typing up math with exemplars
+- Daily Preps for Module 1 (A/B)
+
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1NjQ4MDc0XX0=
+eyJoaXN0b3J5IjpbMTM5NjE3NzgwNF19
 -->
