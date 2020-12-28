@@ -1,4 +1,4 @@
-# MTH 201-02 Course Syllabus Winter 2021
+# MTH 201-04: Calculus, Winter 2021
 
 ## Start Here 
 
@@ -25,20 +25,46 @@ I am really looking forward to working with you in this course. It won't be easy
 
 It's not only possible to learn Calculus in an online setting, but many students find the experience superior to an in-person class. You can have that experience too, but it will require your making sure you abide by these basic rules of engagement. All students are expected to: 
 
-+ Check email and Campuswire once before each class and once after each class for announcements and other communication. 
-+ Check the course calendar at least once every 1-2 days to maintain awareness of due dates and other events. 
-+ Capture all actionable information from course communications into a personal calendar and notes system that you check at least once per day. 
-+ Maintain updated personal records of your graded work, outside of Blackboard, so you can detect any data entry errors; and bring all such errors to my attention as soon as possible using the Grade Discrepancy Form.
-+ Use the Course Grade Checklist to track your progress toward your desired course grade, updating it at least once a week.   
-+ During meetings, leave your camera on and audio muted unless asking a question. If leaving the camera on is an issue, please use a photo of yourself as an avatar when you mute your video. 
-+ Engage with other students and the professor actively during class meetings. Find a place to work that is dedicated for working, and put away all distractors. 
-+ When encountering an issue with mathematics, do as much as you can to solve the problem yourself before asking a question about it. When you do ask a question, be sure to state the problem clearly, describe what you've already tried, and summarize the results of your efforts. (If asking a question about WeBWorK, use the "Email the Professor" button.) 
-+ Bring all questions, concerns, and issues with the course to the professor --- engage in open communication. 
-+ 
++ **Check email and Campuswire once before each class and once after each class** for announcements and other communication. 
++ **Check the course calendar at least once every 1-2 days** to maintain awareness of due dates and other events. 
++ **Use the Course Grade Checklist to track your progress** toward your desired course grade, updating it at least once a week.   
++ During meetings, **leave your camera on and audio muted unless asking a question**. If leaving the camera on is an issue, please use a photo of yourself as an avatar when you mute your video. 
++ **Engage with other students and the professor actively during class meetings**. Find a place to work that is dedicated for working, and put away all distractors. 
++ When encountering an issue with mathematics, **do as much as you can to solve the problem yourself before asking a question about it**. When you do ask a question, be sure to state the problem clearly, describe what you've already tried, and summarize the results of your efforts. (If asking a question about WeBWorK, use the "Email the Professor" button.) 
++ **Communicate openly and regularly with me (Prof. Talbert)** --- I want to help, but I'm not a mind reader! 
+
+
+## What is this class about? 
+
+Often, we care not only about *how much* there is of a certain quantity but *how fast it is changing* at a given point in time. For example, right now we care about the number of Covid-19 cases in Michigan, but in some ways we care more about the rate at which those cases are going up or down. Those two pieces of information together --- the **amount** and the **rate of change** --- are needed to make real decisions. **Calculus is all about modeling and understanding change.** 
+
+In this class, you'll learn how to make precise models of change, starting with simple visual ideas to eventually build up three major concepts: the **limit**, the **derivative**, and the **integral**, along with the **Fundamental Theorem of Calculus** that unifies all of these concepts. You'll use these ideas to build realistic models of changing quantities, and then analyze how they change and express your findings in words to an appropriate audience. 
+
+**Official course description**: A development of the fundamental concepts of calculus using graphical, numerical, and analytical methods with algebraic and trigonometric functions of a single variable. Limits and continuity, derivatives, indefinite integrals, definite integrals, and the Fundamental Theorem of Calculus; applications of derivatives and integrals. Fulfills Foundations - Mathematical Sciences. Offered every semester. Prerequisites: MTH 122 and MTH 123; or MTH 124; or assignment through Grand Valley math placement.
+
 
 ## What will each class be like? 
 
+Your work in the class will follow a pattern that will involve you **before**, **during**, and **after** our meetings:
+
+- **BEFORE each class**: You'll complete a **Daily Prep** assignment in which you'll read parts of the text, watch recorded lectures, and complete assignments that will get you up to speed on the basic ideas of new material. 
+- **DURING each class**: Class time is reserved for *doing math*, together and individually. We will focus on activities that **apply the basics** that you learn in Daily Prep and get you ready for more advanced work later. 
+- **AFTER each class**: You'll apply and extend the ideas we practice during class through different kinds of graded work. 
+
+Two things that we **will not** do during class meetings are **listen to lectures** and **take tests**. Lectures during class periods will be infrequent, short, and targeted on specific questions; otherwise you'll be responsible for watching and taking notes on lectures during your Daily Prep activities (which are pre-recorded so you can watch and re-watch them at your own pace). And you heard right: **there are no timed quizzes or tests that take place during our class meetings**. All assignments, as described next, are done outside of class. 
+
 ## What assignments will there be? 
+
+The course is split up into 12 **modules**, each with an "A" part and a "B" part. Typically, a module runs for four class days with each part receiving 2 days of class coverage. Most assignments are tied to these modules. 
+
+- **Daily Prep** (2 per module, for a total of 24): Daily reading and videos, with exercises and questions to be submitted prior to class. These will help you learn the basics of new material and prepare you for more application-focused work in class. They are graded on the basis of completeness and effort only. 
+- **WeBWorK** (16 questions per module, for a total of 192): Online homework assignments to help build your computational skills. Each set typically consists of 6 questions for Part A of a module, 6 questions for Part B, and 4 review questions from earlier modules. *You can resubmit most WeBWorK questions until they are fully correct.*
+- **Checkpoints** (Appx. every 2 weeks): There will be between 8 and 10 Checkpoints, which are do-at-home exams that provide chances to demonstrate skill with the 16 *Learning Targets* of the course (explained below). Every Checkpoint is cumulative (so Checkpoint 2 includes material from Checkpoint 1; Checkpoint 3 includes material from Checkpoints 1 and 2; etc.) 
+- **Application/Extension Problems (AEPs)** (between 8-10 planned): AEPs are extended problem sets where you will either *apply* basic content to real-life problems or explore *extensions* of those concepts beyond what's in the textbook. 
+
+Checkpoints and AEPs are posted to Blackboard, and you'll submit your work as an electronic file to Blackboard for grading; we'll practice the workflow for this during the first week of classes. Daily Prep assignments will be posted to Blackboard but submitted through different electronic means that will be made clear on each assignment. WeBWorK is *not* on Blackboard but on its own separate website: https://webwork-math.gvsu.edu/webwork2/MTH201-04/. 
+
+
 
 ## How do I earn a grade in the class? 
 
