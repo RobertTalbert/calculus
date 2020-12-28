@@ -16,7 +16,9 @@
 
 ## Appendix: Learning Targets
 
-There are **16 Learning Targets** in the course. **Six** (6) of those are designated as **Core** Learning Targets, because they are the most essential topics of the course, and demonstrating 
+There are **16 Learning Targets** in the course. **Six** (6) of those are designated as **Core** Learning Targets, because they are the most essential topics of the course, and demonstrating basic skill on these is required for a passing grade. All the Learning Targets are listed below, with the Core targets marked with **Core**. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjI4NzYwNDZdfQ==
+eyJoaXN0b3J5IjpbMTEwOTUwNDIwNV19
 -->
