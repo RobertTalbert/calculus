@@ -20,6 +20,13 @@ I am really looking forward to working with you in this course. It won't be easy
 + **Course materials**: All course files, the class calendar, class forms, and most graded assignments are housed on Blackboard (http://mybb.gvsu.edu). 
 + **Course announcements and communication**: Course announcements, discussion, and other communication will be housed on **Campuswire** (link). You will also be able to opt in to a service called **Remind** which allows me to push reminders to you via text message. 
 
+### Basic expectations of students in MTH 201
+
++ Check email and Campuswire once before each class and once after each class for announcements and other communication. 
++ 
++ Maintain up-to-date records of grades 
++ 
+
 ## What will each class be like? 
 
 ## What assignments will there be? 
@@ -51,5 +58,5 @@ There are **16 Learning Targets** in the course. **Six** (6) of those are design
 15.  I can explain the meaning of each part of the definition of the definite integral in terms of a graph, and interpret the definite integral in terms of areas, net change, and displacement.
 16. (**CORE**) I can find antiderivatives of a function and evaluate a definite integral using the Fundamental Theorem of Calculus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTA0MjkwMCwtNzY1MDc1OV19
+eyJoaXN0b3J5IjpbMTIzNjM1ODMwNSwtNzY1MDc1OV19
 -->
