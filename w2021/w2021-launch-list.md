@@ -20,7 +20,10 @@
 - WeBWorK Sets for Modules 1-3 and more 
 - Grade status board
 - Grade discrepancy form
-- Class slides for Modules 1---3 
+- Class slides for Modules 1-3 and more 
+- Token request form
+- Class recording request form 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTgyMjM3NDBdfQ==
+eyJoaXN0b3J5IjpbLTEzMzkyMTkxODFdfQ==
 -->
