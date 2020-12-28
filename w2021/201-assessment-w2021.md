@@ -47,7 +47,14 @@ Also required for C or better:
 - Pass Setup bundle by ----
 - Pass Tools bundle by ----
 - Pass Review bundle by ----
-- Each at least Proficiency rating on all 6 Core
+- Earn at least Proficiency rating on all 6 Core
+
+Those are the standing requirements for all grades higher than a C. Other requirements: 
+
+| Grade | Learning Targets mastered | AEP's with M or E | WeBWorK | Daily Prep | 
+| ----  | ------------------------  | ----------------  | ------- | ---------- | 
+| A | 
+
 
 
 ## Second look 2020-12-22 08:46:31
@@ -138,5 +145,5 @@ Precalculus Review Bundle:
 | C | 8 (including at least 4 Core) | 5 | 
 | D | 0 | 8 (including all 6 Core) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2NzkzMDUwXX0=
+eyJoaXN0b3J5IjpbOTM0NzI0NjA5XX0=
 -->
