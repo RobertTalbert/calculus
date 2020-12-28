@@ -53,14 +53,14 @@ Those are the standing requirements for all grades higher than a C. Other requir
 
 | Grade | Learning Targets mastered | AEP's with M or E | WeBWorK | Daily Prep | 
 | ----  | ------------------------  | ----------------  | ------- | ---------- | 
-| A | 15 *including all 6 Core* | 6 *including at least 4 E's* | 170 | 22 | 
-| B | 13 *including at least 4 Core* | 5 *including at least 2 E's* | 150 | 20 | 
+| A | 15 *including all 6 Core* | 6 *including at least 3 E's* | 170 | 22 | 
+| B | 13 | 5 | 150 | 20 | 
 | C | 11 | 4 | 130 | 18 | 
 | D | 5 | 2 | 100 | 12 | 
 
 F = Not all requirements for a D are met. 
 
->Note: Mastering 1
+>Note: Mastering 16-n targets guarantees at least 6-n Core targets are Mastered. 
 
 **Plus:** Meet all the requirements for a base grade and also the requirements for LTs or AEP for the next level up; *and* pass the final. 
 
@@ -156,5 +156,5 @@ Precalculus Review Bundle:
 | C | 8 (including at least 4 Core) | 5 | 
 | D | 0 | 8 (including all 6 Core) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1ODQwNjIwMF19
+eyJoaXN0b3J5IjpbMTkxODE5MDA0NF19
 -->
