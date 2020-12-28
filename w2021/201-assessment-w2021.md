@@ -1,5 +1,10 @@
 # MTH 201 W2021 Assessment plan
 
+## Third look 2020-12-28
+
+Assessments: 
+
+- Learning Targets, assessed primarily through Checkpoints but students can also do video, oral assessments, or make-your-own (*put deadlines on the alternatives*
 
 ## Second look 2020-12-22 08:46:31
 
@@ -88,3 +93,6 @@ Precalculus Review Bundle:
 | B | 10 (including all 6 Core) |  4  |
 | C | 8 (including at least 4 Core) | 5 | 
 | D | 0 | 8 (including all 6 Core) |
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzk0MTU4Nzc5XX0=
+-->
