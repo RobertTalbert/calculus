@@ -60,7 +60,9 @@ Those are the standing requirements for all grades higher than a C. Other requir
 
 F = Not all requirements for a D are met. 
 
+**Plus:** Meet all the requirements for a base grade and also the requirements for LTs or AEP for the next level up; *and* pass the final. 
 
+**Minus:** Meet all the requirements for a base grade *except for one* and that one is no more than on
 
 
 
@@ -152,5 +154,5 @@ Precalculus Review Bundle:
 | C | 8 (including at least 4 Core) | 5 | 
 | D | 0 | 8 (including all 6 Core) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0MzQ2MzEwXX0=
+eyJoaXN0b3J5IjpbOTU4ODkxMTUwXX0=
 -->
