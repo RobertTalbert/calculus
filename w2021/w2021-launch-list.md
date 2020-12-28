@@ -14,8 +14,13 @@
 - Checkpoint guide (topics, question types, grading standards) 
 - Guide for typing up math with exemplars
 - Daily Preps for Module 1 (A/B)
-
-- 
+- Daily Prep for Module 2A/B
+- Daily Prep for Module 3A/B
+- More daily preps if possible 
+- WeBWorK Sets for Modules 1-3 and more 
+- Grade status board
+- Grade discrepancy form
+- Class slides for Modules 1---3 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjE3NzgwNF19
+eyJoaXN0b3J5IjpbLTEzNTgyMjM3NDBdfQ==
 -->
