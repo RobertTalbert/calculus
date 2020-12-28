@@ -18,7 +18,17 @@ Quantities: 16 learning targets (6 core), 8-10 AEPs, 192 points in WeBWorK, 24 D
 C: 
 
 - Mastery on 12/16 LT's including at least 3 core
+- M or better on at least 4 AEPs
+- At least 115 points in WeBWorK
+- Pass at least 16 Daily Preps 
 
+
+B: 
+
+- Mastery on 12/16 LT's including at least 3 core
+- M or better on at least 4 AEPs
+- At least 115 points in WeBWorK
+- Pass at least 16 Daily Preps 
 
 
 ## Second look 2020-12-22 08:46:31
@@ -109,5 +119,5 @@ Precalculus Review Bundle:
 | C | 8 (including at least 4 Core) | 5 | 
 | D | 0 | 8 (including all 6 Core) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxOTg4OTEzXX0=
+eyJoaXN0b3J5IjpbLTEwNjIwNzAxMzZdfQ==
 -->
