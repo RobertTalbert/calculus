@@ -23,10 +23,7 @@ C:
 - At least 120 points in WeBWorK
 - Pass at least 16 Daily Preps 
 
-Maybe: 
 
-- Core targets: Master at least 3; Proficiency or bette
-- Other targets: 
 
 B: 
 
@@ -44,6 +41,13 @@ A:
 - M or better on at least 6 AEPs incuding at least 4 E's
 - At least 180 points in WeBWorK
 - Pass at least 22 Daily Preps 
+
+Also required for C or better: 
+
+- Pass Setup bundle by ----
+- Pass Tools bundle by ----
+- Pass Review bundle by ----
+- Each at least Proficiency rating on all 6 Core
 
 
 ## Second look 2020-12-22 08:46:31
@@ -134,5 +138,5 @@ Precalculus Review Bundle:
 | C | 8 (including at least 4 Core) | 5 | 
 | D | 0 | 8 (including all 6 Core) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5Mzk4NTQzMl19
+eyJoaXN0b3J5IjpbOTY2NzkzMDUwXX0=
 -->
