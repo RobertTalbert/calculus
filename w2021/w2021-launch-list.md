@@ -3,8 +3,9 @@
 - Syllabus
 - Calendar
 - Blackboard site shell
+- Campuswire 
 - Startup bundles 
-	- Onboarding (setup on Campuswire, setup on Desmos, setup on Remind, syllabus quiz, grading quiz) 
+	- Onboarding (setup on Campuswire, setup on Desmos, setup on Remind, syllabus quiz, grading quiz, WeBWorK orientation, scan/upload/read feedback) 
 	- Precalculus review (big WeBWorK set for functions, trig, algebra, logs) 
 - AEP's: As many as possible but definitely all the ones connected to Chapter 1
 - List of AEP topics and rough release schedule 
@@ -25,5 +26,5 @@
 - Class recording request form 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzkyMTkxODFdfQ==
+eyJoaXN0b3J5IjpbLTUzNzQ3Mzg5Nl19
 -->
