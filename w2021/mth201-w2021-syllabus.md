@@ -14,6 +14,7 @@ I am really looking forward to working with you in this course. It won't be easy
 ## Key Information 
 
 + **Professor contact info**: The *preferred* method of contact is email at talbertr@gvsu.edu. For questions that anyone in the class might answer, please post to the class feed on **Campuswire** instead. You can also DM me on Campuswire. 
++ **Professor availability: 
 + **Class meetings**: MTWR 2:00-2:50 online. Class sessions will be held on Zoom using the link https://gvsu-edu.zoom.us/j/94860437207?pwd=MzdYS3VoQUZkdWcxT3NKR0VCeEpxQT09 and passcode **342013**. You will need to sign in to Zoom to join the meetings. 
 + **Drop-in hours**: XXXXX  You do *not* need an appointment! 
 + **Textbook**: *Active Calculus* by Matt Boelkins (August 2020 version). This is available *free* online here: https://activecalculus.org/single/frontmatter.html  You can also download a PDF copy here: https://scholarworks.gvsu.edu/books/18/  You do not need a print copy, but if you want one, you can order it here: http://amzn.to/38HQdIo (Note this is the 2018 version.) 
@@ -22,7 +23,7 @@ I am really looking forward to working with you in this course. It won't be easy
 
 ### Basic expectations of students in MTH 201
 
-It's not only possible to learn Calculus in 
+It's not only possible to learn Calculus in an online setting, but many students find the experience superior to an in-person class. You can have that experience too, but it will require your making sure you abide by these basic rules of engagement. All students are expected to: 
 
 + Check email and Campuswire once before each class and once after each class for announcements and other communication. 
 + Check the course calendar at least once every 1-2 days to maintain awareness of due dates and other events. 
@@ -66,5 +67,5 @@ There are **16 Learning Targets** in the course. **Six** (6) of those are design
 15.  I can explain the meaning of each part of the definition of the definite integral in terms of a graph, and interpret the definite integral in terms of areas, net change, and displacement.
 16. (**CORE**) I can find antiderivatives of a function and evaluate a definite integral using the Fundamental Theorem of Calculus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM4NTI5MTgsLTc2NTA3NTldfQ==
+eyJoaXN0b3J5IjpbLTYwNjIwODQ1NCwtNzY1MDc1OV19
 -->
