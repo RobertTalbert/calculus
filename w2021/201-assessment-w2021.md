@@ -54,7 +54,13 @@ Those are the standing requirements for all grades higher than a C. Other requir
 | Grade | Learning Targets mastered | AEP's with M or E | WeBWorK | Daily Prep | 
 | ----  | ------------------------  | ----------------  | ------- | ---------- | 
 | A | 15 (including all 6 Core) | 6 (including at least 4 E's) | 170 | 22 | 
-| B | 13 (including at least 4 Core) | 5 (including at least 2 E's) 150 | 20 | 
+| B | 13 (including at least 4 Core) | 5 (including at least 2 E's) | 150 | 20 | 
+| C | 11 (including at least 2 Core) | 4 | 130 | 18 | 
+| D | 5 | 2 | 100 | 12 | 
+
+F = Not all requirements for a D are met. 
+
+
 
 
 
@@ -146,5 +152,5 @@ Precalculus Review Bundle:
 | C | 8 (including at least 4 Core) | 5 | 
 | D | 0 | 8 (including all 6 Core) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzY5OTUxXX0=
+eyJoaXN0b3J5IjpbNjI0MzQ2MzEwXX0=
 -->
