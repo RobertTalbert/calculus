@@ -19,17 +19,24 @@ C:
 
 - Mastery on 12/16 LT's including at least 3 core
 - M or better on at least 4 AEPs
-- At least 115 points in WeBWorK
+- At least 120 points in WeBWorK
 - Pass at least 16 Daily Preps 
 
 
 B: 
 
-- Mastery on 12/16 LT's including at least 3 core
+- Mastery on 14/16 LT's including at least 5 core
+- M or better on at least 6 AEPs including at least 2 E's
+- At least 150 points in WeBWorK
+- Pass at least 20 Daily Preps 
+
+
+C: 
+
+- Mastery on 15/16 LT's including all 6 core 
 - M or better on at least 4 AEPs
 - At least 115 points in WeBWorK
 - Pass at least 16 Daily Preps 
-
 
 ## Second look 2020-12-22 08:46:31
 
@@ -119,5 +126,5 @@ Precalculus Review Bundle:
 | C | 8 (including at least 4 Core) | 5 | 
 | D | 0 | 8 (including all 6 Core) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjIwNzAxMzZdfQ==
+eyJoaXN0b3J5IjpbMTU4ODI5NDE4NV19
 -->
