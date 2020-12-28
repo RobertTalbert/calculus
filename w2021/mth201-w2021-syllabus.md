@@ -22,12 +22,15 @@ I am really looking forward to working with you in this course. It won't be easy
 
 ### Basic expectations of students in MTH 201
 
+It's not only possible to learn Calculus in 
+
 + Check email and Campuswire once before each class and once after each class for announcements and other communication. 
 + Check the course calendar at least once every 1-2 days to maintain awareness of due dates and other events. 
 + Capture all actionable information from course communications into a personal calendar and notes system that you check at least once per day. 
 + Maintain updated personal records of your graded work, outside of Blackboard, so you can detect any data entry errors; and bring all such errors to my attention as soon as possible using the Grade Discrepancy Form.
 + Use the Course Grade Checklist to track your progress toward your desired course grade, updating it at least once a week.   
 + During meetings, leave your camera on and audio muted unless asking a question. If leaving the camera on is an issue, please use a photo of yourself as an avatar when you mute your video. 
++ Engage with other students and the professor actively during class meetings. Find a place to work that is dedicated for working, and put away all distractors. 
 + When encountering an issue with mathematics, do as much as you can to solve the problem yourself before asking a question about it. When you do ask a question, be sure to state the problem clearly, describe what you've already tried, and summarize the results of your efforts. (If asking a question about WeBWorK, use the "Email the Professor" button.) 
 + Bring all questions, concerns, and issues with the course to the professor --- engage in open communication. 
 + 
@@ -63,5 +66,5 @@ There are **16 Learning Targets** in the course. **Six** (6) of those are design
 15.  I can explain the meaning of each part of the definition of the definite integral in terms of a graph, and interpret the definite integral in terms of areas, net change, and displacement.
 16. (**CORE**) I can find antiderivatives of a function and evaluate a definite integral using the Fundamental Theorem of Calculus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODA4MjkyNCwtNzY1MDc1OV19
+eyJoaXN0b3J5IjpbLTEyODM4NTI5MTgsLTc2NTA3NTldfQ==
 -->
