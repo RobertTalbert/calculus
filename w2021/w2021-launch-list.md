@@ -5,9 +5,12 @@
 - Blackboard site shell
 - Campuswire 
 - Startup bundles 
-	- Onboarding (setup on Campuswire, setup on Desmos, setup on Remind, syllabus quiz, grading quiz, WeBWorK orientation, scan/upload/read feedback) 
+	- Onboarding (setup on Campuswire, setup on Desmos, setup on Remind, syllabus quiz, grading quiz) 
+	- Tools (WeBWorK orientation, Desmos, Desmos class activity, scan/upload/feedback on Bb) 
 	- Precalculus review (big WeBWorK set for functions, trig, algebra, logs) 
 - AEP's: As many as possible but definitely all the ones connected to Chapter 1
+- Template for AEPs
+- Template for Daily Prep 
 - List of AEP topics and rough release schedule 
 - Sample checkpoints (need to update)
 - Learning Target list 
@@ -26,5 +29,5 @@
 - Class recording request form 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzQ3Mzg5Nl19
+eyJoaXN0b3J5IjpbLTE3NjkxOTUwNl19
 -->
