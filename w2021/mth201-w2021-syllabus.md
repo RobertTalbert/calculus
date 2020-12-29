@@ -59,18 +59,105 @@ The course is split up into 12 **modules**, each with an "A" part and a "B" part
 
 - **Daily Prep** (2 per module, for a total of 24): Daily reading and videos, with exercises and questions to be submitted prior to class. These will help you learn the basics of new material and prepare you for more application-focused work in class. They are graded on the basis of completeness and effort only. 
 - **WeBWorK** (16 questions per module, for a total of 192): Online homework assignments to help build your computational skills. Each set typically consists of 6 questions for Part A of a module, 6 questions for Part B, and 4 review questions from earlier modules. *You can resubmit most WeBWorK questions until they are fully correct.*
-- **Checkpoints** (Appx. every 2 weeks): There will be between 8 and 10 Checkpoints, which are do-at-home exams that provide chances to demonstrate skill with the 16 *Learning Targets* of the course (explained below). Every Checkpoint is cumulative (so Checkpoint 2 includes material from Checkpoint 1; Checkpoint 3 includes material from Checkpoints 1 and 2; etc.) 
+- **Checkpoints** (Appx. every 2 weeks): Checkpoints are do-at-home exams that provide chances to demonstrate skill with the 16 *Learning Targets* of the course (explained below).  
 - **Application/Extension Problems (AEPs)** (between 8-10 planned): AEPs are extended problem sets where you will either *apply* basic content to real-life problems or explore *extensions* of those concepts beyond what's in the textbook. 
 
-Checkpoints and AEPs are posted to Blackboard, and you'll submit your work as an electronic file to Blackboard for grading; we'll practice the workflow for this during the first week of classes. Daily Prep assignments will be posted to Blackboard but submitted through different electronic means that will be made clear on each assignment. WeBWorK is *not* on Blackboard but on its own separate website: https://webwork-math.gvsu.edu/webwork2/MTH201-04/. 
+Checkpoints and AEPs will be posted to Blackboard, and you'll submit your work as an electronic file to Blackboard for grading; we'll practice the workflow for this during the first week of classes. Daily Prep assignments will be posted to Blackboard but submitted through different electronic means that will be made clear on each assignment. WeBWorK is *not* on Blackboard but on its own separate website: https://webwork-math.gvsu.edu/webwork2/MTH201-04/. 
 
+There is also a final exam for the course which will focus on big-picture questions and reflections on your experiences in the course. The final exam will be assigned on Wednesday April 28 and will be due on Thursday April 29. 
 
+## How are these assignments graded? 
+
+Unlike most courses, **there are no points or percentages in this class**, except for WeBWorK questions. Instead, all grades are based on **whether your work meets clearly stated standards for acceptability**. If you work meets the standard, you will receive full credit for it. If not, then you will be given **instructive feedback** on what was missing, and you can then **revise and resubmit your work** for regrading. In this way, **you are not penalized for making mistakes as long as you *eventually* understand each topic.**. 
+
+The marks for each kind of assignment and how those are earned are below: 
+
+- **Daily Prep**: These are marked either **Pass** or **No Pass**. A "Pass" is awarded if every item on the assigment has a response that represents a good-faith effort to be right, and if it is submitted prior to the deadline. A "No Pass" is awarded otherwise, for example if an item is left blank (even accidentally), or an item has an answer but it shows insufficient effort (including responses like "I don't know"), or if it's late. 
+- **WeBWorK**: Most problems on WeBWorK sets are worth 1 point each; some offer partial credit. The point is awarded if the answer is correct. 
+- **Checkpoints**: Checkpoints contain one problem (often with multiple parts) per Learning Target being assessed. Each of those problems is marked **Pass** or **No Pass**. The criteria for a "Pass" are found in the document titled "Grading Information for Checkpoints" found on Blackboard in the *Syllabus* area. Generally speaking: A "Pass" is given if your work on the problem has no significant errors or omissions in computation, reasoning, or communication related to the Learning Target and no more than one "simple error" (an error unrelated to the Learning Target). 
+- **AEPs**: These are marked **Excellent** (E), **Meets Expectations** (M), **Progressing** (P), or **Not assessable** (X): 
+
+![EMPX rubric](https://i.ibb.co/0sRwsd6/EMPX-rubric-2021.png)
+
+ ### Proficiency and Mastery on Learning Targets 
+
+Each of the 16 Learning Targets in the course has a *rating* that indicates the level of skill you've demonstrated on that Target. There are three levels of ratings on each target: 
+
+- **No Rating**: This means that you have not yet demonstrated skill on the Learning Target. Everyone starts off the semester with "No Rating" on all 16 targets. 
+- **Proficiency**: This means that you have demonstrated *one item of acceptable evidence of skill* on the Learning Target. 
+- **Mastery**: This means that you have demonstrated *two items of acceptable evidence of skill* on the Learning Target. **
+
+**What is "acceptable evidence of skill"?** You can demonstrate acceptable evidence of skill on a Learning Target in three different ways: 
+
+1. *By earning a "Pass" grade on a Checkpoint problem for that target*. Every time you complete a Checkpoint problem on a learning target successfully, you "level up" on that target. 
+2. *Through a live oral assessment.* You can request an oral assessment with me (Prof. Talbert) on Zoom, where I give you a problem similar to a Checkpoint problem and you work it out live while I observe. If you do "Pass" quality work on it, you'll level up on that target. 
+3. *Through making an instructional video.* You can also request to make a brief instructional video about a learning target, where I give you a problem similar to a Checkpoint problem and you work it out at a whitebaord while being recorded, and post it for the class to use. If you do "Pass" quality work on it, you'll level up on that target. 
+
+While most students will just stick to Checkpoints, you are free to mix and match these methods on any Learning Target to suit your style and your needs. However, please see "Restrictions on Checkpoints" in the "What else do I need to know?" section below. 
 
 ## How do I earn a grade in the class? 
 
+**In order to earn a C or higher in the course, you must first meet the following basic requirements:**
+
+- **Earn a Pass mark on all three of the introductory assignments** at the beginning of the semester (Startup, Tools, and Precalculus Review); and  
+- **Earn at least Proficiency rating on all six Core Learning Targets.** 
+
+If these requirements are not met, then your grade will be capped at a C-. 
+
+If you have met those requirements, then your semester grade in the course is determined by the following table. Your base grade (the letter A,B,C,D, or F without plus/minus) is the **highest** grade level for which **all** the requirements have been met or exceeded.
+
+| Grade | Learning Targets with Mastery rating | AEP's completed with M or E | WeBWorK points | Daily Prep passed | 
+| ----  | :------------------------:  | :----------------:  | :-------: | :----------: | 
+| A | 15 *including all 6 Core* | 6 *including at least 3 E's* | 170 | 22 | 
+| B | 13 | 5 | 150 | 20 | 
+| C | 11 | 4 | 130 | 18 | 
+| D | 5 | 2 | 100 | 12 | 
+
+A grade of F is given if **none** of the rows has been fully completed. 
+
+**Plus/minus grades:** You can earn "plus" and "minus" grades as follows: 
+
++ **Plus:** Meet all the requirements for a base grade and also the requirements for Learning Targets or AEP for the next level up; *and* pass the final. 
++ **Minus:** Meet all the requirements for a base grade *except for one* and that one is no more than one grade level lower; *or* not pass the final. 
+
 ## How do I revise and resubmit my work? 
 
+- **Daily Prep** assignments may *not* be revised or resubmitted. They are graded on completeness and effort only and therefore can only be done once. 
+- **WeBWorK** problems can be redone and resubmitted as many times as you need until the deadline. 
+- **Checkpoints** are cumulative, and each Learning Target will appear for **four consecutive Checkpoints** before being "retired". For example Learning Target 3 appears on Checkpoints 2, 3, 4 and 5. Once a Learning Target has been retired, you may request a new instance of it on a Checkpoint by spending a token (below) or by waiting until Checkpoints 8 or 9 which will include all 16 targets.  **You are not penalized for doing work that doesn't meet the grading standard**; you can just try again on the next Checkpoint. However, you'll need to do Pass-quality work on two of the four available opportunities in order to receive a Mastery rating unless you use an alternative method (oral exam or video).  
+- **AEPs** can be revised and resubmitted at any time just by revising your work based on the feedback you received, and then re-uploading to Blackboard. However, see "Restrictions on AEP revisions" in the "What else do I need to know?" section below. 
+
+
+**Tokens:** Each student starts the semester with 5 tokens, which can be used to purchase exceptions to the course rules. The token "menu" is below. To spend a token, go to the *Token Spending* form that's linked in the sidebar on Blackboard, fill it out, and submit it. Once the form is submitted, the item you purchased is yours; you do not need permission or approval. 
+
+| Item       | Cost | 
+| ---------  | :----: | 
+| Submit a third AEP in a given week | 1 | 
+| Submit a revision of an AEP marked "X" | 1 | 
+| Extend the deadline on a Checkpoint by 12 hours | 1 | 
+| Extend the deadline on a WeBWorK set by 12 hours | 1 | 
+| Convert a "No Pass" on a Daily Prep to a "Pass" | 1 | 
+| Request a Checkpoint problem for a "retired" Learning Target | 1 | 
+
+Tokens may not be "stacked"; for example you aren't allowed to spend 2 tokens and extend a deadline for 24 hours instead of 12. Deadline extensions must be requested prior to the original deadline and will be extended 12 hours from the original deadline (not from the time when the request was made). 
+
+
+
+
+
 ## What else do I need to know? 
+
+**Definition of a "week":** A "week" for this course is defined to begin at 12:01am on Monday and end at 11:59pm the following Sunday. 
+
+**Restrictions on AEP revisions:** 
+
++ The *Two-Per-Week* rule: **No more than two (2) AEP submissions can be made in any given week.** This can be two new submissions, two revisions, or one of each. A third submission in a week can be purchased with a token, but four or more submissions in a week are not allowed under any circumstance. 
++ Revisions of AEP's earning an "X": You must spend a token to revise an AEP that earned a grade of "X". 
+
+**Restrictions on Checkpoints**: 
+
++ No more than two (2) Learning Targets per week may be assessed through oral exams or videos.  
++ To earn a Mastery rating on a Learning Target, you must do at least one Checkpoint problem or oral exam; you cannot earn Mastery through two videos. 
 
 ## Appendix: Learning Targets
 
