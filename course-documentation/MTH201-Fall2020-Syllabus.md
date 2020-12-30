@@ -203,9 +203,6 @@ All suspected instances of academic dishonesty will be thoroughly investigated, 
 Note these are *minimum* penalties; additional penalties may be given including reduction of course grades and potential suspension from the university. 
 
 **Please note: There is no need to commit academic dishonesty in this class since you can revise and resubmit almost anything.** If you come to believe that cheating or plagiarism is necessary given your situation: DON'T DO IT. Get some help instead and take comfort in the fact that you can just submit your best effort, get feedback, and try again later. 
-
-## Other course policies 
-
 ### Attendance, deadlines, and late work 
 
 **Attendance:** You are expected to participate in your group's F2F meetings twice per week. If you are feeling well and are comfortable being present in person, you should attend physically. However, if you are not feeling well or are not comfortable being present, **you may opt out of the F2F meeting and participate remotely instead**. Each F2F meeting will be live-streamed so you can join your group's meeting remotely if needed or desired. Please note, though, **this does not mean you can skip the meeting entirely**. You are still expected to participate (possibly remotely) with your group when it's your group's day to meet. 

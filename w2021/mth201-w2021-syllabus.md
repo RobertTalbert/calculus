@@ -74,7 +74,7 @@ The marks for each kind of assignment and how those are earned are below:
 
 - **Daily Prep**: These are marked either **Pass** or **No Pass**. A "Pass" is awarded if every item on the assigment has a response that represents a good-faith effort to be right, and if it is submitted prior to the deadline. A "No Pass" is awarded otherwise, for example if an item is left blank (even accidentally), or an item has an answer but it shows insufficient effort (including responses like "I don't know"), or if it's late. 
 - **WeBWorK**: Most problems on WeBWorK sets are worth 1 point each; some offer partial credit. The point is awarded if the answer is correct. 
-- **Checkpoints**: Checkpoints contain one problem (often with multiple parts) per Learning Target being assessed. Each of those problems is marked **Pass** or **No Pass**. The criteria for a "Pass" are found in the document titled "Grading Information for Checkpoints" found on Blackboard in the *Syllabus* area. Generally speaking: A "Pass" is given if your work on the problem has no significant errors or omissions in computation, reasoning, or communication related to the Learning Target and no more than one "simple error" (an error unrelated to the Learning Target). 
+- **Checkpoints**: Checkpoints contain one problem (often with multiple parts) per Learning Target being assessed. Each of those problems is marked **Pass** or **No Pass**. The criteria for a "Pass" are found in the document titled "Information for Checkpoints" found on Blackboard in the *Syllabus* area. Generally speaking: A "Pass" is given if your work on the problem has no significant errors or omissions in computation, reasoning, or communication related to the Learning Target and no more than one "simple error" (an error unrelated to the Learning Target). 
 - **AEPs**: These are marked **Excellent** (E), **Meets Expectations** (M), **Progressing** (P), or **Not assessable** (X): 
 
 ![EMPX rubric](https://i.ibb.co/0sRwsd6/EMPX-rubric-2021.png)
@@ -147,7 +147,10 @@ Tokens may not be "stacked"; for example you aren't allowed to spend 2 tokens an
 
 ## What else do I need to know? 
 
-**Definition of a "week":** A "week" for this course is defined to begin at 12:01am on Monday and end at 11:59pm the following Sunday. 
+### Definitions and polices on assignments 
+
+**Definition of a "week":** A "week" for this course is defined to **begin at 12:01am on Monday and end at 11:59pm the following Sunday**. 
+
 
 **Restrictions on AEP revisions:** 
 
@@ -159,7 +162,64 @@ Tokens may not be "stacked"; for example you aren't allowed to spend 2 tokens an
 + No more than two (2) Learning Targets per week may be assessed through oral exams or videos.  
 + To earn a Mastery rating on a Learning Target, you must do at least one Checkpoint problem or oral exam; you cannot earn Mastery through two videos. 
 
-## Appendix: Learning Targets
+
+### Attendance, late work, and deadlines 
+
+**Attendance:** You will need to participate actively in each class meeting to get the most out of the course and avoid having to teach yourself the material. Attendance will be taken but not graded; I will follow up with students with excessive absences, but no direct penalty is incurred. You do not need to seek permission to miss a class. However, realize that excessive absences will severely limit your ability to learn the subject. 
+
+**Deadlines and late work:** Deadlines are generally strictly enforced, and late work will not be accepted. However, you can spend tokens to extend deadlines for Checkpoints and WeBWorK sets. Daily Prep deadlines cannot be extended, but you can spend a token to change a Daily Prep grade to Pass. 
+
+**AEP deadlines:** You do not have to turn in all of the AEPs that are assigned --- just the ones that interest you, and only enough to satisfy the requirements for the course grade you want. AEPs generally do not have fixed deadlines; you are expected to work on these over time until your work meets expectations. However, note: 
+
+- Every AEP has an *initial deadline* printed on the assigment. You must submit work on the AEP and earn a grade of "P" or higher by the initial deadline in order to revise it later. If you do, then you can revise the AEP on your own schedule throughout the semester without penalty. If you do not, the you can still submit the AEP later, but it will cost one token to do so and then one additional token for every revision thereafter. 
+- No AEP submissions whatsoever, whether initial submissions or revisions, will be accepted after *11:59pm Eastern on Sunday April 25*. 
+- Remember that *only two AEP items can be submitted per week*, so you can't procrastinate until the end and then submit several all at once. 
+
+
+### Collaboration and academic honesty
+
+I highly encourage you to collaborate with your classmates whenever collaboration is allowed. However, realize that *collaboration is not always allowed* and in all cases, there are limitations on how you can collaborate. In particular: 
+
+- On **AEPs**, your work must represent *your own understanding* in *your own words*. You may not use solutions, directly or indirectly, from any sources --- including other students, past students, online sources, or other textbooks. 
+- On **Checkpoints** (and Checkpoint alternatives), your work must still represent *your own understanding* in *your own words* and you may not use solutions, directly or indirectly, from other students. However, there is a list of approved external resources that you may use on Checkpoints, including [Wolfram|Alpha](http://wolframalpha.com), [Desmos](http://desmos.com), your textbook, and other items posted to Blackboard. That list is included in the document titled "Information for Checkpoints" found on Blackboard in the *Syllabus* area. **Items not on the approved list may be used only with prior permission from me (Talbert).** 
+- On **all other assignments**, you may collaborate with others, but you must contribute significantly to the assignment, and your work must represent *your own understanding* in *your own words*.
+
+You are responsible for understanding this policy and the [GVSU Student Code](https://www.gvsu.edu/policies/policy.htm?policyId=EFAB64E1-C25B-E1A3-CA2B08B0B821C774&search=). Violations will result, at minimum, in a mark of "X" or "No Pass" on the assignment. Serious or repeat violations of this policy will result in increasingly horrible consequences, including being barred from further submissions of the assignment or Learning Target, or even failure of the class. 
+
+
+
+### Technology 
+
+Being an online class, we will use a variety of technological tools to learn. 
+
+- You *do not* need a graphing calculator, and we will not use them in the class, but it's OK if you have one. (We will use [Desmos](http://www.desmos.com), a free online graphing tool, instead of graphing calculators.)
+- Instead, you *do need* a **laptop or tablet device** running a **modern web browser** (such as Chrome, Edge, or Firefox) and **reliable access to high-speed internet**. 
+- You also need an **active GVSU network account** so you can access email, Blackboard, and Google Docs. 
+- Preferably, your device should have a **touchscreen** that allows **writing on the screen with a stylus**. If you don't have such a device, consider purchasing a [drawing pad](https://www.amazon.com/customerpicks/Explore-drawing-tablets-for-laptops/424f9b9ace2bfffcb82c) that connects your computer via USB; many are under $50. 
+- The software tools we use in the course are all free and either web-based or available as apps on mutiple platforms. We will introduce and train on these in the first week of classes. 
+
+If you encounter issues with technology, please use the appropriate source of help: 
+
++ *For help with Blackboard*: Email the Blackboard Help Desk at bbadmin@gvsu.edu or call (616) 331-8526. For hours of operation and more information see https://www.gvsu.edu/elearn/help/. 
++ *For help with the GVSU network, email, or printing*: Email the GVSU IT Help Desk at helpdesk@gvsu.edu; or call (616) 331-2101 or toll free (855) 435-7488. For hours of operation and more information see  https://www.gvsu.edu/it/. 
++ *For specific help with your computer*: Try the GVSU IT Help Desk (see previous bullet) or contact your equipment manufacturer or computer store. 
++ *For help with course tools such as Desmos and Campuswire*: Ask a question on the `#tech` channel on Campuswire, seek out the help documentation in the tool, or do a targeted Google search. 
+
+Please note that **I (Prof. Talbert) am not able to provide student tech support** as I do not have access to your accounts or knowledge of your hardware. I can help with questions about course tools (Desmos, etc.) but please ask those questions on Campuswire so others can see and help too. 
+
+
+### Getting help and support 
+
+**Math Center:** GVSU’s Math Tutoring Center is online with Blackboard Collaborate this semester!  You can access virtual drop-in tutoring through the link in your Blackboard course called Math Tutoring Center or on our website at http://gvsu.edu/tutoring/math/.  Then you need to click on the "Online Math Tutoring Center" button, which will require a GVSU login.  There will be tutors online, ready to help, Monday through Thursday 11a – 9p, Friday 11a – 3p and Sunday 5p – 9p starting Wednesday, January 20th.  Bring questions about your calculator, on methods and concepts, or on specific problems.  All Math Center tutoring is FREE, so stop by early and often.  We ask that when you enter our Collaborate room, please type your first and last name so we can get you signed in and connected with a tutor. 
+
+**Special learning needs:** If you have special needs because of learning, physical or other disabilities, it is your responsibility to contact Disability Support Resources (DSR) at 616-331-2490 or http://www.gvsu.edu/dsr/ . DSR will help you arrange accommodations.  Then, speak with me in person about making those accommodations and ensure that they are consistent with your arrangements with DSR.
+
+**Basic needs security:** If you have difficulty affording groceries or accessing sufficient food to eat every day, or if you lack a safe and stable place to live, I encourage you to visit [Replenish](https://www.gvsu.edu/replenish/), a food resource for GVSU students. If you are comfortable doing so, please speak with me about your circumstances so that I can advocate for you and to connect you with other campus resources. 
+
+**Gender identity and expression:** If, for purposes of gender identity and expression, your official name (in Banner) does not match your preferred name, your name can be updated in Blackboard. Please contact the registrar's office to submit this request.  The registrar's office will contact the Blackboard administrator to make the change and will also contact your professors to inform them that your name in Banner will not match the name in Blackboard.
+
+---
+## Appendix: Learning Targets, Course Modules, and Checkpoint Schedule
 
 There are **16 Learning Targets** in the course. **Six** (6) of those are designated as **Core** Learning Targets, because they are the most essential topics of the course, and demonstrating basic skill on these is required for a passing grade. All the Learning Targets are listed below, with the Core targets marked with **Core**. 
 
@@ -179,6 +239,53 @@ There are **16 Learning Targets** in the course. **Six** (6) of those are design
 14. I can evaluate a definite integral using geometric formulas and the Properties of the Definite Integral.
 15.  I can explain the meaning of each part of the definition of the definite integral in terms of a graph, and interpret the definite integral in terms of areas, net change, and displacement.
 16. (**CORE**) I can find antiderivatives of a function and evaluate a definite integral using the Fundamental Theorem of Calculus.
+
+
+## Module structure 
+
+| Module | Section from _Active Calculus_ | Topics | 
+| ------ | ----- | -----  | 
+| 1A | 1.1 | How to measure velocity | 
+| 1B | 1.2 | The notion of the limit | 
+| 2A | 1.3 | The derivative of a function at a point | 
+| 2B | 1.4 | The derivative function | 
+| 3A | 1.5 | Interpreting, estimating, and using the derivative | 
+| 3B | 1.6 | The second derivative and concavity | 
+| 4A | 2.1 | Elementary derivative rules | 
+| 4B | 2.2 | Derivatives of the sine and cosine functions | 
+| 5A | 2.3 | The product and quotient rules | 
+| 5B | 2.4 | Derivatives of other trigonometric functions | 
+| 6A | 2.5 | The chain rule | 
+| 6B | 2.6 | Derivatives of inverse functions | 
+| 7A | 3.1 | Identifying extreme values of functions | 
+| 7B | 3.1 | Identifying extreme values of functions (part 2) | 
+| 8A | 3.3 | Global optimization | 
+| 8B | 3.3 | Global optimization (part 2) | 
+| 9A | 3.4 | Applied optimization: Building and testing models | 
+| 9B | 3.4 | Applied optimization: Applying calculus to the models | 
+| 10A | 4.1 | Determining distance from velocity | 
+| 10B | 4.2 | Riemann sums | 
+| 11A | 4.3 | The definite integral | 
+| 11B | 4.3 + 4.4 | Finding integrals using antiderivatives | 
+| 12A | 4.4 | The Fundamental Theorem of Calculus | 
+| 12B | 4.4 | The Total Change Theorem | 
+
+
+## Checkpoint schedule
+
+| Checkpoint | Learning Targets | Date assigned | Date due | 
+| ---------  | ---------------- | ------------- | -------- | 
+| 1 | 1, 2 | Feb 1 | Feb 3 | 
+| 2 | 1, 2, 3 | Feb 8 | Feb 10 | 
+| 3 | 1, 2, 3, 4, 5, 6 | Feb 22 | Feb 24 | 
+| 4 | 1, 2, 3, 4, 5, 6, 7, 8, | Mar 8 | Mar 11 (Friday) |
+| 5 | 3, 4, 5, 6, 7, 8, 9, 10, 11 | Mar 22 | Mar 24 | 
+| 6 | 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 | Apr 5 | Apr 7 | 
+| 7 | 7, 8, 9, 10, 11, 12, 13, 14, 15 | Apr 12 | Apr 13 | 
+| 8 | 1--16 | Apr 19 | Apr 21 | 
+| Mini-checkpoint | 12, 13, 14, 15, 16 | Apr 23 (Friday) | Apr 25 (Sunday) | 
+| 9 | 1--16 | Apr 27 (Tuesday) | Apr 29 (Thursday) | 
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4MjE2MzQ4MDAsLTc2NTA3NTldfQ==
 -->
