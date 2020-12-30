@@ -28,6 +28,14 @@
 - Token request form
 - Class recording request form 
 - 
+
+Video content: 
+
+- Grading examples 
+- Desmos
+- Campuswire 
+- Wolfram|Alpha 
+- Using Google Docs to write up math 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjkxOTUwNl19
+eyJoaXN0b3J5IjpbLTkxNDgyNjExMiwtMTc2OTE5NTA2XX0=
 -->
