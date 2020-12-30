@@ -89,7 +89,7 @@ Each of the 16 Learning Targets in the course has a *rating* that indicates the 
 
 **What is an "item of acceptable evidence of skill"?** The following three things are considered items of acceptable evidence of skill on a Learning Target: 
 
-1. *A "Pass" grade on a **Checkpoint problem** for that target*. Every time you complete a Checkpoint problem on a learning target successfully, you "level up" on that target. 
+1. *A "Pass" grade on a **Checkpoint problem** for that target*. Every time you complete a Checkpoint problem on a learning target successfully, you "level up" (that is, move from No Rating to Proficiency, or Proficiency to Mastery) on that target. 
 2. *Passing work on an **oral assessment** for that target*. You can request an oral assessment with me (Prof. Talbert) on Zoom, where I give you a problem similar to a Checkpoint problem and you work it out live while I observe. If you do "Pass" quality work on it, you'll level up on that target. 
 3. *Passing work on an **instructional video** that you make for that target.* You can also request to make a brief instructional video about a learning target, where I give you a problem similar to a Checkpoint problem and you work it out at a whitebaord while being recorded, and post it for the class to use. If you do "Pass" quality work on it, you'll level up on that target. 
 
@@ -97,14 +97,8 @@ While most students will just stick to Checkpoints, you are free to mix and matc
 
 ## How do I earn a grade in the class? 
 
-**In order to earn a C or higher in the course, you must first meet the following basic requirements:**
 
-- **Earn a Pass mark on all three of the introductory assignments** at the beginning of the semester (Startup, Tools, and Precalculus Review); and  
-- **Earn at least Proficiency rating on all six Core Learning Targets.** 
-
-If these requirements are not met, then your grade will be capped at a C-. 
-
-If you have met those requirements, then your semester grade in the course is determined by the following table. Your base grade (the letter A,B,C,D, or F without plus/minus) is the **highest** grade level for which **all** the requirements have been met or exceeded.
+Your semester grade in the course is determined by the following table. Your base grade (the letter A,B,C,D, or F without plus/minus) is the **highest** grade level for which **all** the requirements have been met or exceeded.
 
 | Grade | Learning Targets with Mastery rating | AEP's completed with M or E | WeBWorK points | Daily Prep passed | 
 | ----  | :------------------------:  | :----------------:  | :-------: | :----------: | 
@@ -115,6 +109,12 @@ If you have met those requirements, then your semester grade in the course is de
 
 A grade of F is given if **none** of the rows has been fully completed. 
 
+**IMPORTANT: Also note In order to earn a C or higher in the course, you must first meet the following basic requirements:**
+
+- **Earn a Pass mark on all three of the introductory assignments** at the beginning of the semester (Startup, Tools, and Precalculus Review); and  
+- **Earn at least Proficiency rating on all six Core Learning Targets.** 
+
+If these requirements are not met, then your grade will be capped at a C-. 
 **Plus/minus grades:** You can earn "plus" and "minus" grades as follows: 
 
 + **Plus:** Meet all the requirements for a base grade and also the requirements for Learning Targets or AEP for the next level up; *and* pass the final. 
@@ -287,6 +287,6 @@ There are **16 Learning Targets** in the course. **Six** (6) of those are design
 | 9 | 1--16 | Apr 27 (Tuesday) | Apr 29 (Thursday) | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0Mzg4MjQ4MiwtMTgyMTYzNDgwMCwtNz
+eyJoaXN0b3J5IjpbMTQ2Njc4MDg2NCwtMTgyMTYzNDgwMCwtNz
 Y1MDc1OV19
 -->
