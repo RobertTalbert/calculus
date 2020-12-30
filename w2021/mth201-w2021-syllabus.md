@@ -83,11 +83,13 @@ The marks for each kind of assignment and how those are earned are below:
 
 Each of the 16 Learning Targets in the course has a *rating* that indicates the level of skill you've demonstrated on that Target. There are three levels of ratings on each target: 
 
-- **No Rating**: This means that you have not yet demonstrated skill on the Learning Target. Everyone starts off the semester with "No Rating" on all 16 targets. 
-- **Proficiency**: This means that you have demonstrated *one item of acceptable evidence of skill* on the Learning Target. 
-- **Mastery**: This means that you have demonstrated *two items of acceptable evidence of skill* on the Learning Target. **
+- **No Rating**: This means that you have *not yet demonstrated acceptable evidence of skill* on the Learning Target. Everyone starts off the semester with "No Rating" on all 16 targets. 
+- **Proficiency**: This means that you have demonstrated ***one** item of acceptable evidence of skill* on the Learning Target. 
+- **Mastery**: This means that you have demonstrated ***two** items of acceptable evidence of skill* on the Learning Target.
 
-**What is "acceptable evidence of skill"?** You can demonstrate acceptable evidence of skill on a Learning Target in three different ways: 
+**What is an "item of acceptable evidence of skill"?** The following three things are conside
+
+You can demonstrate acceptable evidence of skill on a Learning Target in three different ways: 
 
 1. *By earning a "Pass" grade on a Checkpoint problem for that target*. Every time you complete a Checkpoint problem on a learning target successfully, you "level up" on that target. 
 2. *Through a live oral assessment.* You can request an oral assessment with me (Prof. Talbert) on Zoom, where I give you a problem similar to a Checkpoint problem and you work it out live while I observe. If you do "Pass" quality work on it, you'll level up on that target. 
@@ -287,5 +289,6 @@ There are **16 Learning Targets** in the course. **Six** (6) of those are design
 | 9 | 1--16 | Apr 27 (Tuesday) | Apr 29 (Thursday) | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjE2MzQ4MDAsLTc2NTA3NTldfQ==
+eyJoaXN0b3J5IjpbLTExODQwMTIzMzksLTE4MjE2MzQ4MDAsLT
+c2NTA3NTldfQ==
 -->
