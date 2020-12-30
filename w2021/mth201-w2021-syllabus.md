@@ -98,7 +98,7 @@ While most students will just stick to Checkpoints, you are free to mix and matc
 ## How do I earn a grade in the class? 
 
 
-Your semester grade in the course is determined by the following table. Your base grade (the letter A,B,C,D, or F without plus/minus) is the **highest** grade level for which **all** the requirements have been met or exceeded.
+Your semester grade in the course is determined by the following table. Your base grade (the letter A,B,C,D, or F without plus/minus) is the **highest** grade level for which **all** the requirements in a row of the table have been met or exceeded.
 
 | Grade | Learning Targets with Mastery rating | AEP's completed with M or E | WeBWorK points | Daily Prep passed | 
 | ----  | :------------------------:  | :----------------:  | :-------: | :----------: | 
@@ -109,18 +109,22 @@ Your semester grade in the course is determined by the following table. Your bas
 
 A grade of F is given if **none** of the rows has been fully completed. 
 
-**IMPORTANT: Also note In order to earn a C or higher in the course, you must first meet the following basic requirements:**
+**IMPORTANT: Also note that in order to earn a C or higher in the course, you must first meet the following basic requirements:**
 
 - **Earn a Pass mark on all three of the introductory assignments** at the beginning of the semester (Startup, Tools, and Precalculus Review); and  
 - **Earn at least Proficiency rating on all six Core Learning Targets.** 
 
 If these requirements are not met, then your grade will be capped at a C-. 
+
+
 **Plus/minus grades:** You can earn "plus" and "minus" grades as follows: 
 
 + **Plus:** Meet all the requirements for a base grade and also the requirements for Learning Targets or AEP for the next level up; *and* pass the final. 
 + **Minus:** Meet all the requirements for a base grade *except for one* and that one is no more than one grade level lower; *or* not pass the final. 
 
 ## How do I revise and resubmit my work? 
+
+Except for a few WeBWorK problems, partial credit is not available on graded items. Instead, if your work doesn't meet the quality standard 
 
 - **Daily Prep** assignments may *not* be revised or resubmitted. They are graded on completeness and effort only and therefore can only be done once. 
 - **WeBWorK** problems can be redone and resubmitted as many times as you need until the deadline. 
@@ -287,6 +291,6 @@ There are **16 Learning Targets** in the course. **Six** (6) of those are design
 | 9 | 1--16 | Apr 27 (Tuesday) | Apr 29 (Thursday) | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Njc4MDg2NCwtMTgyMTYzNDgwMCwtNz
-Y1MDc1OV19
+eyJoaXN0b3J5IjpbLTE4ODk1NTg1OTQsLTE4MjE2MzQ4MDAsLT
+c2NTA3NTldfQ==
 -->
