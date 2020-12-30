@@ -137,16 +137,12 @@ Except for a few WeBWorK problems, partial credit is not available on graded ite
 
 + Submit a third AEP in a given week 
 + Submit a revision of an AEP marked "X"  
-+ S
++ Submit an first draft of an AEP after its initial deadline
++ Submit a revision of an AEP whose first draft was submitted after the initial deadline
 + Extend the deadline on a Checkpoint by 12 hours  
 + Extend the deadline on a WeBWorK set by 12 hours  
 + Convert a "No Pass" on a Daily Prep to a "Pass"  
 + Request a Checkpoint problem for a "retired" Learning Target  
-+ 
-
-
-| Item       | Cost | 
-| ---------  | :----: | 
 
 
 Tokens may not be "stacked"; for example you aren't allowed to spend 2 tokens and extend a deadline for 24 hours instead of 12. Deadline extensions must be requested prior to the original deadline and will be extended 12 hours from the original deadline (not from the time when the request was made). 
@@ -297,6 +293,6 @@ There are **16 Learning Targets** in the course. **Six** (6) of those are design
 | 9 | 1--16 | Apr 27 (Tuesday) | Apr 29 (Thursday) | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTM3MzI4MCwtMTgyMTYzNDgwMCwtNz
-Y1MDc1OV19
+eyJoaXN0b3J5IjpbMzY3NTI4NzQwLC0xODIxNjM0ODAwLC03Nj
+UwNzU5XX0=
 -->
