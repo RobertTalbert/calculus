@@ -87,13 +87,11 @@ Each of the 16 Learning Targets in the course has a *rating* that indicates the 
 - **Proficiency**: This means that you have demonstrated ***one** item of acceptable evidence of skill* on the Learning Target. 
 - **Mastery**: This means that you have demonstrated ***two** items of acceptable evidence of skill* on the Learning Target.
 
-**What is an "item of acceptable evidence of skill"?** The following three things are conside
+**What is an "item of acceptable evidence of skill"?** The following three things are considered items of acceptable evidence of skill on a Learning Target: 
 
-You can demonstrate acceptable evidence of skill on a Learning Target in three different ways: 
-
-1. *By earning a "Pass" grade on a Checkpoint problem for that target*. Every time you complete a Checkpoint problem on a learning target successfully, you "level up" on that target. 
-2. *Through a live oral assessment.* You can request an oral assessment with me (Prof. Talbert) on Zoom, where I give you a problem similar to a Checkpoint problem and you work it out live while I observe. If you do "Pass" quality work on it, you'll level up on that target. 
-3. *Through making an instructional video.* You can also request to make a brief instructional video about a learning target, where I give you a problem similar to a Checkpoint problem and you work it out at a whitebaord while being recorded, and post it for the class to use. If you do "Pass" quality work on it, you'll level up on that target. 
+1. *A "Pass" grade on a **Checkpoint problem** for that target*. Every time you complete a Checkpoint problem on a learning target successfully, you "level up" on that target. 
+2. *Passing work on an **oral assessment** for that target*. You can request an oral assessment with me (Prof. Talbert) on Zoom, where I give you a problem similar to a Checkpoint problem and you work it out live while I observe. If you do "Pass" quality work on it, you'll level up on that target. 
+3. *Passing work on an **instructional video** that you make for that target.* You can also request to make a brief instructional video about a learning target, where I give you a problem similar to a Checkpoint problem and you work it out at a whitebaord while being recorded, and post it for the class to use. If you do "Pass" quality work on it, you'll level up on that target. 
 
 While most students will just stick to Checkpoints, you are free to mix and match these methods on any Learning Target to suit your style and your needs. However, please see "Restrictions on Checkpoints" in the "What else do I need to know?" section below. 
 
@@ -289,6 +287,6 @@ There are **16 Learning Targets** in the course. **Six** (6) of those are design
 | 9 | 1--16 | Apr 27 (Tuesday) | Apr 29 (Thursday) | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQwMTIzMzksLTE4MjE2MzQ4MDAsLT
-c2NTA3NTldfQ==
+eyJoaXN0b3J5IjpbMTA0Mzg4MjQ4MiwtMTgyMTYzNDgwMCwtNz
+Y1MDc1OV19
 -->
