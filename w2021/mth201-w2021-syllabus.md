@@ -124,12 +124,15 @@ If these requirements are not met, then your grade will be capped at a C-.
 
 ## How do I revise and resubmit my work? 
 
-Except for a few WeBWorK problems, partial credit is not available on graded items. Instead, if your work doesn't meet the quality standard 
+Except for a few WeBWorK problems, partial credit is not available on graded items. Instead, if your work doesn't meet the expectations given for the assignment, in most cases you will be given feedback and then allowed to **revise and resubmit** your work: 
 
-- **Daily Prep** assignments may *not* be revised or resubmitted. They are graded on completeness and effort only and therefore can only be done once. 
+
 - **WeBWorK** problems can be redone and resubmitted as many times as you need until the deadline. 
-- **Checkpoints** are cumulative, and each Learning Target will appear for **four consecutive Checkpoints** before being "retired". For example Learning Target 3 appears on Checkpoints 2, 3, 4 and 5. Once a Learning Target has been retired, you may request a new instance of it on a Checkpoint by spending a token (below) or by waiting until Checkpoints 8 or 9 which will include all 16 targets.  **You are not penalized for doing work that doesn't meet the grading standard**; you can just try again on the next Checkpoint. However, you'll need to do Pass-quality work on two of the four available opportunities in order to receive a Mastery rating unless you use an alternative method (oral exam or video).  
+- **Checkpoints** are cumulative, and each Learning Target will appear for **four consecutive Checkpoints** before being "retired". **You are not penalized for doing work that doesn't meet the grading standard**. Instead, if your work doesn't meet the standard, you just try again on a later Checkpoint. 
+
+For example Learning Target 3 appears on Checkpoints 2, 3, 4 and 5. Once a Learning Target has been retired, you may request a new instance of it on a Checkpoint by spending a token (below) or by waiting until Checkpoints 8 or 9 which will include all 16 targets.  ; you can just try again on the next Checkpoint. However, you'll need to do Pass-quality work on two of the four available opportunities in order to receive a Mastery rating unless you use an alternative method (oral exam or video).  
 - **AEPs** can be revised and resubmitted at any time just by revising your work based on the feedback you received, and then re-uploading to Blackboard. However, see "Restrictions on AEP revisions" in the "What else do I need to know?" section below. 
+- - **Daily Prep** assignments may *not* be revised or resubmitted. They are graded on completeness and effort only and therefore can only be done once. 
 
 
 **Tokens:** Each student starts the semester with 5 tokens, which can be used to purchase exceptions to the course rules. The token "menu" is below. To spend a token, go to the *Token Spending* form that's linked in the sidebar on Blackboard, fill it out, and submit it. Once the form is submitted, the item you purchased is yours; you do not need permission or approval. 
@@ -291,6 +294,6 @@ There are **16 Learning Targets** in the course. **Six** (6) of those are design
 | 9 | 1--16 | Apr 27 (Tuesday) | Apr 29 (Thursday) | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODk1NTg1OTQsLTE4MjE2MzQ4MDAsLT
+eyJoaXN0b3J5IjpbLTE4OTUwMzA0MzAsLTE4MjE2MzQ4MDAsLT
 c2NTA3NTldfQ==
 -->
