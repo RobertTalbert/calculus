@@ -224,6 +224,10 @@ Please note that **I (Prof. Talbert) am not able to provide student tech support
 
 **Gender identity and expression:** If, for purposes of gender identity and expression, your official name (in Banner) does not match your preferred name, your name can be updated in Blackboard. Please contact the registrar's office to submit this request.  The registrar's office will contact the Blackboard administrator to make the change and will also contact your professors to inform them that your name in Banner will not match the name in Blackboard.
 
+### Credits
+
+I borrowed a lot from the MTH 201 syllabus of Prof. David Clark. 
+
 ---
 ## Appendix: Learning Targets, Course Modules, and Checkpoint Schedule
 
@@ -293,6 +297,6 @@ There are **16 Learning Targets** in the course. **Six** (6) of those are design
 | 9 | 1--16 | Apr 27 (Tuesday) | Apr 29 (Thursday) | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3NTI4NzQwLC0xODIxNjM0ODAwLC03Nj
+eyJoaXN0b3J5IjpbNzE0MDk1OTUzLC0xODIxNjM0ODAwLC03Nj
 UwNzU5XX0=
 -->
