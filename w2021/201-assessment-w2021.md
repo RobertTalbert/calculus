@@ -1,5 +1,29 @@
 # MTH 201 W2021 Assessment plan
 
+
+## Startup assignments
+
+**Startup**
+
+- Fill out intro questionnaire (how do you like to work; what part of the Fall 2020 reflection meant the most and why; what needs do you have; etc.)
+- Syllabus/calendar quiz
+- Grading system quiz 
+- Set up on Campuswire: Picture, reply to a post 
+- Set up on Desmos activities: Sign up, complete a short activity 
+
+
+**Tools**: Do stuff on each of the following: 
+
+- W|A: Find the solutions to an equation and share the link to the work 
+- Blackboard: Scan something and submit it as a PDF; then respond to feedback  
+- Desmos: Make a graph and submit the link
+- Google Docs/Word: Replicate some math and turn in as PDF 
+
+Set up as assignment; submit the two PDFs and the two links
+
+
+**Precalculus review**: This is just a big WeBWorK set. Use Functions Bootcamp as a resource. Give maybe 50 problems and require a score of 45 or higher to pass. 
+
 ## Third look 2020-12-28
 
 Assessments: 
