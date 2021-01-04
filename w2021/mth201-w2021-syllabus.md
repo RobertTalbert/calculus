@@ -95,10 +95,6 @@ A grade of F is given if **none** of the rows has been fully completed.
 
 ## How do I revise and resubmit my work? 
 
-:::info
-Possibly pull some of the details out and put into a separate, highly detailed document. 
-:::
-
 Instead of earning partial credit, on most assignments you will have the opportunity to revise and resubmit your work based on feedback that I provide, if the work doesn't meet its standard for acceptability. This works as follows: 
 
 + **Learning Targets:** Checkpoints used to assess your skill on Learning Targets are **cumulative**, with each Learning Target appearing on **four consecutive Checkpoints**. For example, Learning Target 3 appears on Checkpoints 2, 3, 4 and 5. The problems for a Learning Target on each Checkpoint will be similar but not identical. After four Checkpoints, the Learning Target is "retired" and will only appear on the final two Checkpoints (or by request if you spend a token, explained later). **Work that doesn't meet the acceptability standard is not penalized**; instead, you are to study the feedback on your work, practice with the Learning Target, and reattempt the Learning Target later. 
@@ -233,5 +229,5 @@ The dates and specific Learning Targets are subject to change.
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyMTExOTUxLDEwODg0ODI2ODddfQ==
+eyJoaXN0b3J5IjpbMTQ0MDM1ODIzNSwxMDg4NDgyNjg3XX0=
 -->
