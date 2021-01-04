@@ -8,11 +8,11 @@ tags: mth201, syllabus
 
 ## What's MTH 201 all about? 
 
-MTH 201 is a first course in **Calculus**, which is all about **modeling and understanding change**. Change is maybe the most important facet of the world around us, and we care about it more than we realize. For example, we care a lot about the number of Covid-19 cases in our community, but we might care even more about *how fast the number of cases is changing* (either up or down). Building accurate models and then using those models to understand their rate of change will help us do things like predict the number of Covid cases a week in advance. In MTH 201, you'll learn the concepts, tools, and problem-solving behaviors that will allow you do things like this. 
+MTH 201 is a first course in **Calculus**, which is all about **modeling and understanding change**. Change is maybe the most important facet of the world around us, and we care about it more than we realize. For example, we care a lot about the number of Covid-19 cases in our community, but we might care even more about *how fast the number of cases is changing* (either up or down). In MTH 201, you'll learn the mathematical language of change and apply it to models that you build to draw conclusions, make predictions, and give meaningful answers to real problems. 
 
-MTH 201 is also a course that goes beyond just computing things. In the course, you'll build skills with **understanding** complex concepts, **communicating** those concepts and the meaning of your results to appropriate audiences, **using professional tools** to help you in your work, and practice **working with others** to improve your learning (and theirs). These are valuable skills no matter where you go next. 
+MTH 201 goes beyond just computation. In MTH 201, you'll build skills with **understanding** complex concepts, **communicating** those concepts and the meaning of your results to appropriate audiences, **using professional tools** to help you in your work, and practice **working with others** to improve your learning (and theirs). These are valuable skills no matter where you go next. 
 
-You should know that success in this course doesn't come easy, and you can expect to be pushed and stretched intellectually. But the struggle you experience is normal and healthy, a sign of growth and that you are doing things the right way. And above all, **my top priority is to support you in your work and help you succeed**. 
+Success in this course doesn't come easy, and you can expect to be pushed and stretched intellectually. But the struggle you experience is normal and healthy, a sign of growth and that you are doing things the right way. And you will receive tireless support fromAnd above all, **my top priority is to support you in your work and help you succeed**. 
 
 **Prerequisites:** MTH 124, or both MTH 122 and MTH 123, or placement via the Calculus Readiness Test. 
 
@@ -235,5 +235,5 @@ The dates and specific Learning Targets are subject to change.
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTU3MDMwMl19
+eyJoaXN0b3J5IjpbNzE1NDczMzVdfQ==
 -->
