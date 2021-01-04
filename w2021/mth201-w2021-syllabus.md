@@ -8,8 +8,7 @@ tags: mth201, syllabus
 
 ## What's MTH 201 all about? 
 
-MTH 201 is a first course in **Calculus**, which is all about **modeling and understanding change**. Change is maybe the most important facet of the worl
-For example, we might care a lot about the number of Covid-19 cases in our county, but it's also important to understand *how fast the number of cases is growing or shrinking* on a given day. Building accurate models and then using those models to understand their rate of change will help us do things like predict the number of Covid cases a week in advance. In MTH 201, you'll learn the concepts, tools, and problem-solving behaviors that will allow you do things like this. 
+MTH 201 is a first course in **Calculus**, which is all about **modeling and understanding change**. Change is maybe the most important facet of the world around us, and we care about it more than we realize. For example, we care a lot about the number of Covid-19 cases in our community, but we might care even more about *how fast the number of cases is changing* (either up or down). Building accurate models and then using those models to understand their rate of change will help us do things like predict the number of Covid cases a week in advance. In MTH 201, you'll learn the concepts, tools, and problem-solving behaviors that will allow you do things like this. 
 
 MTH 201 is also a course that goes beyond just computing things. In the course, you'll build skills with **understanding** complex concepts, **communicating** those concepts and the meaning of your results to appropriate audiences, **using professional tools** to help you in your work, and practice **working with others** to improve your learning (and theirs). These are valuable skills no matter where you go next. 
 
@@ -236,5 +235,5 @@ The dates and specific Learning Targets are subject to change.
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTYzOTU3XX0=
+eyJoaXN0b3J5IjpbLTU3NTU3MDMwMl19
 -->
