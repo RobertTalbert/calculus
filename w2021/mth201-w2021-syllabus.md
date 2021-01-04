@@ -126,6 +126,8 @@ Please note that tokens may not be "stacked"; for example you aren't allowed to 
 
 **Attendance:** You will need to participate actively in each class meeting to get the most out of the course and avoid having to teach yourself the material. Attendance will be taken but not graded; I will follow up with students with excessive absences, but no direct penalty is incurred. You do not need to seek permission to miss a class. However, realize that **excessive absences will severely limit your ability to learn the subject**. 
 
+**Zoom meeting guidelines:** Our class meetings will be done through Zoom. When we meet, please **mute your audio but turn your video feed on** so I can see you. If you are not comfortable with having video on, please **use a picture of yourself** that appears on screen when you mute the video. Wh
+
 **Deadlines and late work:** Deadlines are generally strictly enforced, and late work will not be accepted. However, you can spend tokens to extend deadlines for Checkpoints and WeBWorK sets. Daily Prep deadlines cannot be extended, but you can spend a token to change a Daily Prep grade to Pass. 
 
 **AEP deadlines:** AEPs generally do not have fixed deadlines. You are expected to work on these over time until your work meets expectations. However, only two submissions can be made per week, so you cannot wait until the end of the semester and then submit several AEPs all at once. Also, there will be incentives given for completing AEPs prior to early dates on the calendar. **You should plan on maintaining a pace to submit at least one AEP every 1-2 weeks.** 
@@ -232,6 +234,6 @@ The dates and specific Learning Targets are subject to change.
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODc4OTMyMiwxNDQwMzU4MjM1LDEwOD
+eyJoaXN0b3J5IjpbLTg5NDYxOTQxMCwxNDQwMzU4MjM1LDEwOD
 g0ODI2ODddfQ==
 -->
