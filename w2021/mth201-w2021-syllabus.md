@@ -25,10 +25,10 @@ Success in this course doesn't come easy, and you can expect to be pushed and st
 + **Definition of a "week"**: For this class, a "week" runs from 12:01am Eastern time on Monday through 11:59pm Eastern time on the following Sunday. 
 + **Professor contact:** Email at talbertr@gvsu.edu, or direct-message me on Campuswire. If you have a question that the entire class might answer, please post it to the Class Feed on Campuswire instead of in a private message. 
 + **Professor availability:** I check messages regularly between 7:00am and 5:00pm on weekdays, and once on Saturdays. If you contact me during those hours and your message needs a reply, you can expect to receive one within a few hours, often sooner. *Outside of those hours, particularly on weekends, I am typically offline and not checking messages.* Please plan accordingly as you schedule your work. 
-+ **Drop-in hours**: These will be held on Campuswire via the "Live Sesssion" feature. ). You do *not* need an appointment for drop-in hours.
++ **Drop-in hours**: These will be held on Campuswire via the "Live Sesssion" feature. You do *not* need an appointment for drop-in hours. Specific time for drop-in hours will be determined in week 1. 
 + **Textbook**: *Active Calculus* by Matt Boelkins (August 2020 version). This is available *free* online here: https://activecalculus.org/single/frontmatter.html  You can also download a PDF copy here: https://scholarworks.gvsu.edu/books/18/  You do not need a print copy, but if you want one, you can order it here: http://amzn.to/38HQdIo (Note this is the 2018 version.) 
 + **Course materials**: All course files, the class calendar, class forms, and most graded assignments are housed on Blackboard (http://mybb.gvsu.edu). 
-+ **Course announcements and communication**: Course announcements, discussion, and other communication will be housed on **Campuswire** (link). You will also be able to opt in to a service called **Remind** which allows me to push reminders to you via text message. 
++ **Course announcements and communication**: Course announcements, discussion, and other communication will be housed on **Campuswire** (https://campuswire.com/c/G578D9BCC/). You will also be able to opt in to a service called **Remind** which allows me to push reminders to you via text message. 
 
 ## What will class meetings be like? 
 
@@ -235,5 +235,5 @@ The dates and specific Learning Targets are subject to change.
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTU1MzMxMl19
+eyJoaXN0b3J5IjpbLTQ3ODExNzE0N119
 -->
