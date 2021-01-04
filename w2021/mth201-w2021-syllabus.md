@@ -103,11 +103,11 @@ How this works in MTH 201 is as follows:
 + **Learning Targets:** Learning Targets are assessed by Checkpoints as described above. **Each Checkpoint is cumulative**, so for example Checkpoint 2 will cover some new material plus material from Checkpoint 1, and so on. **Each Learning Target will appear on four (4) consecutive checkpoints**; for example, a problem for Learning Target 3 first appears on Checkpoint 2 and new versions of that problem will appear on Checkpoints 3, 4 and 5. In this way, if you work a problem on a Checkpoint that doesn't meet the standard, you can just try it again at a later Checkpoint. However: **After four Checkpoints, the Learning Target is "retired"** and will only appear on the final two Checkpoints (or by request if you spend a token, explained later), so you do need to tackle Learning Targets early and fix any misconceptions you have on them reasonably quickly in order to earn a Mastery rating (which is earned by completing two  Checkpoint problems successfully). 
 + **AEPs** earning M, P, or X can be revised and resubmitted at any time by reflecting on the feedback you receive, making corrections and rewrites, and then re-uploading the new draft to Blackboard. However, see below for two important restrictions on AEP revisions.
 + **Daily Prep** assignments *may not* be revised or resubmitted. They are graded on completeness and effort only, and therefore can only be done once. However, you can spend a token to convert a "No Pass" mark to a "Pass" if needed. 
-+ **WeBWorK** problems can be redone and resubmitted as many times as you need until the deadline. However they cannot be redone once the deadline has pa
++ **WeBWorK** problems can be redone and resubmitted as many times as you need until the deadline. However they cannot be redone once the deadline has passed. 
 
 Revision options for the startup assignments are specified in those assignments. 
 
-**Restrictions on AEP revisions:** You may only submit **two AEP items per week** --- either initial drafts of two different AEPs, two revisions, or one of each. A third submission in a week can be purchased with a token (see below), but four or more submissions in a week are not allowed under any circumstance. Also, you must spend a token to revise an AEP that earned a grade of "X". 
+**Restrictions on AEP revisions:** You may only submit **two AEP items per week** --- either initial drafts of two different AEPs, two revisions, or one of each. A third submission in a week can be purchased with a token (see below), but four or more submissions in a week are not allowed under any circumstance. Also, **you must spend a token to revise an AEP that earned a grade of "X"**; this is in place to make sure your AEP drafts represent a complete and good-faith effort. 
 
 **Tokens:** Each student starts the semester with 5 **tokens**, which can be used to purchase exceptions to the course rules. The token "menu" is below. To spend a token, go to the *Token Spending* form (found in the in the *Submit a Form* area on Blackboard), fill it out, and submit it. Once the form is submitted, the item you purchased is yours; you do not need permission or confirmation. Everything listed here costs 1 token: 
 
@@ -124,7 +124,7 @@ Please note that tokens may not be "stacked"; for example you aren't allowed to 
 
 ### Attendance and deadlines
 
-**Attendance:** You will need to participate actively in each class meeting to get the most out of the course and avoid having to teach yourself the material. Attendance will be taken but not graded; I will follow up with students with excessive absences, but no direct penalty is incurred. You do not need to seek permission to miss a class. However, realize that excessive absences will severely limit your ability to learn the subject. 
+**Attendance:** You will need to participate actively in each class meeting to get the most out of the course and avoid having to teach yourself the material. Attendance will be taken but not graded; I will follow up with students with excessive absences, but no direct penalty is incurred. You do not need to seek permission to miss a class. However, realize that **excessive absences will severely limit your ability to learn the subject**. 
 
 **Deadlines and late work:** Deadlines are generally strictly enforced, and late work will not be accepted. However, you can spend tokens to extend deadlines for Checkpoints and WeBWorK sets. Daily Prep deadlines cannot be extended, but you can spend a token to change a Daily Prep grade to Pass. 
 
@@ -232,6 +232,6 @@ The dates and specific Learning Targets are subject to change.
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDI3NDcwMjgsMTQ0MDM1ODIzNSwxMD
-g4NDgyNjg3XX0=
+eyJoaXN0b3J5IjpbMTY3ODc4OTMyMiwxNDQwMzU4MjM1LDEwOD
+g0ODI2ODddfQ==
 -->
