@@ -182,6 +182,8 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 
 ### List of Learning Targets 
 
+**Note**: Learning Targets 2, 4, 6, 7, 12, and 16 are **Core** Learning Targets and are marked as such. 
+
 1. I can find the average rate of change of a function and the average velocity of an object on an interval.
 2. (**CORE**) I can find one- and two-sided limits of a function at a point and at infinity using numerical, graphical, and algebraic methods.
 3. I can find the derivative of a function (both at a point and as a function) and the instantaneous velocity of an object using the definition of the derivative.
@@ -234,6 +236,6 @@ The dates and specific Learning Targets are subject to change.
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1MDc1NjAxLC0xMTM3Mjc5NTk4LDE0ND
-AzNTgyMzUsMTA4ODQ4MjY4N119
+eyJoaXN0b3J5IjpbLTE4NDE1NjA4MjQsLTExMzcyNzk1OTgsMT
+Q0MDM1ODIzNSwxMDg4NDgyNjg3XX0=
 -->
