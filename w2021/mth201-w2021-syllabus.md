@@ -130,10 +130,7 @@ Please note that tokens may not be "stacked"; for example you aren't allowed to 
 
 **Deadlines and late work:** Deadlines are generally strictly enforced, and late work will not be accepted. However, you can spend tokens to extend deadlines for Checkpoints and WeBWorK sets. Daily Prep deadlines cannot be extended, but you can spend a token to change a "No Pass" mark to "Pass" if needed. 
 
-**AEP deadlines:** **AEPs do not have fixed deadlines**. Instead, you will select the AEPs you want to work on (up to 6 out of a total of 8-10), and then work over time and submit your first draft when you believe it's ready to be graded. **Note well:** 
-
-
-You are expected to work on these over time until your work meets expectations. However, only two submissions can be made per week, so you cannot wait until the end of the semester and then submit several AEPs all at once. Also, there will be incentives given for completing AEPs prior to early dates on the calendar. **You should plan on maintaining a pace to submit at least one AEP every 1-2 weeks.** 
+**AEP deadlines:** **AEPs do not have fixed deadlines**. Instead, you will select the AEPs you want to work on (up to 6 out of a total of 8-10), and then work over time and submit your first draft when you believe it's ready to be graded. **However as noted earlier, you can only turn in two AEP items per week**  --- two new submissions, two revisions, or one of each --- so you **cannot procrastinate until the second half of the term to get started. You should plan on maintaining a pace to submit at least one AEP every 1-2 weeks.**.  There will be some incentives set up plus reminders to keep you on track, but otherwise you are responsible for managing your work schedule. 
 
 ### Collaboration and academic honesty
 
@@ -237,6 +234,6 @@ The dates and specific Learning Targets are subject to change.
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzcyNzk1OTgsMTQ0MDM1ODIzNSwxMD
-g4NDgyNjg3XX0=
+eyJoaXN0b3J5IjpbMTg2NDYxNDM1NywtMTEzNzI3OTU5OCwxND
+QwMzU4MjM1LDEwODg0ODI2ODddfQ==
 -->
