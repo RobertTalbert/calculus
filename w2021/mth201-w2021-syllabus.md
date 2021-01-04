@@ -68,21 +68,17 @@ The individual types of assignments are marked as follows:
 | Daily Prep | **Pass** or **No Pass** | 
 | Startup assignments | **Pass** or **No Pass**  | 
 
-The critera for the different marks are explained in the "xxxxxxx" section below. 
+The critera for the different marks are explained in the "*How are individual assignments graded?*" section below. 
 
 Your final grade in the course is determined by the following table. Each grade has a *requirement* specified in its row in the table. **To earn a grade, you will need to meet *all* the requirements in the row for that grade.** Put differently, your grade is the **highest** grade level for which **all** the requirements in a row of the table have been met or exceeded.
 
 
-| Grade | Learning Targets with Mastery (out of 16) | AEP's with M or E (out of 8-10) | WeBWorK points (out of 192) | Daily Prep passed (out of 24) | Startup Assignments Passed (out of 3) | 
+| Grade | Learning Targets with Mastery (out of 16) | AEP's with M or E (out of 8-10) | WeBWorK points (out of 192) | Daily Prep Passed (out of 24) | Startup Assignments Passed (out of 3) | 
 | ----  | :------------------------:  | :----------------:  | :-------: | :----------: | :----: | 
 | A | 15 *including all 6 Core* | 6 *including at least 3 E's* | 170 | 22 | 3 | 
 | B | 13 | 5 | 150 | 20 | 3 | 
 | C | 11 | 4 | 130 | 18 | 3 | 
 | D | 5 | 2 | 100 | 12 | n/a | 
-
-:::info
-Possibly add more stringent Core Learning Target requirements for B, like "including at least 4 Core" (the current requirement requires at least 3)
-:::
 
 A grade of F is given if **none** of the rows has been fully completed. 
 
@@ -237,5 +233,5 @@ The dates and specific Learning Targets are subject to change.
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODUzMTEwNCwxMDg4NDgyNjg3XX0=
+eyJoaXN0b3J5IjpbLTEzODkxMTA2NzEsMTA4ODQ4MjY4N119
 -->
