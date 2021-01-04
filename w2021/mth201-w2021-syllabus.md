@@ -136,8 +136,8 @@ Please note that tokens may not be "stacked"; for example you aren't allowed to 
 
 I highly encourage you to collaborate with your classmates whenever collaboration is allowed. However, realize that *collaboration is not always allowed* and in all cases, there are limitations on how you can collaborate. In particular: 
 
+- On **Checkpoints**, your work must represent *your own understanding* in *your own words* and you may not use solutions, directly or indirectly, from other students or unapproved resources. However, there is a list of *approved* resources that you may use on Checkpoints, including [Wolfram|Alpha](http://wolframalpha.com), [Desmos](http://desmos.com), your textbook, and other items posted to Blackboard. That list is included in the document titled "Information on Learning Targets and Checkpoints" found on Blackboard in the *Syllabus and Calendar* area. **Items not on the approved list may be used only with prior permission from me (Talbert).** 
 - On **AEPs**, your work must represent *your own understanding* in *your own words*. You may not use solutions, directly or indirectly, from any sources --- including other students, past students, online sources, or other textbooks. 
-- On **Checkpoints**, your work must still represent *your own understanding* in *your own words* and you may not use solutions, directly or indirectly, from other students. However, there is a list of approved external resources that you may use on Checkpoints, including [Wolfram|Alpha](http://wolframalpha.com), [Desmos](http://desmos.com), your textbook, and other items posted to Blackboard. That list is included in the document titled "Information for Checkpoints" found on Blackboard in the *Syllabus and Calendar* area. **Items not on the approved list may be used only with prior permission from me (Talbert).** 
 - On **all other assignments**, you may collaborate with others, but you must contribute significantly to the assignment, and your work must represent *your own understanding* in *your own words*.
 
 You are responsible for understanding this policy and the [GVSU Student Code](https://www.gvsu.edu/policies/policy.htm?policyId=EFAB64E1-C25B-E1A3-CA2B08B0B821C774&search=). Violations will result, at minimum, in a mark of "X" or "No Pass" on the assignment. Serious or repeat violations of this policy will result in increasingly horrible consequences, including being barred from further submissions of the assignment or Learning Target, or even failure of the class. 
@@ -234,6 +234,6 @@ The dates and specific Learning Targets are subject to change.
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDYxNDM1NywtMTEzNzI3OTU5OCwxND
-QwMzU4MjM1LDEwODg0ODI2ODddfQ==
+eyJoaXN0b3J5IjpbOTk1MDc1NjAxLC0xMTM3Mjc5NTk4LDE0ND
+AzNTgyMzUsMTA4ODQ4MjY4N119
 -->
