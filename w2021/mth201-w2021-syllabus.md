@@ -101,10 +101,9 @@ Instead of earning partial credit, on most assignments you will have the opportu
 How this works in MTH 201 is as follows: 
 
 + **Learning Targets:** Learning Targets are assessed by Checkpoints as described above. **Each Checkpoint is cumulative**, so for example Checkpoint 2 will cover some new material plus material from Checkpoint 1, and so on. **Each Learning Target will appear on four (4) consecutive checkpoints**; for example, a problem for Learning Target 3 first appears on Checkpoint 2 and new versions of that problem will appear on Checkpoints 3, 4 and 5. In this way, if you work a problem on a Checkpoint that doesn't meet the standard, you can just try it again at a later Checkpoint. However: **After four Checkpoints, the Learning Target is "retired"** and will only appear on the final two Checkpoints (or by request if you spend a token, explained later), so you do need to tackle Learning Targets early and fix any misconceptions you have on them reasonably quickly in order to earn a Mastery rating (which is earned by completing two  Checkpoint problems successfully). 
-+ **AEPs** earning M, P, or X can be revised and resubmitted at any time by reflecting on the feedback you receive, making corrections and rewrites, and then 
-revising your work based on the feedback you received, and then re-uploading to Blackboard. As with Learning Targets, **you are not penalized for doing work that doesn't meet the grading standard** as long as it is a complete, good-faith effort. Insread, you are to study the feedback and revise/resubmit your work. However, see below for two important restrictions on AEP revisions.
-- **Daily Prep** assignments *may not* be revised or resubmitted. They are graded on completeness and effort only, and therefore can only be done once. 
-- **WeBWorK** problems can be redone and resubmitted as many times as you need until the deadline. 
++ **AEPs** earning M, P, or X can be revised and resubmitted at any time by reflecting on the feedback you receive, making corrections and rewrites, and then re-uploading the new draft to Blackboard. However, see below for two important restrictions on AEP revisions.
++ **Daily Prep** assignments *may not* be revised or resubmitted. They are graded on completeness and effort only, and therefore can only be done once. However, you can spend a token to convert a "No Pass" mark to a "Pass" if needed. 
++ **WeBWorK** problems can be redone and resubmitted as many times as you need until the deadline. However they cannot be redone once the deadline has pa
 
 Revision options for the startup assignments are specified in those assignments. 
 
@@ -233,6 +232,6 @@ The dates and specific Learning Targets are subject to change.
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTYyMzA5NSwxNDQwMzU4MjM1LDEwOD
-g0ODI2ODddfQ==
+eyJoaXN0b3J5IjpbLTEwMDI3NDcwMjgsMTQ0MDM1ODIzNSwxMD
+g4NDgyNjg3XX0=
 -->
