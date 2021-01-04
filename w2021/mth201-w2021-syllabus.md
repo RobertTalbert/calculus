@@ -52,7 +52,9 @@ There is also a final exam for the course which will focus on big-picture questi
 
 ## How do I earn a grade in the course? 
 
-Your grade in the course is earned by **accumulating and demonstrating evidence of skill on the main concepts in the course**. And this is done by completing the assignments outlined above, at a reasonably high level of quality. In our class, **there are no points or percentages** on most items. Instead, the work you turn in will be evaluated against **quality standards** that will be made clear on each assignment. If your work meets the standard, then you will receive full credit for it. Otherwise, you will get helpful feedback and, on most items, the chance to reflect on the feedback, revise your work, and then resubmit it for regrading. 
+Your grade in the course is earned by **demonstrating evidence of skill on the main concepts in the course** and by **showing appropriate engagement with the course**. And this is done by completing the assignments outlined above, at a reasonably high level of quality. 
+
+In our class, **there are no points or percentages** on most items. Instead, the work you turn in will be evaluated against **quality standards** that will be made clear on each assignment. If your work meets the standard, then you will receive full credit for it. Otherwise, you will get helpful feedback and, on most items, the chance to reflect on the feedback, revise your work, and then resubmit it for regrading. 
 
 This feedback loop represents and supports the way that people learn: By trying things, making mistakes, reflecting on those mistakes, and then trying again. **You can make mistakes without penalty** as long as you *eventually* demonstrate evidence of skill. 
 
@@ -235,5 +237,5 @@ The dates and specific Learning Targets are subject to change.
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxMzE0NjA1LDEwODg0ODI2ODddfQ==
+eyJoaXN0b3J5IjpbLTM1ODUzMTEwNCwxMDg4NDgyNjg3XX0=
 -->
