@@ -38,7 +38,7 @@ Your work in the class will follow a pattern that will involve you **before**, *
 - **DURING each class**: Class time is reserved for *doing math*, together and individually. We will focus on activities that **apply the basics** that you learn in Daily Prep and get you ready for more advanced work later. 
 - **AFTER each class**: You'll apply and extend the ideas we practice during class through different kinds of graded work. 
 
-Since you learn math by *doing* math, class time will be prioritized for doing active work (both individually and in groups) on applications of basic concepts. You'll be expected to gain enough fluency on those basics to be productive in class, by doing your Daily Prep assignments. Lectures during class will be infrequent, short, and targeted at specific questions from your work rather than a general introduction to concepts. Also, **there are no timed tests or quizzes during class meetings**. 
+Since you learn math by *doing* math, class time will be prioritized for **doing active work on applications of basic concepts**. You'll be expected to gain enough fluency on those basics to be productive in class, by doing your Daily Prep assignments. Lectures during class will be infrequent, short, and targeted at specific questions from your work rather than a general introduction to concepts. Also, **there are no timed tests or quizzes during class meetings**. 
 
 ## What assignments will there be? 
 
@@ -235,5 +235,5 @@ The dates and specific Learning Targets are subject to change.
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODExNzE0N119
+eyJoaXN0b3J5IjpbMTA4ODQ4MjY4N119
 -->
