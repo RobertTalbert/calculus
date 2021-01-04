@@ -44,9 +44,9 @@ Since you learn math by *doing* math, class time will be prioritized for **doing
 
 + **Learning Targets**: There are 16 *Learning Targets* in the course, listed in the Appendix to this syllabus. These are the main tasks that you should be able to do if you are successful in MTH 201. Six of these are designated as **Core** learning targets because they are the most essential topics in the class. *Your main goal in the course is to provide evidence of skill on as many targets as possible.* You will do so through **Checkpoints** which are do-at-home exams. 
 + **Application/Extension Problems (AEPs)**: AEPs are extended problem sets where you will either *apply* basic content to real-life problems or explore *extensions* of those concepts beyond what's in the textbook. There will be between 8 and 10 of these, and you'll choose several (up to 6) from among these to complete. 
-+ **WeBWorK** (192 points total): Online homework assignments to help build your computational skills. You will receive 16 problems per course module, each worth 1 point. 
-+ **Daily Prep** (24 total): Daily reading and videos, with exercises and questions to be submitted prior to class. These will help you learn the basics of new material and prepare you for more application-focused work in class.
-+ **Startup assignments** (3 total): During the first few weeks of class, you'll complete three assignments designed to get you set up in the course and do some review of precalculus math. 
++ **WeBWorK**: Online homework assignments to help build your computational skills. You will receive 16 problems per course module, each worth 1 point, for a total of 192 points available. 
++ **Daily Prep**: Daily reading and videos, with exercises and questions to be submitted prior to class. These will help you learn the basics of new material and prepare you for more application-focused work in class. There will be two Daily Preps per module, for a total of 24.
++ **Startup assignments**: During the first few weeks of class, you'll complete three assignments designed to get you set up in the course and do some review of precalculus math. 
 
 There is also a final exam for the course which will focus on big-picture questions and reflections on your experiences in the course. It will be graded Pass/No Pass. The final exam will be assigned on Wednesday April 28 and will be due on Thursday April 29. More information will be given near the end of the course. 
 
@@ -235,5 +235,5 @@ The dates and specific Learning Targets are subject to change.
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDgwMTg2NywxMDg4NDgyNjg3XX0=
+eyJoaXN0b3J5IjpbMzIxMzE0NjA1LDEwODg0ODI2ODddfQ==
 -->
