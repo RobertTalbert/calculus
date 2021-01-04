@@ -86,7 +86,7 @@ A grade of F is given if **none** of the rows has been fully completed.
 
 ## How are individual assignments graded? 
 
-+ **Learning Targets:** The two ratings of *Proficiency* and *Mastery* are assessed on **Checkpoints**, which are do-at-home exams offered roughly every 10-14 days (a schedule is in the Appendix of this syllabus). Checkpoints contain one problem (often with multiple parts) per Learning Target. Each problem is graded separately and has its own criteria for what is "acceptable" work.**A Proficiency rating is given if you complete *one* Checkpoint problem that meets the criteria; a Mastery rating is given if you complete a *second* Checkpoint problem that meets the criteria.** 
++ **Learning Targets:** The two ratings of *Proficiency* and *Mastery* are assessed on **Checkpoints**, which are do-at-home exams offered roughly every 10-14 days (a schedule is in the Appendix of this syllabus). Checkpoints contain one problem (often with multiple parts) per Learning Target. Each problem is graded separately and has its own criteria for what is "acceptable" work. **A Proficiency rating is given if you complete *one* Checkpoint problem that meets the criteria; a Mastery rating is given if you complete a *second* Checkpoint problem that meets the criteria.** A detailed rundown of each Learning Target's criteria for "acceptable" work, the items covered on each Checkpoint problem, and a schedule for Checkpoints can be found in the document "Information on Learning Targets and Checkpoints" on Blackboard in the *Learning Targets* area. 
 + **AEPs:** The grading process for AEPs is outlined in the flowchart below: 
 ![EMPX rubric](https://i.ibb.co/0sRwsd6/EMPX-rubric-2021.png)
 + **Daily Prep**: A *Pass* mark is given if the Daily Prep is turned in before its deadline and if *each item* on the Daily Prep has a response that represents a *good faith effort to be right*. **Mistakes are not penalized**. In fact one purpose of Daily Preps is to provide me with information about issues that the class is having, prior to class meetings. A *No Pass* is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
@@ -233,5 +233,5 @@ The dates and specific Learning Targets are subject to change.
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0OTM3NTQsMTA4ODQ4MjY4N119
+eyJoaXN0b3J5IjpbMjIyMTExOTUxLDEwODg0ODI2ODddfQ==
 -->
