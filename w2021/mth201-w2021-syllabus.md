@@ -12,7 +12,7 @@ MTH 201 is a first course in **Calculus**, which is all about **modeling and und
 
 MTH 201 goes beyond just computation. In MTH 201, you'll build skills with **understanding** complex concepts, **communicating** those concepts and the meaning of your results to appropriate audiences, **using professional tools** to help you in your work, and practice **working with others** to improve your learning (and theirs). These are valuable skills no matter where you go next. 
 
-Success in this course doesn't come easy, and you can expect to be pushed and stretched intellectually. But the struggle you experience is normal and healthy, a sign of growth and that you are doing things the right way. And you will receive tireless support fromAnd above all, **my top priority is to support you in your work and help you succeed**. 
+Success in this course doesn't come easy, and you can expect to be pushed and stretched intellectually. But the struggle you experience is normal and healthy, a sign of growth and that you are doing things the right way. And you will receive tireless support from me and your classmates in the process. Above all, **my top priority is to support you in your work and help you succeed**. 
 
 **Prerequisites:** MTH 124, or both MTH 122 and MTH 123, or placement via the Calculus Readiness Test. 
 
@@ -21,11 +21,11 @@ Success in this course doesn't come easy, and you can expect to be pushed and st
 ## Key Information 
 
 + **Course mode:** This section of MTH 201 is **synchronous online**, which means we will meet online (through Zoom) at regularly scheduled times. Please note **I do not plan on being on campus this semester**. 
-+ **Class meetings**: MTWR 2:00-2:50 online. Class sessions will be held on Zoom using the link https://gvsu-edu.zoom.us/j/94860437207?pwd=MzdYS3VoQUZkdWcxT3NKR0VCeEpxQT09 and passcode **342013**. You will need to sign in to Zoom to join the meetings. 
++ **Class meetings**: MTWR 2:00-2:50 online. The link for our meetings is found on Blackboard in the *Syllabus and Calendar* area. 
 + **Definition of a "week"**: For this class, a "week" runs from 12:01am Eastern time on Monday through 11:59pm Eastern time on the following Sunday. 
 + **Professor contact:** Email at talbertr@gvsu.edu, or direct-message me on Campuswire. If you have a question that the entire class might answer, please post it to the Class Feed on Campuswire instead of in a private message. 
-+ **Professor availability:** I check messages regularly between the hours of 7:00am and 5:00pm on weekdays, and once on Saturdays; if you contact me during those hours and your message needs a reply, you can expect to receive one within a few hours, often sooner. *Outside of those hours, particularly on weekends, I am offline and not checking messages.* Please plan accordingly as you schedule your work. 
-+ **Drop-in hours**: XXXXX on Campuswire (via a Live Sesssion). You do *not* need an appointment for drop-in hours.
++ **Professor availability:** I check messages regularly between 7:00am and 5:00pm on weekdays, and once on Saturdays. If you contact me during those hours and your message needs a reply, you can expect to receive one within a few hours, often sooner. *Outside of those hours, particularly on weekends, I am typically offline and not checking messages.* Please plan accordingly as you schedule your work. 
++ **Drop-in hours**: These will be held on Campuswire via the "Live Sesssion" feature. ). You do *not* need an appointment for drop-in hours.
 + **Textbook**: *Active Calculus* by Matt Boelkins (August 2020 version). This is available *free* online here: https://activecalculus.org/single/frontmatter.html  You can also download a PDF copy here: https://scholarworks.gvsu.edu/books/18/  You do not need a print copy, but if you want one, you can order it here: http://amzn.to/38HQdIo (Note this is the 2018 version.) 
 + **Course materials**: All course files, the class calendar, class forms, and most graded assignments are housed on Blackboard (http://mybb.gvsu.edu). 
 + **Course announcements and communication**: Course announcements, discussion, and other communication will be housed on **Campuswire** (link). You will also be able to opt in to a service called **Remind** which allows me to push reminders to you via text message. 
@@ -235,5 +235,5 @@ The dates and specific Learning Targets are subject to change.
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1NDczMzVdfQ==
+eyJoaXN0b3J5IjpbMTU4NTU1MzMxMl19
 -->
