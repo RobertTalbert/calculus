@@ -126,7 +126,7 @@ Please note that tokens may not be "stacked"; for example you aren't allowed to 
 
 **Attendance:** You will need to participate actively in each class meeting to get the most out of the course and avoid having to teach yourself the material. Attendance will be taken but not graded; I will follow up with students with excessive absences, but no direct penalty is incurred. You do not need to seek permission to miss a class. However, realize that **excessive absences will severely limit your ability to learn the subject**. 
 
-**Zoom meeting guidelines:** Our class meetings will be done through Zoom. When we meet, please **mute your audio but turn your video feed on** so I can see you. If you are not comfortable with having video on, please **use a picture of yourself** that appears on screen when you mute the video. Wh
+**Zoom meeting guidelines:** Our class meetings will be done through Zoom. When we meet, please **mute your audio but turn your video feed on**. Having the video feed on helps me to interact better with you, and it will help you focus and learn. If you are not comfortable with having video on, please at least **use a picture of yourself** that appears on screen when you mute the video. We will also work in breakout rooms frequently; when doing so, **if you are working collaboratively with a group, make sure to turn both your audio and video on, and participate actively**. 
 
 **Deadlines and late work:** Deadlines are generally strictly enforced, and late work will not be accepted. However, you can spend tokens to extend deadlines for Checkpoints and WeBWorK sets. Daily Prep deadlines cannot be extended, but you can spend a token to change a Daily Prep grade to Pass. 
 
@@ -234,6 +234,6 @@ The dates and specific Learning Targets are subject to change.
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDYxOTQxMCwxNDQwMzU4MjM1LDEwOD
-g0ODI2ODddfQ==
+eyJoaXN0b3J5IjpbLTIyNjc0NTE3LDE0NDAzNTgyMzUsMTA4OD
+Q4MjY4N119
 -->
