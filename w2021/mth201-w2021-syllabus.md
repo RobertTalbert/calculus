@@ -128,9 +128,12 @@ Please note that tokens may not be "stacked"; for example you aren't allowed to 
 
 **Zoom meeting guidelines:** Our class meetings will be done through Zoom. When we meet, please **mute your audio but turn your video feed on**. Having the video feed on helps me to interact better with you, and it will help you focus and learn. If you are not comfortable with having video on, please at least **use a picture of yourself** that appears on screen when you mute the video. We will also work in breakout rooms frequently; when doing so, **if you are working collaboratively with a group, make sure to turn both your audio and video on, and participate actively**. 
 
-**Deadlines and late work:** Deadlines are generally strictly enforced, and late work will not be accepted. However, you can spend tokens to extend deadlines for Checkpoints and WeBWorK sets. Daily Prep deadlines cannot be extended, but you can spend a token to change a Daily Prep grade to Pass. 
+**Deadlines and late work:** Deadlines are generally strictly enforced, and late work will not be accepted. However, you can spend tokens to extend deadlines for Checkpoints and WeBWorK sets. Daily Prep deadlines cannot be extended, but you can spend a token to change a "No Pass" mark to "Pass" if needed. 
 
-**AEP deadlines:** AEPs generally do not have fixed deadlines. You are expected to work on these over time until your work meets expectations. However, only two submissions can be made per week, so you cannot wait until the end of the semester and then submit several AEPs all at once. Also, there will be incentives given for completing AEPs prior to early dates on the calendar. **You should plan on maintaining a pace to submit at least one AEP every 1-2 weeks.** 
+**AEP deadlines:** **AEPs do not have fixed deadlines**. Instead, you will select the AEPs you want to work on (up to 6 out of a total of 8-10), and then work over time and submit your first draft when you believe it's ready to be graded. **Note well:** 
+
+
+You are expected to work on these over time until your work meets expectations. However, only two submissions can be made per week, so you cannot wait until the end of the semester and then submit several AEPs all at once. Also, there will be incentives given for completing AEPs prior to early dates on the calendar. **You should plan on maintaining a pace to submit at least one AEP every 1-2 weeks.** 
 
 ### Collaboration and academic honesty
 
@@ -234,6 +237,6 @@ The dates and specific Learning Targets are subject to change.
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjc0NTE3LDE0NDAzNTgyMzUsMTA4OD
-Q4MjY4N119
+eyJoaXN0b3J5IjpbLTExMzcyNzk1OTgsMTQ0MDM1ODIzNSwxMD
+g4NDgyNjg3XX0=
 -->
