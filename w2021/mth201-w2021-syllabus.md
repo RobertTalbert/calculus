@@ -204,7 +204,7 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 
 ### Schedule of Checkpoints 
 
-The dates and specific Learning Targets are subject to change. 
+The dates and specific Learning Targets are subject to change. All dates are listed on the course calendar, and if changes are made, the calendar is always right. 
 
 | Checkpoint | Learning Targets | Date assigned | Date due | 
 | ---------  | ---------------- | ------------- | -------- | 
@@ -236,6 +236,6 @@ The dates and specific Learning Targets are subject to change.
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDE1NjA4MjQsLTExMzcyNzk1OTgsMT
-Q0MDM1ODIzNSwxMDg4NDgyNjg3XX0=
+eyJoaXN0b3J5IjpbMTk2MTE1NjQ2NCwtMTEzNzI3OTU5OCwxND
+QwMzU4MjM1LDEwODg0ODI2ODddfQ==
 -->
