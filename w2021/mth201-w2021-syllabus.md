@@ -107,6 +107,8 @@ How this works in MTH 201 is as follows:
 
 Revision options for the startup assignments are specified in those assignments. 
 
+Also please note that **I do not typically look over student work before it is submitted**. Requests to review student work prior to submission will usually be declined. Instead, when you are submitting work, make sure to double-check your work prior to submitting it, to make sure that all required components are present and that, to your understanding, your work meets the criteria for acceptable quality. If you submit your work and it needs revision, you can revise it. 
+
 **Restrictions on AEP revisions:** You may only submit **two AEP items per week** --- either initial drafts of two different AEPs, two revisions, or one of each. A third submission in a week can be purchased with a token (see below), but four or more submissions in a week are not allowed under any circumstance. Also, **you must spend a token to revise an AEP that earned a grade of "X"**; this is in place to make sure your AEP drafts represent a complete and good-faith effort. 
 
 **Tokens:** Each student starts the semester with 5 **tokens**, which can be used to purchase exceptions to the course rules. The token "menu" is below. To spend a token, go to the *Token Spending* form (found in the in the *Submit a Form* area on Blackboard), fill it out, and submit it. Once the form is submitted, the item you purchased is yours; you do not need permission or confirmation. Everything listed here costs 1 token: 
@@ -116,7 +118,6 @@ Revision options for the startup assignments are specified in those assignments.
 + Extend the deadline on a Checkpoint by 12 hours. 
 + Extend the deadline on a WeBWorK set by 12 hours.  
 + Convert a "No Pass" on a Daily Prep to a "Pass". 
-+ Request a Checkpoint problem for a "retired" Learning Target. 
 
 Please note that tokens may not be "stacked"; for example you aren't allowed to spend 2 tokens and extend a deadline for 24 hours instead of 12. Deadline extensions must be requested *prior* to the original deadline and will be extended 12 hours from the original deadline (not from the time when the request was made). 
 
@@ -236,6 +237,6 @@ The dates and specific Learning Targets are subject to change. All dates are lis
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTE1NjQ2NCwtMTEzNzI3OTU5OCwxND
-QwMzU4MjM1LDEwODg0ODI2ODddfQ==
+eyJoaXN0b3J5IjpbLTU2MDk3NjcwLDE5NjExNTY0NjQsLTExMz
+cyNzk1OTgsMTQ0MDM1ODIzNSwxMDg4NDgyNjg3XX0=
 -->
