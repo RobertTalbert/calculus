@@ -4,7 +4,10 @@ tags: mth201, syllabus
 
 # MTH 201-04: Calculus, Winter 2021 
 
+:::info
 **Welcome to MTH 201**! I'm Dr. Robert Talbert, Professor of Mathematics, and I am grateful that you are signed up for the course and am looking forward to working with you this semester.
+:::
+
 
 ## What's MTH 201 all about? 
 
@@ -16,7 +19,7 @@ Success in this course doesn't come easy, and you can expect to be pushed and st
 
 **Prerequisites:** MTH 124, or both MTH 122 and MTH 123, or placement via the Calculus Readiness Test. 
 
-**General Education:** The final page of this syllabus gives information about the General Education requirements that MTH 201 fulfills. 
+**General Education:** Information about the General Education requirements that MTH 201 fulfills is posted on Blackboard.
 
 ## Key Information 
 
@@ -62,9 +65,9 @@ The individual types of assignments are marked as follows:
 
 | Assignment | How it's marked | 
 | ---------- | --------------- | 
-| Learning Targets | Either *Proficiency* or *Mastery* | 
-| AEPs | E (Excellent), M (Meets expectations), P (Progressing) or X (Not Assessable) | 
-| WeBWorK | Each problem is 1 point  | 
+| Learning Targets | Either ***Proficiency*** or ***Mastery*** | 
+| AEPs | **E** (Excellent), **M** (Meets expectations), **P** (Progressing) or **X** (Not Assessable) | 
+| WeBWorK | Each problem is **1 point**  | 
 | Daily Prep | **Pass** or **No Pass** | 
 | Startup assignments | **Pass** or **No Pass**  | 
 
@@ -137,9 +140,11 @@ Please note that tokens may not be "stacked"; for example you aren't allowed to 
 
 I highly encourage you to collaborate with your classmates whenever collaboration is allowed. However, realize that *collaboration is not always allowed* and in all cases, there are limitations on how you can collaborate. In particular: 
 
+:::danger
 - On **Checkpoints**, your work must represent *your own understanding* in *your own words* and you may not use solutions, directly or indirectly, from other students or unapproved resources. However, there is a list of *approved* resources that you may use on Checkpoints, including [Wolfram|Alpha](http://wolframalpha.com), [Desmos](http://desmos.com), your textbook, and other items posted to Blackboard. That list is included in the document titled "Information on Learning Targets and Checkpoints" found on Blackboard in the *Syllabus and Calendar* area. **Items not on the approved list may be used only with prior permission from me (Talbert).** 
 - On **AEPs**, your work must represent *your own understanding* in *your own words*. You may not use solutions, directly or indirectly, from any sources --- including other students, past students, online sources, or other textbooks. 
 - On **all other assignments**, you may collaborate with others, but you must contribute significantly to the assignment, and your work must represent *your own understanding* in *your own words*.
+:::
 
 You are responsible for understanding this policy and the [GVSU Student Code](https://www.gvsu.edu/policies/policy.htm?policyId=EFAB64E1-C25B-E1A3-CA2B08B0B821C774&search=). Violations will result, at minimum, in a mark of "X" or "No Pass" on the assignment. Serious or repeat violations of this policy will result in increasingly horrible consequences, including being barred from further submissions of the assignment or Learning Target, or even failure of the class. 
 
@@ -183,7 +188,9 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 
 ### List of Learning Targets 
 
+:::info
 **Note**: Learning Targets 2, 4, 6, 7, 12, and 16 are **Core** Learning Targets and are marked as such. 
+:::
 
 1. I can find the average rate of change of a function and the average velocity of an object on an interval.
 2. (**CORE**) I can find one- and two-sided limits of a function at a point and at infinity using numerical, graphical, and algebraic methods.
@@ -205,14 +212,14 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 
 ### Schedule of Checkpoints 
 
-The dates and specific Learning Targets are subject to change. All dates are listed on the course calendar, and if changes are made, the calendar is always right. 
+The dates and specific Learning Targets are subject to change. All dates are listed on the course calendar, and if changes are made, the course calendar is always right. 
 
 | Checkpoint | Learning Targets | Date assigned | Date due | 
 | ---------  | ---------------- | ------------- | -------- | 
 | 1 | 1, 2 | Feb 1 | Feb 3 | 
 | 2 | 1, 2, 3 | Feb 8 | Feb 10 | 
 | 3 | 1, 2, 3, 4, 5, 6 | Feb 22 | Feb 24 | 
-| 4 | 1, 2, 3, 4, 5, 6, 7, 8, | Mar 8 | Mar 11 (Friday) |
+| 4 | 1, 2, 3, 4, 5, 6, 7, 8 | Mar 8 | Mar 11 (Friday) |
 | 5 | 3, 4, 5, 6, 7, 8, 9, 10, 11 | Mar 22 | Mar 24 | 
 | 6 | 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 | Apr 5 | Apr 7 | 
 | 7 | 7, 8, 9, 10, 11, 12, 13, 14, 15 | Apr 12 | Apr 13 | 
