@@ -4,6 +4,7 @@ tags: mth201
 
 # Information on Learning Targets and Checkpoints, MTH 201-04 Winter 2021
 
+
 The purpose of this document is to give details on how Checkpoints are used to attain mastery on Learning Targets, what Checkpoint problems cover, how they are graded, what resources are approved for use on Checkpoints and how to use them, and let you know when Checkpoints will take place and what will be covered on each. **Complete transparency** is the goal; if you have questions or if there's something that needs to be added to this document, please let me know. 
 
 Sample Checkpoints can be found in the *Learning Targets* area, where this document is located; as we take Checkpoints, old Checkpoints and their keys will also be posted in this area so you can use them for study and practice. 
@@ -143,3 +144,6 @@ Below is a duplicate of [the schedule found at the end of the course syllabus](h
 | 8 | 1--16 | Apr 19 | Apr 21 | 
 | Mini-checkpoint | 12, 13, 14, 15, 16 | Apr 23 (Friday) | Apr 25 (Sunday) | 
 | 9 | 1--16 | Apr 27 (Tuesday) | Apr 29 (Thursday) | 
+
+
+[![hackmd-github-sync-badge](https://hackmd.io/A1vNFWQOR5m5qUJtR1X_Aw/badge)](https://hackmd.io/A1vNFWQOR5m5qUJtR1X_Aw)
