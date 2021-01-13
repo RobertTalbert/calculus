@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿# MTH 201-04: Calculus, Winter 2021 
+=======
+# MTH 201-04: Calculus, Winter 2021 
+>>>>>>> 66be7d41af8dcb7020292b7c7916b95616d0e49f
 
 
 **Welcome to MTH 201**! I'm Dr. Robert Talbert, Professor of Mathematics, and I am grateful that you are signed up for the course and am looking forward to working with you this semester.
@@ -237,3 +241,9 @@ The dates and specific Learning Targets are subject to change. All dates are lis
 | 5B | 2.4 | Derivatives of other trigonometric functions | 11B | 4.3 + 4.4 | Finding integrals using antiderivatives | 
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
+<<<<<<< HEAD
+=======
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3MzEyNzgyMl19
+-->
+>>>>>>> 66be7d41af8dcb7020292b7c7916b95616d0e49f
