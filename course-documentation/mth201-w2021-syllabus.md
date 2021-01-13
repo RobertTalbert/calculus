@@ -89,11 +89,7 @@ A grade of F is given if **none** of the rows has been fully completed.
 
 ## How are individual assignments graded? 
 
-<<<<<<< HEAD
 + **Learning Targets:** The two ratings of *Proficiency* and *Mastery* are assessed on **Checkpoints**, which are do-at-home exams offered roughly every 10-14 days (a schedule is in the Appendix of this syllabus). Checkpoints contain one problem (often with multiple parts) per Learning Target. Each problem is graded separately and has its own criteria for what is "acceptable" work. **A Proficiency rating is given if you complete *one* Checkpoint problem that meets the criteria; a Mastery rating is given if you complete a *second* Checkpoint problem that meets the criteria.** A detailed rundown of each Learning Target's criteria for "acceptable" work, the items covered on each Checkpoint problem, and a schedule for Checkpoints can be found in the document "[Information on Learning Targets and Checkpoints](https://hackmd.io/@rtalbert235/rkwjQ9hCD)" on Blackboard in the *Learning Targets* area. 
-=======
-+ **Learning Targets:** The two ratings of *Proficiency* and *Mastery* are assessed on **Checkpoints**, which are do-at-home exams offered roughly every 10-14 days (a schedule is in the Appendix of this syllabus). Checkpoints contain one problem (often with multiple parts) per Learning Target. Each problem is graded separately and has its own criteria for what is "acceptable" work. **A Proficiency rating is given if you complete *one* Checkpoint problem that meets the criteria; a Mastery rating is given if you complete a *second* Checkpoint problem that meets the criteria.** A detailed rundown of each Learning Target's criteria for "acceptable" work, the items covered on each Checkpoint problem, and a schedule for Checkpoints can be found in the document "Information on Learning Targets and Checkpoints" on Blackboard in the *Learning Targets* area. 
->>>>>>> c21e410c4f2515c360879ff4bf421c3f67192c72
 + **AEPs:** The grading process for AEPs is outlined in the flowchart below: 
 ![EMPX rubric](https://i.ibb.co/0sRwsd6/EMPX-rubric-2021.png)
 + **Daily Prep**: A *Pass* mark is given if the Daily Prep is turned in before its deadline and if *each item* on the Daily Prep has a response that represents a *good faith effort to be right*. **Mistakes are not penalized**. In fact one purpose of Daily Preps is to provide me with information about issues that the class is having, prior to class meetings. A *No Pass* is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
@@ -154,7 +150,7 @@ You are responsible for understanding this policy and the [GVSU Student Code](ht
 
 ### Technology 
 
-Being an online class, we will use a variety of technological tools to learn. 
+Being an online class, we will use a variety of technological tools to learn. Please review [this list of overall technology requirements for online classes at GVSU](https://www.gvsu.edu/online/technology-requirements-for-onlinehybrid-courses-8.htm). For this class specifically:
 
 - You *do not* need a graphing calculator, and we will not use them in the class, but it's OK if you have one. (We will use [Desmos](http://www.desmos.com), a free online graphing tool, instead of graphing calculators.)
 - Instead, you *do need* a **laptop or tablet device** running a **modern web browser** (such as Chrome, Edge, or Firefox) and **reliable access to high-speed internet**. 
@@ -171,6 +167,8 @@ If you encounter issues with technology, please use the appropriate source of he
 
 Please note that **I (Prof. Talbert) am not able to provide student tech support** as I do not have access to your accounts or knowledge of your hardware. I can help with questions about course tools (Desmos, etc.) but please ask those questions on Campuswire so others can see and help too. 
 
+**Recordings of online meetings**: We will use technology for live-streaming class meetings, and recordings of these may be made. Our use of such technology is governed by FERPA, the [Acceptable Use Policy](https://www.gvsu.edu/policies/policy.htm?policyId=821DD178-92CC-5C81-65C19EFD76FAC207) and GVSU’s [Student Code of Conduct](https://www.gvsu.edu/policies/category.htm?categoryId=2C706898-FBBE-C50F-09A6D62DEA20957B). A record of all meetings and recordings is kept and stored by GVSU, in accordance with the Acceptable Use Policy and FERPA. I will not share recordings of your class activities outside of course participants, which include your fellow students, advisors, and any guest faculty or community based learning partners that we may engage with. **You may not share recordings outside of this course. Doing so may result in disciplinary action**.
+
 
 ### Getting help and support 
 
@@ -182,9 +180,11 @@ Please note that **I (Prof. Talbert) am not able to provide student tech support
 
 **Gender identity and expression:** If, for purposes of gender identity and expression, your official name (in Banner) does not match your preferred name, your name can be updated in Blackboard. Please contact the registrar's office to submit this request.  The registrar's office will contact the Blackboard administrator to make the change and will also contact your professors to inform them that your name in Banner will not match the name in Blackboard.
 
-### Credits
+### Credits and Disclaimer
 
 I borrowed a lot from the MTH 201 syllabus of Prof. David Clark. 
+
+This course is subject to the GVSU policies listed at http://www.gvsu.edu/coursepolicies/
 
 ---
 
@@ -247,6 +247,10 @@ The dates and specific Learning Targets are subject to change. All dates are lis
 | 5B | 2.4 | Derivatives of other trigonometric functions | 11B | 4.3 + 4.4 | Finding integrals using antiderivatives | 
 | 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
 | 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
+
+
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTU2MDk3NjcwLDE5NjExNTY0NjQsLTExMz
 cyNzk1OTgsMTQ0MDM1ODIzNSwxMDg4NDgyNjg3XX0=
