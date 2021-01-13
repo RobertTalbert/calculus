@@ -1,3 +1,7 @@
+---
+tags: mth201
+--- 
+
 # Information on Learning Targets and Checkpoints, MTH 201-04 Winter 2021
 
 The purpose of this document is to give details on how Checkpoints are used to attain mastery on Learning Targets, what Checkpoint problems cover, how they are graded, what resources are approved for use on Checkpoints and how to use them, and let you know when Checkpoints will take place and what will be covered on each. **Complete transparency** is the goal; if you have questions or if there's something that needs to be added to this document, please let me know. 
@@ -17,11 +21,13 @@ Your skill on Learning Targets is indicated in the gradebook by a **rating**. Th
 
 **Every Checkpoint is cumulative**, with new Learning Targets represented but also new versions of older ones. This will allow you to reattempt, on a limited basis, any Learning Target you do not "level up" on. However **Learning Targets only appear on four consecutive Checkpoints**; for each Learning Target you will have four (4) chances to do two (2) problems at an acceptable level of work in order to earn a Mastery rating. (This doesn't count Checkpoints 8 and 9 at the end of the semester which will contain all 16 Learning Targets for two final rounds of assessment.)
 
-Example: Alice starts the semester, like everyone else, with "No Rating" on all her Learning Targets. Checkpoint 1 contains problems for Learning Targets 1 and 2; on this Checkpoint, Alice does acceptable quality work on the problem for Learning Target 1 but unfortunately her work on Learning Target 2 does not meet the grading standard. So following Checkpoint 1, her rating is *Proficient* on Learning Target 1 and *No Rating* on all the others. 
+:::info
+**Example**: Alice starts the semester, like everyone else, with "No Rating" on all her Learning Targets. Checkpoint 1 contains problems for Learning Targets 1 and 2; on this Checkpoint, Alice does acceptable quality work on the problem for Learning Target 1 but unfortunately her work on Learning Target 2 does not meet the grading standard. So following Checkpoint 1, her rating is *Proficient* on Learning Target 1 and *No Rating* on all the others. 
 
 When Checkpoint 2 happens, it contains new versions of the problems for Learning Targets 1 and 2 and a new problem for Learning Target 3. Alice works all 3 problems; she does acceptable work on all three. This levels her up to *Mastery* on Learning Target 1, and to *Proficiency* on Learning Targets 2 and 3; she still has *No Rating* on the rest since she has not attempted a problem on those yet. 
 
 Alice can continue to attempt and re-attempt Learning Target problems throughout the semester to demonstrate evidence of skill. However, once she has reached *Mastery* level on a Learning Target, *she does not have to attempt this any more during the semester* since she's reached the highest possible rating; for example she does not need to attempt any more problems for Learning Target 1 following Checkpoint 2 since she reached *Mastery* level after that Checkpoint. 
+:::
 
 ## Items covered on Checkpoint problems 
 
@@ -65,7 +71,9 @@ A list of all 16 Learning Targets can be found in [the Appendix to the syllabus]
   - *Errors in arithmetic or algebra that are not central to the Learning Target and do not oversimplify the problem*. For example, working through a derivative and everything is correct except a minus sign was dropped in the final answer.
   - *Copy errors that do not oversimplify the problem.* For example, copying down $f(x) = e^{x^2}$ on a derivative question as $f(x) = e^{2x}$ is a mistake, but the derivative that results is roughly the same level of difficulty as the correct function, so I will read with your solution to make sure the answer and process are correct. 
 
-Generally speaking, **you are not being graded on your answers but on your explanation, processes, and reasoning**. While correct answers are expected and required (except for simple errors), the evidence of your mastery of the Learning Targets does not come from the answers; it comes from your work that leads to the answer. So **make every effort not only to provide right answers but also full, correct, clearly expressed solutions** that back up your answers. Remember *you are doing work here to convince the reader that you have mastered the ideas*. Like in a courtroom, provide ample evidence, clearly expressed, that you have done so. 
+:::warning
+Generally speaking, **you are not being graded on your answers but on your explanations, processes, and reasoning**. While correct answers are expected and required (except for simple errors), the evidence of your mastery of the Learning Targets does not come from the answers; it comes from your work that leads to the answer. So **make every effort not only to provide right answers but also full, correct, clearly expressed solutions** that back up your answers. Remember *you are doing work here to convince the reader that you have mastered the ideas*. Like in a courtroom, provide ample evidence, clearly expressed, that you have done so. 
+:::
 
 
 Finally please note that: 
