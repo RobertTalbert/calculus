@@ -4,6 +4,9 @@ tags: mth201, templates
 
 # AEP template for MTH 201 
 
+
+
+
 ## What this AEP is about 
 
 (General description) 
@@ -22,7 +25,7 @@ You will be ready to begin this AEP following **Module X.**
 
 ## Grading criteria and submission instructions
 
-Please refer to the overall quality standards for AEPs at the link (and posted to the *AEPs* area on Blackboard) first, and make sure your work meets all these criteria. In addition to the overall standards, this AEP has the following specific standards: 
+Please refer to the [overall quality standards for AEPs](https://hackmd.io/@rtalbert235/HkSbMs2Av) at the link (and posted to the *AEPs* area on Blackboard) first, and make sure your work meets all these criteria. In addition to the overall standards, this AEP has the following specific standards: 
 
 
 
@@ -43,3 +46,6 @@ To submit this AEP:
 Once graded, the grade (E, M, P, X) will appear in your gradebook. You can then open the submission to view feedback left by the professor. These appear as text comments on the page or as general comments next to the grade. Grades of E or M may not have much feedback. Grades of P or X *always* have feedback, so please look carefully for this. 
 
 For information on revisions of AEPs, please [consult the syllabus](https://hackmd.io/@rtalbert235/SJ5fDZIAv#How-do-I-revise-and-resubmit-my-work).
+
+
+[![hackmd-github-sync-badge](https://hackmd.io/0hGsJdDIQ32XTMVuy2I1tw/badge)](https://hackmd.io/0hGsJdDIQ32XTMVuy2I1tw)
