@@ -1,218 +1,135 @@
 ---
-tags: mth201, syllabus
----
+tags: mth201
+--- 
 
-# MTH 201-04: Calculus, Winter 2021 
+# Information on Learning Targets and Checkpoints, MTH 201-04 Winter 2021
+
+The purpose of this document is to give details on how Checkpoints are used to attain mastery on Learning Targets, what Checkpoint problems cover, how they are graded, what resources are approved for use on Checkpoints and how to use them, and let you know when Checkpoints will take place and what will be covered on each. **Complete transparency** is the goal; if you have questions or if there's something that needs to be added to this document, please let me know. 
+
+Sample Checkpoints can be found in the *Learning Targets* area, where this document is located; as we take Checkpoints, old Checkpoints and their keys will also be posted in this area so you can use them for study and practice. 
+
+## How Checkpoints work 
+
+**Checkpoints** are do-at-home tests that are given roughly every 10-14 days, that provide you with opportunities to **demonstrate skill on the Learning Targets** in the course. One of your primary responsibilities in the course is to **demonstrate as much skill as possible on as many Learning Targets as possible** through doing "acceptable" work on Checkpoints. 
+
+Your skill on Learning Targets is indicated in the gradebook by a **rating**. There are three ratings available: 
+
+- **No Rating**. This, or a blank entry, will appear in the gradebook if you have *not yet done acceptable work* on a Learning Target through a Checkpoint. *Everyone begins the semester with "No Rating" on all 16 Learning Targets.* 
+- **Proficiency.** Once you complete **one** Checkpoint problem on a Learning Target that meets the standards for acceptable work, you will "level up" to *Proficiency*. 
+- **Mastery.** Once you complete **a second** Checkpoint problem on a Learning Target that meets the standards for acceptable work, you will "level up" to *Mastery*. 
+
+
+**Every Checkpoint is cumulative**, with new Learning Targets represented but also new versions of older ones. This will allow you to reattempt, on a limited basis, any Learning Target you do not "level up" on. However **Learning Targets only appear on four consecutive Checkpoints**; for each Learning Target you will have four (4) chances to do two (2) problems at an acceptable level of work in order to earn a Mastery rating. (This doesn't count Checkpoints 8 and 9 at the end of the semester which will contain all 16 Learning Targets for two final rounds of assessment.)
 
 :::info
-**Welcome to MTH 201**! I'm Dr. Robert Talbert, Professor of Mathematics, and I am grateful that you are signed up for the course and am looking forward to working with you this semester.
+**Example**: Alice starts the semester, like everyone else, with "No Rating" on all her Learning Targets. Checkpoint 1 contains problems for Learning Targets 1 and 2; on this Checkpoint, Alice does acceptable quality work on the problem for Learning Target 1 but unfortunately her work on Learning Target 2 does not meet the grading standard. So following Checkpoint 1, her rating is *Proficient* on Learning Target 1 and *No Rating* on all the others. 
+
+When Checkpoint 2 happens, it contains new versions of the problems for Learning Targets 1 and 2 and a new problem for Learning Target 3. Alice works all 3 problems; she does acceptable work on all three. This levels her up to *Mastery* on Learning Target 1, and to *Proficiency* on Learning Targets 2 and 3; she still has *No Rating* on the rest since she has not attempted a problem on those yet. 
+
+Alice can continue to attempt and re-attempt Learning Target problems throughout the semester to demonstrate evidence of skill. However, once she has reached *Mastery* level on a Learning Target, *she does not have to attempt this any more during the semester* since she's reached the highest possible rating; for example she does not need to attempt any more problems for Learning Target 1 following Checkpoint 2 since she reached *Mastery* level after that Checkpoint. 
+:::
+
+## Items covered on Checkpoint problems 
+
+A list of all 16 Learning Targets can be found in [the Appendix to the syllabus](https://hackmd.io/Bnpy2q58StW8mIt2mqaSMA#Appendix). Below is a list of tasks that you may be asked to perform on Checkpoint problems for each of those Learning Targets. Please note this is just a representative sample; you might be asked something different, but always on the same level of difficulty as what's listed here, and aimed at the same Learning Target. You can see specific examples in the Sample Checkpoints posted on Blackboard. 
+
+**General note:** Any time you see the word "function" below, on a Checkpoint this function may appear as a formula, or as a table, or as a graph; or as a combination of these. Be prepared to do your work using *any* representation of a function. 
+
+
+| Learning Target | Tasks | 
+| ------ | --------------- | 
+| 1 | Given a function and an interval, compute the average rate of change of the function on that interval. Or, given the position function for a moving object and a time interval, compute the average velocity of the object on that interval. |
+| 2 | Given a function, find the limit of the function as the input approaches a point (possibly from just one side) or at infinity using algebra, table estimation, or a graph. | 
+| 3 | Given a formula for a function (usually a [second-degree polynomial](https://themathpage.com/aPreCalc/quadratic-equation.htm)), write out the correct limit expression that would compute the derivative of that function at a point or in general; then work through the limit to find the derivative. ("Derivative" might be phrased as "instantaneous velocity".) | 
+| 4 | Given a real-world context, give a notational expression for the rate of change; state the units of the derivative correctly; give a correct and simple interpretation of the meaning of the rate of change; and estimate the rate of change using forward, backward, and central difference approximations. | 
+| 5 | Given graphical or numerical information about a function or one (or both) of its first two derivatives, draw correct conclusions about the missing information. (For example, given a graph of $f$, state where $f'$ is positive and negative and where $f''$ is positive and negative. Several variations on this idea are possible.) | 
+| 6 | Given 4-5 simple functions (constant, power, polynomial, exponential, and sine/cosine functions), use basic rules to compute their derivatives and answer simple application problems (slope of a tangent line, rate of change, second derivative). | 
+| 7 | Given products, quotients, and composite functions, use the Product, Quotient, and Chain Rules to compute their derivatives and answer simple applications problems (see above). **Note:** On this Learning Target, you will be asked to *state the rule you are using* and in the case of the Chain Rule you'll be asked to *state the inside and outside functions involved in the composition*. | 
+| 8 | Given "advanced" functions (meaning logarithmic, trigonometric, and inverse trigonometric functions along with simpler functions that are combined with these), find their derivatives and answer simple application questions. **Note:** On this Learning Target, you will be asked to *list the rules you use in the correct order in which they are used*, and in the case of the Chain Rule you'll be asked to *state the inside and outside functions involved in the composition*. | 
+| 9 | Given a function (generally as a formula), use Calculus and a correctly-formatted sign chart (see below) to find its critical points and its intervals of increase and decrease. | 
+| 10 | Given a function (generally as a formula), use Calculus and a correctly-formatted sign chart (see below) to find its inflection points and its intervals of concavity. | 
+| 11 | Given a function (generally as a formula) that is continuous on a given closed interval, use the Extreme Value Theorem method to find its absolute minimium and maximum values. | 
+| 12 | Given a simple (WeBWorK-level) applied optimization problem, set it up, find the point where the target quantity is optimized, and give a mathematical explanation for why the quantity is optimized there. | 
+| 13 | Given a function as a geometrically-regular graph (made up of lines and circle parts) or as a formula, find some combination of the area between the graph and the horizontal axis, net change on an interval, or displacement using geometry or by setting up and evaluating a Riemann sum. |
+| 14 | Given a function as a geometrically-regular graph, or as a formula that has a geometrically regular graph (for example $f(x) = \sqrt{1-x^2}$), compute one or more definite integrals of that function using geometry. Or, given one or more known definite integrals, use Properties of the Definite Integral to compute related integrals. | 
+| 15 | Given a real-world rate of change situation, interpret the total change as a definite integral; state the units of an integral; and answer questions related to the rate of change and total change.  | 
+| 16 | Given 3-5 definite integrals, compute their *exact* values using the Fundamental Theorem of Calculus (i.e. by finding antiderivatives and evaluating/subtracting) | 
+
+
+## Overall grading criteria for Checkpoints 
+
+***Each* Checkpoint problem requires at least the following from a solution in order for that solution to be considered "acceptable"**: 
+
+- **There can be no instances of significant errors.** A "significant" error is one that is *directly related to the Learning Target itself* and *causes the solution to fail to provide conclusive evidence of mastery*. Examples include (but are not limited to) the following: 
+  - A *significant computational error* that shows more work needs to be done on mastering the computation (for example: getting the subtraction reversed in the Quotient Rule; or computing the derivative of $\cos(x)$ as $+\sin(x)$ instead of $-\sin(x)$)
+  - A *significant conceptual error* that demonstrates the need to understand the concept further (for example: Getting the units wrong on a derivative; interpreting a positive first derivative as concave up; etc.)
+  - An *unclear explanation* that demonstrates the need to understand the concept further 
+  - *Significant omissions* including not doing a part of a multi-part problem (even if by accident); or leaving out an essential part of a solution, for example the argument at the end of an optimization problem that the critical point optimizes the quantity
+  - A *highly disorganized presentation of a solultion*  --- That is, the solution is so messy and incoherent that it is not easy for the reader to determine if the student has mastered the concept 
+  - A *copy error that oversimplifies the problem* -- For example, copying down $f(x) = e^{x^2}$ on a derivative question as $f(x) = x^2$ or $f(x) = e^x$. 
+- **There can be no more than a single instance of a "simple" error.** A "simple" error is an error that is *not directly related to the Learning Target itself* and *doesn't get in the way of seeing that the student has mastered the concept.* Examples of simple errors include: 
+  - *Errors in arithmetic or algebra that are not central to the Learning Target and do not oversimplify the problem*. For example, working through a derivative and everything is correct except a minus sign was dropped in the final answer.
+  - *Copy errors that do not oversimplify the problem.* For example, copying down $f(x) = e^{x^2}$ on a derivative question as $f(x) = e^{2x}$ is a mistake, but the derivative that results is roughly the same level of difficulty as the correct function, so I will read with your solution to make sure the answer and process are correct. 
+
+:::warning
+Generally speaking, **you are not being graded on your answers but on your explanations, processes, and reasoning**. While correct answers are expected and required (except for simple errors), the evidence of your mastery of the Learning Targets does not come from the answers; it comes from your work that leads to the answer. So **make every effort not only to provide right answers but also full, correct, clearly expressed solutions** that back up your answers. Remember *you are doing work here to convince the reader that you have mastered the ideas*. Like in a courtroom, provide ample evidence, clearly expressed, that you have done so. 
 :::
 
 
-## What's MTH 201 all about? 
+Finally please note that: 
 
-MTH 201 is a first course in **Calculus**, which is all about **modeling and understanding change**. Change is maybe the most important facet of the world around us, and we care about it more than we realize. For example, we care a lot about the number of Covid-19 cases in our community, but we might care even more about *how fast the number of cases is changing* (either up or down). In MTH 201, you'll learn the mathematical language of change and apply it to models that you build to draw conclusions, make predictions, and give meaningful answers to real problems. 
+1. *Two simple errors in the same problem, no matter what the type, results in unacceptable work.* It is acceptable to make a simple error once, but not twice. 
+2. *Errors that are "simple" in one context may be significant in another.* For example, dropping a minus sign might be a simple error on Learning Target 6 but considered significant for Learning Target 13 where the minus sign is an important part of the concept.
+3. *To avoid all forms of error, use the approved tools listed below to double-check all your work before submitting it*. For example, you can use [Wolfram|Alpha](http://www.wolframalpha.com) to double check the answers for derivative calculations;  you just need to supply a complete and clear solution. In this way, your work should never really contain errors unless they are significant conceptual misunderstandings. 
 
-MTH 201 goes beyond just computation. In MTH 201, you'll build skills with **understanding** complex concepts, **communicating** those concepts and the meaning of your results to appropriate audiences, **using professional tools** to help you in your work, and practice **working with others** to improve your learning (and theirs). These are valuable skills no matter where you go next. 
 
-Success in this course doesn't come easy, and you can expect to be pushed and stretched intellectually. But the struggle you experience is normal and healthy, a sign of growth and that you are doing things the right way. And you will receive tireless support from me and your classmates in the process. Above all, **my top priority is to support you in your work and help you succeed**. 
+## Specific grading criteria for Learning Targets
 
-**Prerequisites:** MTH 124, or both MTH 122 and MTH 123, or placement via the Calculus Readiness Test. 
+In addition to the overall standards for acceptability given above, here are standards for each individual Learning Target.
 
-**General Education:** Information about the General Education requirements that MTH 201 fulfills is posted on Blackboard.
+| Target | Acceptable work means... | 
+| ----- | ---------- | 
+| 1 | All answers must be correct unless a mistake is the result of a simple error; the setup for each calculation must be shown and correct. | 
+| 2 | All answers must be correct unless a mistake is the result of a simple error; the setup for each calculation must be shown and correct. Algebraic approaches must use correct algebra. |
+| 3 | **All limit setups must be 100% notationally correct**, including: the limit must be present and on the correct side of the equals sign; the limit must have the correct notation underneath it; and the difference quotient must be correctly stated. *Any* omissions or errors on this element will result in unacceptable work. The computation of the limit must use correct algebra throughout and result in a correct answer. | 
+| 4 | Every instance of this Learning Target will present you with a derivative and ask for its units; you **must** give correct units here. Giving them incorrectly here and then correcting yourself later on is considered unacceptable work. The explanation of the derivative must use simple language and no technical jargon; and it must explain the derivative in terms of rates of change. The answers on approximation questions must be correct and the setup must also be correct. | 
+| 5 | The conclusions drawn from the given information must be correct *and* backed up by a *clearly expressed* explanation that is *also* correct. That is, correct answers with no explanation, incorrect explanations, or unclear or incoherent explanations will not be considered acceptable. | 
+| 6 | All answers must be correct; if the work requires more than one step, each step must be shown. | 
+| 7 | All answers must be correct and accompanied by complete, correct solutions. You must also state which rule you are using and in the case of the Chain Rule, correctly state the inside and outside functions involved in the composition. |
+| 8 | All answers must be correct and accompanied by complete, correct solutions. You must also state which rule you are using *in the correct order in which they are used* and in the case of the Chain Rule, correctly state the inside and outside functions involved in the composition. |
+| 9 | First, your first derivative computation and determination of the critical points must be correct except for one simple error allowed. Second, there must be a correctly setup and labelled first derivative sign chart used that includes: a clear list of all the test points used and their results for the sign of the derivative; a number line with the critical points clearly labelled; a clear indication of the sign of the first derivative on each interval created; and a clear and correct indication of the behavior of the origial function on each interval. Finally, there must be a clear statement of the intervals on which the function is increasing and decreasing. | 
+| 10  | First, your first and second derivative computations must be correct except for one simple error allowed. Second, there must be a correctly setup and labelled second derivative sign chart used that includes: a clear list of all the test points used and their results for the sign of the derivative; a number line with the critical poitns of $f'$ clearly labelled; a clear indication of the sign of the second derivative on each interval created; and a clear and correct indication of the concavity of the origial function on each interval. Finally, there must be a clear statement of the intervals on which the function is concave up and concave down and a clear statment of the inflection points. |
+| 11 | The first derivative computation and determination of the critical points must be correct except for one simple error allowed. No extraneous points (for example critical numbers outside the interval, or numbers that are neither critical numbers nor interval endpoints) should be tested. A clear indication of the points being tested and the results of the test must be given, and a clear statement of the absolute minimum and maximum must be made. | 
+| 12 | If the problem involves a diagram, it must be clearly drawn and correctly labelled with the variables being used. It must be clear from either the diagram or a separate declaration what each variable stands for in the problem. You must clearly state what quantity is being optimized, then give a clear statement of a formula for that quantity that includes intermediate steps if needed. If you use a constraint in the problem to arrive at the target formula, it must be clearly stated and correctly derived. You must use correct calculus to find the critical value(s) of the target formula. Then **you must give a correct and clear mathematical argument for why your answer actually optimizes the target quantity.** This can be done using the First Derivative Test, Second Derivative Test, or (in some cases) the Extreme Value Theorem. | 
+| 13 | All answers must be correct unless a mistake is the result of a simple error; the setup for each calculation must be shown and correct. | 
+| 14 | All answers must be correct unless a mistake is the result of a simple error; the setup for each calculation must be shown and correct. | 
+| 15 | All explanations and conclusions must be correct, clearly expressed, and coherent. The units of the integral must be correct. | 
+| 16 | All answers must be correct (unless the result of a simple error) and accompanied by complete, correct solutions. These involve correct antiderivatives and correct application of the Fundamental Theorem. | 
 
-## Key Information 
 
-+ **Course mode:** This section of MTH 201 is **synchronous online**, which means we will meet online (through Zoom) at regularly scheduled times. Please note **I do not plan on being on campus this semester**. 
-+ **Class meetings**: MTWR 2:00-2:50 online. The link for our meetings is found on Blackboard in the *Syllabus and Calendar* area. 
-+ **Definition of a "week"**: For this class, a "week" runs from 12:01am Eastern time on Monday through 11:59pm Eastern time on the following Sunday. 
-+ **Professor contact:** Email at talbertr@gvsu.edu, or direct-message me on Campuswire. If you have a question that the entire class might answer, please post it to the Class Feed on Campuswire instead of in a private message. 
-+ **Professor availability:** I check messages regularly between 7:00am and 5:00pm on weekdays, and once on Saturdays. If you contact me during those hours and your message needs a reply, you can expect to receive one within a few hours, often sooner. *Outside of those hours, particularly on weekends, I am typically offline and not checking messages.* Please plan accordingly as you schedule your work. 
-+ **Drop-in hours**: These will be held on Campuswire via the "Live Sesssion" feature. You do *not* need an appointment for drop-in hours. Specific time for drop-in hours will be determined in week 1. 
-+ **Textbook**: *Active Calculus* by Matt Boelkins (August 2020 version). This is available *free* online here: https://activecalculus.org/single/frontmatter.html  You can also download a PDF copy here: https://scholarworks.gvsu.edu/books/18/  You do not need a print copy, but if you want one, you can order it here: http://amzn.to/38HQdIo (Note this is the 2018 version.) 
-+ **Course materials**: All course files, the class calendar, class forms, and most graded assignments are housed on Blackboard (http://mybb.gvsu.edu). 
-+ **Course announcements and communication**: Course announcements, discussion, and other communication will be housed on **Campuswire** (https://campuswire.com/c/G578D9BCC/). You will also be able to opt in to a service called **Remind** which allows me to push reminders to you via text message. 
+## Approved resources for Checkpoints 
 
-## What will class meetings be like? 
+You are approved to use the following resources on all Checkpoints: 
 
-Your work in the class will follow a pattern that will involve you **before**, **during**, and **after** our meetings:
+- The _Active Calculus_ textbook and any external site that it linked inside the textbook. 
+- Any video or document posted to the class Blackboard site or posted by the professor to Campuswire. These include the lecture videos for Daily Preps; slides from class meetings; Jamboard PDFs from class meetings; and any tool, document, or video that is linked in a Daily Prep assignment. 
+- Class Zoom recordings. 
+- The websites [Wolfram|Alpha](http://www.wolframalpha.com) and [Desmos](http://www.desmos.com). 
 
-- **BEFORE each class**: You'll complete a **Daily Prep** assignment in which you'll read parts of the text, watch recorded lectures, and complete assignments that will get you up to speed on the basic ideas of new material. 
-- **DURING each class**: Class time is reserved for *doing math*, together and individually. We will focus on activities that **apply the basics** that you learn in Daily Prep and get you ready for more advanced work later. 
-- **AFTER each class**: You'll apply and extend the ideas we practice during class through different kinds of graded work. 
+**Any resource NOT included on this list is to be considered off-limits and not approved for use on Checkpoints. Evidence of using unapproved resources will be considered academic dishonesty.** This includes: 
 
-Since you learn math by *doing* math, class time will be prioritized for **doing active work on applications of basic concepts**. You'll be expected to gain enough fluency on those basics to be productive in class, by doing your Daily Prep assignments. Lectures during class will be infrequent, short, and targeted at specific questions from your work rather than a general introduction to concepts. Also, **there are no timed tests or quizzes during class meetings**. 
+- Solution websites such as Chegg
+- Other students in the class, or past students from other MTH 201 classes 
+- Other textbooks or videos not included above 
 
-## What assignments will there be? 
+Please see the [Collaboration and academic honesty policy in the syllabus](https://hackmd.io/Bnpy2q58StW8mIt2mqaSMA#Collaboration-and-academic-honesty) for more. 
 
-+ **Learning Targets**: There are 16 *Learning Targets* in the course, listed in the Appendix to this syllabus. These are the main tasks that you should be able to do if you are successful in MTH 201. Six of these are designated as **Core** learning targets because they are the most essential topics in the class. *Your main goal in the course is to provide evidence of skill on as many targets as possible.* You will do so through **Checkpoints** which are do-at-home exams. 
-+ **Application/Extension Problems (AEPs)**: AEPs are extended problem sets where you will either *apply* basic content to real-life problems or explore *extensions* of those concepts beyond what's in the textbook. There will be between 8 and 10 of these, and you'll choose several (up to 6) from among these to complete. 
-+ **WeBWorK**: Online homework assignments to help build your computational skills. You will receive 16 problems per course module, each worth 1 point, for a total of 192 points available. 
-+ **Daily Prep**: Daily reading and videos, with exercises and questions to be submitted prior to class. These will help you learn the basics of new material and prepare you for more application-focused work in class. There will be two Daily Preps per module, for a total of 24.
-+ **Startup assignments**: During the first few weeks of class, you'll complete three assignments designed to get you set up in the course and do some review of precalculus math. 
+If there is a resource that is not on the approved list that you'd like to use, please ask me (Talbert) for permission. Additional resources may be added to this list later. 
 
-There is also a final exam for the course which will focus on big-picture questions and reflections on your experiences in the course. It will be graded Pass/No Pass. The final exam will be assigned on Wednesday April 28 and will be due on Thursday April 29. More information will be given near the end of the course. 
 
-## How do I earn a grade in the course? 
+## Schedule for Checkpoints and Learning Targets
 
-Your grade in the course is earned by **demonstrating evidence of skill on the main concepts in the course** and by **showing appropriate engagement with the course**. And this is done by completing the assignments outlined above, at a reasonably high level of quality. 
-
-In our class, **there are no points or percentages** on most items. Instead, the work you turn in will be evaluated against **quality standards** that will be made clear on each assignment. If your work meets the standard, then you will receive full credit for it. Otherwise, you will get helpful feedback and, on most items, the chance to reflect on the feedback, revise your work, and then resubmit it for regrading. 
-
-This feedback loop represents and supports the way that people learn: By trying things, making mistakes, reflecting on those mistakes, and then trying again. **You can make mistakes without penalty** as long as you *eventually* demonstrate evidence of skill. 
-
-The individual types of assignments are marked as follows: 
-
-| Assignment | How it's marked | 
-| ---------- | --------------- | 
-| Learning Targets | Either ***Proficiency*** or ***Mastery*** | 
-| AEPs | **E** (Excellent), **M** (Meets expectations), **P** (Progressing) or **X** (Not Assessable) | 
-| WeBWorK | Each problem is **1 point**  | 
-| Daily Prep | **Pass** or **No Pass** | 
-| Startup assignments | **Pass** or **No Pass**  | 
-
-The critera for the different marks are explained in the "*How are individual assignments graded?*" section below. 
-
-Your final grade in the course is determined by the following table. Each grade has a *requirement* specified in its row in the table. **To earn a grade, you will need to meet *all* the requirements in the row for that grade.** Put differently, your grade is the **highest** grade level for which **all** the requirements in a row of the table have been met or exceeded.
-
-
-| Grade | Learning Targets with Mastery (out of 16) | AEP's with M or E (out of 8-10) | WeBWorK points (out of 192) | Daily Prep Passed (out of 24) | Startup Assignments Passed (out of 3) | 
-| ----  | :------------------------:  | :----------------:  | :-------: | :----------: | :----: | 
-| A | 15 *including all 6 Core* | 6 *including at least 3 E's* | 170 | 22 | 3 | 
-| B | 13 | 5 | 150 | 20 | 3 | 
-| C | 11 | 4 | 130 | 18 | 3 | 
-| D | 5 | 2 | 100 | 12 | n/a | 
-
-A grade of F is given if **none** of the rows has been fully completed. 
-
-**Plus/minus grades:** Plus/minus grades will be assigned at my discretion based on how close you are to the next higher or lower grade level. However, you must earn a Pass mark on the final exam to be eligible for a "plus" grade, and a No Pass mark on the final exam will automatically give you a "minus". 
-
-## How are individual assignments graded? 
-
-+ **Learning Targets:** The two ratings of *Proficiency* and *Mastery* are assessed on **Checkpoints**, which are do-at-home exams offered roughly every 10-14 days (a schedule is in the Appendix of this syllabus). Checkpoints contain one problem (often with multiple parts) per Learning Target. Each problem is graded separately and has its own criteria for what is "acceptable" work. **A Proficiency rating is given if you complete *one* Checkpoint problem that meets the criteria; a Mastery rating is given if you complete a *second* Checkpoint problem that meets the criteria.** A detailed rundown of each Learning Target's criteria for "acceptable" work, the items covered on each Checkpoint problem, and a schedule for Checkpoints can be found in the document "Information on Learning Targets and Checkpoints" on Blackboard in the *Learning Targets* area. 
-+ **AEPs:** The grading process for AEPs is outlined in the flowchart below: 
-![EMPX rubric](https://i.ibb.co/0sRwsd6/EMPX-rubric-2021.png)
-+ **Daily Prep**: A *Pass* mark is given if the Daily Prep is turned in before its deadline and if *each item* on the Daily Prep has a response that represents a *good faith effort to be right*. **Mistakes are not penalized**. In fact one purpose of Daily Preps is to provide me with information about issues that the class is having, prior to class meetings. A *No Pass* is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
-+ **WeBWorK**: Most problems on WeBWorK sets are worth 1 point each; some offer partial credit. The point is awarded if the answer is correct. 
-+ **Startup assignments**: The Pass/No Pass critera for these are specified on the individual assignments. 
-
-## How do I revise and resubmit my work? 
-
-Instead of earning partial credit, on most assignments you will have the opportunity to revise and resubmit your work based on feedback that I provide, if the work doesn't meet its standard for acceptability. **Mistakes, and work that does not meet the standard for acceptability, are typically not penalized.** Instead, if your work has enough errors that it would benefit from redoing parts of it or the whole thing, you'll get the chance to do so. This again is because **human beings learn from making mistakes and fixing them with feedback and reflection.** 
-
-
-How this works in MTH 201 is as follows: 
-
-+ **Learning Targets:** Learning Targets are assessed by Checkpoints as described above. **Each Checkpoint is cumulative**, so for example Checkpoint 2 will cover some new material plus material from Checkpoint 1, and so on. **Each Learning Target will appear on four (4) consecutive checkpoints**; for example, a problem for Learning Target 3 first appears on Checkpoint 2 and new versions of that problem will appear on Checkpoints 3, 4 and 5. In this way, if you work a problem on a Checkpoint that doesn't meet the standard, you can just try it again at a later Checkpoint. However: **After four Checkpoints, the Learning Target is "retired"** and will only appear on the final two Checkpoints (or by request if you spend a token, explained later), so you do need to tackle Learning Targets early and fix any misconceptions you have on them reasonably quickly in order to earn a Mastery rating (which is earned by completing two  Checkpoint problems successfully). 
-+ **AEPs** earning M, P, or X can be revised and resubmitted at any time by reflecting on the feedback you receive, making corrections and rewrites, and then re-uploading the new draft to Blackboard. However, see below for two important restrictions on AEP revisions.
-+ **Daily Prep** assignments *may not* be revised or resubmitted. They are graded on completeness and effort only, and therefore can only be done once. However, you can spend a token to convert a "No Pass" mark to a "Pass" if needed. 
-+ **WeBWorK** problems can be redone and resubmitted as many times as you need until the deadline. However they cannot be redone once the deadline has passed. 
-
-Revision options for the startup assignments are specified in those assignments. 
-
-Also please note that **I do not typically look over student work before it is submitted**. Requests to review student work prior to submission will usually be declined. Instead, when you are submitting work, make sure to double-check your work prior to submitting it, to make sure that all required components are present and that, to your understanding, your work meets the criteria for acceptable quality. If you submit your work and it needs revision, you can revise it. 
-
-**Restrictions on AEP revisions:** You may only submit **two AEP items per week** --- either initial drafts of two different AEPs, two revisions, or one of each. A third submission in a week can be purchased with a token (see below), but four or more submissions in a week are not allowed under any circumstance. Also, **you must spend a token to revise an AEP that earned a grade of "X"**; this is in place to make sure your AEP drafts represent a complete and good-faith effort. 
-
-**Tokens:** Each student starts the semester with 5 **tokens**, which can be used to purchase exceptions to the course rules. The token "menu" is below. To spend a token, go to the *Token Spending* form (found in the in the *Submit a Form* area on Blackboard), fill it out, and submit it. Once the form is submitted, the item you purchased is yours; you do not need permission or confirmation. Everything listed here costs 1 token: 
-
-+ Submit a third AEP in a given week. 
-+ Submit a revision of an AEP marked "X". 
-+ Extend the deadline on a Checkpoint by 12 hours. 
-+ Extend the deadline on a WeBWorK set by 12 hours.  
-+ Convert a "No Pass" on a Daily Prep to a "Pass". 
-
-Please note that tokens may not be "stacked"; for example you aren't allowed to spend 2 tokens and extend a deadline for 24 hours instead of 12. Deadline extensions must be requested *prior* to the original deadline and will be extended 12 hours from the original deadline (not from the time when the request was made). 
-
-## What else do I need to know? (Additional course policies) 
-
-### Attendance and deadlines
-
-**Attendance:** You will need to participate actively in each class meeting to get the most out of the course and avoid having to teach yourself the material. Attendance will be taken but not graded; I will follow up with students with excessive absences, but no direct penalty is incurred. You do not need to seek permission to miss a class. However, realize that **excessive absences will severely limit your ability to learn the subject**. 
-
-**Zoom meeting guidelines:** Our class meetings will be done through Zoom. When we meet, please **mute your audio but turn your video feed on**. Having the video feed on helps me to interact better with you, and it will help you focus and learn. If you are not comfortable with having video on, please at least **use a picture of yourself** that appears on screen when you mute the video. We will also work in breakout rooms frequently; when doing so, **if you are working collaboratively with a group, make sure to turn both your audio and video on, and participate actively**. 
-
-**Deadlines and late work:** Deadlines are generally strictly enforced, and late work will not be accepted. However, you can spend tokens to extend deadlines for Checkpoints and WeBWorK sets. Daily Prep deadlines cannot be extended, but you can spend a token to change a "No Pass" mark to "Pass" if needed. 
-
-**AEP deadlines:** **AEPs do not have fixed deadlines**. Instead, you will select the AEPs you want to work on (up to 6 out of a total of 8-10), and then work over time and submit your first draft when you believe it's ready to be graded. **However as noted earlier, you can only turn in two AEP items per week**  --- two new submissions, two revisions, or one of each --- so you **cannot procrastinate until the second half of the term to get started. You should plan on maintaining a pace to submit at least one AEP every 1-2 weeks.**.  There will be some incentives set up plus reminders to keep you on track, but otherwise you are responsible for managing your work schedule. 
-
-### Collaboration and academic honesty
-
-I highly encourage you to collaborate with your classmates whenever collaboration is allowed. However, realize that *collaboration is not always allowed* and in all cases, there are limitations on how you can collaborate. In particular: 
-
-:::danger
-- On **Checkpoints**, your work must represent *your own understanding* in *your own words* and you may not use solutions, directly or indirectly, from other students or unapproved resources. However, there is a list of *approved* resources that you may use on Checkpoints, including [Wolfram|Alpha](http://wolframalpha.com), [Desmos](http://desmos.com), your textbook, and other items posted to Blackboard. That list is included in the document titled "Information on Learning Targets and Checkpoints" found on Blackboard in the *Syllabus and Calendar* area. **Items not on the approved list may be used only with prior permission from me (Talbert).** 
-- On **AEPs**, your work must represent *your own understanding* in *your own words*. You may not use solutions, directly or indirectly, from any sources --- including other students, past students, online sources, or other textbooks. 
-- On **all other assignments**, you may collaborate with others, but you must contribute significantly to the assignment, and your work must represent *your own understanding* in *your own words*.
-:::
-
-You are responsible for understanding this policy and the [GVSU Student Code](https://www.gvsu.edu/policies/policy.htm?policyId=EFAB64E1-C25B-E1A3-CA2B08B0B821C774&search=). Violations will result, at minimum, in a mark of "X" or "No Pass" on the assignment. Serious or repeat violations of this policy will result in increasingly horrible consequences, including being barred from further submissions of the assignment or Learning Target, or even failure of the class. 
-
-### Technology 
-
-Being an online class, we will use a variety of technological tools to learn. 
-
-- You *do not* need a graphing calculator, and we will not use them in the class, but it's OK if you have one. (We will use [Desmos](http://www.desmos.com), a free online graphing tool, instead of graphing calculators.)
-- Instead, you *do need* a **laptop or tablet device** running a **modern web browser** (such as Chrome, Edge, or Firefox) and **reliable access to high-speed internet**. 
-- You also need an **active GVSU network account** so you can access email, Blackboard, and Google Docs. 
-- Preferably, your device should have a **touchscreen** that allows **writing on the screen with a stylus**. If you don't have such a device, consider purchasing a [drawing pad](https://www.amazon.com/customerpicks/Explore-drawing-tablets-for-laptops/424f9b9ace2bfffcb82c) that connects your computer via USB; many are under $50. 
-- The software tools we use in the course are all free and either web-based or available as apps on mutiple platforms. We will introduce and train on these in the first week of classes. 
-
-If you encounter issues with technology, please use the appropriate source of help: 
-
-+ *For help with Blackboard*: Email the Blackboard Help Desk at bbadmin@gvsu.edu or call (616) 331-8526. For hours of operation and more information see https://www.gvsu.edu/elearn/help/. 
-+ *For help with the GVSU network, email, or printing*: Email the GVSU IT Help Desk at helpdesk@gvsu.edu; or call (616) 331-2101 or toll free (855) 435-7488. For hours of operation and more information see  https://www.gvsu.edu/it/. 
-+ *For specific help with your computer*: Try the GVSU IT Help Desk (see previous bullet) or contact your equipment manufacturer or computer store. 
-+ *For help with course tools such as Desmos and Campuswire*: Ask a question on the `#tech` channel on Campuswire, seek out the help documentation in the tool, or do a targeted Google search. 
-
-Please note that **I (Prof. Talbert) am not able to provide student tech support** as I do not have access to your accounts or knowledge of your hardware. I can help with questions about course tools (Desmos, etc.) but please ask those questions on Campuswire so others can see and help too. 
-
-
-### Getting help and support 
-
-**Math Center:** GVSU’s Math Tutoring Center is online with Blackboard Collaborate this semester!  You can access virtual drop-in tutoring through the link in your Blackboard course called *Math Tutoring Center* or on our website at http://gvsu.edu/tutoring/math/.  Then click on the "Online Math Tutoring Center" button, which will require a GVSU login.  There will be tutors online, ready to help, Monday through Thursday 11a – 9p, Friday 11a – 3p and Sunday 5p – 9p starting Wednesday, January 20th.  Bring questions about technology, on methods and concepts, or on specific problems.  All Math Center tutoring is FREE, so stop by early and often.  When you enter the Collaborate room, please type your first and last name so we can get you signed in and connected with a tutor. 
-
-**Special learning needs:** If you have special needs because of learning, physical or other disabilities, it is your responsibility to contact Disability Support Resources (DSR) at 616-331-2490 or http://www.gvsu.edu/dsr/ . DSR will help you arrange accommodations.  Then, speak with me in person about making those accommodations and ensure that they are consistent with your arrangements with DSR.
-
-**Basic needs security:** If you have difficulty affording groceries or accessing sufficient food to eat every day, or if you lack a safe and stable place to live, I encourage you to visit [Replenish](https://www.gvsu.edu/replenish/), a food resource for GVSU students. If you are comfortable doing so, please speak with me about your circumstances so that I can advocate for you and to connect you with other campus resources. 
-
-**Gender identity and expression:** If, for purposes of gender identity and expression, your official name (in Banner) does not match your preferred name, your name can be updated in Blackboard. Please contact the registrar's office to submit this request.  The registrar's office will contact the Blackboard administrator to make the change and will also contact your professors to inform them that your name in Banner will not match the name in Blackboard.
-
-### Credits
-
-I borrowed a lot from the MTH 201 syllabus of Prof. David Clark. 
-
----
-
-## Appendix
-
-### List of Learning Targets 
-
-:::info
-**Note**: Learning Targets 2, 4, 6, 7, 12, and 16 are **Core** Learning Targets and are marked as such. 
-:::
-
-1. I can find the average rate of change of a function and the average velocity of an object on an interval.
-2. (**CORE**) I can find one- and two-sided limits of a function at a point and at infinity using numerical, graphical, and algebraic methods.
-3. I can find the derivative of a function (both at a point and as a function) and the instantaneous velocity of an object using the definition of the derivative.
-4. (**CORE**) I can use derivative notation correctly, state the units of a derivative, estimate the value of a derivative using difference quotients, and correctly interpret the meaning of a derivative in context. 
-5. Given information about $f$, $f'$, or $f''$, I can correctly give information about $f$, $f'$, or $f''$ and the increasing/decreasing behavior and concavity of $f$ (and vice versa).
-6. (**CORE**) I can compute basic-level derivatives using algebraic shortcut methods and solve simple application problems. (Functions involved will include constant, power, polynomial, exponential, and sine/cosine functions; applications include rates of change and slopes/equations of tangent lines)
-7. (**CORE**) I can compute derivatives involving the Product, Quotient, and Chain Rules. (Functions involved will be those under "basic")
-8. I can compute advanced-level derivatives using algebraic shortcut methods. (Functions involved will include "basic" ones plus logarithmic, trig, and inverse trigonometric functions along with Product, Quotient, and Chain Rules and multiple rules in combination.) 
-9. I can find the critical values of a function, determine where the function is increasing and decreasing, and apply the First and Second Derivative Tests to classify the critical points as local extrema.
-10. I can determine the intervals of concavity of a function and find all of its points of inflection.
-11. I can use the Extreme Value Theorem to find the absolute maximum and minimum values of a continuous function on a closed interval.
-12. (**CORE**) I can set up and use derivatives to solve applied optimization problems.
-13. I can calculate the area under a curve, net change, and displacement using geometric formulas and Riemann sums.
-14. I can evaluate a definite integral using geometric formulas and the Properties of the Definite Integral.
-15.  I can explain the meaning of each part of the definition of the definite integral in terms of a graph, and interpret the definite integral in terms of areas, net change, and displacement.
-16. (**CORE**) I can find antiderivatives of a function and evaluate a definite integral using the Fundamental Theorem of Calculus.
-
-
-### Schedule of Checkpoints 
-
-The dates and specific Learning Targets are subject to change. All dates are listed on the course calendar, and if changes are made, the course calendar is always right. 
+Below is a duplicate of [the schedule found at the end of the course syllabus](https://hackmd.io/Bnpy2q58StW8mIt2mqaSMA#Schedule-of-Checkpoints), and as stated in the syllabus, it is subject to change depending on how things go in the course. All changes to this schedule will be announced well in advance. 
 
 | Checkpoint | Learning Targets | Date assigned | Date due | 
 | ---------  | ---------------- | ------------- | -------- | 
@@ -226,24 +143,3 @@ The dates and specific Learning Targets are subject to change. All dates are lis
 | 8 | 1--16 | Apr 19 | Apr 21 | 
 | Mini-checkpoint | 12, 13, 14, 15, 16 | Apr 23 (Friday) | Apr 25 (Sunday) | 
 | 9 | 1--16 | Apr 27 (Tuesday) | Apr 29 (Thursday) | 
-
-### Modules in the course 
-
-| Module | Section from _Active Calculus_ | Topics | Module | Section from _Active Calculus_ | Topics | 
-| ------ | ----- | -----  | ------ | ----- | -----  | 
-| 1A | 1.1 | How to measure velocity | 7A | 3.1 | Identifying extreme values of functions | 
-| 1B | 1.2 | The notion of the limit | 7B | 3.1 | Identifying extreme values of functions (part 2) | 
-| 2A | 1.3 | The derivative of a function at a point | 8A | 3.3 | Global optimization | 
-| 2B | 1.4 | The derivative function | 8B | 3.3 | Global optimization (part 2) | 
-| 3A | 1.5 | Interpreting, estimating, and using the derivative | 9A | 3.4 | Applied optimization: Building and testing models | 
-| 3B | 1.6 | The second derivative and concavity | 9B | 3.4 | Applied optimization: Applying calculus to the models | 
-| 4A | 2.1 | Elementary derivative rules | 10A | 4.1 | Determining distance from velocity | 
-| 4B | 2.2 | Derivatives of the sine and cosine functions | 10B  | 4.2 | Riemann sums | 
-| 5A | 2.3 | The product and quotient rules | 11A | 4.3 | The definite integral | 
-| 5B | 2.4 | Derivatives of other trigonometric functions | 11B | 4.3 + 4.4 | Finding integrals using antiderivatives | 
-| 6A | 2.5 | The chain rule | 12A | 4.4 | The Fundamental Theorem of Calculus | 
-| 6B | 2.6 | Derivatives of inverse functions | 12B | 4.4 | The Total Change Theorem | 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDk3NjcwLDE5NjExNTY0NjQsLTExMz
-cyNzk1OTgsMTQ0MDM1ODIzNSwxMDg4NDgyNjg3XX0=
--->
