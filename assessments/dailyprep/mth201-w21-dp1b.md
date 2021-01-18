@@ -6,7 +6,7 @@ tags: mth201, dailyprep
 
 ## Overview 
 
-Finding an object's instantaneous velocity, or the instantaneous rate of change in a function, involves setting up a sequence of average rates of change over smaller and smaller intervals, and as the intervals get smaller we look to see what the average rates of change on those intervals approaches. This concept of "le
+Finding an object's instantaneous velocity, or the instantaneous rate of change in a function, involves setting up a sequence of average rates of change over smaller and smaller intervals, and as the intervals get smaller we look to see what the average rates of change on those intervals approaches. This concept of "letting a value approach something and see what the results approach" comes up over and over again in calculus, so we invent a new tool for it: the **limit**. In Module 1B, we'll introduce the concept of the limit and learn how to find limits using tables, graphs, and formulas. We'll also look at variations on the idea of a limit where we look at only one direction of approach, and where the "approach" is to let the 
 
 ## Learning objectives 
 
@@ -46,5 +46,5 @@ You will receive a receipt via email to confirm your submission. (Look in your s
 
 A **Pass** mark is given if the Daily Prep is turned in before its deadline and if each item on the Daily Prep has a response that represents a good faith effort to be right. **Mistakes are not penalized**. A **No Pass** is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzOTEwMzkxXX0=
+eyJoaXN0b3J5IjpbLTQzMDIyMDAwN119
 -->
