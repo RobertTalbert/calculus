@@ -23,13 +23,14 @@ Finding an object's instantaneous velocity, or the instantaneous rate of change 
 
 ## Resources for learning
 
-**Reading:** Read through [Section 1.2](https://activecalculus.org/single/sec-1-1-vel.html) of the _Active Calculus_ text. 
+**Reading:** Read through [Section 1.2](https://activecalculus.org/single/sec-1-2-lim.html) of the _Active Calculus_ text. 
 
 **Video:** Watch the following videos and take notes. The total running time is 32:45. 
 
-- Using the average formula (7:38) https://www.youtube.com/watch?v=6HPe7iwr88k 
-- Alternative average velocity formula (11:06) https://www.youtube.com/watch?v=O_Z9osv6VGk 
-- Finding instantaneous velocity (14:03) https://www.youtube.com/watch?v=j8kJubOTkME 
++ Screencast 1.2.1: Limits (6:02) https://www.youtube.com/watch?v=GZzJOAUOqLI
++ Screencast 1.2.2: Limits of functions using graphing tools (6:27) https://www.youtube.com/watch?v=5TFu_sh_orM
++ Screencast 1.2.3: Limits of functions using tables (5:58) https://www.youtube.com/watch?v=GdBIiRzaTAQ
+
 
 ## Exercises 
 
@@ -45,5 +46,5 @@ You will receive a receipt via email to confirm your submission. (Look in your s
 
 A **Pass** mark is given if the Daily Prep is turned in before its deadline and if each item on the Daily Prep has a response that represents a good faith effort to be right. **Mistakes are not penalized**. A **No Pass** is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDExNjcwMV19
+eyJoaXN0b3J5IjpbLTYyMzAzOTU2MV19
 -->
