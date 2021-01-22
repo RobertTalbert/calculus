@@ -19,7 +19,7 @@ Finding an object's instantaneous velocity, or the instantaneous rate of change 
 **Advanced Learning Objectives:** *During and after* our class meeting, we will work on learning the following. Fluency with these is not required prior to class. 
 
 + Find the limit of a function as the input approaches a point, using algebraic simplification.
-+ Find the instantanous velocity of a moving object by setting up and computing a limit.
++ Find the instantaneous velocity of a moving object by setting up and computing a limit.
 
 ## Resources for learning
 
@@ -48,5 +48,6 @@ You will receive a receipt via email to confirm your submission. (Look in your s
 
 A **Pass** mark is given if the Daily Prep is turned in before its deadline and if each item on the Daily Prep has a response that represents a good faith effort to be right. **Mistakes are not penalized**. A **No Pass** is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxMzUzNDM3LC01OTc0NzQ1OF19
+eyJoaXN0b3J5IjpbMTgzMzUxMjExNiwyMzEzNTM0MzcsLTU5Nz
+Q3NDU4XX0=
 -->
