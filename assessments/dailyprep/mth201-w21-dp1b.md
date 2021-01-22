@@ -36,7 +36,7 @@ Finding an object's instantaneous velocity, or the instantaneous rate of change 
 
 ## Exercises 
 
-The exercises for this Daily Prep are packaged as a **Desmos activity**. To access it, go to student.desmos.com and log in with your Desmos account. If you have successfully joined the Desmos class roster as part of the *Tools Assignment*, you will see "Daily Prep 1A" available in a list. Click the link to begin, and continue through the end. Your work is saved as you enter it, so there is nothing to "submit" at the end. 
+The exercises for this Daily Prep are packaged as a **Desmos activity**. To access it, go to student.desmos.com and log in with your Desmos account. If you have successfully joined the Desmos class roster as part of the *Tools Assignment*, you will see "Daily Prep 1B" available in a list. Click the link to begin, and continue through the end. Your work is saved as you enter it, so there is nothing to "submit" at the end. 
 
 
 ## Submission and grading 
@@ -48,5 +48,5 @@ You will receive a receipt via email to confirm your submission. (Look in your s
 
 A **Pass** mark is given if the Daily Prep is turned in before its deadline and if each item on the Daily Prep has a response that represents a good faith effort to be right. **Mistakes are not penalized**. A **No Pass** is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzQ3NDU4XX0=
+eyJoaXN0b3J5IjpbMjMxMzUzNDM3LC01OTc0NzQ1OF19
 -->
