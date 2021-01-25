@@ -66,6 +66,12 @@ By comparison, the linear model has the formula $y = 1364.93x + 1427$, and the e
 
 6. Based on the information from the previous task, how fast was the number of Covid-19 cases changing in your state on day 300? Explain how you know, and indicate the units of your answer. 
 
+7. Write a 1-2 paragraph summary of your work on this AEP, addressing the following: 
+    - What concepts from the course were used in your work
+    - How the work you did here could be useful in a different application setting 
+    - Three things you learned in the process of completing this assignment
+    - At least one substantive question that you still have (Please, do not ask questions about the assignment itself, grades or the course; ask about math, technology, or something related to the core concepts.)
+
 
 ## Grading criteria and submission instructions
 
@@ -75,7 +81,7 @@ Please refer to the [overall quality standards for AEPs](https://hackmd.io/@rtal
 
 | Mark: | Criteria:  |
 | -------- | --------  |
-| **E** (Excellent)     | (no additional requirements)          |
+| **E** (Excellent)     | (no additional requirements beyond [the standard ones](https://hackmd.io/@rtalbert235/HkSbMs2Av))          |
 | **M** (Meets Expectations) | The Desmos graph of the data should be appropriately sized with little to no dead space and showing all the data. All links that are requested must be given and must work.   | 
 
 Please [see the syllabus](https://hackmd.io/@rtalbert235/SJ5fDZIAv#How-are-individual-assignments-graded) for how grades of **P** (Progressing) and **X** (Not Assessable) are assigned. 
