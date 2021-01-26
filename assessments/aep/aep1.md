@@ -1,5 +1,5 @@
 ---
-tags: mth201, aep
+tags: mth201, aeptemplates
 ---
 
 # AEP 1: Rates of change from data
@@ -7,7 +7,7 @@ tags: mth201, aep
 
 ## What this AEP is about 
 
-In this AEP, you will use technological tools to work with the New York Times' COVID-19 data sets to build a model of confirmed Covid-19 cases for a single US state and then apply the concepts of average/instantaneous rate of change to get an accurate estimate of how fast the number of cases is changing on a single day. 
+In this AEP, you will use technological tools to work with the New York Times' COVID-19 data sets tosets of data and build a models of econfirmed Covid-19 cases for a single US state and then apply the concepts ofomic or health data, then apply what you've learned to determine average/ and instantaneous rate of change to get an accurate estimate of how fast the number of cases is changing on a single day. s of change.
 
 ## Prerequisites and tech requirements 
 
@@ -15,9 +15,10 @@ You will be ready to begin this AEP following **Module 1.**
 
 **Technology used in this AEP:** 
 
-- The data used in this AEP are stored in a Google Spreadsheet, found here: https://docs.google.com/spreadsheets/d/1j-0--qqnoqM34Ot4q-TFFqq98LaIpAb_wVPxadibNKQ/copy?usp=sharing **When you click this link, you will be asked to make a copy. Do so, by clicking the button that says "Make a copy".** You don't have access to the original spreadsheet, to avoid accidentally altering the data. Once you click the "Make a copy" button, it will add it to your Google Drive; you can use the Google Drive that is associated with your GVSU Gmail account or your personal Google Drive if you have it. 
-- You'll need to learn how to do a couple of operations in Google Spreadsheets to work with the data. Here is a 6-minute video that explains what you need and how to do it: https://www.screencast.com/t/DmpSBuf7U 
-- Finally, you will need to learn how to use Desmos to construct **regressions**. A *regression* is a function constructed to be the "best fit" through a plot of points. A basic explanation of what a regression is, is found here: https://www.khanacademy.org/math/probability/regression And a brief tutorial on how to construct regressions in Desmos is given here: https://learn.desmos.com/regressions. Finally, here is a sample Desmos worksheet where different kinds of regressions are constructed, so you can see the basic template: https://www.desmos.com/calculator/ycldxhrez1 
+- The data used in this AEP are stored in a Google Spreadsheet, found here: + [Desmos](https://docs.google.com/spreadsheets/d/1j-0--qqnoqM34Ot4q-TFFqq98LaIpAb_wVPxadibNKQ/copy?usp=sharing **When you click this link, you will be asked to make a copy. Do so, by clicking the button that says "Make a copy".** You don't have access to the original spreadsheet, to avoid accidentally altering the data. Once you click the "Make a copy" button, it will add it to your Google Drive; you can use the Google Drive that is associated with your GVSU Gmail account or your personal Google Drive if you have it. 
+- You'll need to learn how to do a couple of operations in Google Spreadsheets to work with the data. Here is a 6-minute video that explains what you need and how to do it: esmos.com) to graph data points. You've seen how to graph formulas with Desmos, but you can also graph tables of data. Here is a tutorial: https://learn.desmos.com/tables Many more tutorials are available via a web search. 
++ [Desmos](https://www.screencast.com/t/DmpSBuf7U 
+- Finally, you will need to learn how to use Desmos to construcdesmos.com) to plot **regressions**. A *regression* is a function constructed to be the "best fit" through a plot of points. A basic explanation of what a regression is, is found here: https://www.khanacademy.org/math/probability/regression And a brief tutorial on how to construct regressions in Desmos is given here: https://learn.desmos.com/regressions. Finally, here is a sample Desmos worksheet where different kinds of regressions are constructed, so you can see the basic template: https://www.desmos.com/calculator/ycldxhrez1 
 
 **Several future AEPs will involve using Desmos to plot data and build regression formulas**, so learning these tasks now will pay off considerably later on. 
 
@@ -71,7 +72,16 @@ By comparison, the linear model has the formula $y = 1364.93x + 1427$, and the e
     - How the work you did here could be useful in a different application setting 
     - Three things you learned in the process of completing this assignment
     - At least one substantive question that you still have (Please, do not ask questions about the assignment itself, grades or the course; ask about math, technology, or something related to the core concepts.)
+ Again, many more tutorials and examples can be found via a web search. 
 
+**Several future AEPs will involve using Desmos to plot data and build regression formulas** so learning these tasks now will pay off considerably later on. 
+
+
+## Background and setup 
+
+(Give background + any initial steps that need to be taken)
+
+## AEP Tasks 
 
 ## Grading criteria and submission instructions
 
@@ -82,7 +92,8 @@ Please refer to the [overall quality standards for AEPs](https://hackmd.io/@rtal
 | Mark: | Criteria:  |
 | -------- | --------  |
 | **E** (Excellent)     | (no additional requirements beyond [the standard ones](https://hackmd.io/@rtalbert235/HkSbMs2Av))          |
-| **M** (Meets Expectations) | The Desmos graph of the data should be appropriately sized with little to no dead space and showing all the data. All links that are requested must be given and must work.   | 
+| **M** (Meets Expectations) | The Desmos graph of the data should be appropriately sized with little to no dead space and showing all the data. All links that are requested must be given and must work.Text          |
+| **M** (Meets Expectations) | Text   | 
 
 Please [see the syllabus](https://hackmd.io/@rtalbert235/SJ5fDZIAv#How-are-individual-assignments-graded) for how grades of **P** (Progressing) and **X** (Not Assessable) are assigned. 
 
@@ -99,3 +110,6 @@ For information on revisions of AEPs, please [consult the syllabus](https://hack
 
 
 [![hackmd-github-sync-badge](https://hackmd.io/0hGsJdDIQ32XTMVuy2I1tw/badge)](https://hackmd.io/0hGsJdDIQ32XTMVuy2I1tw)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTU1NzExNTYzOV19
+-->
