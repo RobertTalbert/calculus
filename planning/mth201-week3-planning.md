@@ -25,7 +25,8 @@ Class work:
 - Review 
 - Minilecture: Explaining the formula for a derivative and what the derivative tells you
 - Then activity: 
-	- Polling: Which is a correct interpretation? Which are the correct units? What is the value of the deriv
+	- Polling: Which is a correct interpretation? Which are the correct units? What is the value of the derivative given the tangent line? 
+	- jamboard: Setting up and evaluating the derivative of a function at a point
 
 ### Day 2
 
@@ -41,5 +42,5 @@ Focus on practice with the concepts from Day 1:
 
 ### Day 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQ4MjA4MDAsMTg0NTI2NDk0OV19
+eyJoaXN0b3J5IjpbOTk3MDI3NDEyLDE4NDUyNjQ5NDldfQ==
 -->
