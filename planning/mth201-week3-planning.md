@@ -27,7 +27,7 @@
 Focus on practice with the concepts from Day 1: 
 
 - Setting up and evaluating the limit to get a derivative 
-- Finding the value of a derivative 
+- Finding the value of a derivative at different points given a graph
 
 ## Module 2B
 
@@ -36,5 +36,5 @@ Focus on practice with the concepts from Day 1:
 
 ### Day 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzQwMTAwNl19
+eyJoaXN0b3J5IjpbMTg0NTI2NDk0OV19
 -->
