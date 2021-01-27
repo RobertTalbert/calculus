@@ -15,16 +15,19 @@
 
 + State the formal definition of the derivative of a function at a point. 
 + Interpret the meaning of a derivative in terms of instantaneous velocity.
-+ + Interpret the meaning of a derivative in terms of instantaneous velocity.
-
-+ 
 + State the units of a derivative. 
+---
++ Interpret the meaning of a derivative in terms of the slope of a tangent line. 
++ Compute the value of the derivative at a point using the definition. 
 
 
 
 ### Day 2
 
+Focus on practice with the concepts from Day 1: 
 
+- Setting up and evaluating the limit to get a derivative 
+- Finding the value of a derivative 
 
 ## Module 2B
 
@@ -33,5 +36,5 @@
 
 ### Day 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NzY4NDc5Ml19
+eyJoaXN0b3J5IjpbMTUwNzQwMTAwNl19
 -->
