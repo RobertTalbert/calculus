@@ -50,6 +50,7 @@ The exercises for this Daily Prep are found on student.desmos.com.
 
 ## Submission and grading 
 
-To submit your work, simply submit the Google Form. You will receive a receipt via email to confirm your submission. (Look in your spam folders if you do not see the receipt.) 
+
+To submit your work, simply do the work on Desmos. It will save as you go. 
 
 A **Pass** mark is given if the Daily Prep is turned in before its deadline and if each item on the Daily Prep has a response that represents a good faith effort to be right. **Mistakes are not penalized**. A **No Pass** is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
