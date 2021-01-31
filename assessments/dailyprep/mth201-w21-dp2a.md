@@ -38,18 +38,14 @@ In this section we make first contact with the most central concept in the cours
 
 **Other:** Not required, but Desmos is a useful tool for exploring derivatives. 
 + This interactive demo lets you enter a function, and you can move a point to see the derivative at that point: https://www.desmos.com/calculator/i1fxnah1ci
-+ If you enter in a function as $f(x) = $ and then type the formula, in a later entry you can enter in $f'(a)$ to get the value of the derivative at $a$. Here's an example showing how to find derivative values for a particular function: https://www.desmos.com/calculator/gh62ucmxcp 
++ If you enter in a function as $f(x) =$ and then type the formula, in a later entry you can enter in $f'(a)$ to get the value of the derivative at $a$. Here's an example showing how to find derivative values for a particular function: https://www.desmos.com/calculator/gh62ucmxcp 
 
 ## Exercises 
 
-The exercises for this Daily Prep are packaged as a **Desmos activity**. To access it, go to student.desmos.com and log in with your Desmos account. If you have successfully joinefound the Desmos class roster as part of the *Tools Assignment*, you will see "Daily Prep 2A" available in a list. Click the link to begin, and continue through the end. Your work is saved as you enter it, so there is nothing to "submit" at the end. re: 
-
+The exercises for this Daily Prep are packaged as a **Desmos activity**. To access it, go to student.desmos.com and log in with your Desmos account. If you have successfully joined the Desmos class roster as part of the *Tools Assignment*, you will see "Daily Prep 2A" available in a list. Click the link to begin, and continue through the end. Your work is saved as you enter it, so there is nothing to "submit" at the end. 
 
 ## Submission and grading 
 
-To submit your work, simply submit the Google Form. You will receive a receipt via email to confirm your submission. (Look in your spam folders if you do not see the receipt.) 
+To submit your work, simply do the work in the Desmos activity. It will save as you go. 
 
 A **Pass** mark is given if the Daily Prep is turned in before its deadline and if each item on the Daily Prep has a response that represents a good faith effort to be right. **Mistakes are not penalized**. A **No Pass** is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Njc0NzY1Ml19
--->
