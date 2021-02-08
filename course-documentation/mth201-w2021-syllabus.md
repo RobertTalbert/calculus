@@ -28,7 +28,7 @@ Success in this course doesn't come easy, and you can expect to be pushed and st
 + **Definition of a "week"**: For this class, a "week" runs from 12:01am Eastern time on Monday through 11:59pm Eastern time on the following Sunday. 
 + **Professor contact:** Email at talbertr@gvsu.edu, or direct-message me on Campuswire. If you have a question that the entire class might answer, please post it to the Class Feed on Campuswire instead of in a private message. 
 + **Professor availability:** I check messages regularly between 7:00am and 5:00pm on weekdays, and once on Saturdays. If you contact me during those hours and your message needs a reply, you can expect to receive one within a few hours, often sooner. *Outside of those hours, particularly on weekends, I am typically offline and not checking messages.* Please plan accordingly as you schedule your work. 
-+ **Drop-in hours**: These will be held on Campuswire via the "Live Sesssion" feature. You do *not* need an appointment for drop-in hours. Specific time for drop-in hours will be determined in week 1. 
++ **Drop-in hours**: These are held on Zoom; the link and password are on Blackboard in the *Syllabus and Calendar* area. You do not need an appointment or permission to drop in. The hours are **2:00-2:50 pm Tuesdays and 12:00-1:50pm Fridays**. 
 + **Textbook**: *Active Calculus* by Matt Boelkins (August 2020 version). This is available *free* online here: https://activecalculus.org/single/frontmatter.html  You can also download a PDF copy here: https://scholarworks.gvsu.edu/books/18/  You do not need a print copy, but if you want one, you can order it here: http://amzn.to/38HQdIo (Note this is the 2018 version.) 
 + **Course materials**: All course files, the class calendar, class forms, and most graded assignments are housed on Blackboard (http://mybb.gvsu.edu). 
 + **Course announcements and communication**: Course announcements, discussion, and other communication will be housed on **Campuswire** (https://campuswire.com/c/G578D9BCC/). You will also be able to opt in to a service called **Remind** which allows me to push reminders to you via text message. 
@@ -89,11 +89,7 @@ A grade of F is given if **none** of the rows has been fully completed.
 
 ## How are individual assignments graded? 
 
-<<<<<<< HEAD
 + **Learning Targets:** The two ratings of *Proficiency* and *Mastery* are assessed on **Checkpoints**, which are do-at-home exams offered roughly every 10-14 days (a schedule is in the Appendix of this syllabus). Checkpoints contain one problem (often with multiple parts) per Learning Target. Each problem is graded separately and has its own criteria for what is "acceptable" work. **A Proficiency rating is given if you complete *one* Checkpoint problem that meets the criteria; a Mastery rating is given if you complete a *second* Checkpoint problem that meets the criteria.** A detailed rundown of each Learning Target's criteria for "acceptable" work, the items covered on each Checkpoint problem, and a schedule for Checkpoints can be found in the document "[Information on Learning Targets and Checkpoints](https://hackmd.io/@rtalbert235/rkwjQ9hCD)" on Blackboard in the *Learning Targets* area. 
-=======
-+ **Learning Targets:** The two ratings of *Proficiency* and *Mastery* are assessed on **Checkpoints**, which are do-at-home exams offered roughly every 10-14 days (a schedule is in the Appendix of this syllabus). Checkpoints contain one problem (often with multiple parts) per Learning Target. Each problem is graded separately and has its own criteria for what is "acceptable" work. **A Proficiency rating is given if you complete *one* Checkpoint problem that meets the criteria; a Mastery rating is given if you complete a *second* Checkpoint problem that meets the criteria.** A detailed rundown of each Learning Target's criteria for "acceptable" work, the items covered on each Checkpoint problem, and a schedule for Checkpoints can be found in the document "Information on Learning Targets and Checkpoints" on Blackboard in the *Learning Targets* area. 
->>>>>>> c21e410c4f2515c360879ff4bf421c3f67192c72
 + **AEPs:** The grading process for AEPs is outlined in the flowchart below: 
 ![EMPX rubric](https://i.ibb.co/0sRwsd6/EMPX-rubric-2021.png)
 + **Daily Prep**: A *Pass* mark is given if the Daily Prep is turned in before its deadline and if *each item* on the Daily Prep has a response that represents a *good faith effort to be right*. **Mistakes are not penalized**. In fact one purpose of Daily Preps is to provide me with information about issues that the class is having, prior to class meetings. A *No Pass* is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
@@ -256,7 +252,6 @@ The dates and specific Learning Targets are subject to change. All dates are lis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwNTQ3NTQ0LC01NjA5NzY3MCwxOTYxMT
-U2NDY0LC0xMTM3Mjc5NTk4LDE0NDAzNTgyMzUsMTA4ODQ4MjY4
-N119
+eyJoaXN0b3J5IjpbLTU2MDk3NjcwLDE5NjExNTY0NjQsLTExMz
+cyNzk1OTgsMTQ0MDM1ODIzNSwxMDg4NDgyNjg3XX0=
 -->
