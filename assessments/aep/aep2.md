@@ -60,7 +60,7 @@ Creating a Google Spreadsheet is the same process as creating a Google Doc -- ju
 2. Enter your data into a Google Spreadsheet as described above. Then get a link to share that spreadsheet, and make sure that the link allows **Anyone with the link** (not just Grand Valley State University people) to **Edit** (not just view or comment). Here is a short video showing how to do this (some of the specifics may be different for you, but the process is the same): https://drive.google.com/a/mail.gvsu.edu/file/d/1Ysd-DaJiDTGNPMhqlhEBdnPLYLbeCTEn/view?usp=drivesdk I will be checking your data directly in your spreadsheet, so it's important that I can edit the work you've done. In your writeup, just paste the link for this task.
 
 
-3. Either in your writeup or in the spreadsheet (your choice), **construct a table of values for both the first and second derivatives of the data you have**. In the writeup, give an explanation that is 2-3 complete sentences long that explains how you constructed the first and second derivatives. You do not need to show work, but the work must be correct and your explanation should be such that a reader could replicate the process with no mistakes if they follow your directions. 
+3. Either in your writeup or in the spreadsheet (your choice), **construct a table of values for both the first and second derivatives of the data you have**. In the writeup, give an explanation that is 2-3 complete sentences long that explains how you constructed the first and second derivatives. **Your work here should use the derivative estimation techniques from Module 3. Please do not use formulas (such as regression models) or graphs.** You do not need to show work, but the work must be correct and your explanation should be such that a reader could replicate the process with no mistakes if they follow your directions. 
 
 :::info
 **Pro tip:** It is *much* less work if you can figure out how to do these calculations automatically using the spreadsheet, rather than doing them all separately by hand and then typing the results into the spreadsheet. Learning how to do these calculations automatically in the spreadsheet is also a valuable transferable skill that you can use once MTH 201 is over. It may be well worth your time to search up some introductory Google Sheets tutorials to learn how to use "formulas" (as they are called) to automate these calculations. 
@@ -78,6 +78,12 @@ And give a brief explanation for how you arrived at your results. ("I looked at 
 5. Use your data --- including the original data along with the first and second derivatives --- to give a non-technical, descriptive story about your data. Avoid technical words like "function", "derivative", "concave up", and "concave down" --- instead, interpret the increasing/decreasing and concave up/down behavior into terms that are understandable and accessible to a person who has not studied any calculus. Here's part of an example of a good description for part 5, using my ground beef data: 
 
 >For most years from 1995 to 2017, the price of ground beef was increasing. The exceptions were in 1996-1997, 2006, 2008-2009, and 2015-2016. However the growth was not always occurring at the same rate. For example, from 2003 through 2006, the price of ground beef was increasing, but at a slowing pace. In some years, for example 1998-1999 and 2012-2013, the price of ground beef was increasing at an accelerating pace. At the end of this set of data, the price of a pound of ground beef reached a turning point, changing from decreasing in 2016 to increasing, at an increasing rate, in 2017. 
+
+6. Write a 1-2 paragraph summary of your work on this AEP, addressing the following: 
+    - What concepts from the course were used in your work
+    - How the work you did here could be useful in a different application setting 
+    - Three things you learned in the process of completing this assignment
+    - At least one substantive question that you still have (Please, do not ask questions about the assignment itself, grades or the course; ask about math, technology, or something related to the core concepts.)
 
 
 ## Grading criteria and submission instructions
