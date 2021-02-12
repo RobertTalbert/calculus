@@ -23,7 +23,7 @@ Now that we've learned "shortcut" methods for basic functions, we'll be learning
 
 ## Resources for learning
 
-**Reading:** Read through [Section 2.3]([https://activecalculus.org/single/sec-2-3-prod-quot.html](https://activecalculus.org/single/sec-2-3-prod-quot.html) of the *Active Calculus* textbook. **You can just skim the discussion at the beginning of 2.3.1 and start paying full attention at the box titled "Product Rule".** Work through the examples and all interactive exercises found at the end of the section. 
+**Reading:** Read through [Section 2.3](https://activecalculus.org/single/sec-2-3-prod-quot.html) of the *Active Calculus* textbook. **You can just skim the discussion at the beginning of 2.3.1 and start paying full attention at the box titled "Product Rule".** Work through the examples and all interactive exercises found at the end of the section. 
 
 **Video:** Watch the following from the GVSUMath Calculus playlist: 
 
