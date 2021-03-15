@@ -29,7 +29,7 @@ Module 9 focuses on an important class of problems that calculus answers well, c
 - Screencast 3.4.2: Fencing optimization (7:09) https://www.youtube.com/watch?v=jH6J-n6zt4c&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=70&t=7s
 - Screencast 3.4.3: Optimization with trigonometry (13:25) https://www.youtube.com/watch?v=uJFxdxSBjok&list=PL9bIjQJDwfGuXQHuS5Jkmum_CFILoCZX-&index=71
 
-**Other:** In addition to these from the GVSUMath playlist, there is an insane number of videos on YouTube from other sources that give examples of applied optimization problems. Just do a query under "applied optimization calclus". 
+**Other:** In addition to these from the GVSUMath playlist, there is an insane number of videos on YouTube from other sources that give examples of applied optimization problems. Just do a query under "applied optimization calculus". 
 
 ## Exercises 
 
@@ -41,3 +41,6 @@ The exercises for this Daily Prep are found on student.desmos.com. Look for "MTH
 To submit your work, just do the work on Desmos. 
 
 A **Pass** mark is given if the Daily Prep is turned in before its deadline and if each item on the Daily Prep has a response that represents a good faith effort to be right. **Mistakes are not penalized**. A **No Pass** is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzY4NTkwMjY1XX0=
+-->
