@@ -137,12 +137,12 @@ Below is a duplicate of [the schedule found at the end of the course syllabus](h
 | 1 | 1, 2 | Feb 1 | Feb 3 | 
 | 2 | 1, 2, 3 | Feb 8 | Feb 10 | 
 | 3 | 1, 2, 3, 4, 5, 6 | Feb 22 | Feb 24 | 
-| 4 | 1, 2, 3, 4, 5, 6, 7, 8 | Mar 8 | Mar 11 (Friday) |
+| 4 | 1, 2, 3, 4, 5, 6, 7, 8 | Mar 8 | Mar 11 (Thursday) |
 | 5 | 3, 4, 5, 6, 7, 8, 9, 10, 11 | Mar 22 | Mar 24 | 
 | 6 | 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 | Apr 5 | Apr 7 | 
-| 7 | 7, 8, 9, 10, 11, 12, 13, 14, 15 | Apr 12 | Apr 13 | 
+| 7 | 7, 8, 9, 10, 11, 12, 13, 14, 15 | ~~Apr 12~~ Apr 13 | ~~Apr 13~~ Apr 14 | 
 | 8 | 1--16 | Apr 19 | Apr 21 | 
-| Mini-checkpoint | 12, 13, 14, 15, 16 | Apr 23 (Friday) | Apr 25 (Sunday) | 
+| Mini-checkpoint | 12, 13, 14, 15, 16 | ~~Apr 23 (Friday)~~ Apr 22 (Thursday) | Apr 25 (Sunday) | 
 | 9 | 1--16 | Apr 27 (Tuesday) | Apr 29 (Thursday) | 
 
 
