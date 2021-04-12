@@ -105,7 +105,7 @@ In addition to the overall standards for acceptability given above, here are sta
 | 13 | All answers must be correct unless a mistake is the result of a simple error; the setup for each calculation must be shown and correct. | 
 | 14 | All answers must be correct unless a mistake is the result of a simple error; the setup for each calculation must be shown and correct. | 
 | 15 | All explanations and conclusions must be correct, clearly expressed, and coherent. The units of the integral must be correct. | 
-| 16 | All answers must be correct (unless the result of a simple error) and accompanied by complete, correct solutions. These involve correct antiderivatives and correct application of the Fundamental Theorem. | 
+| 16 | **UPDATED 2021-04-12** Each integral calculation must do *all* of the following: (1) clearly state a correct antiderivative for the integrand; (2) show the "Fundamental Theorem step"; (3) give an *exact* value of the result that is *fully simplified*; and (4) give a decimal form of the answer that agrees with the exact value to four decimal places. | 
 
 
 ## Approved resources for Checkpoints 
