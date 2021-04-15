@@ -2,92 +2,74 @@
 tags: mth201, templates
 ---
 
-# AEP 7: Average value of a function
+# AEP 8: Finding total change 
 
 
 
 
 ## What this AEP is about 
 
-This AEP will guide you through self-teaching of a topic we left out of the syllabus, on how to use a definite integral to find the **average value** ofa function. 
+This AEP will get you to apply the Total Change Theorem, using real data or models that you find in the world. 
 
 ## Prerequisites and tech requirements 
 
-You will be ready to begin this AEP following **Module 11.** 
+You will be ready to begin this AEP following **Module 12.** 
 
-**Technology used in this AEP:** The usual --- Desmos for visualizing data and Wolfram|Alpha for automatic symbolic calculations. The [Riemann sum applet](http://webspace.ship.edu/msrenault/GeoGebraCalculus/integration_riemann_sum.html) might be useful as well. 
+**Technology used in this AEP:** Some combination of the tools you are familiar with --- Desmos, Wolfram|Alpha, and possibly a spreadsheet. 
+
+## Special offer!
+
+Earning an "E" mark on this AEP will level you up on Learning Target 15 (*I can explain the meaning of each part of the definition of the definite integral in terms of a graph, and interpret the definite integral in terms of areas, net change, and displacement*).
 
 ## Background and setup 
 
-How would you find the "average height" of this function, $f(x) = \frac{x^2}{10}+1$, from $x=0$ to $x=6$? 
-
-![](https://i.imgur.com/yJS4Mfu.png)
-
-It starts at a height of $f(0)= 1$ and ends at a height of $f(6)=4.6$. So you might just find the *statistical average* of those two heights: $\frac{1 + 4.6}{2} = 2.8$. Here's the graph again with $y=2.8$ drawn on top:
-
-![](https://i.imgur.com/4rsWCyH.png)
-
-Something about this seems wrong --- most of the time, the function is *below* this average. How can most of the graph be below average? Maybe our statistical average is biased because the function increases rapidly at the end. What if we instead found the height of the function at each point $x=0,1,2,\dots,6$ and averaged those instead? Plugging in those seven $x$-values to $f$ and then averaging gives us: 
-
-$$\frac{1 + 1.1 + 1.4 + 1.9 + 2.6 + 3.5 + 4.6}{7} = 2.3$$
-
-This seems like a more accurate average: 
-
-![](https://i.imgur.com/BiFGI6s.png)
-
-We could improve the average even more by **taking more sample points, finding their heights, and then dividing by the number of points** to get the average. 
-
-This idea of getting the heights of the points should remind you of a *Riemann sum* --- except with a Riemann sum we also multiply by $\Delta x$ each time to get an area. This is an estimate to an integral, and the estimate, just like our average, gets better as we increase the number of points. 
-
-So we will define the **average value of a function $f(x)$ on an interval $[a,b]$ like this: 
+We learned in class that the **Total Change Theorem** says: 
 
 :::info
-If $f$ is a continuous function on $[a,b]$, then its average value on $[a,b]$ is given by 
-$$f_{\text{AVG}[a,b]} = \frac{1}{b-a} \int_a^b f(x) \,dx$$
-:::
-That is, finding the average value of a function --- think of it as a continuous stream of numbers rather than a finite list --- is *not* just adding up numbers and dividing, but **integrating the function** (which is like the "adding up" part) and then dividing not by the "number of points" because that's infinite, but rather dividing by the length of the interval. 
-
-:::success
-**Example:** The average value of $f(x) = \frac{x^2}{10} + 1$ on $[0,6]$ as discussed above is
-$$\begin{align*}
-\frac{1}{6-0} \int_0^6 \left( \frac{x^2}{10} + 1\right) \, dx &= \frac{1}{6}\left[ \left. \frac{x^3}{30} + x\right|_0^6 \right] \\
-&= \frac{1}{6} \left( \left( \frac{216}{30} + 6  \right) - \left(0 + 0 \right)  \right) \\
-&= \frac{11}{5} = 2.2
-\end{align*}$$
+If $f$ is a continuously differentiable function defined on an interval $[a,b]$ with derivative $f'$, then 
+$$f(b) - f(a) = \int_a^b f'(x) \, dx$$
 :::
 
+In English, the Total Change Theorem says that *the total change in a function over an interval is the integral of its rate of change on that interval.* So, just as integrating a moving object's velocity tells us the total change in the position of object, integrating the rate of change in *any* function will give us the total change in that function. 
+
+In this AEP, you will be **creating your own application problem for the Total Change Theorem** rather than using pre-packaged problems from a textbook. The specific tasks are in the next section, but generally speaking, this AEP will ask you to **find a real life example of a rate of change, and then apply the Total Change Theorem to find a total amount of change on an interval.** 
 
 
-**Before beginning the tasks below**, get some more information on average values of functions by doing the following: 
+To do the tasks, do the following first. **Read carefully** because there are some specific requirements for what you'll need to set up. 
 
-- Watch this 8-minute video from the MTH 201 playlist on average value: https://www.youtube.com/watch?v=MQG9Nur4fdM  
-- Read [Section 4.3.3](https://activecalculus.org/single/sec-4-3-definite-integral.html) in the textbook that talks about average value: 
+1. On the internet, or in a book or article, or in some other source, **find a function in the form of data, a graph, or a formula that describes the rate at which something is changing**. You can often tell that the function describes a rate by looking at the units of the output and looking for the word "per": Miles per hour, people per year, inches per dollar, etc. 
+2. Make sure that the function is **two-variable** (one input variable, one output variable).
+3. VERY importantly: **The units of the input variable must be the same as the *denominator* of the units of the output variable.** For example, you could use a function whose input is in "days" and the output is in "dollars per day". Or a function whose input is "milligrams" and whose output is "people per milligram". But you could not use a function whose input is "people" and whose output is "cases per day". 
+4. **Do not use "rate" functions that are not rates of change**. Sometimes functions tell you "rates" that are not really rates of change. For example [this function](https://www.researchgate.net/figure/Nominal-interest-rates_fig4_334012195) gives *interest rates*, and [this one](https://www.heritage.org/data-visualizations/public-health/covid-19-death-rates-by-state/) gives death rates. Neither of these works for this AEP; what we are looking for is a function that is **the rate of change in a value**. (Also note that both these functions fail the previous point --- the units of the input aren't the same as the denominator of the units of the output. In fact it's not clear what the units of the output really are.)
+5. Finally, **your function must be authentically real and not made up, either by you or by anyone else**. For example you may not pull made-up functions from a textbook. Although, if you find real data, graphs, or models --- something not made up --- in a textbook, you can use those provided there is a source given in the textbook where you found it. 
+
+
+**The hard part of this AEP is finding this function.** 
+
+[Here is an example of a function that fits all these criteria](https://i.imgur.com/cVjwsbt.jpg). (Source: http://freerangestats.info/blog/2018/12/01/number-births) You may not use this one in your work! You can tell this function will work because of the units: The input units are "years" and the output units are "people per year". 
+
+Again, your function can be a graph, dataset, or formula. If you're having issues finding a function that works, try searching for data, graphs, or models about birth/death rates, velocity, or acceleration. 
 
 ## AEP Tasks 
 
-1. Find the average value of the function below, on the interval $[-4,6]$. On this one, *show ALL your work* and *use exact values only, no decimals.* The function is entirely made up of line segments and parts of circles. 
+There's really just one big task for this AEP: **Take the function you found in the setup phase, and use the Total Change Theorem to estimate how much change occurred over an interval.** For example, I might take [the function about birth rates](https://i.imgur.com/cVjwsbt.jpg) and ask, *How many births were there from 1900 to 2000?* Then answer that question with calculus. (No spoilers given here about how that would work; figuring out how is one of the main learning objectives for this assignment.)
 
-![](https://i.imgur.com/Sp88BRY.jpg)
+Your work must contain the following: 
 
-2. In class, Prof. Talbert randomly chose $y = x^2 \tan(x)$ as an example a function that's hard to integrate. 
-    - Estimate the value of $\displaystyle{\int_0^{1/2} x^2 \tan(x) \, dx}$ using a midpoint Riemann sum and 8 rectangles. Show all your setup work, then crunch the numbers on a computer and give an answer correct to six decimal places. 
-    - Determine the average value of $x^2 \tan(x)$ on $[0,1/2]$ using the estimate from the previous part. Explain your reasoning. 
-    - Check your work by graphing $y = x^2 \tan(x)$ along with the average value plotted as a horizontal line, like in the graphs above. (The average value should *look like* the actual average height of the function.) Include an image of your graphs. 
-
-3. Find a function that involves one independent variable and one dependent variable. If you've done AEP 1, 2, or 3 you might consider using the function you picked out for those assignments. Determine an interval of the input that you are interested in. Then, determine the average value of your function over that interval. If your function is given as a table of data, you can do this in a couple of ways: either fitting the data with a well-fitting regression and then using the formula to find the average value, or just use the data to compute a Riemann sum with a good-sized number of rectangles. The choice is yours; just be sure to clearly state your method, use the best possible regression or a high number of rectangles, and show your steps. And also check your work to make sure it's reasonable. 
-
-
-5. Write a 1-2 paragraph summary of your work on this AEP, addressing the following: 
-    - What concepts from the course were used in your work
-    - How the work you did here could be useful in a different application setting 
-    - Three things you learned in the process of completing this assignment
-    - At least one substantive question that you still have (Please, do not ask questions about the assignment itself, grades or the course; ask about math, technology, or something related to the core concepts.)
+- A link to the source of your data so it can be checked for authenticity. Data that are made up will not be accepted. If your function is authentic but you found it in a textbook, you'll need to provide a link to both the book and the original source. 
+- A narrative explanation for what your function tells you, and a clear statement of what question you are answering or what value you are computing. (Example: *How many births were there from 1900 to 2000?*)
+- A complete description of the process you use to find the quantity you are finding. **You can use a computer to do all calculations on this AEP**, but **you also must provide access to your computations**. (See below for details on that.)
 
 
 
 ## Grading criteria and submission instructions
 
-Please refer to the [overall quality standards for AEPs](https://hackmd.io/@rtalbert235/HkSbMs2Av) at the link (and posted to the *AEPs* area on Blackboard) for grading standards. There are no special rules for this AEP. 
+Please refer to the [overall quality standards for AEPs](https://hackmd.io/@rtalbert235/HkSbMs2Av) at the link (and posted to the *AEPs* area on Blackboard) for grading standards. 
+
+For this AEP, the following particular rules are in place: 
+
+- The work will receive an "X" mark if there is no way for me to check the authenticity of your function. For example, if you pull data from the internet, provide a link. If you get your function from a book, cite the book *and* the original source that the book used. For example if you find a textbook that includes a graph that came from an article, give a link or a citation for both the book and the article. 
+- The work will receive an "X" mark if you do computations with a computer (Desmos, Wolfram|Alpha, spreadsheets, etc.) but do not provide access to the calculations (links to Desmos worksheets ad Wolfram|Alpha computations, links to Google Sheets, etc.)
 
 Also please [see the syllabus](https://hackmd.io/@rtalbert235/SJ5fDZIAv#How-are-individual-assignments-graded) for how grades of **P** (Progressing) and **X** (Not Assessable) are assigned. 
 
